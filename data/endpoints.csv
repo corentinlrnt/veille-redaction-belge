@@ -105,3 +105,11 @@ wbe_news,wbe,Actualités,https://www.wbe.be/,http_get,html,actualités|communiqu
 adg_home,adg,Portail de l'emploi,https://adg.be/,http_get,html,actualités|emploi|statistiques,de,true,2026-08-27,Page officielle
 wsr_dg_news,wsr_dg,Aktuelles,https://www.wsr-dg.be/,http_get,html,actualités|avis|études,de,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
 ostbelgien_statistics_news,ostbelgien_statistics,Aktuelles,https://ostbelgienstatistik.be/,http_get,html,statistiques|actualités|publications,de,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
+cwape_rss,cwape,Flux des documents récents,https://www.cwape.be/documents-recents.xml,http_get,rss,décisions|avis|publications,fr,true,2026-08-27,Flux RSS officiel découvert et vérifié depuis la page Documents récents
+csa_press_rss,csa,Flux des communiqués de presse,https://www.csa.be/category/communique-de-presse/feed/,http_get,rss,communiqués|décisions|régulation,fr,true,2026-08-27,Flux RSS officiel de la catégorie des communiqués
+de_lijn_press_rss,de_lijn,Flux presse,https://delijn.prezly.com/feed,http_get,rss,communiqués|mobilité,nl,true,2026-08-27,Flux XML officiel de la plateforme de presse
+hub_brussels_rss,hub_brussels,Flux des actualités,https://hub.brussels/fr/feed/,http_get,rss,actualités|économie,fr,true,2026-08-27,Flux RSS officiel découvert et vérifié
+ibsa_news_rss,ibsa,Flux des actualités,https://ibsa.brussels/news/rss.xml,http_get,rss,actualités|statistiques,fr,true,2026-08-27,Flux RSS officiel
+ibsa_publications_rss,ibsa,Flux des publications,https://ibsa.brussels/publications/rss.xml,http_get,rss,publications|statistiques,fr,true,2026-08-27,Flux RSS officiel
+stib_press_rss,stib,Flux presse,https://stib.prezly.com/feed,http_get,rss,communiqués|mobilité,fr,true,2026-08-27,Flux XML officiel de la plateforme de presse
+tec_press_rss,tec,Flux presse,https://presse.letec.be/feed,http_get,rss,communiqués|mobilité,fr,true,2026-08-27,Flux XML officiel de la plateforme de presse
