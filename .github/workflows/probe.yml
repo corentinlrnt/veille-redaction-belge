@@ -10,6 +10,14 @@ on:
       - "data/**"
       - "scripts/**"
       - "tests/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/probe.yml"
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
   schedule:
     - cron: "13 6 * * *"
       timezone: "Europe/Brussels"
@@ -36,17 +44,25 @@ jobs:
       - name: Exécuter les tests
         run: python -m unittest discover -s tests -v
 
+      - name: Contrôler la couverture déclarée
+        run: python scripts/audit_coverage.py
+
       - name: Contrôler les accès
         run: python scripts/probe_sources.py
 
-      - name: Afficher la synthèse
-        run: cat reports/health-summary.md >> "${GITHUB_STEP_SUMMARY}"
+      - name: Afficher les synthèses
+        run: |
+          cat reports/coverage-summary.md >> "${GITHUB_STEP_SUMMARY}"
+          printf '\n' >> "${GITHUB_STEP_SUMMARY}"
+          cat reports/health-summary.md >> "${GITHUB_STEP_SUMMARY}"
 
       - name: Publier les nouveaux rapports
+        if: github.event_name != 'pull_request'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/coverage.json reports/coverage-matrix.csv reports/coverage-summary.md
           git add reports/health.json reports/access-matrix.csv reports/health-summary.md
           if git diff --cached --quiet; then
             echo "Aucun changement de rapport."
