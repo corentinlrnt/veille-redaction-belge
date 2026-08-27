@@ -55,3 +55,41 @@ sciensano,Sciensano,scientific_institute,fédéral,Belgique,fr|nl|en,https://www
 kce,Centre fédéral d'expertise des soins de santé,scientific_institute,fédéral,Belgique,fr|nl|en,https://www.kce.fgov.be/fr,official_public,2026-08-27,Études indépendantes sur les soins et politiques de santé
 afmps,Agence fédérale des médicaments et des produits de santé,public_body,fédéral,Belgique,fr|nl|de|en,https://www.afmps.be/fr,official_public,2026-08-27,Médicaments dispositifs vigilance et disponibilité
 afsca,Agence fédérale pour la sécurité de la chaîne alimentaire,public_body,fédéral,Belgique,fr|nl|de|en,https://favv-afsca.be/fr,official_public,2026-08-27,Sécurité alimentaire rappels contrôles et alertes
+spw,Service public de Wallonie,public_body,région,Wallonie,fr|de,https://spw.wallonie.be/,official_public,2026-08-27,Administration régionale et politiques publiques wallonnes
+iweps,Institut wallon de l'évaluation de la prospective et de la statistique,statistics,région,Wallonie,fr,https://www.iweps.be/,official_public,2026-08-27,Statistiques études évaluations et prospective
+forem,Le Forem,public_body,région,Wallonie,fr|de,https://www.leforem.be/,official_public,2026-08-27,Emploi formation et marché du travail wallon
+aviq,Agence pour une Vie de Qualité,public_body,région,Wallonie,fr|de,https://www.aviq.be/,official_public,2026-08-27,Santé handicap familles et action sociale
+cwape,Commission wallonne pour l'Énergie,regulator,région,Wallonie,fr|de,https://www.cwape.be/,official_public,2026-08-27,Régulation de l'énergie tarifs et consommateurs
+cese_wallonia,Conseil économique social et environnemental de Wallonie,consultative_body,région,Wallonie,fr,https://www.cesewallonie.be/,official_public,2026-08-27,Avis concertation sociale et diagnostics régionaux
+wallonie_entreprendre,Wallonie Entreprendre,public_body,région,Wallonie,fr,https://www.wallonie-entreprendre.be/,official_public,2026-08-27,Financement et accompagnement de l'économie wallonne
+swl,Société wallonne du Logement,public_body,région,Wallonie,fr,https://www.swl.be/,official_public,2026-08-27,Logement public et politiques de l'habitat
+awac,Agence wallonne de l'Air et du Climat,public_body,région,Wallonie,fr,https://www.awac.be/,official_public,2026-08-27,Air climat émissions et politiques climatiques
+tec,TEC,public_company,région,Wallonie,fr|de,https://www.letec.be/,official_public,2026-08-27,Transport public et mobilité en Wallonie
+brussels_public_service,Service public régional de Bruxelles,public_body,région,Bruxelles,fr|nl,https://servicepublic.brussels/,official_public,2026-08-27,Administration régionale bruxelloise avec accès à surveiller avant migration annoncée
+ibsa,Institut Bruxellois de Statistique et d'Analyse,statistics,région,Bruxelles,fr|nl|en,https://ibsa.brussels/,official_public,2026-08-27,Statistiques analyses et évaluations bruxelloises
+actiris,Actiris,public_body,région,Bruxelles,fr|nl,https://www.actiris.brussels/,official_public,2026-08-27,Emploi formation et marché du travail bruxellois
+brussels_environment,Bruxelles Environnement,public_body,région,Bruxelles,fr|nl,https://environnement.brussels/,official_public,2026-08-27,Environnement énergie climat déchets et qualité de vie
+vivalis,Vivalis,public_body,région|communauté,Bruxelles,fr|nl,https://www.vivalis.brussels/,official_public,2026-08-27,Santé et aide aux personnes à Bruxelles
+brugel,BRUGEL,regulator,région,Bruxelles,fr|nl,https://brugel.brussels/,official_public,2026-08-27,Régulation bruxelloise de l'énergie et de l'eau
+brupartners,Brupartners,consultative_body,région,Bruxelles,fr|nl,https://www.brupartners.brussels/,official_public,2026-08-27,Concertation socio-économique bruxelloise
+hub_brussels,hub.brussels,public_body,région,Bruxelles,fr|nl|en,https://hub.brussels/,official_public,2026-08-27,Économie entrepreneuriat commerce et internationalisation
+slrb,Société du Logement de la Région de Bruxelles-Capitale,public_body,région,Bruxelles,fr|nl,https://slrb-bghm.brussels/,official_public,2026-08-27,Logement social bruxellois
+stib,STIB,public_company,région,Bruxelles,fr|nl|en,https://www.stib-mivb.be/,official_public,2026-08-27,Transport public et mobilité à Bruxelles
+flemish_administration,Administration flamande,public_body,région|communauté,Flandre|Bruxelles,nl,https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid,official_public,2026-08-27,Actualités transversales de l'administration flamande
+statistics_flanders,Statistiek Vlaanderen,statistics,région|communauté,Flandre|Bruxelles,nl,https://www.vlaanderen.be/statistiek-vlaanderen,official_public,2026-08-27,Statistiques publiques flamandes et calendrier de publications
+vdab,VDAB,public_body,région,Flandre,nl,https://www.vdab.be/,official_public,2026-08-27,Emploi formation et marché du travail flamand
+department_zorg,Departement Zorg,public_body,région|communauté,Flandre|Bruxelles,nl,https://www.vlaanderen.be/departement-zorg,official_public,2026-08-27,Santé soins bien-être et prévention
+vmm,Vlaamse Milieumaatschappij,public_body,région,Flandre,nl,https://www.vmm.be/,official_public,2026-08-27,Eau air climat et environnement en Flandre
+flemish_utilities_regulator,Vlaamse Nutsregulator,regulator,région,Flandre,nl,https://www.vlaamsenutsregulator.be/,official_public,2026-08-27,Régulation flamande de l'électricité du gaz de la chaleur et de l'eau
+serv,Sociaal-Economische Raad van Vlaanderen,consultative_body,région,Flandre,nl,https://www.serv.be/,official_public,2026-08-27,Concertation socio-économique et avis flamands
+vlaio,Agentschap Innoveren en Ondernemen,public_body,région,Flandre,nl,https://www.vlaio.be/,official_public,2026-08-27,Entrepreneuriat innovation et économie flamande
+wonen_vlaanderen,Wonen in Vlaanderen,public_body,région,Flandre,nl,https://www.vlaanderen.be/wonen-in-vlaanderen,official_public,2026-08-27,Logement qualité habitat et logement social
+de_lijn,De Lijn,public_company,région,Flandre|Bruxelles,nl,https://www.delijn.be/,official_public,2026-08-27,Transport public et mobilité en Flandre
+fwb_administration,Administration de la Fédération Wallonie-Bruxelles,public_body,communauté,Wallonie|Bruxelles,fr,https://www.cfwb.be/,official_public,2026-08-27,Actualités transversales de l'administration communautaire
+one,Office de la Naissance et de l'Enfance,public_body,communauté,Wallonie|Bruxelles,fr,https://www.one.be/,official_public,2026-08-27,Enfance parentalité santé préventive et accueil
+ares,Académie de recherche et d'enseignement supérieur,public_body,communauté,Wallonie|Bruxelles,fr,https://www.ares-ac.be/,official_public,2026-08-27,Enseignement supérieur recherche et données sectorielles
+csa,Conseil supérieur de l'audiovisuel,regulator,communauté,Wallonie|Bruxelles,fr,https://www.csa.be/,official_public,2026-08-27,Régulation des médias audiovisuels et plateformes
+wbe,Wallonie-Bruxelles Enseignement,public_body,communauté,Wallonie|Bruxelles,fr,https://www.wbe.be/,official_public,2026-08-27,Enseignement public organisé par la Fédération
+adg,Arbeitsamt der Deutschsprachigen Gemeinschaft,public_body,communauté,Communauté germanophone,de,https://adg.be/,official_public,2026-08-27,Emploi formation et marché du travail germanophone
+wsr_dg,Wirtschafts- und Sozialrat der Deutschsprachigen Gemeinschaft,consultative_body,communauté,Communauté germanophone,de,https://www.wsr-dg.be/,official_public,2026-08-27,Concertation socio-économique et analyses germanophones
+ostbelgien_statistics,Ostbelgien Statistik,statistics,communauté,Communauté germanophone,de,https://ostbelgienstatistik.be/,official_public,2026-08-27,Statistiques et indicateurs de la Communauté germanophone
