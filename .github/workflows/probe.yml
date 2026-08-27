@@ -2,6 +2,14 @@ name: Contrôle des accès publics
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/probe.yml"
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
   schedule:
     - cron: "13 6 * * *"
       timezone: "Europe/Brussels"
