@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-27T15:11:20.950990Z` par `veille-redaction-belge/0.1.0`.
 
-- Accès configurés et actifs : **106**
-- Accès testés : **106**
-- Accès opérationnels : **100**
-- Accès en erreur ou bloqués : **6**
+- Accès configurés et actifs : **114**
+- Accès testés : **114**
+- Accès opérationnels : **107**
+- Accès en erreur ou bloqués : **7**
 - Flux candidats découverts : **26**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -33,9 +33,11 @@ Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
 | Chambre des représentants | Agenda des commissions | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission wallonne pour l'Énergie | Documents récents | `ok` | 200 | `html → html` | `allowed` | 1 |
+| Commission wallonne pour l'Énergie | Flux des documents récents | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Communauté germanophone | Actualités institutionnelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Conseil d'État | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Conseil supérieur de l'audiovisuel | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 4 |
+| Conseil supérieur de l'audiovisuel | Flux des communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Conseil supérieur de la Justice | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -44,6 +46,7 @@ Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
 | Cour des comptes | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | CSC | Actualités et communiqués | `ok` | 200 | `html → html` | `allowed` | 0 |
 | De Lijn | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
+| De Lijn | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -52,9 +55,12 @@ Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
 | Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement wallon | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| hub.brussels | Flux des actualités | `ok` | 200 | `rss → rss` | `unknown` | 0 |
 | hub.brussels | Presse | `ok` | 200 | `html → html` | `unknown` | 1 |
 | Institut belge des services postaux et des télécommunications | Informations consommateurs | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
+| Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut national d'assurances sociales pour travailleurs indépendants | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut wallon de l'évaluation de la prospective et de la statistique | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -95,7 +101,7 @@ Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
@@ -104,8 +110,10 @@ Généré le `2026-08-27T14:38:15.983716Z` par `veille-redaction-belge/0.1.0`.
 | Statbel | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Statistiek Vlaanderen | Statistiek Vlaanderen | `ok` | 200 | `html → html` | `allowed` | 0 |
 | STIB | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
+| STIB | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Sénat de Belgique | Actualités institutionnelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
+| TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Unia | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | VDAB | Nieuws voor de pers | `ok` | 200 | `html → html` | `allowed` | 0 |
