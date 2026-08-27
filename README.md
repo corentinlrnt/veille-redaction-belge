@@ -67,6 +67,8 @@ Les flux découverts automatiquement dans une page HTML apparaissent dans `disco
 
 Le workflow est lancé à 06:13 dans le fuseau `Europe/Brussels`, été comme hiver. Le décalage de treize minutes évite la période la plus chargée des tâches planifiées. Une exécution manuelle est également possible depuis l’onglet **Actions**.
 
+Il est aussi exécuté lorsqu’un registre, le programme de sonde, ses tests ou le workflow lui-même changent. Les commits qui actualisent seulement les rapports ne le relancent pas, ce qui évite une boucle.
+
 Lorsque le rapport change, le robot GitHub met à jour uniquement les trois fichiers de `reports/`.
 
 ## Limites actuelles
