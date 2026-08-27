@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-08-27T13:05:14.445443Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-27T14:08:43.478159Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **68**
 - Accès testés : **68**
-- Accès opérationnels : **66**
-- Accès en erreur ou bloqués : **2**
+- Accès opérationnels : **64**
+- Accès en erreur ou bloqués : **4**
 - Flux candidats découverts : **14**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -18,11 +18,11 @@ Généré le `2026-08-27T13:05:14.445443Z` par `veille-redaction-belge/0.1.0`.
 | Banque nationale de Belgique | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Calendrier | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Centre fédéral d'expertise des soins de santé | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Chambre des représentants | Agenda des commissions | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Centre fédéral d'expertise des soins de santé | Communiqués de presse | `http_error` | 429 | `html → unknown` | `unknown` | 0 |
+| Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Communauté germanophone | Portail institutionnel | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
-| Conseil d'État | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Communauté germanophone | Portail institutionnel | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Conseil d'État | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Conseil supérieur de la Justice | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour de cassation | Actualités et publications | `ok` | 200 | `html → html` | `missing` | 0 |
@@ -31,7 +31,7 @@ Généré le `2026-08-27T13:05:14.445443Z` par `veille-redaction-belge/0.1.0`.
 | CSC | Actualités et communiqués | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| FGTB | Presse | `ok` | 200 | `html → html` | `unknown` | 0 |
+| FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -43,14 +43,14 @@ Généré le `2026-08-27T13:05:14.445443Z` par `veille-redaction-belge/0.1.0`.
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de l'emploi | Espace presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Parlement de la Communauté germanophone | Termine | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Région de Bruxelles-Capitale | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de Wallonie | Actualités et travaux | `ok` | 200 | `html → html` | `allowed` | 10 |
 | Parlement de Wallonie | Flux des questions d'actualité | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Parlement de Wallonie | Flux des questions écrites | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Parlement de Wallonie | Flux du calendrier | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Parlement flamand | Réunions et comptes rendus | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Parlement flamand | Réunions et comptes rendus | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Politique scientifique fédérale BELSPO | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Premier ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Presscenter fédéral | Actualités fédérales | `ok` | 200 | `html → html` | `allowed` | 0 |
