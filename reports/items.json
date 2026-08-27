@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/collector-0.1.0",
-  "generated_at": "2026-08-27T15:00:40.147349Z",
+  "generated_at": "2026-08-27T15:10:28.734570Z",
   "summary": {
     "configured_feeds": 17,
     "successful_feeds": 17,
@@ -167,11 +167,11 @@
       "url": "https://ibsa.brussels/node/3548",
       "summary": "Comme chaque dernier jeudi du mois, l’IBSA met en ligne les statistiques disponibles les plus récentes pour la Région bruxelloise",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "93b4f940216b01e5777c1d44",
@@ -189,11 +189,11 @@
       "url": "https://ibsa.brussels/node/3544",
       "summary": "À vos agendas! Les inscriptions aux Olympiades européennes de statistique démarreront le 21 septembre",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "9b04128fb7bffd08f533d0ba",
@@ -211,11 +211,11 @@
       "url": "https://ibsa.brussels/node/3538",
       "summary": "Dans sa feuille de route \"Brussels All.In\", le Ministre bruxellois de l’Emploi et de l’Économie prévoit de définir Bruxelles comme une capitale de l",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "1f92758b4d50d2a150a3a331",
@@ -233,11 +233,11 @@
       "url": "https://ibsa.brussels/node/3537",
       "summary": "Comme chaque dernier jeudi du mois, l’IBSA met en ligne les statistiques disponibles les plus récentes pour la Région bruxelloise",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "304554d09598841fc259e16f",
@@ -255,11 +255,11 @@
       "url": "https://ibsa.brussels/node/3534",
       "summary": "L’Aperçu conjoncturel présente, en deux pages, un aperçu de la situation économique actuelle de la Région bruxelloise ainsi que de son évolution",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "08f5766636d0055b5d1c046b",
@@ -277,11 +277,11 @@
       "url": "https://ibsa.brussels/node/3531",
       "summary": "En 2025, l’IBSA a poursuivi ses missions de production, d’analyse et de diffusion de statistiques publiques au sein de la Région de Bruxelles-Capitale",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "65f6bfabfd4b91afe06f3694",
@@ -299,11 +299,11 @@
       "url": "https://ibsa.brussels/node/3526",
       "summary": "Les nouvelles perspectives économiques régionales 2026-2031 viennent d’être publiées par le Bureau fédéral du Plan, en collaboration avec l’IBSA et",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "7fe38db1fbce8717a96addde",
@@ -321,11 +321,11 @@
       "url": "https://ibsa.brussels/node/3523",
       "summary": "Le décrochage scolaire est un enjeu majeur en Région bruxelloise, mais sa mesure reste complexe. Dans le Focus n°84, l’IBSA et le Service École et Vie",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "2f3a34d5c5cf1ab9fb5102cf",
@@ -343,11 +343,11 @@
       "url": "https://ibsa.brussels/node/3516",
       "summary": "Dans son dernier Focus, l’IBSA analyse l’utilisation des Primes Renolution entre 2022 et 2025",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "8bb3b71b71cc0a1eee904d11",
@@ -365,11 +365,11 @@
       "url": "https://ibsa.brussels/node/3504",
       "summary": "Effectuer un changement d’adresse, demander les allocations familiales, consulter son dossier médical: aujourd’hui, les Bruxellois·es peuvent",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:28.266973Z",
+      "retrieved_at": "2026-08-27T15:10:27.433373Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "2c48a32a2c9396dab19266ad",
@@ -387,11 +387,11 @@
       "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJS/odjs20260902.pdf",
       "summary": "",
       "published_at": null,
-      "retrieved_at": "2026-08-27T15:00:15.205083Z",
+      "retrieved_at": "2026-08-27T15:10:26.210100Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "a1af85332ef6b07dac856427",
@@ -409,11 +409,11 @@
       "url": "https://news.belgium.be/fr/la-regie-des-batiments-acheve-la-restauration-de-la-facade-avant-du-palais-de-justice-de-bruxelles",
       "summary": "Le jeudi 27 août 2026, la Régie des Bâtiments a organisé une cérémonie pour l’achèvement de la restauration de la façade avant du Palais de Justice de Bruxelles sur la place Poelaert. Les travaux ont débuté en août 2023 et sont à présent en grande partie achevés. Compte tenu des différentes vagues de chaleur survenues au cours de ces derniers mois d’été, certains travaux de finition nécessitent davantage de temps. L’accès principal situé place Poelaert sera remis en service au cours du mois de septembre 2026. La date précise sera communiquée par le SPF Justice.",
       "published_at": "2026-08-27T12:22:00Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "6e9ff4c58489a1e632184224",
@@ -431,11 +431,11 @@
       "url": "https://news.belgium.be/fr/bons-detat-emission-du-4-septembre-2026-resultat-intermediaire-jour-1",
       "summary": "Campagne des Bons d'État du 4 septembre 2026 - Résultat intermédiaire",
       "published_at": "2026-08-27T09:17:11Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "a1be6680a715cac2abf4f6d8",
@@ -453,11 +453,11 @@
       "url": "https://www.mil.be/fr/news/l-annee-de-service-militaire-debute-aujourd-hui-a-la-marine/",
       "summary": "La Marine accueille, aujourd’hui à Sint-Kruis (Bruges), les 50 premiers volontaires de l’Année de Service Militaire: 33 jeunes néerlandophones et 17 jeunes francophones. C’est le coup d’envoi officiel de cette initiative de la Défense associant engagement citoyen et renforcement de la réserve.",
       "published_at": "2026-08-26T21:51:09Z",
-      "retrieved_at": "2026-08-27T15:00:15.432510Z",
+      "retrieved_at": "2026-08-27T15:10:24.763317Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "bdc39e3ba9fc840b9d724237",
@@ -475,11 +475,11 @@
       "url": "https://delijn.prezly.com/vernieuwing-roltrappen-in-antwerpse-metro-laatste-twee-nieuwe-roltrappen-diamant-in-dienst-25-maand-sneller-dan-gepland",
       "summary": "",
       "published_at": "2026-08-26T12:31:00Z",
-      "retrieved_at": "2026-08-27T15:00:27.844639Z",
+      "retrieved_at": "2026-08-27T15:10:25.741988Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "2e617e6d8d9b8aad1b773a22",
@@ -497,11 +497,11 @@
       "url": "https://stib.prezly.com/cinq-lignes-de-tram-retrouvent-leur-itineraire-habituel",
       "summary": "",
       "published_at": "2026-08-26T10:57:00Z",
-      "retrieved_at": "2026-08-27T15:00:39.981879Z",
+      "retrieved_at": "2026-08-27T15:10:26.706019Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "55ccb01210978498cb989e24",
@@ -519,11 +519,11 @@
       "url": "https://finances.belgium.be/fr/Actualites/idms-creation-des-declarations-dans-l-interface-utilisateur-web",
       "summary": "Depuis le début de ce mois, la fonctionnalité 'create/submit declaration' d’IDMS est active en production via l’interface utilisateur web. Cela signifie que les entreprises qui introduisent encore aujourd’hui leurs déclarations d’importation via l’interface utilisateur web de PLDA doivent désormais les introduire via IDMS. Pour ce faire, utilisez l’environnement de production. Afin de vous accompagner dans l’introduction d’une déclaration dans IDMS, un guide détaillé en anglais a été élaboré (PDF, 2.85 Mo). Ce guide décrit les différentes étapes du processus de déclaration et fournit des…",
       "published_at": "2026-08-26T00:00:00Z",
-      "retrieved_at": "2026-08-27T15:00:15.665278Z",
+      "retrieved_at": "2026-08-27T15:10:25.119095Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "c808f55092aefaa98a83eb7e",
@@ -541,11 +541,11 @@
       "url": "https://delijn.prezly.com/terug-naar-school-check-voor-1-september-opnieuw-je-reis",
       "summary": "",
       "published_at": "2026-08-25T10:30:00Z",
-      "retrieved_at": "2026-08-27T15:00:27.844639Z",
+      "retrieved_at": "2026-08-27T15:10:25.741988Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "item_id": "bbd914c670c63c3801126c1e",
@@ -563,11 +563,11 @@
       "url": "https://news.belgium.be/fr/resultats-de-ladjudication-olo-du-24-aout-2026",
       "summary": "L'Agence fédérale de la Dette communique qu'elle a accepté les offres à l'adjudication de ce jour pour un montant total de EUR 3.011 milliards. Ce montant est réparti sur les lignes de la façon suivante:",
       "published_at": "2026-08-24T10:15:49Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "a1abee86a3601d938cf90e4d",
@@ -585,11 +585,11 @@
       "url": "https://news.belgium.be/fr/bons-detat-4-septembre-2026-coupons",
       "summary": "Communiqué de presse de l'Agence Fédérale de la Dette",
       "published_at": "2026-08-24T10:03:54Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "1820fea4fa1c1071a056a3d4",
@@ -607,11 +607,11 @@
       "url": "https://news.belgium.be/fr/le-spf-finances-gere-680000-cessions-et-saisies-actives-un-remboursement-dimpot-nest-pas-toujours",
       "summary": "De nombreux citoyens et entreprises partent du principe qu’un remboursement d’impôt est automatiquement versé sur leur propre compte bancaire. Ce n’est toutefois pas toujours le cas. Lorsqu’un contribuable a cédé une créance à un créancier, ou lorsqu’une saisie a été pratiquée, un remboursement d’impôt peut être versé, en tout ou en partie, à ce créancier.Le SPF Finances souhaite mieux informer les citoyens et les entreprises sur ce mécanisme. Les chiffres montrent également qu’il s’agit d’une mission importante et souvent peu visible assumée par l’administration.",
       "published_at": "2026-08-24T09:49:58Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "107ca0ada6beb07fe4305a34",
@@ -629,11 +629,11 @@
       "url": "https://www.mil.be/fr/news/le-service-medical-pret-pour-nos-militaires-nos-allies-et-pour-vous/",
       "summary": "Déjà variées en temps de paix, les missions du Service Médical s’enrichissent encore en cas de crise en Belgique, ou lors d’un déploiement auprès d’un allié ou à l'échelle internationale. Comment se préparer à des scénarios aussi divers? Aperçu de quelques collaborations militaires et civiles.",
       "published_at": "2026-08-22T03:11:40Z",
-      "retrieved_at": "2026-08-27T15:00:15.432510Z",
+      "retrieved_at": "2026-08-27T15:10:24.763317Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "c19799a9ac8f7ee5ef61908e",
@@ -651,11 +651,11 @@
       "url": "https://news.belgium.be/fr/adjudication-olo-du-24-aout-2026-montant-adjuger",
       "summary": "L'Agence fédérale de la Dette communique que la fourchette du montant qui sera adjugé lors de la prochaine adjudication d'OLO le lundi 24 août 2026, est de EUR 2.6/3 milliards.",
       "published_at": "2026-08-21T09:49:44Z",
-      "retrieved_at": "2026-08-27T15:00:17.127073Z",
+      "retrieved_at": "2026-08-27T15:10:28.432052Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "19ef03121df5d0365e8032fe",
@@ -673,11 +673,11 @@
       "url": "https://www.mil.be/fr/news/nouvelle-etape-importante-pour-nos-pilotes-belges-de-f-35/",
       "summary": "Sur la base aérienne de Luke, en Arizona, deux instructeurs belges du 312th Fighter Squadron ont effectué le premier largage de bombes GBU-12 à bord d'un F-35 belge. Cet exercice de tir constitue une étape importante dans la validation de cette capacité pour la poursuite de la formation des jeunes pilotes. Mais comment cela se passe en coulisses?",
       "published_at": "2026-08-21T04:46:28Z",
-      "retrieved_at": "2026-08-27T15:00:15.432510Z",
+      "retrieved_at": "2026-08-27T15:10:24.763317Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "item_id": "95950cc689c246e0a5d66ea2",
@@ -695,11 +695,11 @@
       "url": "https://www.mil.be/fr/news/premiere-pierre-posee-pour-les-nouvelles-infrastructures-destinees-aux-vehicules-blindes-a-marche-en-famenne/",
       "summary": "Les travaux du futur complexe d'infrastructures destiné aux nouveaux véhicules blindés de la Force Terrestre ont débuté le 20 août à Marche-en-Famenne. Le site accueillera notamment des hangars de stationnement, des ateliers de maintenance et un complexe de simulation nécessaires au soutien et à l'entraînement liés aux Griffon et Jaguar. Le vice-chef de la Défense, le lieutenant-général Frédéric Goetynck, a donné le premier coup de pelle aux commandes d'une excavatrice.",
       "published_at": "2026-08-21T02:15:01Z",
-      "retrieved_at": "2026-08-27T15:00:15.432510Z",
+      "retrieved_at": "2026-08-27T15:10:24.763317Z",
       "categories": [],
       "first_seen_at": "2026-08-27T14:54:10.855320Z",
       "observation_status": "existing",
-      "seen_count": 2
+      "seen_count": 3
     }
   ]
 }

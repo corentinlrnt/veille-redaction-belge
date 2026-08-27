@@ -1,6 +1,6 @@
 # Collecte des contenus structurés
 
-Généré le `2026-08-27T15:00:40.147349Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-08-27T15:10:28.734570Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **17**
 - Flux collectés : **17**
