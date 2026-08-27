@@ -1,0 +1,23 @@
+endpoint_id,source_id,label,url,access_method,expected_format,content_scope,language,enabled,last_manual_check,notes
+federal_news,federal_press,Actualités fédérales,https://news.belgium.be/fr,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
+federal_council,federal_press,Conseil des ministres,https://news.belgium.be/fr/conseil-des-ministres,http_get,html,décisions|communiqués,fr,true,2026-08-27,Page officielle
+federal_rss,federal_press,Flux de tous les communiqués,https://news.belgium.be/fr/feeds/all,http_get,rss,communiqués,fr,true,2026-08-27,Flux RSS officiel vérifié depuis le pied de page
+chamber_committees,chamber,Agenda des commissions,https://www.lachambre.be/kvvcr/showpage.cfm?cfm=%2Fsite%2Fwwwcfm%2Fagenda%2FcomagendaList.cfm&language=fr&section=%2Fnone,http_get,html,agenda,fr,true,2026-08-27,Agenda public
+wallonia_releases,walloon_government,Communiqués de presse,https://www.wallonie.be/fr/acteurs-et-institutions/wallonie/gouvernement-de-wallonie/communiques-presse,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
+brussels_latest,brussels_region,Dernières nouvelles,https://be.brussels/fr/propos-de-la-region/les-dernieres-nouvelles,http_get,html,actualités,fr,true,2026-08-27,Page officielle
+flanders_decisions,flemish_government,Décisions du gouvernement,https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering,http_get,html,décisions,nl,true,2026-08-27,Contenu possiblement dynamique
+fwb_releases,fwb_government,Communiqués de presse,https://gouvernement.cfwb.be/home/presse--actualites/communiques-de-presse.html,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
+fwb_agenda,fwb_government,Ordres du jour,https://gouvernement.cfwb.be/home/presse--actualites/ordres-du-jour.html,http_get,html,agenda,fr,true,2026-08-27,Page officielle
+ostbelgien_portal,german_speaking_community,Portail institutionnel,https://ostbelgienlive.be/,http_get,html,actualités,de,true,2026-08-27,Accès précis à identifier
+constitutional_releases,constitutional_court,Communiqués sur les arrêts,https://fr.const-court.be/media/press-releases-concerning-the-judgments,http_get,html,communiqués|arrêts,fr,true,2026-08-27,Page officielle
+council_state_news,council_of_state,Actualités,https://www.raadvst-consetat.be/?lang=fr&page=news,http_get,html,actualités|décisions,fr,true,2026-08-27,Page officielle
+nbb_releases,nbb,Communiqués de presse,https://www.nbb.be/fr/actualites-et-evenements/actualites/communiques-de-presse,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
+plan_press,planning_bureau,Presse,https://www.plan.be/fr/presse,http_get,html,communiqués|publications,fr,true,2026-08-27,Page officielle
+plan_calendar,planning_bureau,Calendrier,https://www.plan.be/fr/actualit%C3%A9s/calendrier,http_get,html,agenda,fr,true,2026-08-27,Page officielle
+statbel_news,statbel,Nouvelles,https://statbel.fgov.be/fr/nouvelles,http_get,html,statistiques|communiqués,fr,true,2026-08-27,Page officielle
+economy_news,fps_economy,Newsroom,https://news.economie.fgov.be/fr/releases/,http_get,html,communiqués|analyses,fr,true,2026-08-27,Page officielle avec abonnement Atom annoncé
+economy_atom,fps_economy,Flux des communiqués,https://news.economie.fgov.be/fr/press_releases.atom,http_get,atom,communiqués|analyses,fr,true,2026-08-27,Flux Atom officiel vérifié depuis la page de contact
+testachats_releases,test_achats,Communiqués,https://www.test-achats.be/tous-les-contenus/communiques,http_get,html,communiqués,fr,true,2026-08-27,Page publique de l'association
+fgtb_press,fgtb,Presse,https://fgtb.be/presse,http_get,html,communiqués|positions,fr,true,2026-08-27,Page publique du syndicat
+csc_news,csc,Actualités et communiqués,https://www.lacsc.be/actualite/actualites-et-communiques-de-presse,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page publique du syndicat
+unia_news,unia,Actualités,https://www.unia.be/fr/actualit%C3%A9s,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle

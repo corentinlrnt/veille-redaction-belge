@@ -1,0 +1,19 @@
+source_id,name,source_class,institution_level,geography,languages,homepage_url,official_status,last_manual_check,notes
+federal_press,Presscenter fédéral,institution,fédéral,Belgique,fr|nl|de|en,https://news.belgium.be/fr,official_public,2026-08-27,Communiqués des autorités fédérales
+chamber,Chambre des représentants,parliament,fédéral,Belgique,fr|nl,https://www.lachambre.be/,official_public,2026-08-27,Agendas et travaux parlementaires
+walloon_government,Gouvernement wallon,institution,région,Wallonie,fr|de,https://www.wallonie.be/,official_public,2026-08-27,Communiqués et décisions
+brussels_region,Région de Bruxelles-Capitale,institution,région,Bruxelles,fr|nl|en,https://be.brussels/,official_public,2026-08-27,Actualités régionales
+flemish_government,Gouvernement flamand,institution,région|communauté,Flandre|Bruxelles,nl,https://www.vlaanderen.be/vlaamse-regering,official_public,2026-08-27,Décisions du gouvernement flamand
+fwb_government,Gouvernement de la Fédération Wallonie-Bruxelles,institution,communauté,Wallonie|Bruxelles,fr,https://gouvernement.cfwb.be/,official_public,2026-08-27,Communiqués et ordres du jour
+german_speaking_community,Communauté germanophone,institution,communauté,Communauté germanophone,de|fr,https://ostbelgienlive.be/,official_public,2026-08-27,Portail institutionnel à préciser après sondage
+constitutional_court,Cour constitutionnelle,judiciary,fédéral,Belgique,fr|nl|de,https://fr.const-court.be/,official_public,2026-08-27,Communiqués relatifs aux arrêts
+council_of_state,Conseil d'État,judiciary,fédéral,Belgique,fr|nl|de,https://www.raadvst-consetat.be/?lang=fr,official_public,2026-08-27,Actualités et décisions récentes
+nbb,Banque nationale de Belgique,public_body,fédéral,Belgique,fr|nl|en,https://www.nbb.be/fr,official_public,2026-08-27,Communiqués économiques et financiers
+planning_bureau,Bureau fédéral du Plan,public_body,fédéral,Belgique,fr|nl|en,https://www.plan.be/fr,official_public,2026-08-27,Analyses prévisions et calendrier
+statbel,Statbel,statistics,fédéral,Belgique,fr|nl|de|en,https://statbel.fgov.be/fr,official_public,2026-08-27,Statistiques officielles belges
+fps_economy,SPF Économie,public_body,fédéral,Belgique,fr|nl,https://economie.fgov.be/fr,official_public,2026-08-27,Consommation entreprises prix énergie et analyses
+test_achats,Testachats,consumer_association,national,Belgique,fr|nl,https://www.test-achats.be/,civil_society,2026-08-27,Communiqués d'une association de consommateurs
+fgtb,FGTB,social_partner,national,Belgique,fr|nl,https://fgtb.be/,social_partner,2026-08-27,Communiqués et positions syndicales
+csc,CSC,social_partner,national,Belgique,fr|nl|de,https://www.lacsc.be/,social_partner,2026-08-27,Actualités et communiqués syndicaux
+unia,Unia,independent_public_body,national,Belgique,fr|nl|de,https://www.unia.be/fr,official_public,2026-08-27,Discrimination égalité et inclusion
+

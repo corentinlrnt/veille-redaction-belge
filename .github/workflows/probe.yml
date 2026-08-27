@@ -1,0 +1,48 @@
+name: Contrôle des accès publics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 6 * * *"
+      timezone: "Europe/Brussels"
+
+concurrency:
+  group: source-access-audit
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Exécuter les tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Contrôler les accès
+        run: python scripts/probe_sources.py
+
+      - name: Afficher la synthèse
+        run: cat reports/health-summary.md >> "${GITHUB_STEP_SUMMARY}"
+
+      - name: Publier les nouveaux rapports
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/health.json reports/access-matrix.csv reports/health-summary.md
+          if git diff --cached --quiet; then
+            echo "Aucun changement de rapport."
+          else
+            git commit -m "chore: actualiser la santé des accès"
+            git push
+          fi
