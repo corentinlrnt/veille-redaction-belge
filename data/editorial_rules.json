@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "lookback_hours": 168,
+  "briefing_hours": 36,
+  "future_hours": 36,
+  "minimum_score": 10,
+  "priority_count": 12,
+  "max_items": 36,
+  "max_per_source": 3,
+  "source_class_weights": {
+    "parliament": 4,
+    "judiciary": 4,
+    "regulator": 4,
+    "statistics": 4,
+    "independent_public_body": 4,
+    "scientific_institute": 3,
+    "social_partner": 3,
+    "consumer_association": 3,
+    "consultative_body": 3,
+    "institution": 3,
+    "public_body": 2,
+    "public_company": 2
+  },
+  "scope_weights": {
+    "alertes": 6,
+    "rappels": 6,
+    "décisions": 5,
+    "arrêts": 5,
+    "statistiques": 4,
+    "rapports": 4,
+    "études": 4,
+    "avis": 3,
+    "questions": 3,
+    "réformes": 3,
+    "communiqués": 2,
+    "publications": 2,
+    "agenda": 2,
+    "travaux": 2,
+    "actualités": 1
+  },
+  "sections": [
+    {
+      "id": "politics",
+      "label": "Politiques publiques et société",
+      "source_classes": ["institution", "parliament", "public_body", "consultative_body", "social_partner"],
+      "scopes": ["décisions", "agenda", "travaux", "questions", "réformes", "avis"],
+      "terms": ["gouvernement", "parlement", "ministre", "commission", "budget", "accord", "décret", "ordonnance", "loi", "réforme", "politique", "service public", "logement", "mobilité", "transport", "santé", "soins", "enseignement", "école", "climat", "environnement", "asile", "migration", "pauvreté", "handicap", "discrimination", "regering", "parlement", "minister", "commissie", "begroting", "decreet", "hervorming", "beleid", "wonen", "mobiliteit", "zorg", "onderwijs", "klimaat", "armoede", "regierung", "minister", "parlament", "haushalt", "reform", "wohnen", "gesundheit", "bildung"]
+    },
+    {
+      "id": "justice",
+      "label": "Justice, droits et contrôle",
+      "source_classes": ["judiciary", "independent_public_body"],
+      "scopes": ["arrêts", "décisions", "alertes", "rapports", "recommandations"],
+      "terms": ["justice", "tribunal", "cour", "arrêt", "jugement", "condamnation", "recours", "prison", "détention", "procureur", "enquête", "sanction", "fraude", "corruption", "droit", "liberté", "vie privée", "discrimination", "audit", "contrôle", "rechtbank", "hof", "arrest", "vonnis", "beroep", "gevangenis", "onderzoek", "sanctie", "fraude", "recht", "vrijheid", "discriminatie", "prüfung", "gericht", "urteil", "berufung", "gefängnis", "untersuchung", "sanktion", "recht", "freiheit"]
+    },
+    {
+      "id": "economy",
+      "label": "Économie, emploi et consommateurs",
+      "source_classes": ["regulator", "statistics", "consumer_association", "public_company"],
+      "scopes": ["statistiques", "emploi", "économie", "consommateurs", "études", "tarifs"],
+      "terms": ["économie", "emploi", "chômage", "salaire", "indexation", "inflation", "prix", "tarif", "facture", "énergie", "pension", "allocation", "impôt", "taxe", "entreprise", "faillite", "croissance", "pouvoir d'achat", "consommateur", "marché", "economie", "werk", "werkloosheid", "loon", "index", "inflatie", "prijs", "tarief", "factuur", "energie", "pensioen", "belasting", "bedrijf", "faillissement", "koopkracht", "consument", "wirtschaft", "arbeit", "arbeitslosigkeit", "lohn", "inflation", "preis", "tarif", "energie", "rente", "steuer", "unternehmen", "kaufkraft", "verbraucher"]
+    }
+  ],
+  "signals": [
+    {
+      "id": "public_decision",
+      "label": "décision ou réforme publique",
+      "weight": 6,
+      "terms": ["adopte", "adoption", "approuve", "décide", "décision", "accord", "réforme", "entre en vigueur", "arrêté", "décret", "ordonnance", "wet", "decreet", "besluit", "beslist", "goedgekeurd", "hervorming", "beschluss", "entscheidet", "reform", "dekret"]
+    },
+    {
+      "id": "citizen_impact",
+      "label": "impact concret pour la population",
+      "weight": 5,
+      "terms": ["prix", "tarif", "facture", "salaire", "pension", "allocation", "logement", "loyer", "transport", "soins", "remboursement", "impôt", "taxe", "emploi", "chômage", "consommateur", "prijs", "tarief", "factuur", "loon", "pensioen", "uitkering", "huur", "vervoer", "zorg", "belasting", "werk", "werkloosheid", "consument", "preis", "lohn", "rente", "miete", "verkehr", "pflege", "steuer", "arbeit", "arbeitslosigkeit", "verbraucher"]
+    },
+    {
+      "id": "evidence",
+      "label": "chiffres, étude ou évaluation",
+      "weight": 4,
+      "terms": ["statistique", "chiffre", "baromètre", "rapport", "étude", "évaluation", "enquête", "analyse", "statistiek", "cijfer", "rapport", "studie", "evaluatie", "onderzoek", "analyse", "statistik", "zahlen", "bericht", "studie", "bewertung", "analyse"]
+    },
+    {
+      "id": "accountability",
+      "label": "contrôle, droits ou responsabilité publique",
+      "weight": 5,
+      "terms": ["audit", "contrôle", "sanction", "condamnation", "recours", "avis", "recommandation", "discrimination", "vie privée", "fraude", "toezicht", "sanctie", "veroordeling", "beroep", "advies", "aanbeveling", "discriminatie", "privacy", "fraude", "prüfung", "kontrolle", "sanktion", "urteil", "empfehlung", "diskriminierung", "betrug"]
+    },
+    {
+      "id": "change_alert",
+      "label": "changement, alerte ou échéance",
+      "weight": 4,
+      "terms": ["nouveau", "hausse", "baisse", "alerte", "rappel", "urgence", "échéance", "dès le", "à partir du", "nieuw", "stijgt", "daalt", "waarschuwing", "terugroepactie", "deadline", "vanaf", "neu", "steigt", "sinkt", "warnung", "rückruf", "frist", "ab dem"]
+    },
+    {
+      "id": "agenda",
+      "label": "agenda institutionnel proche",
+      "weight": 2,
+      "terms": ["agenda", "commission", "séance", "conseil des ministres", "audition", "vergadering", "commissie", "zitting", "ministerraad", "hoorzitting", "sitzung", "ausschuss", "ministerrat", "anhörung"]
+    }
+  ],
+  "downrank_signals": [
+    {
+      "id": "promotion",
+      "label": "contenu promotionnel ou événementiel",
+      "weight": -4,
+      "terms": ["inscrivez-vous", "webinaire", "concours", "invitation", "save the date", "vacature", "schrijf je in", "wedstrijd", "einladung", "melden sie sich an"]
+    },
+    {
+      "id": "leisure",
+      "label": "sport, loisir ou culture sans enjeu public explicite",
+      "weight": -6,
+      "terms": ["football", "match", "concert", "festival", "exposition", "wedstrijdverslag", "voetbal", "konzert", "festival"]
+    },
+    {
+      "id": "routine_transport",
+      "label": "information opérationnelle de transport",
+      "weight": -5,
+      "terms": ["itinéraire habituel", "déviation", "arrêt déplacé", "escalator", "travaux de maintenance", "roltrap", "omleiding", "halte verplaatst", "onderhoudswerken", "umleitung", "haltestelle verlegt", "wartungsarbeiten"]
+    }
+  ]
+}

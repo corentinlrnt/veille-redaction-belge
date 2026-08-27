@@ -1,0 +1,76 @@
+name: Briefing matinal
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/briefing.yml"
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/briefing.yml"
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
+  schedule:
+    - cron: "0 6 * * *"
+      timezone: "Europe/Brussels"
+
+concurrency:
+  group: morning-briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Exécuter les tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Collecter les contenus structurés
+        run: python scripts/collect_items.py --workers 8
+
+      - name: Construire le briefing
+        run: python scripts/build_briefing.py
+
+      - name: Afficher les synthèses
+        run: |
+          cat reports/collection-summary.md >> "${GITHUB_STEP_SUMMARY}"
+          printf '\n' >> "${GITHUB_STEP_SUMMARY}"
+          cat briefings/latest.md >> "${GITHUB_STEP_SUMMARY}"
+
+      - name: Publier le briefing et l'état
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/items.json reports/items.csv reports/collection-summary.md reports/briefing.json
+          git add state/first-seen.json briefings/latest.md briefings/archive
+          git add docs/index.html docs/briefings
+          if git diff --cached --quiet; then
+            echo "Aucun changement de briefing."
+          else
+            git commit -m "chore: publier le briefing matinal"
+            git fetch origin main
+            git rebase origin/main
+            git push
+          fi
