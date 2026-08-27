@@ -10,6 +10,14 @@ on:
       - "data/**"
       - "scripts/**"
       - "tests/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/probe.yml"
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
   schedule:
     - cron: "13 6 * * *"
       timezone: "Europe/Brussels"
@@ -49,6 +57,7 @@ jobs:
           cat reports/health-summary.md >> "${GITHUB_STEP_SUMMARY}"
 
       - name: Publier les nouveaux rapports
+        if: github.event_name != 'pull_request'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
