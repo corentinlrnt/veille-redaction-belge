@@ -21,3 +21,49 @@ testachats_releases,test_achats,Communiqués,https://www.test-achats.be/tous-les
 fgtb_press,fgtb,Presse,https://fgtb.be/presse,http_get,html,communiqués|positions,fr,true,2026-08-27,Page publique du syndicat
 csc_news,csc,Actualités et communiqués,https://www.lacsc.be/actualite/actualites-et-communiques-de-presse,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page publique du syndicat
 unia_news,unia,Actualités,https://www.unia.be/fr/actualit%C3%A9s,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+prime_minister_news,prime_minister,Actualités,https://premier.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+chancellery_news,fps_chancellery,Actualités,https://chancellerie.belgium.be/fr/actualites/,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+bosa_news,fps_bosa,Actualités,https://bosa.belgium.be/fr/news,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+foreign_affairs_news,fps_foreign_affairs,Actualités,https://diplomatie.belgium.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+interior_news,fps_interior,Actualités,https://ibz.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+finance_news,fps_finance,Actualités,https://finances.belgium.be/fr/Actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+mobility_news,fps_mobility,Actualités,https://mobilit.belgium.be/fr/news,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+employment_news,fps_employment,Actualités,https://emploi.belgique.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+social_security_news,fps_social_security,Actualités,https://socialsecurity.belgium.be/fr/news,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+health_news,fps_health,Actualités,https://www.health.belgium.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+justice_news,fps_justice,Nouvelles,https://justice.belgium.be/fr/nouvelles,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+defence_news,defence,Actualités,https://www.mil.be/fr/news/,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+social_integration_news,spp_social_integration,Nouvelles,https://www.mi-is.be/fr/nouvelles,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+belspo_news,belspo,Actualités,https://www.belspo.be/belspo/organisation/actua.asp?l=fr,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+senate_news,senate,Actualités institutionnelles,https://www.senate.be/www/?LANG=fr&MENUID=56000&MIval=index_senate,http_get,html,actualités|travaux,fr,true,2026-08-27,Page officielle
+walloon_parliament_home,walloon_parliament,Actualités et travaux,https://www.parlement-wallonie.be/,http_get,html,actualités|agenda|travaux,fr,true,2026-08-27,Page officielle
+brussels_parliament_agenda,brussels_parliament,Agenda,https://www.parlement.brussels/agenda/?lang=fr,http_get,html,agenda|travaux,fr,true,2026-08-27,Page officielle
+flemish_parliament_meetings,flemish_parliament,Réunions et comptes rendus,https://www.vlaamsparlement.be/nl/parlementair-werk/vergaderingen-en-verslagen,http_get,html,agenda|travaux,nl,true,2026-08-27,Page officielle
+fwb_parliament_agenda,fwb_parliament,Agenda,https://www.pfwb.be/agenda,http_get,html,agenda|travaux,fr,true,2026-08-27,Page officielle
+german_parliament_schedule,german_parliament,Termine,https://pdg.be/desktopdefault.aspx/tabid-4097/,http_get,html,agenda|travaux,de,true,2026-08-27,Page officielle
+cassation_news,court_of_cassation,Actualités et publications,https://courdecassation.be/,http_get,html,actualités|arrêts|communiqués,fr,true,2026-08-27,Page officielle
+high_council_news,high_council_justice,Actualités,https://csj.be/fr/actualites,http_get,html,actualités|communiqués|avis,fr,true,2026-08-27,Page officielle
+court_audit_news,court_of_audit,Actualités,https://www.ccrek.be/fr/actualites,http_get,html,actualités|rapports,fr,true,2026-08-27,Page officielle
+federal_ombudsman_press,federal_ombudsman,Pour la presse,https://www.mediateurfederal.be/fr/pour-la-presse,http_get,html,actualités|rapports|recommandations,fr,true,2026-08-27,Page officielle
+data_protection_news,data_protection_authority,Actualités,https://www.autoriteprotectiondonnees.be/citoyen/actualites,http_get,html,actualités|décisions|communiqués,fr,true,2026-08-27,Page officielle
+myria_news,myria,Actualités,https://www.myria.be/fr/actualite,http_get,html,actualités|communiqués|publications,fr,true,2026-08-27,Page officielle
+creg_news,creg,Actualités,https://www.creg.be/fr/actualites,http_get,html,actualités|études|décisions,fr,true,2026-08-27,Page officielle
+fsma_news,fsma,Actualités et mises en garde,https://www.fsma.be/fr/news-articles,http_get,html,actualités|communiqués|alertes,fr,true,2026-08-27,Page officielle
+bipt_consumers,bipt,Informations consommateurs,https://www.bipt.be/consommateurs,http_get,html,actualités|publications|consommateurs,fr,true,2026-08-27,Page officielle
+competition_news,competition_authority,Actualités,https://www.abc-bma.be/fr/propos-de-nous/actualites,http_get,html,actualités|décisions|communiqués,fr,true,2026-08-27,Page officielle
+onem_press,onem,Espace presse,https://www.onem.be/espace-presse,http_get,html,communiqués|statistiques,fr,true,2026-08-27,Page officielle
+onss_news,onss,Actualités,https://www.onss.be/actualites,http_get,html,actualités|statistiques,fr,true,2026-08-27,Page officielle
+inasti_news,inasti,Actualités,https://www.inasti.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+inami_news,inami,Nouvelles,https://www.inami.fgov.be/fr/page/nouvelles,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+federal_pensions_news,federal_pensions,Actualités,https://www.sfpd.fgov.be/fr/a-propos-de-nous/actualite/,http_get,html,actualités|réformes,fr,true,2026-08-27,Page officielle
+sciensano_press,sciensano,Coin presse,https://www.sciensano.be/fr/coin-presse,http_get,html,actualités|communiqués|données,fr,true,2026-08-27,Page officielle
+kce_press,kce,Communiqués de presse,https://www.kce.fgov.be/fr/persberichten-0,http_get,html,communiqués|études,fr,true,2026-08-27,Lien officiel du menu malgré son chemin néerlandais
+afmps_news,afmps,Actualités,https://www.afmps.be/fr/news,http_get,html,actualités|alertes|communiqués,fr,true,2026-08-27,Page officielle
+afsca_news,afsca,Actualités,https://favv-afsca.be/fr/news/overview,http_get,html,actualités|alertes|rappels,fr,true,2026-08-27,Page officielle
+court_audit_rss,court_of_audit,Flux des actualités,https://www.ccrek.be/fr/actualites/rss.xml,http_get,rss,actualités|rapports,fr,true,2026-08-27,Flux officiel annoncé dans la page Actualités
+defence_rss,defence,Flux des actualités,https://www.mil.be/fr/news/rss,http_get,rss,actualités|communiqués,fr,true,2026-08-27,Flux officiel annoncé dans la page Actualités
+finance_rss,fps_finance,Flux des actualités,https://finances.belgium.be/fr/Actualites/rss.xml,http_get,rss,actualités|communiqués,fr,true,2026-08-27,Flux officiel annoncé dans la page Actualités
+mobility_rss,fps_mobility,Flux des actualités,http://mobilit.belgium.be/fr/news/feed/all,http_get,rss,actualités|communiqués,fr,true,2026-08-27,Flux officiel annoncé dans la page Actualités
+walloon_parliament_calendar_rss,walloon_parliament,Flux du calendrier,https://www.parlement-wallonie.be/actu/rss_cal_generator.php?aff=rss,http_get,rss,agenda,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil
+walloon_parliament_current_questions_rss,walloon_parliament,Flux des questions d'actualité,https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&type=qa,http_get,rss,questions|travaux,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil
+walloon_parliament_written_questions_rss,walloon_parliament,Flux des questions écrites,https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&type=qr,http_get,rss,questions|travaux,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil

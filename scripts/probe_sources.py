@@ -556,7 +556,7 @@ def write_reports(
 
     fieldnames = list(asdict(results[0]).keys()) if results else list(asdict(ProbeResult("", "", "", "", "", "", "")).keys())
     with csv_path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(result_to_csv_row(result) for result in results)
 

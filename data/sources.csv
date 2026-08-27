@@ -16,4 +16,42 @@ test_achats,Testachats,consumer_association,national,Belgique,fr|nl,https://www.
 fgtb,FGTB,social_partner,national,Belgique,fr|nl,https://fgtb.be/,social_partner,2026-08-27,Communiqués et positions syndicales
 csc,CSC,social_partner,national,Belgique,fr|nl|de,https://www.lacsc.be/,social_partner,2026-08-27,Actualités et communiqués syndicaux
 unia,Unia,independent_public_body,national,Belgique,fr|nl|de,https://www.unia.be/fr,official_public,2026-08-27,Discrimination égalité et inclusion
-
+prime_minister,Premier ministre,institution,fédéral,Belgique,fr|nl,https://premier.be/fr,official_public,2026-08-27,Actualités et prises de position du Premier ministre
+fps_chancellery,SPF Chancellerie du Premier Ministre,public_body,fédéral,Belgique,fr|nl,https://chancellerie.belgium.be/fr,official_public,2026-08-27,Coordination gouvernementale et communication fédérale
+fps_bosa,SPF Stratégie et Appui,public_body,fédéral,Belgique,fr|nl,https://bosa.belgium.be/fr,official_public,2026-08-27,Fonction publique budget numérique et marchés publics
+fps_foreign_affairs,SPF Affaires étrangères,public_body,fédéral,Belgique|international,fr|nl|de|en,https://diplomatie.belgium.be/fr,official_public,2026-08-27,Diplomatie affaires européennes et coopération
+fps_interior,SPF Intérieur,public_body,fédéral,Belgique,fr|nl|de,https://ibz.be/fr,official_public,2026-08-27,Sécurité civile élections migration et gestion de crise
+fps_finance,SPF Finances,public_body,fédéral,Belgique,fr|nl|de,https://finances.belgium.be/fr,official_public,2026-08-27,Fiscalité douanes trésorerie et patrimoine
+fps_mobility,SPF Mobilité et Transports,public_body,fédéral,Belgique,fr|nl,https://mobilit.belgium.be/fr,official_public,2026-08-27,Mobilité sécurité routière aviation rail et navigation
+fps_employment,SPF Emploi Travail et Concertation sociale,public_body,fédéral,Belgique,fr|nl,https://emploi.belgique.be/fr,official_public,2026-08-27,Travail bien-être concertation et réglementation sociale
+fps_social_security,SPF Sécurité sociale,public_body,fédéral,Belgique,fr|nl|de,https://socialsecurity.belgium.be/fr,official_public,2026-08-27,Politiques et données de sécurité sociale
+fps_health,SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement,public_body,fédéral,Belgique,fr|nl|de|en,https://www.health.belgium.be/fr,official_public,2026-08-27,Santé publique environnement et sécurité alimentaire
+fps_justice,SPF Justice,public_body,fédéral,Belgique,fr|nl,https://justice.belgium.be/fr,official_public,2026-08-27,Politique judiciaire législation prisons et droits
+defence,Défense belge,institution,fédéral,Belgique|international,fr|nl,https://www.mil.be/fr/,official_public,2026-08-27,Défense opérations et sécurité internationale
+spp_social_integration,SPP Intégration sociale,public_body,fédéral,Belgique,fr|nl|de,https://www.mi-is.be/fr,official_public,2026-08-27,Pauvreté CPAS intégration et économie sociale
+belspo,Politique scientifique fédérale BELSPO,public_body,fédéral,Belgique,fr|nl|en,https://www.belspo.be/belspo/index_fr.stm,official_public,2026-08-27,Recherche collections et programmes scientifiques fédéraux
+senate,Sénat de Belgique,parliament,fédéral,Belgique,fr|nl|de,https://www.senate.be/,official_public,2026-08-27,Travaux institutionnels rapports et actualités
+walloon_parliament,Parlement de Wallonie,parliament,région,Wallonie,fr|de,https://www.parlement-wallonie.be/,official_public,2026-08-27,Agenda travaux questions et documents parlementaires
+brussels_parliament,Parlement de la Région de Bruxelles-Capitale,parliament,région,Bruxelles,fr|nl,https://www.parlement.brussels/,official_public,2026-08-27,Agenda et travaux parlementaires bruxellois
+flemish_parliament,Parlement flamand,parliament,région|communauté,Flandre|Bruxelles,nl,https://www.vlaamsparlement.be/nl,official_public,2026-08-27,Agenda débats et documents parlementaires flamands
+fwb_parliament,Parlement de la Fédération Wallonie-Bruxelles,parliament,communauté,Wallonie|Bruxelles,fr,https://www.pfwb.be/,official_public,2026-08-27,Agenda et travaux parlementaires communautaires
+german_parliament,Parlement de la Communauté germanophone,parliament,communauté,Communauté germanophone,de,https://www.pdg.be/,official_public,2026-08-27,Agenda débats et documents parlementaires germanophones
+court_of_cassation,Cour de cassation,judiciary,fédéral,Belgique,fr|nl,https://courdecassation.be/,official_public,2026-08-27,Actualités arrêts marquants et publications
+high_council_justice,Conseil supérieur de la Justice,independent_public_body,fédéral,Belgique,fr|nl,https://csj.be/fr,official_public,2026-08-27,Contrôle du fonctionnement de la justice avis et nominations
+court_of_audit,Cour des comptes,independent_public_body,interfédéral,Belgique,fr|nl|de|en,https://www.ccrek.be/fr,official_public,2026-08-27,Audit des finances publiques et rapports aux parlements
+federal_ombudsman,Médiateur fédéral,independent_public_body,fédéral,Belgique,fr|nl,https://www.mediateurfederal.be/fr,official_public,2026-08-27,Plaintes contre les administrations enquêtes et recommandations
+data_protection_authority,Autorité de protection des données,regulator,fédéral,Belgique,fr|nl,https://www.autoriteprotectiondonnees.be/citoyen,official_public,2026-08-27,Décisions avis contrôles et protection de la vie privée
+myria,Myria,independent_public_body,fédéral,Belgique,fr|nl|en,https://www.myria.be/fr,official_public,2026-08-27,Migration traite droits fondamentaux et analyses chiffrées
+creg,Commission de Régulation de l'Électricité et du Gaz,regulator,fédéral,Belgique,fr|nl,https://www.creg.be/fr,official_public,2026-08-27,Marchés tarifs et protection des consommateurs d'énergie
+fsma,Autorité des services et marchés financiers,regulator,fédéral,Belgique,fr|nl|en,https://www.fsma.be/fr,official_public,2026-08-27,Marchés financiers mises en garde et consommateurs
+bipt,Institut belge des services postaux et des télécommunications,regulator,fédéral,Belgique,fr|nl|de|en,https://www.bipt.be/consommateurs,official_public,2026-08-27,Télécoms postes tarifs qualité et consommateurs
+competition_authority,Autorité belge de la Concurrence,regulator,fédéral,Belgique,fr|nl|en,https://www.abc-bma.be/fr,official_public,2026-08-27,Concentrations décisions et pratiques de marché
+onem,Office national de l'emploi,public_body,fédéral,Belgique,fr|nl|de,https://www.onem.be/,official_public,2026-08-27,Chômage interruption de carrière et statistiques
+onss,Office national de sécurité sociale,public_body,fédéral,Belgique,fr|nl|de,https://www.onss.be/,official_public,2026-08-27,Emploi salarié cotisations et statistiques du travail
+inasti,Institut national d'assurances sociales pour travailleurs indépendants,public_body,fédéral,Belgique,fr|nl|de,https://www.inasti.be/fr,official_public,2026-08-27,Statut social et données des travailleurs indépendants
+inami,Institut national d'assurance maladie-invalidité,public_body,fédéral,Belgique,fr|nl|de,https://www.inami.fgov.be/fr,official_public,2026-08-27,Assurance soins de santé invalidité et remboursement
+federal_pensions,Service fédéral des Pensions,public_body,fédéral,Belgique,fr|nl|de,https://www.sfpd.fgov.be/fr,official_public,2026-08-27,Pensions réformes paiements et information aux citoyens
+sciensano,Sciensano,scientific_institute,fédéral,Belgique,fr|nl|en,https://www.sciensano.be/fr,official_public,2026-08-27,Surveillance et expertise scientifique de santé publique
+kce,Centre fédéral d'expertise des soins de santé,scientific_institute,fédéral,Belgique,fr|nl|en,https://www.kce.fgov.be/fr,official_public,2026-08-27,Études indépendantes sur les soins et politiques de santé
+afmps,Agence fédérale des médicaments et des produits de santé,public_body,fédéral,Belgique,fr|nl|de|en,https://www.afmps.be/fr,official_public,2026-08-27,Médicaments dispositifs vigilance et disponibilité
+afsca,Agence fédérale pour la sécurité de la chaîne alimentaire,public_body,fédéral,Belgique,fr|nl|de|en,https://favv-afsca.be/fr,official_public,2026-08-27,Sécurité alimentaire rappels contrôles et alertes
