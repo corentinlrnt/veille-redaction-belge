@@ -23,7 +23,7 @@ Ce dépôt constitue la première brique d’une veille matinale pour la rédact
 - `reports/` : rapports générés ;
 - `.github/workflows/probe.yml` : exécution quotidienne vers 6 h, heure de Bruxelles.
 
-Le registre couvre désormais un premier socle public déclaré : départements fédéraux, parlements et exécutifs des entités fédérées, hautes juridictions, contre-pouvoirs, régulateurs économiques, sécurité sociale et agences de santé. La [méthode de couverture](docs/coverage-method.md) distingue ce socle des couches encore à construire : partis et mandataires, acteurs de terrain, pouvoirs locaux, médias belges et sources internationales.
+Le registre couvre désormais deux socles publics déclarés : les institutions fédérales et interfédérales prioritaires, puis 38 producteurs fonctionnels des cinq entités fédérées. Cette deuxième couche suit notamment l'administration, les statistiques, l'emploi, la santé, l'environnement, la régulation, la concertation, l'économie, le logement et la mobilité. La [méthode de couverture](docs/coverage-method.md) explique les différences de compétences et distingue cette sélection à fort signal d'un inventaire exhaustif.
 
 ## Lancer localement
 
@@ -82,6 +82,6 @@ Lorsque les rapports changent, le robot GitHub met à jour uniquement les six fi
 
 - les pages rendues uniquement en JavaScript peuvent répondre sans exposer leurs entrées ;
 - la découverte d’un flux ne garantit pas que celui-ci soit complet ou à jour ;
-- les neuf cibles mesurent un socle public précis et non l’exhaustivité de l’écosystème d’information belge ;
+- les quatorze cibles mesurent des socles publics précis et non l’exhaustivité de l’écosystème d’information belge ;
 - aucun dédoublonnage, classement éditorial ou résumé n’est encore effectué ;
 - la licence du dépôt doit être décidée avant publication, notamment au regard des règles de l’employeur.

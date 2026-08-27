@@ -8,7 +8,7 @@ brussels_latest,brussels_region,Dernières nouvelles,https://be.brussels/fr/prop
 flanders_decisions,flemish_government,Décisions du gouvernement,https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering,http_get,html,décisions,nl,true,2026-08-27,Contenu possiblement dynamique
 fwb_releases,fwb_government,Communiqués de presse,https://gouvernement.cfwb.be/home/presse--actualites/communiques-de-presse.html,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
 fwb_agenda,fwb_government,Ordres du jour,https://gouvernement.cfwb.be/home/presse--actualites/ordres-du-jour.html,http_get,html,agenda,fr,true,2026-08-27,Page officielle
-ostbelgien_portal,german_speaking_community,Portail institutionnel,https://ostbelgienlive.be/,http_get,html,actualités,de,true,2026-08-27,Accès précis à identifier
+ostbelgien_portal,german_speaking_community,Actualités institutionnelles,https://www.ostbelgienlive.be/desktopdefault.aspx/tabid-71/,http_get,html,actualités,de,true,2026-08-27,Page d'actualités du portail officiel
 constitutional_releases,constitutional_court,Communiqués sur les arrêts,https://fr.const-court.be/media/press-releases-concerning-the-judgments,http_get,html,communiqués|arrêts,fr,true,2026-08-27,Page officielle
 council_state_news,council_of_state,Actualités,https://www.raadvst-consetat.be/?lang=fr&page=news,http_get,html,actualités|décisions,fr,true,2026-08-27,Page officielle
 nbb_releases,nbb,Communiqués de presse,https://www.nbb.be/fr/actualites-et-evenements/actualites/communiques-de-presse,http_get,html,communiqués,fr,true,2026-08-27,Page officielle
@@ -67,3 +67,41 @@ mobility_rss,fps_mobility,Flux des actualités,http://mobilit.belgium.be/fr/news
 walloon_parliament_calendar_rss,walloon_parliament,Flux du calendrier,https://www.parlement-wallonie.be/actu/rss_cal_generator.php?aff=rss,http_get,rss,agenda,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil
 walloon_parliament_current_questions_rss,walloon_parliament,Flux des questions d'actualité,https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&type=qa,http_get,rss,questions|travaux,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil
 walloon_parliament_written_questions_rss,walloon_parliament,Flux des questions écrites,https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&type=qr,http_get,rss,questions|travaux,fr,true,2026-08-27,Flux officiel annoncé sur la page d'accueil
+spw_news,spw,Actualités,https://spw.wallonie.be/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+iweps_news,iweps,Actualités,https://www.iweps.be/actualites/,http_get,html,actualités|statistiques|publications,fr,true,2026-08-27,Page officielle
+forem_press,forem,Communiqués de presse,https://www.leforem.be/a-propos/communiques-presse.html,http_get,html,communiqués|emploi|statistiques,fr,true,2026-08-27,Page officielle
+aviq_news,aviq,Actualités,https://www.aviq.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+cwape_recent,cwape,Documents récents,https://www.cwape.be/documents-recents,http_get,html,décisions|avis|publications,fr,true,2026-08-27,Page officielle
+cese_wallonia_news,cese_wallonia,Actualités,https://www.cesewallonie.be/actualites,http_get,html,actualités|avis|études,fr,true,2026-08-27,Page officielle
+wallonie_entreprendre_news,wallonie_entreprendre,Actualités,https://www.wallonie-entreprendre.be/fr/actualites/,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+swl_news,swl,Actualités du logement,https://www.swl.be/,http_get,html,actualités|logement,fr,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
+awac_news,awac,Actualités,https://www.awac.be/home/actualites.html,http_get,html,actualités|données|publications,fr,true,2026-08-27,Page officielle
+tec_press,tec,Espace presse,https://presse.letec.be/,http_get,html,communiqués|mobilité,fr,true,2026-08-27,Plateforme de presse officielle
+brussels_public_service_news,brussels_public_service,Actualités,https://servicepublic.brussels/actualites/,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle à surveiller car une mise hors service est annoncée pour septembre 2026
+ibsa_news,ibsa,Actualités,https://ibsa.brussels/actualites,http_get,html,actualités|statistiques|publications,fr,true,2026-08-27,Page officielle
+actiris_news,actiris,Actualités,https://www.actiris.brussels/fr/citoyens/actualites/,http_get,html,actualités|emploi|statistiques,fr,true,2026-08-27,Page officielle
+brussels_environment_news,brussels_environment,Actualités,https://environnement.brussels/citoyen/actualites,http_get,html,actualités|données|alertes,fr,true,2026-08-27,Page officielle
+vivalis_news,vivalis,Actualités,https://www.vivalis.brussels/fr/actualites,http_get,html,actualités|communiqués|santé,fr,true,2026-08-27,Page officielle
+brugel_news,brugel,Actualités,https://brugel.brussels/actualites,http_get,html,actualités|décisions|publications,fr,true,2026-08-27,Page officielle
+brupartners_news,brupartners,Actualités,https://www.brupartners.brussels/fr/actualites,http_get,html,actualités|avis|études,fr,true,2026-08-27,Page officielle
+hub_brussels_press,hub_brussels,Presse,https://hub.brussels/fr/presse/,http_get,html,communiqués|économie,fr,true,2026-08-27,Espace presse officiel
+slrb_news,slrb,Actualités,https://slrb-bghm.brussels/fr/actualites,http_get,html,actualités|logement,fr,true,2026-08-27,Page officielle
+stib_press,stib,Espace presse,https://stib.prezly.com/,http_get,html,communiqués|mobilité,fr,true,2026-08-27,Plateforme de presse reliée depuis le site officiel
+flemish_administration_news,flemish_administration,Nieuwsberichten,https://www.vlaanderen.be/nieuwsberichten,http_get,html,actualités|communiqués,nl,true,2026-08-27,Page officielle transversale
+statistics_flanders_updates,statistics_flanders,Statistiek Vlaanderen,https://www.vlaanderen.be/statistiek-vlaanderen,http_get,html,statistiques|calendrier|publications,nl,true,2026-08-27,Portail et calendrier officiels
+vdab_press,vdab,Nieuws voor de pers,https://www.vdab.be/nieuws-voor-de-pers,http_get,html,communiqués|emploi|statistiques,nl,true,2026-08-27,Page officielle
+department_zorg_news,department_zorg,Actualités,https://www.vlaanderen.be/departement-zorg,http_get,html,actualités|santé|publications,nl,true,2026-08-27,Actualités publiées sur la page officielle du département
+vmm_news,vmm,Nieuws,https://www.vmm.be/nieuws,http_get,html,actualités|données|alertes,nl,true,2026-08-27,Page officielle
+flemish_utilities_news,flemish_utilities_regulator,Nieuws en persoverzicht,https://www.vlaamsenutsregulator.be/nieuws-en-persoverzicht,http_get,html,actualités|décisions|publications,nl,true,2026-08-27,Page officielle du régulateur renommé en 2025
+serv_news,serv,Nieuws,https://www.serv.be/serv/nieuws,http_get,html,actualités|avis|études,nl,true,2026-08-27,Page officielle
+vlaio_news,vlaio,Nieuws,https://www.vlaio.be/nl/nieuws,http_get,html,actualités|économie|aides,nl,true,2026-08-27,Page officielle
+wonen_vlaanderen_news,wonen_vlaanderen,Nieuws,https://www.vlaanderen.be/wonen-in-vlaanderen/nieuws,http_get,html,actualités|logement,nl,true,2026-08-27,Page officielle
+de_lijn_press,de_lijn,Espace presse,https://delijn.prezly.com/,http_get,html,communiqués|mobilité,nl,true,2026-08-27,Plateforme de presse reliée depuis le site officiel
+fwb_administration_news,fwb_administration,Actualités,https://www.cfwb.be/,http_get,html,actualités|communiqués,fr,true,2026-08-27,Actualités publiées sur le portail officiel
+one_news,one,Actualités,https://www.one.be/,http_get,html,actualités|communiqués|santé,fr,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
+ares_news,ares,Actualités,https://www.ares-ac.be/fr/actualit%C3%A9s,http_get,html,actualités|communiqués|publications,fr,true,2026-08-27,Page officielle
+csa_press,csa,Communiqués de presse,https://www.csa.be/category/communique-de-presse/,http_get,html,communiqués|décisions|régulation,fr,true,2026-08-27,Page officielle
+wbe_news,wbe,Actualités,https://www.wbe.be/,http_get,html,actualités|communiqués|enseignement,fr,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
+adg_home,adg,Portail de l'emploi,https://adg.be/,http_get,html,actualités|emploi|statistiques,de,true,2026-08-27,Page officielle
+wsr_dg_news,wsr_dg,Aktuelles,https://www.wsr-dg.be/,http_get,html,actualités|avis|études,de,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
+ostbelgien_statistics_news,ostbelgien_statistics,Aktuelles,https://ostbelgienstatistik.be/,http_get,html,statistiques|actualités|publications,de,true,2026-08-27,Actualités publiées sur la page d'accueil officielle
