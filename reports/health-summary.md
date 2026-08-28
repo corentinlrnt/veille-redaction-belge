@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-28T09:04:35.309410Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **155**
 - Accès testés : **155**
-- Accès opérationnels : **133**
-- Accès en erreur ou bloqués : **22**
-- Flux candidats découverts : **28**
+- Accès opérationnels : **134**
+- Accès en erreur ou bloqués : **21**
+- Flux candidats découverts : **31**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -21,7 +21,7 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | Agentschap Innoveren en Ondernemen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Alliance nationale des mutualités chrétiennes | Actualités MC | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Alliance nationale des mutualités chrétiennes | Actueel CM | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
-| Amnesty International Belgique francophone | Flux des actualités | `blocked_by_robots` | — | `rss → unknown` | `disallowed` | 0 |
+| Amnesty International Belgique francophone | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Anders. | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Arbeitsamt der Deutschsprachigen Gemeinschaft | Portail de l'emploi | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -41,8 +41,8 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | CGSLB-Syndicat libéral | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Commission wallonne pour l'Énergie | Documents récents | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Commission wallonne pour l'Énergie | Flux des documents récents | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Commission wallonne pour l'Énergie | Documents récents | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Commission wallonne pour l'Énergie | Flux des documents récents | `http_error` | 403 | `rss → unknown` | `unknown` | 0 |
 | Communauté germanophone | Actualités institutionnelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Conseil d'État | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Conseil supérieur de l'audiovisuel | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 4 |
@@ -58,12 +58,12 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | De Lijn | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | De Lijn | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Défense belge | Actualités | `ok` | 200 | `html → html` | `unknown` | 1 |
-| Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `unknown` | 0 |
-| DéFI | API publique des actualités | `http_error` | 500 | `wp_json → unknown` | `allowed` | 0 |
+| Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
+| Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| FGTB | Presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
@@ -81,13 +81,13 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | Institut national d'assurances sociales pour travailleurs indépendants | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut wallon de l'évaluation de la prospective et de la statistique | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Le Forem | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Les Engagés | Flux des actualités | `http_error` | 500 | `rss → unknown` | `allowed` | 0 |
+| Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Ligue des droits humains | API publique des publications | `http_error` | 401 | `wp_json → unknown` | `allowed` | 0 |
+| Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Mouvement Réformateur | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Myria | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| N-VA | Nieuws | `http_error` | 403 | `html_articles → unknown` | `allowed` | 0 |
+| N-VA | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Netwerk tegen Armoede | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office de la Naissance et de l'Enfance | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Office national de l'emploi | Espace presse | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -108,7 +108,7 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | Presscenter fédéral | Actualités fédérales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Presscenter fédéral | Conseil des ministres | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Presscenter fédéral | Flux de tous les communiqués | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| ProDG | API publique des actualités | `http_error` | 401 | `wp_json → unknown` | `allowed` | 0 |
+| ProDG | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | PTB-PVDA | Actualités PTB | `ok` | 200 | `html → html` | `allowed` | 0 |
 | PTB-PVDA | Nieuws PVDA | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -120,7 +120,7 @@ Généré le `2026-08-28T08:55:50.780368Z` par `veille-redaction-belge/0.1.0`.
 | Sociaal-Economische Raad van Vlaanderen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Société du Logement de la Région de Bruxelles-Capitale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Société wallonne du Logement | Actualités du logement | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| SP Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| SP Ostbelgien | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
