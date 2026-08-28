@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-08-28T09:46:00.195470Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-08-28T13:32:06.727566Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **30**
 - Flux collectés : **29**
 - Flux en erreur : **1**
-- Éléments conservés : **36**
-- Sources contributrices : **11**
+- Éléments conservés : **45**
+- Sources contributrices : **14**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-08-28T09:46:00.195470Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 218 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 219 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |

@@ -1,34 +1,50 @@
 # Veille rédaction belge — 28 août 2026
 
-Générée à **11:46** (heure de Bruxelles) à partir de **36 éléments collectés**.
+Générée à **15:32** (heure de Bruxelles) à partir de **45 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
+### [Octroi d'une aide aux entreprises en compensation des coûts des émissions indirectes entre 2021 et 2030: avis sur un projet d’AGW modificatif](https://www.cwape.be/documents-recents/octroi-dune-aide-aux-entreprises-en-compensation-des-couts-des-emissions-0)
+
+**Commission wallonne pour l'Énergie** · source publique officielle · 28/08/2026 à 15:19 · score `25`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Octroi d'une aide aux entreprises en compensation des coûts des émissions indirectes entre 2021 et 2030: avis sur un projet d’AGW modificatif acso 28-08-2026 Octroi d'une aide aux entreprises en compensation des coûts des émissions indirectes entre 2021 et 2030: avis sur un projet d’AGW modificatif 28-08-2026 À la demande du Cabinet du vice-Président de la Wallonie, Ministre de l'Économie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Agriculture, de l'Aménagement du territoire, de l'IFAPME et des Centres de compétence, la CWaPE a remis son avis succinct sur…
+
+### [Révolution dans l’administration: Jacqueline Galant ouvre les portes aux meilleurs talents de la société civile](https://www.mr.be/revolution-dans-ladministration-jacqueline-galant-ouvre-les-portes-aux-meilleurs-talents-de-la-societe-civile/)
+
+**Mouvement Réformateur** · acteur politique · 28/08/2026 à 15:01 · score `21`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : C’est un changement majeur pour la Wallonie et la Fédération Wallonie-Bruxelles. Avec l’adoption définitive de la réforme portée par Jacqueline Galant, la haute fonction publique s’ouvre désormais pleinement aux talents...
+
+### [Prêt Coup de Pouce: un mécanisme renforcé et pérennisé au service des entrepreneurs wallons](https://www.mr.be/pret-coup-de-pouce-un-mecanisme-renforce-et-perennise-au-service-des-entrepreneurs-wallons/)
+
+**Mouvement Réformateur** · acteur politique · 28/08/2026 à 14:44 · score `21`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Le Gouvernement wallon a adopté, ce jour, l’arrêté d’exécution permettant de pérenniser le Prêt Coup de Pouce. Dix ans après son lancement, le dispositif a démontré sa capacité à mobiliser...
+
+### [Trottinettes électriques d’une vitesse supérieure à 20 km/h: à partir du 1er septembre 2026, le port du casque devient obligatoire](http://mobilit.belgium.be/fr/news/trottinettes-electriques-dune-vitesse-superieure-20-kmh-partir-du-1er-septembre-2026-le-port)
+
+**SPF Mobilité et Transports** · source publique officielle · 28/08/2026 à 12:35 · score `21`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Ces dernières années, le nombre de trottinettes électriques en circulation dans notre pays a augmenté de manière exponentielle et ce particulièrement - mais pas uniquement - en milieu urbain où ce mode de déplacement est fort prisé. Bien que cette évolution constitue un succès modal indéniable qui oriente toute une série d’usagers de la voie publique vers l’usage d’un mode de transport plus durable et mieux adapté au contexte urbain, force est cependant de constater un revers de la médaille préoccupant en termes de sécurité routière: une augmentation significative des accidents de la route…
+
 ### [Tolérance zéro face aux violences contre les enseignants!](https://www.mr.be/tolerance-zero-face-aux-violences-contre-les-enseignants/)
 
-**Mouvement Réformateur** · acteur politique · 27/08/2026 à 15:16 · score `17`
+**Mouvement Réformateur** · acteur politique · 27/08/2026 à 15:16 · score `16`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : À l’école, l’autorité de l’enseignant doit être respectée. Dès le 1er septembre, le nouveau Code pénal renforcera la protection des enseignants et des membres du personnel scolaire victimes de violences...
-
-### [Cécile Neven veut tirer les enseignements de l’incendie des Hautes Fagnes pour l’avenir de Spa](https://www.mr.be/cecile-neven-veut-tirer-les-enseignements-de-lincendie-des-hautes-fagnes-pour-lavenir-de-spa/)
-
-**Mouvement Réformateur** · acteur politique · 27/08/2026 à 15:43 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Lors de l’incendie des Hautes Fagnes, l’aérodrome de Spa a joué un rôle important dans le déploiement des opérations aériennes et l’accueil des renforts européens. Cette semaine, Cécile Neven, Ministre...
-
-### [10 mesures pour renforcer la qualité de l’enseignement](https://www.mr.be/10-mesures-pour-renforcer-la-qualite-de-lenseignement/)
-
-**Mouvement Réformateur** · acteur politique · 27/08/2026 à 15:55 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : À l’occasion de la rentrée scolaire, Valérie Glatigny était l’invitée de plusieurs médias pour présenter les priorités de cette nouvelle année. Au cœur de celles-ci: la qualité de l’enseignement,...
 
 ### [Bons d'État - émission du 4 septembre 2026 - Résultat intermédiaire - Jour 2](https://news.belgium.be/fr/bons-detat-emission-du-4-septembre-2026-resultat-intermediaire-jour-2)
 
@@ -38,29 +54,21 @@ Générée à **11:46** (heure de Bruxelles) à partir de **36 éléments collec
 
 > Extrait fourni par la source : Campagne des Bons d'État du 4 septembre 2026 - Résultat intermédiaire
 
-### [Pascal Arimont und Jean-Paul Bastin zum Brand im Hohen Venn: „Wir brauchen eine Anerkennung für die Landwirte, die sich spontan engagiert haben“](https://www.csp-dg.be/single-post/pascal-arimont-und-jean-paul-bastin-zum-brand-im-hohen-venn-wir-brauchen-eine-anerkennung-f%C3%BCr-die)
+### [Comment transformer une plage en piste d’atterrissage pour un A400M?](https://www.mil.be/fr/news/comment-transformer-une-plage-en-piste-d-atterrissage-pour-un-a400m/)
 
-**CSP Ostbelgien** · acteur politique · 27/08/2026 à 00:00 · score `12`
+**Défense belge** · source publique officielle · 29/08/2026 à 00:51 · score `11`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; échéance ou publication future proche.
 
-> Extrait fourni par la source : Jean-Paul Bastin, Abgeordneter im Wallonischen Parlament und Bürgermeister von Malmedy (Les Engagés), und Pascal Arimont, CSP-Europaabgeordneter aus Büllingen, schlagen eine Anerkennung für die Landwirte vor, die sich beim Brand im Hohen Venn spontan an der Seite der Rettungskräfte engagiert haben.
+> Extrait fourni par la source : À Lakolk, au Danemark, des militaires belges ont démontré qu’un A400M pouvait opérer loin des infrastructures aéroportuaires classiques. Pendant trois jours, spécialistes du DATM, équipages du 15e Wing et para-commandos du 2e Bataillon de Commando se sont entraînés à reconnaître, préparer et exploiter une zone d’atterrissage en pleine nature: la plage.
 
-### [La Régie des Bâtiments achève la restauration de la façade avant du Palais de Justice de Bruxelles](https://news.belgium.be/fr/la-regie-des-batiments-acheve-la-restauration-de-la-facade-avant-du-palais-de-justice-de-bruxelles)
+### [Bibliothèque fermée du 7 au 10 septembre 2026 inclus](https://finances.belgium.be/fr/Actualites/biblioth%C3%A8que-ferm%C3%A9e-du-7-au-10-septembre-2026-inclus)
 
-**Presscenter fédéral** · source publique officielle · 27/08/2026 à 14:22 · score `10`
+**SPF Finances** · source publique officielle · 28/08/2026 à 00:00 · score `10`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 24 heures.
 
-> Extrait fourni par la source : Le jeudi 27 août 2026, la Régie des Bâtiments a organisé une cérémonie pour l’achèvement de la restauration de la façade avant du Palais de Justice de Bruxelles sur la place Poelaert. Les travaux ont débuté en août 2023 et sont à présent en grande partie achevés. Compte tenu des différentes vagues de chaleur survenues au cours de ces derniers mois d’été, certains travaux de finition nécessitent davantage de temps. L’accès principal situé place Poelaert sera remis en service au cours du mois de septembre 2026. La date précise sera communiquée par le SPF Justice.
-
-### [L’Année de Service Militaire débute aujourd’hui à la Marine](https://www.mil.be/fr/news/l-annee-de-service-militaire-debute-aujourd-hui-a-la-marine/)
-
-**Défense belge** · source publique officielle · 26/08/2026 à 23:51 · score `10`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : La Marine accueille, aujourd’hui à Sint-Kruis (Bruges), les 50 premiers volontaires de l’Année de Service Militaire: 33 jeunes néerlandophones et 17 jeunes francophones. C’est le coup d’envoi officiel de cette initiative de la Défense associant engagement citoyen et renforcement de la réserve.
+> Extrait fourni par la source : Du lundi 7 au jeudi 10 septembre 2026 inclus, la Bibliothèque sera fermée en raison d’une formation. Merci pour votre compréhension, Centre des Connaissances - Direction Bibliothèque
 
 ## Méthode et limites
 
