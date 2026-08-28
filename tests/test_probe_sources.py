@@ -46,6 +46,18 @@ class MetadataTests(unittest.TestCase):
         self.assertEqual(parser.feed_urls, ["https://example.org/feed.xml"])
         self.assertEqual(parser.time_values, ["2026-08-27T06:00:00+02:00"])
 
+    def test_discovers_feed_links_from_an_official_directory(self):
+        parser = MetadataHTMLParser("https://example.org/rss")
+        parser.feed(
+            '<a href="/rss">Répertoire RSS</a>'
+            '<a href="/rss/top_stories.xml">Actualité</a>'
+            '<a href="mailto:test@example.org">Contact</a>'
+        )
+        self.assertEqual(
+            parser.feed_urls,
+            ["https://example.org/rss/top_stories.xml"],
+        )
+
     def test_extracts_feed_count_and_latest_date(self):
         body = b"""<?xml version='1.0'?>
         <rss><channel>
