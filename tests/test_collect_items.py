@@ -1,7 +1,13 @@
 import unittest
 from datetime import datetime, timedelta, timezone
 
-from scripts.collect_items import apply_first_seen, parse_json_feed_items, parse_xml_items
+from scripts.collect_items import (
+    apply_first_seen,
+    parse_json_feed_items,
+    parse_semantic_html_items,
+    parse_wordpress_rest_items,
+    parse_xml_items,
+)
 from scripts.probe_sources import Endpoint
 
 
@@ -56,6 +62,24 @@ class FeedParsingTests(unittest.TestCase):
         body = b'{"items":[{"id":"1","url":"https://example.org/1","title":"JSON title","date_published":"2026-08-27T04:30:00Z"}]}'
         items = parse_json_feed_items(body, endpoint("json_feed"), SOURCE, "2026-08-27T05:00:00Z")
         self.assertEqual(items[0]["title"], "JSON title")
+
+    def test_parses_wordpress_rest_list(self):
+        body = b'''[{"id":42,"date_gmt":"2026-08-27T04:30:00","link":"https://example.org/decision","title":{"rendered":"Une &amp; decision"},"excerpt":{"rendered":"<p>Extrait public.</p>"}}]'''
+        items = parse_wordpress_rest_items(body, endpoint("wp_json"), SOURCE, "2026-08-27T05:00:00Z")
+        self.assertEqual(items[0]["title"], "Une & decision")
+        self.assertEqual(items[0]["summary"], "Extrait public.")
+        self.assertEqual(items[0]["published_at"], "2026-08-27T04:30:00Z")
+
+    def test_parses_only_dated_semantic_articles(self):
+        body = '''<main>
+        <article><a href="/categorie">Catégorie</a><a href="/one"><time datetime="2026-08-27T04:30:00Z"></time>
+        <h3>Decision avec <strong>impact</strong></h3><p>Un extrait court.</p></a></article>
+        <article><a href="/undated"><h3>Carte sans date</h3></a></article>
+        </main>'''.encode()
+        items = parse_semantic_html_items(body, endpoint("html_articles"), SOURCE, "2026-08-27T05:00:00Z")
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["title"], "Decision avec impact")
+        self.assertEqual(items[0]["url"], "https://example.org/one")
 
 
 class FirstSeenTests(unittest.TestCase):

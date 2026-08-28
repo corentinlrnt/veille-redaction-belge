@@ -121,7 +121,7 @@ def score_item(
     score = int(rules.get("source_class_weights", {}).get(str(item.get("source_class", "")), 1))
     reasons: list[str] = []
     if score > 1:
-        reasons.append("producteur à responsabilité publique ou collective")
+        reasons.append("producteur institutionnel ou collectif identifié")
 
     scope_weights = rules.get("scope_weights", {})
     weighted_scopes = sorted(
@@ -238,12 +238,24 @@ def format_date(value: object) -> str:
     return parsed.astimezone(BRUSSELS).strftime("%d/%m/%Y à %H:%M")
 
 
+def source_role(item: dict[str, object]) -> str:
+    """Rend explicite la position du producteur cité."""
+    roles = {
+        "official_public": "source publique officielle",
+        "political_actor": "acteur politique",
+        "social_partner": "partenaire social",
+        "civil_society": "organisation de la société civile",
+        "social_security_actor": "organisme assureur",
+    }
+    return roles.get(str(item.get("official_status", "")), "producteur identifié")
+
+
 def md_entry(item: dict[str, object]) -> list[str]:
     title = str(item["title"]).replace("[", "\\[").replace("]", "\\]")
     lines = [
         f"### [{title}]({item['url']})",
         "",
-        f"**{item['source_name']}** · {format_date(item.get('published_at') or item.get('first_seen_at'))} · score `{item['score']}`",
+        f"**{item['source_name']}** · {source_role(item)} · {format_date(item.get('published_at') or item.get('first_seen_at'))} · score `{item['score']}`",
         "",
         f"**Signal éditorial :** {' ; '.join(str(value) for value in item.get('score_reasons', [])) or 'actualité récente du périmètre'}.",
     ]
@@ -297,7 +309,7 @@ def render_markdown(
         [
             "## Méthode et limites",
             "",
-            "- seuls les flux structurés explicitement enregistrés sont collectés à ce stade ;",
+            "- seuls les flux et adaptateurs de listes explicitement validés sont collectés ;",
             "- les titres proches sont regroupés par similarité lexicale, sans interprétation sémantique ;",
             "- un extrait est affiché uniquement lorsqu'il est fourni dans le flux source ;",
             "- l'absence d'une source dans ce briefing peut provenir d'un flux indisponible ou non encore collectable.",
@@ -322,7 +334,7 @@ def html_entry(item: dict[str, object]) -> str:
         '<article class="item">'
         f'<div class="score">{int(item["score"])}</div>'
         f'<h3><a href="{html.escape(str(item["url"]), quote=True)}">{html.escape(str(item["title"]))}</a></h3>'
-        f'<p class="meta"><strong>{html.escape(str(item["source_name"]))}</strong> · {html.escape(format_date(item.get("published_at") or item.get("first_seen_at")))}</p>'
+        f'<p class="meta"><strong>{html.escape(str(item["source_name"]))}</strong> · {html.escape(source_role(item))} · {html.escape(format_date(item.get("published_at") or item.get("first_seen_at")))}</p>'
         f'<p><strong>Signal éditorial :</strong> {html.escape(reasons or "actualité récente du périmètre")}.</p>'
         f'{summary}{related_html}</article>'
     )
@@ -355,7 +367,7 @@ main{{max-width:780px;margin:auto;padding:20px 14px 56px}}header{{padding:18px 2
 </style></head><body><main><header><p class="intro">Briefing automatisé · {local.strftime('%H:%M')} · {collected_count} éléments collectés</p><h1>Veille rédaction belge<br>{html.escape(title_date)}</h1></header>
 <p class="warning">Pistes de traitement, pas faits validés pour diffusion. Chaque entrée conserve son lien source et un score explicable.</p>
 <h2>À regarder en priorité</h2>{priorities}{''.join(sections)}
-<footer>Collecte limitée aux flux structurés enregistrés. Aucun texte intégral n'est archivé. Généré par {GENERATOR}.</footer>
+<footer>Collecte limitée aux flux et adaptateurs de listes validés. Aucun texte intégral n'est archivé. Généré par {GENERATOR}.</footer>
 </main></body></html>"""
 
 

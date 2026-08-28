@@ -9,6 +9,7 @@ from scripts.probe_sources import (
     ProbeResult,
     build_summary,
     detect_format,
+    format_matches_expected,
     load_registry,
     newest_iso,
     parse_xml_metadata,
@@ -28,6 +29,11 @@ class FormatDetectionTests(unittest.TestCase):
 
     def test_detects_json(self):
         self.assertEqual(detect_format(b'{"items": []}', "text/plain"), "json")
+
+    def test_matches_explicit_adapter_formats(self):
+        self.assertTrue(format_matches_expected("wp_json", "json"))
+        self.assertTrue(format_matches_expected("html_articles", "html"))
+        self.assertFalse(format_matches_expected("html_articles", "rss"))
 
 
 class MetadataTests(unittest.TestCase):

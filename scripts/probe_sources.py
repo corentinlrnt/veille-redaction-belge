@@ -377,6 +377,22 @@ def detect_format(body: bytes, content_type: str) -> str:
     return "unknown"
 
 
+def format_matches_expected(expected: str, detected: str) -> bool:
+    """Compare le format reçu aux formats et adaptateurs déclarés.
+
+    ``wp_json`` et ``html_articles`` sont des adaptateurs de collecte opt-in :
+    le format de transport reste respectivement JSON et HTML.
+    """
+
+    return (
+        expected in {"", "auto"}
+        or detected == expected
+        or (expected == "xml" and detected in {"xml", "rss", "atom"})
+        or (expected == "wp_json" and detected == "json")
+        or (expected == "html_articles" and detected == "html")
+    )
+
+
 def parse_datetime(value: str) -> datetime | None:
     candidate = value.strip()
     if not candidate:
@@ -471,13 +487,8 @@ def probe_endpoint(
         result.bytes_read = len(response.body)
         result.truncated = response.truncated
         result.detected_format = detect_format(response.body, response.content_type)
-        result.format_matches_expected = (
-            endpoint.expected_format in {"", "auto"}
-            or result.detected_format == endpoint.expected_format
-            or (
-                endpoint.expected_format == "xml"
-                and result.detected_format in {"xml", "rss", "atom"}
-            )
+        result.format_matches_expected = format_matches_expected(
+            endpoint.expected_format, result.detected_format
         )
 
         if result.detected_format == "html":

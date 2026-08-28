@@ -15,13 +15,15 @@ Le briefing est un outil de présélection. Il ne valide pas un fait pour diffus
 
 Le score additionne des critères déclarés dans `data/editorial_rules.json` :
 
-1. responsabilité du producteur : parlement, juridiction, régulateur, institut statistique, partenaire social, organisme public ;
+1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, association ou parti ;
 2. nature du contenu : décision, arrêt, alerte, statistique, rapport, étude, avis, agenda ou communiqué ;
 3. fraîcheur de la publication ;
 4. signaux lexicaux multilingues : décision publique, effet concret sur la population, données, contrôle et droits, changement ou échéance ;
 5. minoration des contenus promotionnels, sportifs ou culturels sans enjeu public explicite.
 
 Chaque entrée affiche les raisons qui ont effectivement contribué à son score. Les règles sont modifiables sans changer le programme et feront l'objet des essais éditoriaux.
+
+Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs et sources publiques officielles.
 
 ## Classement
 
@@ -44,4 +46,4 @@ Les titres lexicalement très proches sont regroupés. Le rapprochement ne const
 
 ## Limites actuelles
 
-La collecte exploite les flux RSS, Atom et JSON Feed explicitement enregistrés. Les pages HTML sans flux et les réseaux sociaux ne sont pas encore interprétés. Le score lexical ne comprend ni l'ironie, ni le contexte politique, ni la portée réelle d'une annonce. Ces limites sont affichées dans chaque briefing.
+La collecte exploite les flux RSS, Atom et JSON Feed explicitement enregistrés. Deux adaptateurs supplémentaires sont volontaires : l'API REST publique de certains sites WordPress avec une liste de champs limitée, et les listes HTML dont chaque carte `<article>` contient un titre, un lien et une date sémantique. Le collecteur ne visite pas ensuite la page de l'article. Les autres pages HTML et les réseaux sociaux ne sont pas interprétés. Le score lexical ne comprend ni l'ironie, ni le contexte politique, ni la portée réelle d'une annonce. Ces limites sont affichées dans chaque briefing.

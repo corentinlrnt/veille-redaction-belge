@@ -46,15 +46,19 @@ Un inventaire juridique de tous les services et organismes ne garantit pas une v
 
 Les différences reflètent la répartition des compétences et la production publique réellement exploitable, pas une hiérarchie entre entités. La grille part des répertoires officiels des [acteurs publics wallons](https://www.wallonie.be/fr/acteurs-et-institutions/wallonie/autres-acteurs-publics-de-la-wallonie), des [administrations et institutions bruxelloises](https://be.brussels/fr/propos-de-la-region/structure-et-organisation/administrations-et-institutions-de-la-region), de la [structure de l'administration flamande](https://www.vlaanderen.be/uw-overheid/werking-en-structuur-van-de-vlaamse-overheid/structuur-van-de-vlaamse-overheid), du [portail de la Fédération Wallonie-Bruxelles](https://www.cfwb.be/) et des [compétences de la Communauté germanophone](https://www.ostbelgienlive.be/desktopdefault.aspx/tabid-506/).
 
-## Couches suivantes
+## Troisième couche : acteurs politiques et terrain
 
-Ces familles doivent disposer de leurs propres cibles avant d’être déclarées couvertes :
+Cette couche ne traite pas les organisations intéressées comme des autorités neutres. Elle garantit seulement qu'elles sont surveillées de manière équilibrée et que leur statut reste visible dans chaque piste.
 
-- organismes spécialisés non retenus dans le socle fonctionnel des régions et communautés ;
-- partis, groupes parlementaires, ministres et mandataires ;
-- partenaires sociaux, associations, collectifs et mouvements de terrain ;
-- provinces, grandes villes et communes selon une méthode d’échantillonnage explicite ;
-- presse francophone, néerlandophone et germanophone accessible publiquement ;
-- institutions européennes, pays voisins et sources internationales servant à détecter des angles transposables à la Belgique.
+| Groupe | Définition opérationnelle |
+| --- | --- |
+| Partis nationaux | Onze producteurs représentés au niveau fédéral ; DéFI est ajouté hors cible comme producteur régional |
+| Partis du Parlement flamand | Les huit choix proposés par le filtre officiel des représentants dont Team Fouad Ahidar |
+| Partis germanophones | Les six partis représentés au Parlement de la Communauté germanophone |
+| Partenaires sociaux | FGTB, CSC, CGSLB, FEB, UCM et UNIZO reliés par le Conseil national du Travail ; Voka est suivi en complément régional |
+| Pauvreté | Réseau wallon de lutte contre la pauvreté et Netwerk tegen Armoede |
+| Mutualités | Les cinq unions nationales et la CAAMI/HZIV ; cette cible ne prétend pas recenser tous les régimes particuliers d'assurance |
 
-Les quatre sources déjà enregistrées mais hors des cibles institutionnelles — le Presscenter fédéral, Testachats, la FGTB et la CSC — restent utiles. Elles ne sont simplement pas comptées comme preuve qu’une future couche est complète.
+Les références de périmètre sont la [Chambre](https://www.lachambre.be/), le [filtre des représentants du Parlement flamand](https://www.vlaamsparlement.be/nl/vlaamse-volksvertegenwoordigers-in-het-Vlaams-Parlement), le [Parlement de la Communauté germanophone](https://www.pdg.be/), les [liens du Conseil national du Travail](https://cnt-nar.be/fr/liens), les [réseaux reconnus par le Service de lutte contre la pauvreté](https://luttepauvrete.be/service/reseaux-belges-de-lutte-contre-la-pauvrete/) et l'[annuaire des mutualités de l'INAMI](https://www.inami.fgov.be/fr/professionnels/autres-professionnels/mutualites/contactez-les-mutualites).
+
+Les organisations de défense des droits et de l'environnement enregistrées forment un premier noyau éditorial, mais ne sont pas déclarées exhaustives faute de répertoire de référence unique. Les familles encore à construire sont notamment les provinces, villes et communes, la presse accessible publiquement, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique.
