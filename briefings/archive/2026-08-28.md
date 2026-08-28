@@ -1,6 +1,6 @@
 # Veille rédaction belge — 28 août 2026
 
-Générée à **10:54** (heure de Bruxelles) à partir de **35 éléments collectés**.
+Générée à **11:03** (heure de Bruxelles) à partir de **35 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
