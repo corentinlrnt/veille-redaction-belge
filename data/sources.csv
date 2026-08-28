@@ -172,5 +172,5 @@ vrt_nws,VRT NWS,news_media,communauté,Flandre|Bruxelles,nl,https://www.vrt.be/v
 brf_news,BRF Nachrichten,news_media,communauté,Communauté germanophone,de,https://brf.be/,editorial_media,2026-08-28,Média de service public germanophone; métadonnées publiques uniquement,open
 bruzz,BRUZZ,news_media,région,Bruxelles,nl|fr|en,https://www.bruzz.be/,editorial_media,2026-08-28,Média bruxellois multicanal; métadonnées publiques uniquement,open
 bx1,BX1,news_media,région,Bruxelles,fr,https://bx1.be/,editorial_media,2026-08-28,Média régional bruxellois; métadonnées publiques uniquement,open
-rtl_info,RTL info,news_media,national,Belgique,fr,https://www.rtl.be/actu/,editorial_media,2026-08-28,Rédaction audiovisuelle privée; métadonnées publiques uniquement,open
+rtl_info,RTL info,news_media,national,Belgique,fr,https://www.rtl.be/info,editorial_media,2026-08-28,Rédaction audiovisuelle privée; métadonnées publiques uniquement,open
 vtm_nieuws,VTM NIEUWS,news_media,national,Belgique,nl,https://vtm.be/vtm-nieuws,editorial_media,2026-08-28,Rédaction audiovisuelle privée; métadonnées publiques uniquement,open
