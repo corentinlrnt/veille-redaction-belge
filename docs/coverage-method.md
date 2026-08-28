@@ -79,4 +79,18 @@ Il n'existe pas de répertoire public unique permettant d'affirmer qu'une liste 
 
 Les sites du CFFB et du RWDH utilisent un pare-feu qui peut refuser les sondes automatisées. Ils restent inscrits pour matérialiser le périmètre, mais ne sont pas présentés comme collectables tant que l'accès n'est pas fiable. Le même principe vaut pour toute page sans flux structuré : elle est surveillée techniquement sans alimenter le briefing.
 
-Les organisations de défense des droits et de l'environnement déjà enregistrées complètent ce noyau sans prétention d'exhaustivité. Les familles encore à construire sont notamment les provinces, villes et communes, la presse accessible publiquement, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique.
+Les organisations de défense des droits et de l'environnement déjà enregistrées complètent ce noyau sans prétention d'exhaustivité.
+
+## Premier périmètre des médias belges
+
+Le fait qu'un article soit réservé aux abonnés n'efface pas le rôle de sa rédaction dans la formation de l'agenda. Le registre sépare donc l'accès public aux métadonnées du modèle commercial de l'article lié. Il ne conserve que le titre, le lien, la date, les catégories et le court extrait éventuellement fourni par un flux public. Il ne se connecte à aucun compte et ne contourne aucun paywall.
+
+| Groupe | Producteurs suivis | Référence de périmètre |
+| --- | --- | --- |
+| Quotidiens francophones et germanophone | Le Soir, La Libre Belgique, L'Avenir, Sudinfo, L'Echo, DH Les Sports+ et GrenzEcho | [Membres de La Presse.be](https://www.lapresse.be/membres/) |
+| Quotidiens néerlandophones | De Morgen, Het Laatste Nieuws, De Standaard, Het Nieuwsblad, Gazet van Antwerpen, Het Belang van Limburg et De Tijd | [Sept quotidiens recensés par Vlaamse Nieuwsmedia](https://www.vlaamsenieuwsmedia.be/nieuwsbedrijven/) |
+| Audiovisuel et Bruxelles | RTBF Info, VRT NWS, BRF Nachrichten, RTL info, VTM NIEUWS, BX1 et BRUZZ | Première sélection opérationnelle non exhaustive |
+
+Les deux groupes de quotidiens sont des cibles de couverture complètes parce que leurs listes de référence sont explicites. Le groupe audiovisuel et bruxellois reste une sélection de départ. Chaque média porte le statut `editorial_media`; les quotidiens sont marqués `mixed_paywall` afin que le briefing avertisse qu'un article peut être réservé. La présence d'un titre ne vaut ni corroboration du contenu ni caution éditoriale.
+
+Les familles encore à construire sont notamment les provinces, villes et communes, les magazines et médias d'enquête, la presse locale au-delà de ce premier noyau, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique.

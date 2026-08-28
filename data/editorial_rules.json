@@ -23,7 +23,8 @@
     "consultative_body": 3,
     "institution": 3,
     "public_body": 2,
-    "public_company": 2
+    "public_company": 2,
+    "news_media": 1
   },
   "scope_weights": {
     "alertes": 6,

@@ -53,9 +53,9 @@ jobs:
 
       - name: Afficher les synthèses
         run: |
-          cat reports/collection-summary.md >> "${GITHUB_STEP_SUMMARY}"
-          printf '\n' >> "${GITHUB_STEP_SUMMARY}"
-          cat briefings/latest.md >> "${GITHUB_STEP_SUMMARY}"
+          tee -a "${GITHUB_STEP_SUMMARY}" < reports/collection-summary.md
+          printf '\n' | tee -a "${GITHUB_STEP_SUMMARY}"
+          tee -a "${GITHUB_STEP_SUMMARY}" < briefings/latest.md
 
       - name: Publier le briefing et l'état
         if: github.event_name != 'pull_request'

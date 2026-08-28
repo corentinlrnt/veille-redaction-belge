@@ -93,6 +93,22 @@ class RankingTests(unittest.TestCase):
         document = render_markdown([scored], RULES, now, 1)
         self.assertIn("ordre professionnel", document)
 
+    def test_markdown_labels_media_and_possible_paywall(self):
+        now = datetime(2026, 8, 27, 6, tzinfo=timezone.utc)
+        scored = score_item(
+            item(
+                source_class="news_media",
+                official_status="editorial_media",
+                access_model="mixed_paywall",
+            ),
+            RULES,
+            now,
+        )
+        document = render_markdown([scored], RULES, now, 1)
+        self.assertIn("média d'information", document)
+        self.assertIn("article possiblement réservé aux abonnés", document)
+        self.assertIn("aucun paywall n'est contourné", document)
+
 
 if __name__ == "__main__":
     unittest.main()

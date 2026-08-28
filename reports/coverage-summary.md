@@ -1,12 +1,12 @@
 # Couverture déclarée
 
-Généré le `2026-08-28T13:40:37.792488Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-08-28T13:52:06.955593Z` par `veille-redaction-belge/coverage-0.1.0`.
 
-- Sources enregistrées : **154**
-- Points d'accès actifs : **184**
-- Cibles complètes : **21/21**
-- Sources requises distinctes : **132**
-- Sources hors des cibles actuelles : **22**
+- Sources enregistrées : **175**
+- Points d'accès actifs : **222**
+- Cibles complètes : **23/23**
+- Sources requises distinctes : **146**
+- Sources hors des cibles actuelles : **29**
 
 Une cible `complète` signifie seulement que chaque producteur attendu est inscrit et possède au moins un accès actif. La sonde de santé vérifie séparément si cet accès répond réellement.
 
@@ -33,3 +33,5 @@ Une cible `complète` signifie seulement que chaque producteur attendu est inscr
 | Unions nationales de mutualités et CAAMI | national | 6 | 6 | 6 | `complete` | — |
 | Réseaux régionaux de lutte contre la pauvreté | région | 2 | 2 | 2 | `complete` | — |
 | Fonctionnement judiciaire et professions | national | 4 | 4 | 4 | `complete` | — |
+| Quotidiens francophones et germanophone | national | 7 | 7 | 7 | `complete` | — |
+| Quotidiens néerlandophones | national | 7 | 7 | 7 | `complete` | — |

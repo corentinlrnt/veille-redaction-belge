@@ -15,7 +15,7 @@ Le briefing est un outil de présélection. Il ne valide pas un fait pour diffus
 
 Le score additionne des critères déclarés dans `data/editorial_rules.json` :
 
-1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, ordre professionnel, association ou parti ;
+1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, ordre professionnel, association, parti ou média ;
 2. nature du contenu : décision, arrêt, alerte, statistique, rapport, étude, avis, agenda ou communiqué ;
 3. fraîcheur de la publication ;
 4. signaux lexicaux multilingues : décision publique, effet concret sur la population, données, contrôle et droits, changement ou échéance ;
@@ -26,6 +26,8 @@ Chaque entrée affiche les raisons qui ont effectivement contribué à son score
 Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs, ordres professionnels et sources publiques officielles.
 
 Les coordinations de terrain sont utiles pour repérer un effet concret d'une politique ou une mobilisation, mais leur présence ne valide ni leurs chiffres ni leurs conclusions. Elles apparaissent comme « organisation de la société civile » et doivent être recoupées avec les textes publics, données, personnes concernées et points de vue contradictoires pertinents.
+
+Les publications de presse apparaissent comme « média d'information ». Leur poids de base reste faible : un sujet remonte par sa fraîcheur et ses signaux éditoriaux, pas par le seul prestige du titre. Pour un média marqué `mixed_paywall`, le briefing signale que l'article peut être réservé. La chaîne n'utilise que les métadonnées rendues publiques par le média et ne tente aucune authentification ni aucun contournement.
 
 ## Classement
 
@@ -42,6 +44,7 @@ Les titres lexicalement très proches sont regroupés. Le rapprochement ne const
 - aucun élément ne peut être affiché sans URL publique ;
 - les extraits sont identifiés comme fournis par la source ;
 - aucun texte intégral n'est archivé ;
+- un article de presse peut être payant mais son éventuelle restriction est signalée et jamais contournée ;
 - les erreurs de collecte restent visibles dans `reports/collection-summary.md` ;
 - une panne n'efface pas immédiatement les éléments datés encore valides récupérés lors du passage précédent ;
 - `robots.txt` est contrôlé avant la collecte.

@@ -7,7 +7,7 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 ## Principes de cette version
 
 - coût logiciel et hébergement : 0 € avec un dépôt GitHub public et GitHub Actions ;
-- sources publiques uniquement, sans compte, paywall, CAPTCHA ni contournement technique ;
+- points d'accès publics uniquement, sans compte ni CAPTCHA ; un lien de presse peut mener à un article payant mais aucun paywall n'est contourné ;
 - collecte limitée aux titres, liens, dates, catégories et courts extraits fournis dans les flux ;
 - aucun archivage systématique du texte intégral des articles ou communiqués ;
 - `robots.txt` est respecté lorsqu’il interdit explicitement un accès ;
@@ -18,7 +18,7 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 
 ## Contenu
 
-- `data/sources.csv` : producteurs d’information et provenance ;
+- `data/sources.csv` : producteurs d’information, provenance et modèle d'accès déclaré ;
 - `data/endpoints.csv` : pages, flux ou API à tester ;
 - `data/coverage_targets.csv` : groupes institutionnels attendus et références de périmètre ;
 - `data/editorial_rules.json` : catégories, seuils et signaux du score explicable ;
@@ -33,7 +33,7 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 - `.github/workflows/briefing.yml` : production quotidienne à 6 h, heure de Bruxelles ;
 - `.github/workflows/probe.yml` : contrôle quotidien des accès à 6 h 13.
 
-Le registre couvre désormais 154 producteurs et 184 points d'accès. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux, les cinq unions nationales de mutualités et la CAAMI/HZIV, un socle élargi consacré au fonctionnement et au contrôle de la justice, ainsi qu'un premier réseau bilingue d'organisations de terrain sur la migration, le logement, les familles, l'égalité et le handicap. Les 21 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
+Le registre couvre désormais 175 producteurs et 222 points d'accès. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux, les cinq unions nationales de mutualités et la CAAMI/HZIV, un socle élargi consacré au fonctionnement et au contrôle de la justice, un premier réseau bilingue d'organisations de terrain, ainsi que les 14 quotidiens belges francophones, germanophone et néerlandophones recensés par leurs associations d'éditeurs et sept médias audiovisuels ou bruxellois. Les 23 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
 
 ## Lancer localement
 
