@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/coverage-0.1.0",
-  "generated_at": "2026-08-28T09:02:55.821657Z",
+  "generated_at": "2026-08-28T09:40:07.989719Z",
   "summary": {
-    "registered_sources": 132,
-    "enabled_endpoints": 155,
-    "declared_targets": 20,
-    "complete_targets": 20,
+    "registered_sources": 139,
+    "enabled_endpoints": 167,
+    "declared_targets": 21,
+    "complete_targets": 21,
     "incomplete_targets": 0,
     "enforced_incomplete_targets": 0,
-    "unique_required_sources": 122,
+    "unique_required_sources": 129,
     "registered_outside_current_targets": 10
   },
   "registered_outside_current_targets": [
@@ -101,10 +101,10 @@
       "scope": "interfédéral",
       "enforced": true,
       "reference_url": "https://www.belgium.be/fr/la_belgique/pouvoirs_publics",
-      "notes": "Contre-pouvoirs publics indépendants avec production régulière",
-      "required_count": 5,
-      "present_count": 5,
-      "with_enabled_endpoint_count": 5,
+      "notes": "Contre-pouvoirs publics indépendants avec production régulière dont prisons police et droits humains",
+      "required_count": 8,
+      "present_count": 8,
+      "with_enabled_endpoint_count": 8,
       "missing_source_ids": [],
       "without_enabled_endpoint_source_ids": [],
       "complete": true
@@ -301,6 +301,20 @@
       "required_count": 2,
       "present_count": 2,
       "with_enabled_endpoint_count": 2,
+      "missing_source_ids": [],
+      "without_enabled_endpoint_source_ids": [],
+      "complete": true
+    },
+    {
+      "target_id": "justice_operations_and_professions",
+      "label": "Fonctionnement judiciaire et professions",
+      "scope": "national",
+      "enforced": true,
+      "reference_url": "https://www.belgium.be/fr/justice/organisation",
+      "notes": "Sélection opérationnelle du ministère public du siège et des deux ordres communautaires d'avocats",
+      "required_count": 4,
+      "present_count": 4,
+      "with_enabled_endpoint_count": 4,
       "missing_source_ids": [],
       "without_enabled_endpoint_source_ids": [],
       "complete": true

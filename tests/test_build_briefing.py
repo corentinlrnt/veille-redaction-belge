@@ -87,6 +87,12 @@ class RankingTests(unittest.TestCase):
         document = render_markdown([scored], RULES, now, 1)
         self.assertIn("acteur politique", document)
 
+    def test_markdown_labels_professional_orders(self):
+        now = datetime(2026, 8, 27, 6, tzinfo=timezone.utc)
+        scored = score_item(item(official_status="professional_order"), RULES, now)
+        document = render_markdown([scored], RULES, now, 1)
+        self.assertIn("ordre professionnel", document)
+
 
 if __name__ == "__main__":
     unittest.main()

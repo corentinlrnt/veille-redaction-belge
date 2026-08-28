@@ -246,6 +246,7 @@ def source_role(item: dict[str, object]) -> str:
         "social_partner": "partenaire social",
         "civil_society": "organisation de la société civile",
         "social_security_actor": "organisme assureur",
+        "professional_order": "ordre professionnel",
     }
     return roles.get(str(item.get("official_status", "")), "producteur identifié")
 
