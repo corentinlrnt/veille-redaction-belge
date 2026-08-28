@@ -139,13 +139,38 @@ class ProbeResult:
 
 
 class MetadataHTMLParser(HTMLParser):
-    """Extrait uniquement les flux déclarés et les dates de balises time."""
+    """Extrait les flux déclarés ou liés et les dates de balises time."""
 
     def __init__(self, base_url: str):
         super().__init__(convert_charrefs=True)
         self.base_url = base_url
         self.feed_urls: list[str] = []
         self.time_values: list[str] = []
+
+    def add_feed_url(self, href: str) -> None:
+        absolute = urllib.parse.urljoin(self.base_url, href)
+        parsed = urllib.parse.urlsplit(absolute)
+        if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+            return
+        base = urllib.parse.urlsplit(self.base_url)
+        if parsed._replace(fragment="") == base._replace(fragment=""):
+            return
+        if absolute not in self.feed_urls:
+            self.feed_urls.append(absolute)
+
+    @staticmethod
+    def looks_like_feed_link(href: str) -> bool:
+        path = urllib.parse.urlsplit(href).path.rstrip("/").lower()
+        return (
+            "/rss/" in path
+            or path.endswith("/rss")
+            or path.endswith("/rss.xml")
+            or "/feed/" in path
+            or path.endswith("/feed")
+            or path.endswith("/feed.xml")
+            or path.endswith(".atom")
+            or path.endswith(".atom.xml")
+        )
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         values = {key.lower(): (value or "") for key, value in attrs}
@@ -154,9 +179,11 @@ class MetadataHTMLParser(HTMLParser):
             mime = values.get("type", "").split(";", 1)[0].strip().lower()
             href = values.get("href", "").strip()
             if "alternate" in rel and href and mime in FEED_MIME_TYPES:
-                absolute = urllib.parse.urljoin(self.base_url, href)
-                if absolute not in self.feed_urls:
-                    self.feed_urls.append(absolute)
+                self.add_feed_url(href)
+        elif tag.lower() == "a":
+            href = values.get("href", "").strip()
+            if href and self.looks_like_feed_link(href):
+                self.add_feed_url(href)
         elif tag.lower() == "time":
             value = values.get("datetime", "").strip()
             if value:
