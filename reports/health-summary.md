@@ -1,18 +1,18 @@
 # Santé des accès
 
-Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-28T14:05:16.457984Z` par `veille-redaction-belge/0.1.0`.
 
-- Accès configurés et actifs : **184**
-- Accès testés : **184**
-- Accès opérationnels : **165**
-- Accès en erreur ou bloqués : **19**
-- Flux candidats découverts : **39**
+- Accès configurés et actifs : **218**
+- Accès testés : **218**
+- Accès opérationnels : **200**
+- Accès en erreur ou bloqués : **18**
+- Flux candidats découverts : **41**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
 | Académie de recherche et d'enseignement supérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Actiris | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Administration de la Fédération Wallonie-Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Administration de la Fédération Wallonie-Bruxelles | Actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale des médicaments et des produits de santé | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale pour la sécurité de la chaîne alimentaire | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -30,11 +30,16 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | AVOCATS.BE | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Banque nationale de Belgique | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bond Beter Leefmilieu | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| BRF Nachrichten | BRF Nachrichten | `ok` | 200 | `html → html` | `allowed` | 0 |
+| BRF Nachrichten | Flux BRF Nachrichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | BRUGEL | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Brupartners | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bruxelles Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| BRUZZ | Recent nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Calendrier | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| BX1 | Actualités de Bruxelles | `ok` | 200 | `html → html` | `allowed` | 2 |
+| BX1 | Flux BX1 | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | CAAMI-HZIV | Actualités pour les membres | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canopea | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -44,8 +49,8 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission wallonne pour l'Énergie | Documents récents | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Commission wallonne pour l'Énergie | Flux des documents récents | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -67,7 +72,15 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | CSP Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Lijn | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | De Lijn | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| De Morgen | Home en nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
+| De Morgen | In het nieuws | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| De Standaard | Binnenland | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| De Tijd | Algemeen nieuws | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| De Tijd | Home en nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
+| De Tijd | RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| DH Les Sports+ | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Défenseur des droits de l'enfant | Actualités et publications | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -76,14 +89,20 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
+| Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement wallon | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Greenpeace Belgique | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| GrenzEcho | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | GRIP | Recente artikels | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Groen | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Het Belang van Limburg | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Het Laatste Nieuws | Home en nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Het Laatste Nieuws | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Het Nieuwsblad | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | hub.brussels | Flux des actualités | `ok` | 200 | `rss → rss` | `unknown` | 0 |
 | hub.brussels | Presse | `ok` | 200 | `html → html` | `unknown` | 1 |
 | Institut belge des services postaux et des télécommunications | Informations consommateurs | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -98,7 +117,14 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | Institut wallon de l'évaluation de la prospective et de la statistique | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Kinderrechtencommissariaat | Adviezen | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Kinderrechtencommissariaat | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
+| L'Avenir | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| L'Echo | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| L'Echo | Répertoire des flux RSS | `ok` | 200 | `html → html` | `allowed` | 0 |
+| La Libre Belgique | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| La Libre Belgique | Flux Belgique | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Le Forem | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Le Soir | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Le Soir | Flux principal | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -138,6 +164,9 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | Rassemblement bruxellois pour le droit à l'habitat | Actualités et actions | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Rassemblement bruxellois pour le droit à l'habitat | Analyses et études | `ok` | 200 | `html → html` | `allowed` | 3 |
 | Rassemblement wallon pour le droit à l'habitat | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| RTBF Info | Accueil RTBF Info | `ok` | 200 | `html → html` | `allowed` | 0 |
+| RTBF Info | Flux RTBF Info | `ok` | 200 | `rss → rss` | `unknown` | 0 |
+| RTL info | RTL info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Réseau wallon de lutte contre la pauvreté | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Sciensano | Coin presse | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -167,6 +196,8 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | Statistiek Vlaanderen | Statistiek Vlaanderen | `ok` | 200 | `html → html` | `allowed` | 0 |
 | STIB | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | STIB | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Sudinfo | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Sudinfo | Flux principal | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Sénat de Belgique | Actualités institutionnelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Team Fouad Ahidar | Page publique Instagram | `blocked_by_robots` | — | `html → unknown` | `disallowed` | 0 |
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -190,6 +221,9 @@ Généré le `2026-08-28T13:42:26.102039Z` par `veille-redaction-belge/0.1.0`.
 | Vluchtelingenwerk Vlaanderen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Voka | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vooruit | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| VRT NWS | Flux VRT NWS | `ok` | 200 | `atom → atom` | `allowed` | 0 |
+| VRT NWS | VRT NWS | `ok` | 200 | `html → html` | `allowed` | 0 |
+| VTM NIEUWS | VTM NIEUWS | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Wallonie Entreprendre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Wallonie-Bruxelles Enseignement | Actualités | `blocked_by_robots` | — | `html → unknown` | `disallowed` | 0 |
 | Wirtschafts- und Sozialrat der Deutschsprachigen Gemeinschaft | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 1 |
