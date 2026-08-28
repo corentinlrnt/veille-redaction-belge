@@ -18,6 +18,7 @@
     "consumer_association": 3,
     "civil_society": 3,
     "health_insurer": 3,
+    "professional_body": 3,
     "political_party": 2,
     "consultative_body": 3,
     "institution": 3,
@@ -52,7 +53,7 @@
     {
       "id": "justice",
       "label": "Justice, droits et contrôle",
-      "source_classes": ["judiciary", "independent_public_body", "civil_society"],
+      "source_classes": ["judiciary", "independent_public_body", "civil_society", "professional_body"],
       "scopes": ["arrêts", "décisions", "alertes", "rapports", "recommandations", "droits", "justice"],
       "terms": ["justice", "tribunal", "cour", "arrêt", "jugement", "condamnation", "recours", "prison", "détention", "procureur", "enquête", "sanction", "fraude", "corruption", "droit", "liberté", "vie privée", "discrimination", "audit", "contrôle", "rechtbank", "hof", "arrest", "vonnis", "beroep", "gevangenis", "onderzoek", "sanctie", "fraude", "recht", "vrijheid", "discriminatie", "prüfung", "gericht", "urteil", "berufung", "gefängnis", "untersuchung", "sanktion", "recht", "freiheit"]
     },

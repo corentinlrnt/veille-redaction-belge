@@ -33,7 +33,7 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 - `.github/workflows/briefing.yml` : production quotidienne à 6 h, heure de Bruxelles ;
 - `.github/workflows/probe.yml` : contrôle quotidien des accès à 6 h 13.
 
-Le registre couvre désormais 132 producteurs. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux et organisations de terrain, ainsi que les cinq unions nationales de mutualités et la CAAMI/HZIV. Les 20 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
+Le registre couvre désormais 139 producteurs et 167 points d'accès. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux et organisations de terrain, les cinq unions nationales de mutualités et la CAAMI/HZIV, ainsi qu'un premier socle élargi consacré au fonctionnement et au contrôle de la justice. Les 21 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
 
 ## Lancer localement
 
@@ -104,7 +104,7 @@ Lorsque les rapports changent, le robot GitHub met à jour uniquement les six fi
 
 - les pages rendues uniquement en JavaScript peuvent répondre sans exposer leurs entrées ;
 - la découverte d’un flux ne garantit pas que celui-ci soit complet ou à jour ;
-- les vingt cibles mesurent des socles précis et non l’exhaustivité de l’écosystème d’information belge ;
+- les vingt et une cibles mesurent des socles précis et non l’exhaustivité de l’écosystème d’information belge ;
 - seules les sources disposant d'un flux ou d'un adaptateur de liste explicitement validé alimentent actuellement le briefing ;
 - les API REST WordPress ne livrent que les champs demandés et les adaptateurs HTML exigent des cartes `<article>` datées avec un lien et un titre ;
 - les autres pages HTML et les réseaux sociaux sont sondés mais ne sont pas encore interprétés ;

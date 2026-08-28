@@ -18,13 +18,17 @@ Le terme `complete` dans le rapport de couverture signifie uniquement que les de
 | Parlement fédéral | Chambre et Sénat |
 | Exécutifs fédérés | Gouvernements wallon, bruxellois, flamand, de la Fédération Wallonie-Bruxelles et germanophone |
 | Parlements fédérés | Assemblées correspondantes ; institutions flamandes communes à la région et à la communauté |
-| Justice | Trois hautes juridictions et Conseil supérieur de la Justice |
-| Contrôle et droits | Cour des comptes, Médiateur fédéral, APD, Unia et Myria |
+| Hautes juridictions et gouvernance judiciaire | Cour constitutionnelle, Conseil d'État, Cour de cassation et Conseil supérieur de la Justice |
+| Fonctionnement judiciaire | Ministère public et Collège des cours et tribunaux |
+| Contrôle et droits | Cour des comptes, Médiateur fédéral, APD, Unia, Myria, CCSP, IFDH et Comité P |
+| Professions de la justice | AVOCATS.BE et Orde van Vlaamse Balies, identifiés comme ordres professionnels et non comme sources publiques neutres |
 | Économie | BNB, Bureau du Plan, Statbel, SPF Économie et quatre régulateurs nationaux |
 | Protection sociale | SPF Sécurité sociale, ONEM, ONSS, INASTI, INAMI et Service fédéral des Pensions |
 | Santé | SPF Santé, Sciensano, KCE, AFMPS et AFSCA |
 
-Les références structurelles viennent notamment du [portail fédéral des SPF et SPP](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/autorites_federales/services_publics_federaux_et_de_programmation), de la présentation du [Parlement fédéral](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/autorites_federales/parlement_federal), de celle de la [Belgique fédérale](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/la_belgique_federale) et de l’[organisation de la justice](https://www.belgium.be/fr/justice/organisation). Chaque cible conserve sa propre URL de référence dans le fichier de données.
+Les références structurelles viennent notamment du [portail fédéral des SPF et SPP](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/autorites_federales/services_publics_federaux_et_de_programmation), de la présentation du [Parlement fédéral](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/autorites_federales/parlement_federal), de celle de la [Belgique fédérale](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/la_belgique_federale) et de l’[organisation de la justice](https://www.belgium.be/fr/justice/organisation). Le périmètre justice est précisé par les sites du [Ministère public](https://www.om-mp.be/fr), du [Collège des cours et tribunaux](https://www.rechtbanken-tribunaux.be/fr/college), du [CCSP](https://ccsp.belgium.be/), de l'[IFDH](https://institutfederaldroitshumains.be/fr), du [Comité P](https://comitep.be/index.html), d'[AVOCATS.BE](https://www.avocats.be/) et de l'[OVB](https://www.ordevanvlaamsebalies.be/). Chaque cible conserve sa propre URL de référence dans le fichier de données.
+
+Ce socle justice reste une sélection opérationnelle. Il ne transforme pas chaque communiqué de parquet en piste : les listes du Ministère public sont enregistrées mais ne sont pas extraites tant qu'un filtre fiable n'écarte pas les faits divers sans portée sociétale. Les pages sans flux structuré ou balisage sémantique sûr sont seulement sondées.
 
 ## Deuxième socle : fonctions des entités fédérées
 

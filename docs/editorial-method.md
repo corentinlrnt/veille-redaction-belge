@@ -15,7 +15,7 @@ Le briefing est un outil de présélection. Il ne valide pas un fait pour diffus
 
 Le score additionne des critères déclarés dans `data/editorial_rules.json` :
 
-1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, association ou parti ;
+1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, ordre professionnel, association ou parti ;
 2. nature du contenu : décision, arrêt, alerte, statistique, rapport, étude, avis, agenda ou communiqué ;
 3. fraîcheur de la publication ;
 4. signaux lexicaux multilingues : décision publique, effet concret sur la population, données, contrôle et droits, changement ou échéance ;
@@ -23,7 +23,7 @@ Le score additionne des critères déclarés dans `data/editorial_rules.json` :
 
 Chaque entrée affiche les raisons qui ont effectivement contribué à son score. Les règles sont modifiables sans changer le programme et feront l'objet des essais éditoriaux.
 
-Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs et sources publiques officielles.
+Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs, ordres professionnels et sources publiques officielles.
 
 ## Classement
 
