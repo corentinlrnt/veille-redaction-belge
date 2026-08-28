@@ -33,6 +33,7 @@ SOURCE = {
     "institution_level": "fédéral",
     "geography": "Belgique",
     "official_status": "official_public",
+    "access_model": "open",
 }
 
 
@@ -49,6 +50,7 @@ class FeedParsingTests(unittest.TestCase):
         self.assertEqual(items[0]["published_at"], "2026-08-27T04:30:00Z")
         self.assertEqual(items[0]["summary"], "Un court extrait.")
         self.assertEqual(items[0]["source_name"], "Source test")
+        self.assertEqual(items[0]["access_model"], "open")
 
     def test_parses_atom_alternate_link(self):
         body = b"""<feed xmlns='http://www.w3.org/2005/Atom'><entry>

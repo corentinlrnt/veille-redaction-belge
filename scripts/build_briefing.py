@@ -247,8 +247,16 @@ def source_role(item: dict[str, object]) -> str:
         "civil_society": "organisation de la société civile",
         "social_security_actor": "organisme assureur",
         "professional_order": "ordre professionnel",
+        "editorial_media": "média d'information",
     }
     return roles.get(str(item.get("official_status", "")), "producteur identifié")
+
+
+def access_notice(item: dict[str, object]) -> str:
+    """Signale une restriction éditoriale sans tenter de la contourner."""
+    if str(item.get("access_model", "")) == "mixed_paywall":
+        return " · article possiblement réservé aux abonnés"
+    return ""
 
 
 def md_entry(item: dict[str, object]) -> list[str]:
@@ -256,7 +264,7 @@ def md_entry(item: dict[str, object]) -> list[str]:
     lines = [
         f"### [{title}]({item['url']})",
         "",
-        f"**{item['source_name']}** · {source_role(item)} · {format_date(item.get('published_at') or item.get('first_seen_at'))} · score `{item['score']}`",
+        f"**{item['source_name']}** · {source_role(item)}{access_notice(item)} · {format_date(item.get('published_at') or item.get('first_seen_at'))} · score `{item['score']}`",
         "",
         f"**Signal éditorial :** {' ; '.join(str(value) for value in item.get('score_reasons', [])) or 'actualité récente du périmètre'}.",
     ]
@@ -313,6 +321,7 @@ def render_markdown(
             "- seuls les flux et adaptateurs de listes explicitement validés sont collectés ;",
             "- les titres proches sont regroupés par similarité lexicale, sans interprétation sémantique ;",
             "- un extrait est affiché uniquement lorsqu'il est fourni dans le flux source ;",
+            "- pour la presse, un lien peut mener à un article réservé aux abonnés ; aucun paywall n'est contourné ;",
             "- l'absence d'une source dans ce briefing peut provenir d'un flux indisponible ou non encore collectable.",
             "",
         ]
@@ -335,7 +344,7 @@ def html_entry(item: dict[str, object]) -> str:
         '<article class="item">'
         f'<div class="score">{int(item["score"])}</div>'
         f'<h3><a href="{html.escape(str(item["url"]), quote=True)}">{html.escape(str(item["title"]))}</a></h3>'
-        f'<p class="meta"><strong>{html.escape(str(item["source_name"]))}</strong> · {html.escape(source_role(item))} · {html.escape(format_date(item.get("published_at") or item.get("first_seen_at")))}</p>'
+        f'<p class="meta"><strong>{html.escape(str(item["source_name"]))}</strong> · {html.escape(source_role(item) + access_notice(item))} · {html.escape(format_date(item.get("published_at") or item.get("first_seen_at")))}</p>'
         f'<p><strong>Signal éditorial :</strong> {html.escape(reasons or "actualité récente du périmètre")}.</p>'
         f'{summary}{related_html}</article>'
     )

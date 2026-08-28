@@ -183,3 +183,37 @@ vrouwenraad_news,vrouwenraad,Nieuws,https://vrouwenraad.be/nieuws/,http_get,html
 cawab_news,cawab,Actualités,https://cawab.be/feed/,http_get,rss,actualités|avis|accessibilité|handicap,fr,true,2026-08-28,Flux RSS public déclaré par le portail du collectif
 grip_news,grip,Recente artikels,https://www.gripvzw.be/,http_get,html,actualités|droits|handicap|terrain,nl,true,2026-08-28,Page associative surveillée sans extraction des publications
 noozo_news,noozo,Nieuws,https://www.noozo.be/nl/nieuws/,http_get,html,actualités|avis|handicap|terrain,nl,true,2026-08-28,Page du conseil participatif surveillée sans extraction des avis
+le_soir_home,le_soir,Accueil et actualités,https://www.lesoir.be/,http_get,html,actualités|presse|Belgique,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+la_libre_home,la_libre,Accueil et actualités,https://www.lalibre.be/,http_get,html,actualités|presse|Belgique,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+lavenir_home,lavenir,Accueil et actualités,https://www.lavenir.net/,http_get,html,actualités|presse|terrain,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+sudinfo_home,sudinfo,Accueil et actualités,https://www.sudinfo.be/,http_get,html,actualités|presse|terrain,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+lecho_home,lecho,Accueil et actualités,https://www.lecho.be/,http_get,html,actualités|presse|économie,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+lecho_rss_directory,lecho,Répertoire des flux RSS,https://www.lecho.be/rss,http_get,html,actualités|presse|économie,fr,true,2026-08-28,Page publique officielle répertoriant les flux sans extraction automatique des articles
+dhnet_home,dhnet,Accueil et actualités,https://www.dhnet.be/,http_get,html,actualités|presse|Belgique,fr,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+grenzecho_home,grenzecho,Accueil et actualités,https://www.grenzecho.net/,http_get,html,actualités|presse|terrain,de,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+de_morgen_home,de_morgen,Home en nieuws,https://www.demorgen.be/,http_get,html,actualités|presse|Belgique,nl,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+hln_home,hln,Home en nieuws,https://www.hln.be/,http_get,html,actualités|presse|Belgique,nl,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+de_tijd_home,de_tijd,Home en nieuws,https://www.tijd.be/,http_get,html,actualités|presse|économie,nl,true,2026-08-28,Page publique surveillée; aucun article réservé n'est contourné
+de_tijd_rss_directory,de_tijd,RSS-feeds,https://www.tijd.be/rss,http_get,html,actualités|presse|économie,nl,true,2026-08-28,Page publique officielle répertoriant les flux sans extraction automatique des articles
+rtbf_info_home,rtbf_info,Accueil RTBF Info,https://www.rtbf.be/,http_get,html,actualités|presse|Belgique,fr,true,2026-08-28,Page publique surveillée pour comparaison et détection des sujets déjà traités
+vrt_nws_home,vrt_nws,VRT NWS,https://www.vrt.be/vrtnws/nl/,http_get,html,actualités|presse|Belgique,nl,true,2026-08-28,Page publique du média de service public néerlandophone
+brf_news_home,brf_news,BRF Nachrichten,https://brf.be/,http_get,html,actualités|presse|terrain,de,true,2026-08-28,Page publique du média de service public germanophone
+bruzz_home,bruzz,Recent nieuws,https://www.bruzz.be/recent,http_get,html,actualités|presse|terrain,nl|fr|en,true,2026-08-28,Page publique du média bruxellois sans extraction non validée
+bx1_home,bx1,Actualités de Bruxelles,https://bx1.be/,http_get,html,actualités|presse|terrain,fr,true,2026-08-28,Page publique du média bruxellois sans extraction non validée
+rtl_info_home,rtl_info,RTL info,https://www.rtl.be/info,http_get,html,actualités|presse|Belgique,fr,true,2026-08-28,Page publique de la rédaction audiovisuelle privée
+vtm_nieuws_home,vtm_nieuws,VTM NIEUWS,https://vtm.be/vtm-nieuws,http_get,html,actualités|presse|Belgique,nl,true,2026-08-28,Page publique de la rédaction audiovisuelle privée
+le_soir_rss,le_soir,Flux principal,https://www.lesoir.be/rss2/9/cible_principale,http_get,rss,actualités|presse|Belgique,fr,true,2026-08-28,Flux public candidat; titres liens dates et extraits fournis uniquement
+la_libre_rss,la_libre,Flux Belgique,https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/?outputType=xml,http_get,rss,actualités|presse|Belgique,fr,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+sudinfo_rss,sudinfo,Flux principal,https://www.sudinfo.be/rss2/2023/cible_principale_gratuit,http_get,rss,actualités|presse|terrain,fr,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+dhnet_rss,dhnet,Flux actualités,https://www.dhnet.be/arc/outboundfeeds/rss/section/actu/?outputType=xml,http_get,rss,actualités|presse|Belgique,fr,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+de_morgen_rss,de_morgen,In het nieuws,https://www.demorgen.be/in-het-nieuws/rss.xml,http_get,rss,actualités|presse|Belgique,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+hln_rss,hln,Nieuwsfeed,https://www.hln.be/home/rss.xml,http_get,rss,actualités|presse|Belgique,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+de_standaard_rss,de_standaard,Binnenland,https://www.standaard.be/binnenland/rss,http_get,rss,actualités|presse|Belgique,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+het_nieuwsblad_rss,het_nieuwsblad,Nieuwsfeed,https://www.nieuwsblad.be/rss/,http_get,rss,actualités|presse|terrain,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+gva_rss,gva,Nieuwsfeed,https://www.gva.be/rss,http_get,rss,actualités|presse|terrain,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+hbvl_rss,hbvl,Nieuwsfeed,https://www.hbvl.be/rss,http_get,rss,actualités|presse|terrain,nl,true,2026-08-28,Flux public candidat; aucun contenu réservé n'est contourné
+de_tijd_rss,de_tijd,Algemeen nieuws,https://www.tijd.be/rss/nieuws.xml,http_get,rss,actualités|presse|économie,nl,true,2026-08-28,Flux public officiel candidat; aucun contenu réservé n'est contourné
+rtbf_info_rss,rtbf_info,Flux RTBF Info,https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal,http_get,rss,actualités|presse|Belgique,fr,true,2026-08-28,Flux public candidat utilisé uniquement pour titres liens dates et extraits fournis
+vrt_nws_rss,vrt_nws,Flux VRT NWS,https://www.vrt.be/vrtnws/nl.rss.articles.xml,http_get,atom,actualités|presse|Belgique,nl,true,2026-08-28,Flux Atom public du média de service public néerlandophone
+brf_news_rss,brf_news,Flux BRF Nachrichten,https://brf.be/feed/,http_get,rss,actualités|presse|terrain,de,true,2026-08-28,Flux public du média de service public germanophone
+bx1_rss,bx1,Flux BX1,https://bx1.be/feed/,http_get,rss,actualités|presse|terrain,fr,true,2026-08-28,Flux public déclaré par le site du média bruxellois

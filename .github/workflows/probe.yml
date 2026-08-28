@@ -52,9 +52,11 @@ jobs:
 
       - name: Afficher les synthèses
         run: |
-          cat reports/coverage-summary.md >> "${GITHUB_STEP_SUMMARY}"
-          printf '\n' >> "${GITHUB_STEP_SUMMARY}"
-          cat reports/health-summary.md >> "${GITHUB_STEP_SUMMARY}"
+          tee -a "${GITHUB_STEP_SUMMARY}" < reports/coverage-summary.md
+          printf '\n' | tee -a "${GITHUB_STEP_SUMMARY}"
+          tee -a "${GITHUB_STEP_SUMMARY}" < reports/health-summary.md
+          echo "Flux candidats détaillés :"
+          jq -r '.results[] | select(.discovered_feeds | length > 0) | [.endpoint_id, (.discovered_feeds | join(" | "))] | @tsv' reports/health.json
 
       - name: Publier les nouveaux rapports
         if: github.event_name != 'pull_request'

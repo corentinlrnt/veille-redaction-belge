@@ -1,4 +1,4 @@
-source_id,name,source_class,institution_level,geography,languages,homepage_url,official_status,last_manual_check,notes
+source_id,name,source_class,institution_level,geography,languages,homepage_url,official_status,last_manual_check,notes,access_model
 federal_press,Presscenter fédéral,institution,fédéral,Belgique,fr|nl|de|en,https://news.belgium.be/fr,official_public,2026-08-27,Communiqués des autorités fédérales
 chamber,Chambre des représentants,parliament,fédéral,Belgique,fr|nl,https://www.lachambre.be/,official_public,2026-08-27,Agendas et travaux parlementaires
 walloon_government,Gouvernement wallon,institution,région,Wallonie,fr|de,https://www.wallonie.be/,official_public,2026-08-27,Communiqués et décisions
@@ -153,3 +153,24 @@ vrouwenraad,Nederlandstalige Vrouwenraad,civil_society,communauté,Flandre|Bruxe
 cawab,Collectif Accessibilité Wallonie Bruxelles,civil_society,interrégional,Wallonie|Bruxelles,fr,https://cawab.be/,civil_society,2026-08-28,Collectif d'associations produisant avis et retours de terrain sur l'accessibilité
 grip,GRIP,civil_society,communauté,Flandre|Bruxelles,nl,https://www.gripvzw.be/,civil_society,2026-08-28,Organisation de défense des droits dirigée vers et par les personnes en situation de handicap
 noozo,NOOZO,civil_society,communauté,Flandre|Bruxelles,nl,https://www.noozo.be/,civil_society,2026-08-28,Conseil flamand de participation des personnes en situation de handicap et avis issus de l'expérience vécue
+le_soir,Le Soir,news_media,national,Belgique,fr,https://www.lesoir.be/,editorial_media,2026-08-28,Quotidien membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+la_libre,La Libre Belgique,news_media,national,Belgique,fr,https://www.lalibre.be/,editorial_media,2026-08-28,Quotidien membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+lavenir,L'Avenir,news_media,région,Wallonie,fr,https://www.lavenir.net/,editorial_media,2026-08-28,Quotidien régional membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+sudinfo,Sudinfo,news_media,région,Wallonie|Bruxelles,fr,https://www.sudinfo.be/,editorial_media,2026-08-28,Réseau de quotidiens régionaux membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+lecho,L'Echo,news_media,national,Belgique,fr,https://www.lecho.be/,editorial_media,2026-08-28,Quotidien économique membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+dhnet,DH Les Sports+,news_media,national,Belgique,fr,https://www.dhnet.be/,editorial_media,2026-08-28,Quotidien membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+grenzecho,GrenzEcho,news_media,communauté,Communauté germanophone,de,https://www.grenzecho.net/,editorial_media,2026-08-28,Quotidien germanophone membre de La Presse.be; métadonnées publiques uniquement sans contournement,mixed_paywall
+de_morgen,De Morgen,news_media,national,Belgique,nl,https://www.demorgen.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+hln,Het Laatste Nieuws,news_media,national,Belgique,nl,https://www.hln.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+de_standaard,De Standaard,news_media,national,Belgique,nl,https://www.standaard.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+het_nieuwsblad,Het Nieuwsblad,news_media,national,Belgique,nl,https://www.nieuwsblad.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+gva,Gazet van Antwerpen,news_media,région,Flandre,nl,https://www.gva.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+hbvl,Het Belang van Limburg,news_media,région,Flandre,nl,https://www.hbvl.be/,editorial_media,2026-08-28,Quotidien recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+de_tijd,De Tijd,news_media,national,Belgique,nl,https://www.tijd.be/,editorial_media,2026-08-28,Quotidien économique recensé par Vlaamse Nieuwsmedia; métadonnées publiques uniquement sans contournement,mixed_paywall
+rtbf_info,RTBF Info,news_media,communauté,Wallonie|Bruxelles,fr,https://www.rtbf.be/,editorial_media,2026-08-28,Média de service public suivi pour repérer doublons et compléments; métadonnées publiques uniquement,open
+vrt_nws,VRT NWS,news_media,communauté,Flandre|Bruxelles,nl,https://www.vrt.be/vrtnws/nl/,editorial_media,2026-08-28,Média de service public néerlandophone; métadonnées publiques uniquement,open
+brf_news,BRF Nachrichten,news_media,communauté,Communauté germanophone,de,https://brf.be/,editorial_media,2026-08-28,Média de service public germanophone; métadonnées publiques uniquement,open
+bruzz,BRUZZ,news_media,région,Bruxelles,nl|fr|en,https://www.bruzz.be/,editorial_media,2026-08-28,Média bruxellois multicanal; métadonnées publiques uniquement,open
+bx1,BX1,news_media,région,Bruxelles,fr,https://bx1.be/,editorial_media,2026-08-28,Média régional bruxellois; métadonnées publiques uniquement,open
+rtl_info,RTL info,news_media,national,Belgique,fr,https://www.rtl.be/info,editorial_media,2026-08-28,Rédaction audiovisuelle privée; métadonnées publiques uniquement,open
+vtm_nieuws,VTM NIEUWS,news_media,national,Belgique,nl,https://vtm.be/vtm-nieuws,editorial_media,2026-08-28,Rédaction audiovisuelle privée; métadonnées publiques uniquement,open

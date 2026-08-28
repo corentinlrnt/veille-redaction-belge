@@ -252,6 +252,7 @@ def parse_xml_items(
                 "institution_level": source["institution_level"],
                 "geography": source["geography"],
                 "official_status": source["official_status"],
+                "access_model": source.get("access_model", ""),
                 "endpoint_id": endpoint.endpoint_id,
                 "endpoint_label": endpoint.label,
                 "content_scope": endpoint.content_scope,
@@ -298,6 +299,7 @@ def parse_json_feed_items(
                 "institution_level": source["institution_level"],
                 "geography": source["geography"],
                 "official_status": source["official_status"],
+                "access_model": source.get("access_model", ""),
                 "endpoint_id": endpoint.endpoint_id,
                 "endpoint_label": endpoint.label,
                 "content_scope": endpoint.content_scope,
@@ -354,6 +356,7 @@ def parse_wordpress_rest_items(
                 "institution_level": source["institution_level"],
                 "geography": source["geography"],
                 "official_status": source["official_status"],
+                "access_model": source.get("access_model", ""),
                 "endpoint_id": endpoint.endpoint_id,
                 "endpoint_label": endpoint.label,
                 "content_scope": endpoint.content_scope,
@@ -408,6 +411,7 @@ def parse_semantic_html_items(
                 "institution_level": source["institution_level"],
                 "geography": source["geography"],
                 "official_status": source["official_status"],
+                "access_model": source.get("access_model", ""),
                 "endpoint_id": endpoint.endpoint_id,
                 "endpoint_label": endpoint.label,
                 "content_scope": endpoint.content_scope,
@@ -587,7 +591,7 @@ def write_outputs(
     out_json.write_text(json.dumps(document, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     fields = [
         "item_id", "source_id", "source_name", "source_class", "institution_level",
-        "geography", "official_status", "endpoint_id", "endpoint_label", "content_scope",
+        "geography", "official_status", "access_model", "endpoint_id", "endpoint_label", "content_scope",
         "language", "title", "url", "summary", "published_at", "first_seen_at",
         "retrieved_at", "categories", "observation_status", "seen_count",
     ]

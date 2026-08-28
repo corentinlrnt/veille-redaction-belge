@@ -1,20 +1,23 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/coverage-0.1.0",
-  "generated_at": "2026-08-28T13:40:37.792488Z",
+  "generated_at": "2026-08-28T13:56:57.847490Z",
   "summary": {
-    "registered_sources": 154,
-    "enabled_endpoints": 184,
-    "declared_targets": 21,
-    "complete_targets": 21,
+    "registered_sources": 175,
+    "enabled_endpoints": 218,
+    "declared_targets": 23,
+    "complete_targets": 23,
     "incomplete_targets": 0,
     "enforced_incomplete_targets": 0,
-    "unique_required_sources": 132,
-    "registered_outside_current_targets": 22
+    "unique_required_sources": 146,
+    "registered_outside_current_targets": 29
   },
   "registered_outside_current_targets": [
     "amnesty_be",
     "bond_beter_leefmilieu",
+    "brf_news",
+    "bruzz",
+    "bx1",
     "canopea",
     "cawab",
     "cffb",
@@ -29,12 +32,16 @@
     "ligue_familles",
     "noozo",
     "rbdh",
+    "rtbf_info",
+    "rtl_info",
     "rwdh",
     "test_achats",
     "vlaams_huurdersplatform",
     "vluchtelingenwerk",
     "voka",
-    "vrouwenraad"
+    "vrouwenraad",
+    "vrt_nws",
+    "vtm_nieuws"
   ],
   "targets": [
     {
@@ -327,6 +334,34 @@
       "required_count": 4,
       "present_count": 4,
       "with_enabled_endpoint_count": 4,
+      "missing_source_ids": [],
+      "without_enabled_endpoint_source_ids": [],
+      "complete": true
+    },
+    {
+      "target_id": "fr_de_daily_press",
+      "label": "Quotidiens francophones et germanophone",
+      "scope": "national",
+      "enforced": true,
+      "reference_url": "https://www.lapresse.be/membres/",
+      "notes": "Titres et groupes de presse quotidienne recensés par La Presse.be; le paywall n'empêche pas la surveillance des métadonnées publiques",
+      "required_count": 7,
+      "present_count": 7,
+      "with_enabled_endpoint_count": 7,
+      "missing_source_ids": [],
+      "without_enabled_endpoint_source_ids": [],
+      "complete": true
+    },
+    {
+      "target_id": "nl_daily_press",
+      "label": "Quotidiens néerlandophones",
+      "scope": "national",
+      "enforced": true,
+      "reference_url": "https://www.vlaamsenieuwsmedia.be/nieuwsbedrijven/",
+      "notes": "Sept quotidiens payants recensés par Vlaamse Nieuwsmedia; le paywall n'empêche pas la surveillance des métadonnées publiques",
+      "required_count": 7,
+      "present_count": 7,
+      "with_enabled_endpoint_count": 7,
       "missing_source_ids": [],
       "without_enabled_endpoint_source_ids": [],
       "complete": true
