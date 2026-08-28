@@ -1,12 +1,12 @@
 # Couverture déclarée
 
-Généré le `2026-08-28T09:45:14.598864Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-08-28T13:27:28.026597Z` par `veille-redaction-belge/coverage-0.1.0`.
 
-- Sources enregistrées : **139**
-- Points d'accès actifs : **167**
+- Sources enregistrées : **154**
+- Points d'accès actifs : **184**
 - Cibles complètes : **21/21**
-- Sources requises distinctes : **129**
-- Sources hors des cibles actuelles : **10**
+- Sources requises distinctes : **132**
+- Sources hors des cibles actuelles : **22**
 
 Une cible `complète` signifie seulement que chaque producteur attendu est inscrit et possède au moins un accès actif. La sonde de santé vérifie séparément si cet accès répond réellement.
 
@@ -17,7 +17,7 @@ Une cible `complète` signifie seulement que chaque producteur attendu est inscr
 | Exécutifs des entités fédérées | interfédéral | 5 | 5 | 5 | `complete` | — |
 | Parlements des entités fédérées | interfédéral | 5 | 5 | 5 | `complete` | — |
 | Hautes juridictions et gouvernance judiciaire | fédéral | 4 | 4 | 4 | `complete` | — |
-| Contrôle public et droits | interfédéral | 8 | 8 | 8 | `complete` | — |
+| Contrôle public et droits | interfédéral | 11 | 11 | 11 | `complete` | — |
 | Économie statistiques et régulateurs | fédéral | 8 | 8 | 8 | `complete` | — |
 | Sécurité sociale et marché du travail | fédéral | 6 | 6 | 6 | `complete` | — |
 | Santé expertise et sécurité | fédéral | 5 | 5 | 5 | `complete` | — |

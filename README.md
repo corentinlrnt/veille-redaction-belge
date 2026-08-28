@@ -33,7 +33,7 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 - `.github/workflows/briefing.yml` : production quotidienne à 6 h, heure de Bruxelles ;
 - `.github/workflows/probe.yml` : contrôle quotidien des accès à 6 h 13.
 
-Le registre couvre désormais 139 producteurs et 167 points d'accès. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux et organisations de terrain, les cinq unions nationales de mutualités et la CAAMI/HZIV, ainsi qu'un premier socle élargi consacré au fonctionnement et au contrôle de la justice. Les 21 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
+Le registre couvre désormais 154 producteurs et 184 points d'accès. Aux institutions fédérales et interfédérales prioritaires et aux 38 producteurs fonctionnels des cinq entités fédérées s'ajoutent 19 partis ou mouvements politiques, des partenaires sociaux, les cinq unions nationales de mutualités et la CAAMI/HZIV, un socle élargi consacré au fonctionnement et au contrôle de la justice, ainsi qu'un premier réseau bilingue d'organisations de terrain sur la migration, le logement, les familles, l'égalité et le handicap. Les 21 cibles obligatoires définissent précisément ce que le mot « couvert » signifie. La [méthode de couverture](docs/coverage-method.md) distingue ces sélections opérationnelles d'un inventaire exhaustif.
 
 ## Lancer localement
 

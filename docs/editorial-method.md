@@ -25,6 +25,8 @@ Chaque entrée affiche les raisons qui ont effectivement contribué à son score
 
 Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs, ordres professionnels et sources publiques officielles.
 
+Les coordinations de terrain sont utiles pour repérer un effet concret d'une politique ou une mobilisation, mais leur présence ne valide ni leurs chiffres ni leurs conclusions. Elles apparaissent comme « organisation de la société civile » et doivent être recoupées avec les textes publics, données, personnes concernées et points de vue contradictoires pertinents.
+
 ## Classement
 
 Les éléments sont répartis entre trois domaines correspondant au service :

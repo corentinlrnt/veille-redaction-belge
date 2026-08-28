@@ -20,7 +20,7 @@ Le terme `complete` dans le rapport de couverture signifie uniquement que les de
 | Parlements fédérés | Assemblées correspondantes ; institutions flamandes communes à la région et à la communauté |
 | Hautes juridictions et gouvernance judiciaire | Cour constitutionnelle, Conseil d'État, Cour de cassation et Conseil supérieur de la Justice |
 | Fonctionnement judiciaire | Ministère public et Collège des cours et tribunaux |
-| Contrôle et droits | Cour des comptes, Médiateur fédéral, APD, Unia, Myria, CCSP, IFDH et Comité P |
+| Contrôle et droits | Cour des comptes, Médiateur fédéral, APD, Unia, Myria, CCSP, IFDH, Comité P, Institut pour l'égalité et défenseurs francophone et néerlandophone des droits de l'enfant |
 | Professions de la justice | AVOCATS.BE et Orde van Vlaamse Balies, identifiés comme ordres professionnels et non comme sources publiques neutres |
 | Économie | BNB, Bureau du Plan, Statbel, SPF Économie et quatre régulateurs nationaux |
 | Protection sociale | SPF Sécurité sociale, ONEM, ONSS, INASTI, INAMI et Service fédéral des Pensions |
@@ -65,4 +65,18 @@ Cette couche ne traite pas les organisations intéressées comme des autorités 
 
 Les références de périmètre sont la [Chambre](https://www.lachambre.be/), le [filtre des représentants du Parlement flamand](https://www.vlaamsparlement.be/nl/vlaamse-volksvertegenwoordigers-in-het-Vlaams-Parlement), le [Parlement de la Communauté germanophone](https://www.pdg.be/), les [liens du Conseil national du Travail](https://cnt-nar.be/fr/liens), les [réseaux reconnus par le Service de lutte contre la pauvreté](https://luttepauvrete.be/service/reseaux-belges-de-lutte-contre-la-pauvrete/) et l'[annuaire des mutualités de l'INAMI](https://www.inami.fgov.be/fr/professionnels/autres-professionnels/mutualites/contactez-les-mutualites).
 
-Les organisations de défense des droits et de l'environnement enregistrées forment un premier noyau éditorial, mais ne sont pas déclarées exhaustives faute de répertoire de référence unique. Les familles encore à construire sont notamment les provinces, villes et communes, la presse accessible publiquement, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique.
+## Noyau thématique de terrain
+
+Il n'existe pas de répertoire public unique permettant d'affirmer qu'une liste d'associations serait complète ou représentative de tous les courants. Ces producteurs sont donc enregistrés et étiquetés comme société civile, mais ne sont pas transformés en cible de couverture « complète ». Le premier noyau privilégie des coordinations, coupoles ou conseils participatifs qui agrègent plusieurs associations ou expériences de terrain.
+
+| Thème | Producteurs suivis |
+| --- | --- |
+| Asile et migration | CIRÉ et Vluchtelingenwerk Vlaanderen |
+| Droit au logement | RBDH-BBROW, RWDH et Vlaams Huurdersplatform |
+| Familles et enfance | Ligue des familles et Gezinsbond, en complément des deux défenseurs publics des droits de l'enfant |
+| Égalité femmes-hommes | CFFB et Vrouwenraad, en complément de l'Institut public pour l'égalité |
+| Handicap et accessibilité | CAWaB, GRIP et NOOZO |
+
+Les sites du CFFB et du RWDH utilisent un pare-feu qui peut refuser les sondes automatisées. Ils restent inscrits pour matérialiser le périmètre, mais ne sont pas présentés comme collectables tant que l'accès n'est pas fiable. Le même principe vaut pour toute page sans flux structuré : elle est surveillée techniquement sans alimenter le briefing.
+
+Les organisations de défense des droits et de l'environnement déjà enregistrées complètent ce noyau sans prétention d'exhaustivité. Les familles encore à construire sont notamment les provinces, villes et communes, la presse accessible publiquement, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique.
