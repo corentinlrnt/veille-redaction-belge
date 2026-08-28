@@ -1,16 +1,18 @@
 # Collecte des contenus structurés
 
-Généré le `2026-08-28T13:32:06.727566Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-08-28T13:41:21.671994Z` par `veille-redaction-belge/collector-0.1.0`.
 
-- Flux configurés : **30**
-- Flux collectés : **29**
+- Flux configurés : **34**
+- Flux collectés : **33**
 - Flux en erreur : **1**
-- Éléments conservés : **45**
+- Éléments conservés : **46**
 - Sources contributrices : **14**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
+| `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
+| `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
@@ -22,6 +24,7 @@ Généré le `2026-08-28T13:32:06.727566Z` par `veille-redaction-belge/collector
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
 | `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
 | `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
+| `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
@@ -32,6 +35,7 @@ Généré le `2026-08-28T13:32:06.727566Z` par `veille-redaction-belge/collector
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
 | `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
+| `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
 | `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
