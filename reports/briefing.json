@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-08-28T14:03:52.495040Z",
+  "generated_at": "2026-08-28T21:56:30.424262Z",
   "summary": {
-    "collected_items": 653,
+    "collected_items": 971,
     "selected_items": 36,
     "minimum_score": 10,
     "by_section": {
-      "economy": 7,
-      "politics": 23,
-      "justice": 6
+      "economy": 5,
+      "justice": 6,
+      "politics": 25
     }
   },
   "items": [
@@ -30,12 +30,12 @@
       "url": "https://www.cwape.be/documents-recents/octroi-dune-aide-aux-entreprises-en-compensation-des-couts-des-emissions-0",
       "summary": "Octroi d'une aide aux entreprises en compensation des coûts des émissions indirectes entre 2021 et 2030: avis sur un projet d’AGW modificatif acso 28-08-2026 Octroi d'une aide aux entreprises en compensation des coûts des émissions indirectes entre 2021 et 2030: avis sur un projet d’AGW modificatif 28-08-2026 À la demande du Cabinet du vice-Président de la Wallonie, Ministre de l'Économie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Agriculture, de l'Aménagement du territoire, de l'IFAPME et des Centres de compétence, la CWaPE a remis son avis succinct sur…",
       "published_at": "2026-08-28T13:19:01Z",
-      "retrieved_at": "2026-08-28T14:03:11.808183Z",
+      "retrieved_at": "2026-08-28T21:55:49.926242Z",
       "categories": [],
       "first_seen_at": "2026-08-28T13:32:06.723013Z",
       "observation_status": "existing",
-      "seen_count": 3,
-      "score": 25,
+      "seen_count": 4,
+      "score": 24,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 8,
@@ -46,8 +46,90 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "57acfab2bc80102b7eb30644",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Na aanleg permanente dam: nieuw plan goedgekeurd dat moet voorkomen dat vervuild water van 3M de Schelde instroomt",
+      "url": "https://vrtnws.be/p.oL1DyX838",
+      "summary": "In Zwijndrecht heeft chemiebedrijf 3M een permanente dam aangelegd om te voorkomen dat vervuild water, via de Palingbeek, de Schelde instroomt. Afvalstoffenmaatschappij OVAM heeft vervolgens goedgekeurd dat die dam ook een extra wand moet krijgen. Tegen dat plan kan er wel nog beroep aangetekend worden. De dam moet meegaan tot 2056.",
+      "published_at": "2026-08-28T15:21:40Z",
+      "retrieved_at": "2026-08-28T21:55:57.455586Z",
+      "categories": [],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 22,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "b84cb3688bf9dd623df171dc",
+      "source_id": "brf_news",
+      "source_name": "BRF Nachrichten",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Communauté germanophone",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "brf_news_rss",
+      "endpoint_label": "Flux BRF Nachrichten",
+      "content_scope": "actualités|presse|terrain",
+      "language": "de",
+      "title": "Inflation steigt im August auf fast vier Prozent",
+      "url": "https://brf.be/national/2104182/",
+      "summary": "Die Inflation ist im August von 3,56 auf 3,97 Prozent gestiegen. Das meldet die Statistikbehörde Statbel. Die wichtigsten Preisanstiege betrafen im August laut Statbel Gas, Heizöl, Kraftstoffe, Strom und Bekleidung. Die Preise für Flugreisen und Pauschalreisen sowie Haushaltsgeräte und Reparaturen hatten hingegen einen rückläufigen Effekt auf den Index, meldet Statbel. Die Kerninflation betrug im August […]",
+      "published_at": "2026-08-28T14:55:00Z",
+      "retrieved_at": "2026-08-28T21:55:57.859070Z",
+      "categories": [
+        "National",
+        "Statbel"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -68,7 +150,7 @@
       "url": "https://www.mr.be/revolution-dans-ladministration-jacqueline-galant-ouvre-les-portes-aux-meilleurs-talents-de-la-societe-civile/",
       "summary": "C’est un changement majeur pour la Wallonie et la Fédération Wallonie-Bruxelles. Avec l’adoption définitive de la réforme portée par Jacqueline Galant, la haute fonction publique s’ouvre désormais pleinement aux talents...",
       "published_at": "2026-08-28T13:01:24Z",
-      "retrieved_at": "2026-08-28T14:03:13.847263Z",
+      "retrieved_at": "2026-08-28T21:55:51.231443Z",
       "categories": [
         "A la Une",
         "Bonne gouvernance",
@@ -76,8 +158,8 @@
       ],
       "first_seen_at": "2026-08-28T13:32:06.723013Z",
       "observation_status": "existing",
-      "seen_count": 3,
-      "score": 21,
+      "seen_count": 4,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -88,7 +170,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "décision ou réforme publique"
       ],
       "related_items": []
@@ -110,14 +192,14 @@
       "url": "https://www.mr.be/pret-coup-de-pouce-un-mecanisme-renforce-et-perennise-au-service-des-entrepreneurs-wallons/",
       "summary": "Le Gouvernement wallon a adopté, ce jour, l’arrêté d’exécution permettant de pérenniser le Prêt Coup de Pouce. Dix ans après son lancement, le dispositif a démontré sa capacité à mobiliser...",
       "published_at": "2026-08-28T12:44:25Z",
-      "retrieved_at": "2026-08-28T14:03:13.847263Z",
+      "retrieved_at": "2026-08-28T21:55:51.231443Z",
       "categories": [
         "Communiqués"
       ],
       "first_seen_at": "2026-08-28T13:32:06.723013Z",
       "observation_status": "existing",
-      "seen_count": 3,
-      "score": 21,
+      "seen_count": 4,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -128,7 +210,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "décision ou réforme publique"
       ],
       "related_items": []
@@ -150,12 +232,12 @@
       "url": "http://mobilit.belgium.be/fr/news/trottinettes-electriques-dune-vitesse-superieure-20-kmh-partir-du-1er-septembre-2026-le-port",
       "summary": "Ces dernières années, le nombre de trottinettes électriques en circulation dans notre pays a augmenté de manière exponentielle et ce particulièrement - mais pas uniquement - en milieu urbain où ce mode de déplacement est fort prisé. Bien que cette évolution constitue un succès modal indéniable qui oriente toute une série d’usagers de la voie publique vers l’usage d’un mode de transport plus durable et mieux adapté au contexte urbain, force est cependant de constater un revers de la médaille préoccupant en termes de sécurité routière: une augmentation significative des accidents de la route…",
       "published_at": "2026-08-28T10:35:18Z",
-      "retrieved_at": "2026-08-28T14:03:10.208112Z",
+      "retrieved_at": "2026-08-28T21:55:47.975268Z",
       "categories": [],
       "first_seen_at": "2026-08-28T13:32:06.723013Z",
       "observation_status": "existing",
-      "seen_count": 3,
-      "score": 21,
+      "seen_count": 4,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -167,7 +249,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
@@ -195,9 +277,9 @@
         "Mon argent"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 21,
+      "score": 20,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 6,
@@ -208,7 +290,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
@@ -236,9 +318,9 @@
         "Monde"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 21,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -249,9 +331,49 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "2c051e818a0b7823bb988f0d",
+      "source_id": "fps_finance",
+      "source_name": "SPF Finances",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "finance_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués",
+      "language": "fr",
+      "title": "Nouveau Code pénal, entrée en vigueur le 1er septembre 2026",
+      "url": "https://finances.belgium.be/fr/Actualites/nouveau-code-p%C3%A9nal-entr%C3%A9e-en-vigueur-le-1er-septembre-2026",
+      "summary": "Le nouveau Code pénal belge entrera en vigueur le 1er septembre 2026 et est dès à présent disponible sur Fisconet plus. Il s'agit de la réforme la plus importante du droit pénal depuis 1867. Ce nouveau texte modernise en profondeur les règles pénales afin de mieux répondre aux réalités et aux enjeux de la société actuelle. En quelques mots Le nouveau Code pénal vise à rendre le droit pénal plus clair, plus cohérent et plus adapté aux réalités contemporaines. Il introduit notamment de nouvelles infractions, telles que l’écocide ou l’incitation au suicide, renforce certaines sanctions pour les…",
+      "published_at": "2026-08-27T22:00:00Z",
+      "retrieved_at": "2026-08-28T21:55:47.350154Z",
+      "categories": [],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -272,14 +394,14 @@
       "url": "https://www.mr.be/contrat-2035-faire-de-lenseignement-pour-adultes-un-moteur-de-lemploi/",
       "summary": "La Fédération Wallonie-Bruxelles entend jouer son rôle dans le cadre de l’augmentation du taux d’emploi portée aux différents niveaux de pouvoir. C’est pourquoi, sur proposition de la ministre de l’Éducation...",
       "published_at": "2026-08-28T13:52:33Z",
-      "retrieved_at": "2026-08-28T14:03:13.847263Z",
+      "retrieved_at": "2026-08-28T21:55:51.231443Z",
       "categories": [
         "Communiqués"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 20,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -290,7 +412,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "impact concret pour la population"
       ],
       "related_items": []
@@ -317,9 +439,9 @@
         "Knokke-Heist"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 20,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -330,9 +452,48 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e8e80daead43181fca155dd8",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "25 ans du 11-Septembre: Donald Trump a décidé de ne pas se rendre à New York, voici pourquoi",
+      "url": "https://www.sudinfo.be/id1186715/article/2026-08-28/25-ans-du-11-septembre-donald-trump-decide-de-ne-pas-se-rendre-new-york-voici",
+      "summary": "À l’occasion des 25 ans des attentats du 11-Septembre, Donald Trump ne participera pas aux commémorations à New York, laissant le vice-président JD Vance représenter le gouvernement lors des cérémonies officielles.",
+      "published_at": "2026-08-28T20:47:41Z",
+      "retrieved_at": "2026-08-28T21:55:54.705891Z",
+      "categories": [
+        "Monde"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
       ],
       "related_items": []
     },
@@ -370,9 +531,9 @@
         "réforme de l'enseignement"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 18,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -382,50 +543,8 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "26ebfe71cdc599009c6b6fe4",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Affaire Grégory Lenoci: Me Michel Degrève sera son nouvel avocat, une plainte contre l'Etat pour dysfonctionnement est à l'étude!",
-      "url": "https://www.dhnet.be/actu/faits/2026/08/27/affaire-gregory-lenoci-me-michel-degreve-sera-son-nouvel-avocat-une-plainte-contre-letat-pour-dysfonctionnement-est-a-letude-YSSSYK55GFEMXNXIGISDXN5NOY/",
-      "summary": "Condamné à 17 ans de prison pour tentative d’assassinat, Grégory Lenoci va faire appel de sa condamnation avec un nouveau conseil. Me Michel Degrève reprend sa défense, après le retrait de Me Etienne Gras. Un pénaliste déjà aguerri aux dossiers les plus sensibles....",
-      "published_at": "2026-08-27T09:49:28Z",
-      "retrieved_at": "2026-08-28T14:03:17.464466Z",
-      "categories": [
-        "Faits divers"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "evidence",
-        "accountability",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -451,9 +570,9 @@
         "Buitenland"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -464,7 +583,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "chiffres, étude ou évaluation",
         "agenda institutionnel proche"
       ],
@@ -476,6 +595,188 @@
           "url": "https://www.nieuwsblad.be/nieuws/vicevoorzitter-van-machtige-centrale-militaire-commissie-in-china-afgezet-na-corruptie-onderzoek/160655894.html"
         }
       ]
+    },
+    {
+      "item_id": "d75c914215ff596d560b540c",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "“Complete tijdverspilling”: Amerikaanse ambassadeur Bill White zet de toon voor ontmoeting met minister Prévot",
+      "url": "https://www.hbvl.be/binnenland/complete-tijdverspilling-amerikaanse-ambassadeur-bill-white-zet-de-toon-voor-ontmoeting-met-minister-prevot/160679558.html",
+      "summary": "De Amerikaanse ambassadeur Bill White heeft vrijdagavond opnieuw voor beroering gezorgd met een opvallend bericht op X. Daarin verklaart hij dat hij België recent “van een wereldwijde mediacrisis” heeft gered en koppelt hij dat meteen aan forse kritiek op een gepland overleg met minister van Buitenlandse Zaken Maxime Prévot.",
+      "published_at": "2026-08-28T21:25:05Z",
+      "retrieved_at": "2026-08-28T21:55:56.477245Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": [
+        {
+          "source_id": "gva",
+          "source_name": "Gazet van Antwerpen",
+          "title": "“Complete tijdverspilling”: Amerikaanse ambassadeur Bill White zet de toon voor ontmoeting met minister Prévot",
+          "url": "https://www.gva.be/binnenland/complete-tijdverspilling-amerikaanse-ambassadeur-bill-white-zet-de-toon-voor-ontmoeting-met-minister-prevot/160679127.html"
+        },
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "“Complete tijdverspilling”: Amerikaanse ambassadeur Bill White zet de toon voor ontmoeting met minister Prévot",
+          "url": "https://www.nieuwsblad.be/binnenland/complete-tijdverspilling-amerikaanse-ambassadeur-bill-white-zet-de-toon-voor-ontmoeting-met-minister-prevot/160679010.html"
+        }
+      ]
+    },
+    {
+      "item_id": "2c449b9579bfc5ac9af6d478",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "“De club hielp me in moeilijke tijden, dat stel ik hard op prijs”: Kevin Rodriguez verlengt tot 2029 bij Union",
+      "url": "https://www.gva.be/sport/sportregio/de-club-hielp-me-in-moeilijke-tijden-dat-stel-ik-hard-op-prijs-kevin-rodriguez-verlengt-tot-2029-bij-union/160676623.html",
+      "summary": "Na twee aanpassingsseizoenen kon Kevin Rodriguez vorig seizoen de netten 14 keer doen trillen voor Union. De Ecuadoraan vindt zichzelf nog geen afgewerkt product en kan dankzij een contractverlenging tot 2029 verder ontbolsteren in het Dudenpark. Zondag volgt de Brusselse derby tegen RSC Anderlecht. “Ik weet dat ik nog beter kan dan vorig seizoen”, klinkt het bij een zelfverzekerde 26-jarige Rodriguez.",
+      "published_at": "2026-08-28T18:58:00Z",
+      "retrieved_at": "2026-08-28T21:55:56.360481Z",
+      "categories": [
+        "Sportregio"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "“De club hielp me in moeilijke tijden, dat stel ik hard op prijs”: Kevin Rodriguez verlengt tot 2029 bij Union",
+          "url": "https://www.nieuwsblad.be/sport/sportregio/de-club-hielp-me-in-moeilijke-tijden-dat-stel-ik-hard-op-prijs-kevin-rodriguez-verlengt-tot-2029-bij-union/160671601.html"
+        },
+        {
+          "source_id": "hbvl",
+          "source_name": "Het Belang van Limburg",
+          "title": "“De club hielp me in moeilijke tijden, dat stel ik hard op prijs”: Kevin Rodriguez verlengt tot 2029 bij Union",
+          "url": "https://www.hbvl.be/sport/voetbal/de-club-hielp-me-in-moeilijke-tijden-dat-stel-ik-hard-op-prijs-kevin-rodriguez-verlengt-tot-2029-bij-union/160676624.html"
+        }
+      ]
+    },
+    {
+      "item_id": "98de7791f19880768dccc4eb",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Bijna 20 jaar na controle dan toch asbest gevonden in sporthal van Kampenhout: sanering begint volgende week",
+      "url": "https://vrtnws.be/p.5wjx5NooZ",
+      "summary": "In de sporthal van Kampenhout beginnen maandag werken om asbesthoudende platen te verwijderen in de danszaal en de cafetaria. Dat is opmerkelijk, want bijna 20 jaar geleden, in 2007, werd de sporthal nog asbestvrij verklaard. Maar een nieuwe medewerker van de gemeente had daar bedenkingen bij, en daarom werd vorige maand een nieuw asbestonderzoek uitgevoerd.",
+      "published_at": "2026-08-28T14:54:40Z",
+      "retrieved_at": "2026-08-28T21:55:57.455586Z",
+      "categories": [],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8cc57d300a7cbddc10071561",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Condamnation pour deux viols, drogue, affaire Epstein: la vie mouvementée autour du nouveau roi de Norvège",
+      "url": "https://www.dhnet.be/actu/monde/2026/08/28/condamnation-pour-deux-viols-drogue-affaire-epstein-la-vie-mouvementee-autour-du-nouveau-roi-de-norvege-AXAPEG44AZHCRLHY364Q7JWN2Q/",
+      "summary": "Si Haakon VIII, prince héritier devenu roi de Norvège ce vendredi, a tout du monarque modèle, plusieurs membres de sa famille sont empêtrés dans de lourdes polémiques....",
+      "published_at": "2026-08-28T14:36:31Z",
+      "retrieved_at": "2026-08-28T21:55:54.854009Z",
+      "categories": [
+        "Monde"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
     },
     {
       "item_id": "5389e291ba742d8e6dccbbdc",
@@ -499,9 +800,9 @@
         "Brugge"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -511,7 +812,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "décision ou réforme publique"
       ],
       "related_items": []
@@ -533,14 +834,14 @@
       "url": "https://www.dhnet.be/actu/belgique/2026/08/28/un-conducteur-interpelle-par-des-policiers-lourdement-armes-dans-un-carrefour-cetait-dans-le-cadre-dune-enquete-antidrogue-menee-depuis-bruxelles-B6CED4M57VA6PGTYSWBDYF6SBU/",
       "summary": "L’homme a été arrêté par la police en plein milieu de la circulation....",
       "published_at": "2026-08-28T06:11:15Z",
-      "retrieved_at": "2026-08-28T14:03:17.464466Z",
+      "retrieved_at": "2026-08-28T21:55:54.854009Z",
       "categories": [
         "Belgique"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 2,
@@ -550,7 +851,7 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation"
       ],
@@ -573,12 +874,12 @@
       "url": "https://www.rtbf.be/article/nouveau-code-penal-logopedie-en-visio-avoirs-dormants-voici-ce-qui-change-ce-1er-septembre-11775967",
       "summary": "Le nouveau Code pénal entre en vigueur le 1er septembre, près de 160 ans après l’adoption de son prédécesseur. Le...",
       "published_at": "2026-08-28T05:00:29Z",
-      "retrieved_at": "2026-08-28T14:03:19.358990Z",
+      "retrieved_at": "2026-08-28T21:55:57.315762Z",
       "categories": [],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 0,
@@ -588,7 +889,7 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
@@ -611,12 +912,12 @@
       "url": "https://www.rtbf.be/article/nouvelle-philosophie-nouvelles-incriminations-plus-de-lisibilite-le-nouveau-code-penal-entre-en-vigueur-ce-1er-septembre-11693284",
       "summary": "Après dix ans de travaux et un report décidé en avril dernier, le nouveau Code pénal entre finalement en vigueur ce...",
       "published_at": "2026-08-28T04:04:43Z",
-      "retrieved_at": "2026-08-28T14:03:19.358990Z",
+      "retrieved_at": "2026-08-28T21:55:57.315762Z",
       "categories": [],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 0,
@@ -626,8 +927,138 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c2367b7ac32770df169448f9",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "ONS KRC GENK-RAPPORT. “Met een spits die elke week scoort, moet het toch gewoon goedkomen”",
+      "url": "https://www.nieuwsblad.be/sport/sportregio/ons-krc-genk-rapport.-met-een-spits-die-elke-week-scoort-moet-het-toch-gewoon-goedkomen/160679485.html",
+      "summary": "Er was vrijdagavond meer dan één uitblinker bij KRC Genk, dat de vloer aanveegde met SK Beveren. Maar als we er toch eentje moeten uitpikken, dan gaan we voor een blonde Bilzenaar.",
+      "published_at": "2026-08-28T21:19:44Z",
+      "retrieved_at": "2026-08-28T21:55:55.734505Z",
+      "categories": [
+        "Sportregio"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "bc4cccb26babef1eb8cdd091",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "TV-RAPPORT. ‘Happy hour’ met Ruben Van Gucht ging alle kanten op: “Even dreigde er een interessant gesprek te ontstaan…”",
+      "url": "https://www.gva.be/media-en-cultuur/tv-en-radio/tv-rapport.-happy-hour-met-ruben-van-gucht-ging-alle-kanten-op-even-dreigde-er-een-interessant-gesprek-te-ontstaan.../160678622.html",
+      "summary": "Ruben Van Gucht heeft een podcast gemaakt, en VTM ervan overtuigd dat het een goed idee is die op vrijdagavond uit te zenden. ‘Happy hour’ is een talkshow waarin veel gepraat, maar weinig gezegd wordt.",
+      "published_at": "2026-08-28T20:45:34Z",
+      "retrieved_at": "2026-08-28T21:55:56.360481Z",
+      "categories": [
+        "TV en Radio"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": [
+        {
+          "source_id": "hbvl",
+          "source_name": "Het Belang van Limburg",
+          "title": "TV-RAPPORT. ‘Happy hour’ met Ruben Van Gucht ging alle kanten op: “Even dreigde er een interessant gesprek te ontstaan…”",
+          "url": "https://www.hbvl.be/media-en-cultuur/tv-rapport.-happy-hour-met-ruben-van-gucht-ging-alle-kanten-op-even-dreigde-er-een-interessant-gesprek-te-ontstaan.../160678623.html"
+        },
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "TV-RAPPORT. ‘Happy hour’ met Ruben Van Gucht ging alle kanten op: “Even dreigde er een interessant gesprek te ontstaan…”",
+          "url": "https://www.nieuwsblad.be/media-en-cultuur/tv-en-radio/tv-rapport.-happy-hour-met-ruben-van-gucht-ging-alle-kanten-op-even-dreigde-er-een-interessant-gesprek-te-ontstaan.../160652175.html"
+        }
+      ]
+    },
+    {
+      "item_id": "025fd9503946323240586f0e",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Achter de vloedgolf schuilt een nieuw gevaar voor Nepal: “Die meren zijn enorm instabiel”",
+      "url": "https://www.hbvl.be/buitenland/achter-de-vloedgolf-schuilt-een-nieuw-gevaar-voor-nepal-die-meren-zijn-enorm-instabiel/160674994.html",
+      "summary": "In de grensregio tussen Tibet en Nepal is het gevaar nog altijd niet geweken. Twee onstabiele meren en regenval in de komende dagen doen vrezen voor een nieuwe overstroming. Volgens de Nepalese overheid is het gevaar pas geweken als de meren zijn leeggelopen.",
+      "published_at": "2026-08-28T18:03:05Z",
+      "retrieved_at": "2026-08-28T21:55:56.477245Z",
+      "categories": [
+        "Buitenland"
+      ],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
         "changement, alerte ou échéance"
       ],
       "related_items": []
@@ -649,16 +1080,16 @@
       "url": "https://bx1.be/categories/news/les-touristes-americains-ont-le-plus-depense-a-bruxelles-cet-ete/",
       "summary": "Les touristes américains ont largement dominé les dépenses des visiteurs étrangers à Bruxelles cet été. Une commune fait toutefois exception. Les touristes américains ont particulièrement profité de leur séjour à Bruxelles cet été. Ils sont à l’origine de 43% des dépenses réalisées par les visiteurs étrangers dans la Région bruxelloise, selon une analyse du prestataire de … lire plus",
       "published_at": "2026-08-28T13:35:33Z",
-      "retrieved_at": "2026-08-28T14:03:19.625714Z",
+      "retrieved_at": "2026-08-28T21:55:57.924172Z",
       "categories": [
         "News",
         "Tourisme",
         "Économie"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 15,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 4,
@@ -668,56 +1099,10 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "chiffres, étude ou évaluation"
       ],
       "related_items": []
-    },
-    {
-      "item_id": "26ed86016f775e3ad3846faf",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Drugs, ondermaatse brandveiligheid en slechte hygiëne: politie verzegelt café Las Vegas in Borgerhout",
-      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/drugs-ondermaatse-brandveiligheid-en-slechte-hygiene-politie-verzegelt-cafe-las-vegas-in-borgerhout/160639369.html",
-      "summary": "De Antwerpse politie heeft donderdag café Las Vegas op de Gitschotellei in Borgerhout verzegeld na een uitgebreide controle. “Van brandveiligheid was nauwelijks sprake en de hygiëne liet te wensen over”, zegt de politie, die ook drugs vond in de zaak.",
-      "published_at": "2026-08-28T13:09:15Z",
-      "retrieved_at": "2026-08-28T14:03:18.102108Z",
-      "categories": [
-        "Antwerpen"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": [
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Drugs, ondermaatse brandveiligheid en slechte hygiëne: politie verzegelt café Las Vegas in Borgerhout",
-          "url": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/drugs-ondermaatse-brandveiligheid-en-slechte-hygiene-politie-verzegelt-cafe-las-vegas-in-borgerhout/160654310.html"
-        }
-      ]
     },
     {
       "item_id": "42702e3815a323db448a7950",
@@ -742,9 +1127,9 @@
         "avis de disparition"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -754,47 +1139,8 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3ea42b00112ff63b8ade9b89",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Vanaf 1 september helm verplicht op elektrische step die sneller kan dan 20 km/u: “Vaak hersenletsels bij ernstige ongevallen”",
-      "url": "https://www.gva.be/binnenland/vanaf-1-september-helm-verplicht-op-elektrische-step-die-sneller-kan-dan-20-kmu-vaak-hersenletsels-bij-ernstige-ongevallen/160649763.html",
-      "summary": "Vanaf 1 september is het dragen van een helm verplicht op elektrische steps die sneller kunnen rijden dan 20 kilometer per uur. Dat heeft de federale overheidsdienst Mobiliteit vrijdag meegedeeld.",
-      "published_at": "2026-08-28T12:19:36Z",
-      "retrieved_at": "2026-08-28T14:03:18.102108Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -822,9 +1168,9 @@
         "Top News"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -834,7 +1180,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "impact concret pour la population"
       ],
       "related_items": []
@@ -856,14 +1202,14 @@
       "url": "https://www.rtbf.be/article/mise-en-orbite-reussie-pour-le-nouveau-satellite-meteo-mtg-i2-11717354",
       "summary": "Imposant et technologiquement avancé, MTG-I2 marque un vrai changement par rapport à la génération précédente de...",
       "published_at": "2026-08-28T10:32:47Z",
-      "retrieved_at": "2026-08-28T14:03:19.358990Z",
+      "retrieved_at": "2026-08-28T21:55:57.315762Z",
       "categories": [
         "LA UNE"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 0,
@@ -873,327 +1219,9 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "chiffres, étude ou évaluation",
         "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "081c32e172d6e9af77fc9e56",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Mort du petit Émile: 106 prélèvements ADN réalisés, aucun ne correspond à ceux sur les vêtements de l’enfant",
-      "url": "https://www.sudinfo.be/id1186398/article/2026-08-28/mort-du-petit-emile-106-prelevements-adn-realises-aucun-ne-correspond-ceux-sur",
-      "summary": "Les 106 prélèvements ADN réalisés dans le cadre de l’enquête sur la mort d’Émile n’ont donné aucun résultat probant. En effet, aucun ne correspond aux traces étrangères à la famille retrouvées sur les vêtements de l’enfant.",
-      "published_at": "2026-08-28T09:40:31Z",
-      "retrieved_at": "2026-08-28T14:03:17.045284Z",
-      "categories": [
-        "France"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "e5b1a07de5d01d0aee117427",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Inflatie stijgt weer richting 4 procent: energieproducten en harde schijven duurder",
-      "url": "https://www.hbvl.be/economie/inflatie-stijgt-weer-richting-4-procent-energieproducten-en-harde-schijven-duurder/160638255.html",
-      "summary": "De inflatie is in augustus voor de tweede maand op rij versneld. De consumptieprijzen gingen in een jaar tijd 3,97 procent hoger, zegt statistiekbureau Statbel.",
-      "published_at": "2026-08-28T09:37:23Z",
-      "retrieved_at": "2026-08-28T14:03:18.507263Z",
-      "categories": [
-        "Economie"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "b92a0f8bc1cfd92e7fd10bac",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "OPROEP. Terug naar school: is 1 september voor jou extra bijzonder?",
-      "url": "https://www.hbvl.be/nieuws/oproep.-terug-naar-school-is-1-september-voor-jou-extra-bijzonder/159932903.html",
-      "summary": "Voor veel leerlingen en leerkrachten betekent 1 september de start van een nieuw schooljaar. Nieuwe klasgenoten, nieuwe lessen en misschien ook een gezonde portie zenuwen op die allereerste schooldag. Maar voor sommige mensen wordt die terugkeer naar school extra bijzonder.",
-      "published_at": "2026-08-28T13:49:10Z",
-      "retrieved_at": "2026-08-28T14:03:18.507263Z",
-      "categories": [
-        "Nieuws"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3f670f88a72d371fa5648253",
-      "source_id": "brf_news",
-      "source_name": "BRF Nachrichten",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "brf_news_rss",
-      "endpoint_label": "Flux BRF Nachrichten",
-      "content_scope": "actualités|presse|terrain",
-      "language": "de",
-      "title": "Ab September Helmpflicht für Elektroroller mit Höchstgeschwindigkeit von über 20 km/h",
-      "url": "https://brf.be/national/2104154/",
-      "summary": "Ab dem 1. September müssen Personen, die auf einem Elektroroller unterwegs sind, der schneller als 20 Kilometer pro Stunde fahren kann, einen Helm tragen. Dabei haben sie die Wahl zwischen einen Motorradhelm und einem Fahrradhelm. Das hat der Föderale Öffentliche Dienst Mobilität bekannt gegeben. Roller, deren Höchstgeschwindigkeit unter diesem Wert liegt, sind von der Helmpflicht […]",
-      "published_at": "2026-08-28T13:34:00Z",
-      "retrieved_at": "2026-08-28T14:03:19.510272Z",
-      "categories": [
-        "National",
-        "Top News"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "a9f24332397f9e1472caeac6",
-      "source_id": "het_nieuwsblad",
-      "source_name": "Het Nieuwsblad",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "het_nieuwsblad_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Nieuw erfgoedbord aan zorgsite herinnert aan klooster van weleer: “Moment waarop verleden en heden elkaar ontmoeten”",
-      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/haaltert/nieuw-erfgoedbord-aan-zorgsite-herinnert-aan-klooster-van-weleer-moment-waarop-verleden-en-heden-elkaar-ontmoeten/160625235.html",
-      "summary": "Aan woonzorgcentrum Sint-Jozef in Haaltert is vrijdag een nieuw erfgoedbord onthuld. De Heemkundige Kring Haaltert wil hiermee de lokale geschiedenis van de huidige zorgsite in het straatbeeld verankeren. “De wortels van dit woonzorgcentrum reiken terug naar het einde van de 19de eeuw”, zegt voorzitter Mark Beelaert.",
-      "published_at": "2026-08-28T13:00:00Z",
-      "retrieved_at": "2026-08-28T14:03:17.890939Z",
-      "categories": [
-        "Haaltert"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "25e52c0a15c076856be4f89f",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Politie Carma zit vanaf nu ook op TikTok",
-      "url": "https://www.hbvl.be/regio/limburg/genk/politie-carma-zit-vanaf-nu-ook-op-tiktok/160651019.html",
-      "summary": "Politie Carma staat volgende week niet alleen aan de schoolpoorten maar jongeren kunnen de politiemannen en -vrouwen vanaf nu ook op hun geliefde TikTok volgen. Daarin zullen ze in flitsende filmpjes informatie geven over verkeersveiligheid, drugs, cybercrime en ook over jouw rechten en plichten bij een politiecontrole",
-      "published_at": "2026-08-28T12:32:00Z",
-      "retrieved_at": "2026-08-28T14:03:18.507263Z",
-      "categories": [
-        "Genk"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": [
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Politie Carma zit vanaf nu ook op TikTok",
-          "url": "https://www.nieuwsblad.be/regio/limburg/genk/politie-carma-zit-vanaf-nu-ook-op-tiktok/160653699.html"
-        }
-      ]
-    },
-    {
-      "item_id": "94996c722d0c2be400469809",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "L’« index en centimes » entre en vigueur pour la première fois",
-      "url": "https://www.lesoir.be/767666/article/2026-08-28/l-index-en-centimes-entre-en-vigueur-pour-la-premiere-fois",
-      "summary": "L’indexation des salaires des fonctionnaires et des allocations sociales (comme les pensions) intervient car l’indice-pivot a été dépassé en juin.",
-      "published_at": "2026-08-28T12:21:04Z",
-      "retrieved_at": "2026-08-28T14:03:16.152498Z",
-      "categories": [
-        "Références"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "031b0c41d932f758b89bcd1e",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Salaires augmentés, évaluations plus fréquentes: la réforme des top managers validée",
-      "url": "https://www.lesoir.be/767640/article/2026-08-28/salaires-augmentes-evaluations-plus-frequentes-la-reforme-des-top-managers",
-      "summary": "Sur la table depuis le mois de juillet, la réforme des top managers portée par la ministre Jacqueline Galant (MR) a été adoptée en gouvernement, tant en Région wallonne qu’en Fédération Wallonie-Bruxelles.",
-      "published_at": "2026-08-28T10:27:44Z",
-      "retrieved_at": "2026-08-28T14:03:16.152498Z",
-      "categories": [
-        "Wallonie"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
       ],
       "related_items": []
     },
@@ -1214,13 +1242,13 @@
       "url": "https://www.dhnet.be/regions/mons/borinage/2026/08/27/rentree-judiciaire-a-mons-le-meurtre-de-bruno-a-nimy-et-lassassinat-dezekia-a-frameries-juges-cet-automne-aux-assises-DDJEXWHURJFWJNGICFCWAQQCRQ/",
       "summary": "Cinq dossiers ont été fixés devant la cour d’assises jusqu’au mois de novembre. En Première Instance, de nombreuses audiences sont déjà complètes alors que le nouveau Code pénal entre en vigueur le 1er septembre....",
       "published_at": "2026-08-27T11:01:00Z",
-      "retrieved_at": "2026-08-28T14:03:17.464466Z",
+      "retrieved_at": "2026-08-28T21:55:54.854009Z",
       "categories": [
         "Borinage"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
+      "observation_status": "existing",
+      "seen_count": 2,
       "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
@@ -1254,13 +1282,13 @@
       "url": "https://www.lalibre.be/belgique/judiciaire/2026/08/27/condamne-a-17-ans-de-prison-gregory-lenoci-a-choisi-son-nouvel-avocat-3GPENJI4IJFA3EFMDNBIL3L3YM/",
       "summary": "Condamné à 17 ans de prison pour tentative d’assassinat, Grégory Lenoci va faire appel de sa condamnation avec un nouveau conseil. Me Michel Degrève reprend sa défense, après le retrait de Me Etienne Gras. Un pénaliste déjà aguerri aux dossiers les plus sensibles....",
       "published_at": "2026-08-27T10:07:20Z",
-      "retrieved_at": "2026-08-28T14:03:16.960170Z",
+      "retrieved_at": "2026-08-28T21:55:55.196386Z",
       "categories": [
         "Judiciaire"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
+      "observation_status": "existing",
+      "seen_count": 2,
       "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
@@ -1274,42 +1302,6 @@
         "publié depuis moins de 36 heures",
         "contrôle, droits ou responsabilité publique",
         "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "1196cd7b600553052820573e",
-      "source_id": "de_morgen",
-      "source_name": "De Morgen",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_morgen_rss",
-      "endpoint_label": "In het nieuws",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Fed-voorzitter Warsh spreekt eindelijk weer over hoge inflatie en rente: ‘Dat wordt spitsroeden lopen’",
-      "url": "https://www.demorgen.be/nieuws/fed-voorzitter-warsh-spreekt-eindelijk-weer-over-hoge-inflatie-en-rente-dat-wordt-spitsroeden-lopen~baea6b0b/",
-      "summary": "",
-      "published_at": "2026-08-28T12:44:10Z",
-      "retrieved_at": "2026-08-28T14:03:17.489081Z",
-      "categories": [],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
       ],
       "related_items": []
     },
@@ -1329,14 +1321,14 @@
       "title": "Brusselse procureur Julien Moinil geeft politiek donderpreek na golf schietpartijen: “Ik krijg geen reactie, geen concrete hulp”",
       "url": "https://www.standaard.be/binnenland/brusselse-procureur-julien-moinil-geeft-politiek-donderpreek-na-golf-schietpartijen-ik-krijg-geen-reactie-geen-concrete-hulp/160596505.html",
       "summary": "Wéér een jaar voorbij, wéér een reeks schietpartijen in de hoofdstad, en nog heeft de Brusselse procureur des Konings Julien Moinil niet de investeringen in justitie, politie en de gevangenissen waar hij al jaren om vraagt. “Ik vraag helemaal niets extra, alleen wat bij wet is voorgeschreven.”",
-      "published_at": "2026-08-28T12:31:32Z",
-      "retrieved_at": "2026-08-28T14:03:17.986125Z",
+      "published_at": "2026-08-28T18:30:00Z",
+      "retrieved_at": "2026-08-28T21:55:56.042372Z",
       "categories": [
         "Binnenland"
       ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
-      "seen_count": 1,
+      "observation_status": "existing",
+      "seen_count": 2,
       "score": 14,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
@@ -1352,7 +1344,7 @@
       "related_items": []
     },
     {
-      "item_id": "a4adaa7f313037ccc037f011",
+      "item_id": "c46299d1d13a35c970d00073",
       "source_id": "de_tijd",
       "source_name": "De Tijd",
       "source_class": "news_media",
@@ -1364,15 +1356,15 @@
       "endpoint_label": "Algemeen nieuws",
       "content_scope": "actualités|presse|économie",
       "language": "nl",
-      "title": "Zeven alternatieven die meer opbrengen dan de staatsbon",
-      "url": "https://www.tijd.be/r/t/1/id/10683521",
-      "summary": "Spaarders kunnen nog tot midden volgende week inschrijven op de nieuwe staatsbon. Die levert de hoogste rente in jaren op. We schuimden de markt af op zoek naar nog hogere rendementen.",
-      "published_at": "2026-08-28T11:08:00Z",
-      "retrieved_at": "2026-08-28T14:03:18.412767Z",
+      "title": "Renteklim zet Nasdaq op verlies",
+      "url": "https://www.tijd.be/r/t/1/id/10683940",
+      "summary": "De eerste speech van de Fed-voorzitter Kevin Warsh in Jackson Hole heeft de lange rente hoger geduwd en de technologieaandelen lager.",
+      "published_at": "2026-08-28T18:05:13Z",
+      "retrieved_at": "2026-08-28T21:55:56.102234Z",
       "categories": [
         "Markten Live"
       ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
       "observation_status": "new",
       "seen_count": 1,
       "score": 14,
@@ -1390,76 +1382,117 @@
       "related_items": []
     },
     {
-      "item_id": "e065ddb7540d1d0cab66fe8b",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
+      "item_id": "b92a0f8bc1cfd92e7fd10bac",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
       "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
+      "institution_level": "région",
+      "geography": "Flandre",
       "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "Bocholt zet nieuwe stap richting vernieuwing Sportzone Damburg",
-      "url": "https://vrtnws.be/p.JNGRDB4Pa",
-      "summary": "In Bocholt is een laatste stap gezet richting de vernieuwing van Sportzone Damburg. De gemeenteraad heeft het nieuwe Ruimtelijk Uitvoeringsplan (RUP) goedgekeurd. \"We gaan de site vergroenen en aanpassen aan de noden van de sportclubs\", zegt schepen van Omgeving Erik Vanmierlo (Samen).",
-      "published_at": "2026-08-28T09:50:55Z",
-      "retrieved_at": "2026-08-28T14:03:19.149230Z",
-      "categories": [],
+      "title": "OPROEP. Terug naar school: is 1 september voor jou extra bijzonder?",
+      "url": "https://www.hbvl.be/nieuws/oproep.-terug-naar-school-is-1-september-voor-jou-extra-bijzonder/159932903.html",
+      "summary": "Voor veel leerlingen en leerkrachten betekent 1 september de start van een nieuw schooljaar. Nieuwe klasgenoten, nieuwe lessen en misschien ook een gezonde portie zenuwen op die allereerste schooldag. Maar voor sommige mensen wordt die terugkeer naar school extra bijzonder.",
+      "published_at": "2026-08-28T13:49:10Z",
+      "retrieved_at": "2026-08-28T14:03:18.507263Z",
+      "categories": [
+        "Nieuws"
+      ],
       "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
       "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 0,
+      "section_strength": 2,
       "matched_signals": [
-        "public_decision"
+        "change_alert"
       ],
       "score_reasons": [
+        "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
+        "publié depuis moins de 12 heures",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "cef5af545e5060a92bebf14a",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
+      "item_id": "3f670f88a72d371fa5648253",
+      "source_id": "brf_news",
+      "source_name": "BRF Nachrichten",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Communauté germanophone",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "brf_news_rss",
+      "endpoint_label": "Flux BRF Nachrichten",
+      "content_scope": "actualités|presse|terrain",
+      "language": "de",
+      "title": "Ab September Helmpflicht für Elektroroller mit Höchstgeschwindigkeit von über 20 km/h",
+      "url": "https://brf.be/national/2104154/",
+      "summary": "Ab dem 1. September müssen Personen, die auf einem Elektroroller unterwegs sind, der schneller als 20 Kilometer pro Stunde fahren kann, einen Helm tragen. Dabei haben sie die Wahl zwischen einen Motorradhelm und einem Fahrradhelm. Das hat der Föderale Öffentliche Dienst Mobilität bekannt gegeben. Roller, deren Höchstgeschwindigkeit unter diesem Wert liegt, sind von der Helmpflicht […]",
+      "published_at": "2026-08-28T13:34:00Z",
+      "retrieved_at": "2026-08-28T14:03:19.510272Z",
+      "categories": [
+        "National",
+        "Top News"
+      ],
+      "first_seen_at": "2026-08-28T14:03:52.325895Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "96f1e8b70e9a65c4e43da534",
+      "source_id": "de_morgen",
+      "source_name": "De Morgen",
       "source_class": "news_media",
       "institution_level": "national",
       "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
+      "endpoint_id": "de_morgen_rss",
+      "endpoint_label": "In het nieuws",
       "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Violences liées à la drogue: « N’importe quel citoyen peut se prendre une balle », alerte le procureur de Bruxelles",
-      "url": "https://www.lesoir.be/767648/article/2026-08-28/violences-liees-la-drogue-nimporte-quel-citoyen-peut-se-prendre-une-balle-alerte",
-      "summary": "Accompagné du chef de corps de la zone de police Bruxelles-Midi, Jurgen De Landsheer, et du directeur de la police judiciaire fédérale de Bruxelles, Eric Jacobs, le procureur Julien Moinil a détaillé les faits récents, la réponse judiciaire et plusieurs points d’attention.",
-      "published_at": "2026-08-28T10:56:42Z",
-      "retrieved_at": "2026-08-28T14:03:16.152498Z",
-      "categories": [
-        "Police et justice"
-      ],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
+      "language": "nl",
+      "title": "Duurder, minder flexibel of helemaal weg: wat betekent het BOA-decreet voor de opvang van uw kind?",
+      "url": "https://www.demorgen.be/nieuws/duurder-minder-flexibel-of-helemaal-weg-wat-betekent-het-boa-decreet-voor-de-opvang-van-uw-kind~b24c83fa/",
+      "summary": "",
+      "published_at": "2026-08-28T12:45:00Z",
+      "retrieved_at": "2026-08-28T21:55:55.015381Z",
+      "categories": [],
+      "first_seen_at": "2026-08-28T21:56:30.239882Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 13,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
       "matched_signals": [
-        "change_alert"
+        "public_decision"
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique"
       ],
       "related_items": []
     }
