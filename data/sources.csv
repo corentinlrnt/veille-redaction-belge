@@ -93,3 +93,41 @@ wbe,Wallonie-Bruxelles Enseignement,public_body,communauté,Wallonie|Bruxelles,f
 adg,Arbeitsamt der Deutschsprachigen Gemeinschaft,public_body,communauté,Communauté germanophone,de,https://adg.be/,official_public,2026-08-27,Emploi formation et marché du travail germanophone
 wsr_dg,Wirtschafts- und Sozialrat der Deutschsprachigen Gemeinschaft,consultative_body,communauté,Communauté germanophone,de,https://www.wsr-dg.be/,official_public,2026-08-27,Concertation socio-économique et analyses germanophones
 ostbelgien_statistics,Ostbelgien Statistik,statistics,communauté,Communauté germanophone,de,https://ostbelgienstatistik.be/,official_public,2026-08-27,Statistiques et indicateurs de la Communauté germanophone
+mr_party,Mouvement Réformateur,political_party,national,Belgique,fr,https://www.mr.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+ps_party,Parti Socialiste,political_party,national,Belgique,fr,https://www.ps.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+les_engages_party,Les Engagés,political_party,national,Belgique,fr,https://www.lesengages.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+ecolo_party,Ecolo,political_party,national,Belgique,fr,https://ecolo.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+ptb_pvda_party,PTB-PVDA,political_party,national,Belgique,fr|nl,https://www.ptb.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+nva_party,N-VA,political_party,national,Belgique,nl,https://www.n-va.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+vlaams_belang_party,Vlaams Belang,political_party,national,Belgique,nl,https://www.vlaamsbelang.org/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+vooruit_party,Vooruit,political_party,national,Belgique,nl,https://www.vooruit.org/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+cdv_party,CD&V,political_party,national,Belgique,nl,https://www.cdenv.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+anders_party,Anders.,political_party,national,Belgique,nl,https://www.anders.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+groen_party,Groen,political_party,national,Belgique,nl,https://www.groen.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+defi_party,DéFI,political_party,région,Bruxelles|Wallonie,fr,https://www.defi.be/,political_actor,2026-08-28,Producteur politique régional ajouté au-delà du socle fédéral
+team_fouad_ahidar,Team Fouad Ahidar,political_party,région,Bruxelles,nl|fr,https://www.instagram.com/teamfouadahidar/,political_actor,2026-08-28,Page publique du mouvement représenté au Parlement flamand
+prodg_party,ProDG,political_party,communauté,Communauté germanophone,de,https://prodg.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+csp_dg_party,CSP Ostbelgien,political_party,communauté,Communauté germanophone,de,https://www.csp-dg.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+vivant_dg_party,Vivant Ostbelgien,political_party,communauté,Communauté germanophone,de,https://vivant-ostbelgien.org/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+sp_dg_party,SP Ostbelgien,political_party,communauté,Communauté germanophone,de,https://spostbelgien.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+pff_dg_party,PFF Ostbelgien,political_party,communauté,Communauté germanophone,de,https://www.pff.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+ecolo_dg_party,Ecolo Ostbelgien,political_party,communauté,Communauté germanophone,de,https://ostbelgien.ecolo.be/,political_actor,2026-08-28,Publications du parti à considérer comme prises de position
+cgslb,CGSLB-Syndicat libéral,social_partner,national,Belgique,fr|nl,https://www.cgslb.be/,social_partner,2026-08-28,Communiqués et positions syndicales
+feb,Fédération des Entreprises de Belgique,social_partner,national,Belgique,fr|nl,https://www.vbo-feb.be/,social_partner,2026-08-28,Communiqués et positions patronales
+voka,Voka,social_partner,région,Flandre|Bruxelles,nl,https://www.voka.be/,social_partner,2026-08-28,Positions du réseau patronal flamand
+ucm,UCM,social_partner,région,Wallonie|Bruxelles,fr,https://www.ucm.be/,social_partner,2026-08-28,Positions des indépendants et PME francophones
+unizo,UNIZO,social_partner,région,Flandre|Bruxelles,nl,https://www.unizo.be/,social_partner,2026-08-28,Positions des indépendants et PME néerlandophones
+rwlp,Réseau wallon de lutte contre la pauvreté,civil_society,région,Wallonie,fr,https://rwlp.be/,civil_society,2026-08-28,Expérience de terrain et politiques de lutte contre la pauvreté
+netwerk_tegen_armoede,Netwerk tegen Armoede,civil_society,région,Flandre|Bruxelles,nl,https://www.netwerktegenarmoede.be/,civil_society,2026-08-28,Expérience de terrain et politiques de lutte contre la pauvreté
+ligue_droits_humains,Ligue des droits humains,civil_society,communauté,Wallonie|Bruxelles,fr,https://www.liguedh.be/,civil_society,2026-08-28,Droits fondamentaux justice et libertés publiques
+liga_mensenrechten,Liga voor Mensenrechten,civil_society,communauté,Flandre|Bruxelles,nl,https://mensenrechten.be/,civil_society,2026-08-28,Droits fondamentaux justice et libertés publiques
+amnesty_be,Amnesty International Belgique francophone,civil_society,communauté,Wallonie|Bruxelles,fr,https://www.amnesty.be/,civil_society,2026-08-28,Droits humains et campagnes ayant une portée belge
+canopea,Canopea,civil_society,région,Wallonie|Bruxelles,fr,https://www.canopea.be/,civil_society,2026-08-28,Fédération environnementale francophone
+bond_beter_leefmilieu,Bond Beter Leefmilieu,civil_society,région,Flandre|Bruxelles,nl,https://www.bondbeterleefmilieu.be/,civil_society,2026-08-28,Fédération environnementale néerlandophone
+greenpeace_be,Greenpeace Belgique,civil_society,national,Belgique,fr|nl,https://www.greenpeace.org/belgium/,civil_society,2026-08-28,Campagnes environnementales ayant une portée belge
+mutualities_christian,Alliance nationale des mutualités chrétiennes,health_insurer,national,Belgique,fr|nl|de,https://www.mc.be/,social_security_actor,2026-08-28,Union nationale reconnue par l'INAMI avec actualités MC et CM
+mutualities_neutral,Union nationale des mutualités neutres,health_insurer,national,Belgique,fr|nl,https://www.unmn-lnz.be/fr,social_security_actor,2026-08-28,Union nationale reconnue par l'INAMI
+mutualities_solidaris,Union nationale des mutualités socialistes Solidaris,health_insurer,national,Belgique,fr|nl,https://www.solidaris-wallonie.be/,social_security_actor,2026-08-28,Union nationale reconnue par l'INAMI
+mutualities_liberal,Union nationale des Mutualités Libérales,health_insurer,national,Belgique,fr|nl,https://www.lm-ml.be/fr,social_security_actor,2026-08-28,Union nationale reconnue par l'INAMI
+mutualities_free,Union nationale des Mutualités Libres,health_insurer,national,Belgique,fr|nl|de,https://www.mloz.be/fr,social_security_actor,2026-08-28,Union nationale reconnue par l'INAMI
+caami,CAAMI-HZIV,health_insurer,national,Belgique,fr|nl|de,https://www.caami-hziv.fgov.be/fr,official_public,2026-08-28,Caisse publique auxiliaire d'assurance maladie-invalidité

@@ -54,7 +54,7 @@ else:
 
 SCHEMA_VERSION = 1
 GENERATOR = "veille-redaction-belge/collector-0.1.0"
-COLLECTABLE_FORMATS = {"rss", "atom", "json_feed"}
+COLLECTABLE_FORMATS = {"rss", "atom", "json_feed", "wp_json", "html_articles"}
 DEFAULT_TIMEOUT = 20.0
 DEFAULT_MAX_BYTES = 3_000_000
 
@@ -68,6 +68,90 @@ class TextExtractor(HTMLParser):
         value = " ".join(data.split())
         if value:
             self.parts.append(value)
+
+
+class SemanticArticleParser(HTMLParser):
+    """Extrait des cartes ``article`` datées, sans suivre leurs liens.
+
+    Cet adaptateur n'est activé que pour les pages validées manuellement et
+    déclarées ``html_articles`` dans le registre. Une carte sans titre, lien ou
+    balise ``time[datetime]`` est ignorée pour éviter les faux positifs.
+    """
+
+    def __init__(self, base_url: str) -> None:
+        super().__init__(convert_charrefs=True)
+        self.base_url = base_url
+        self.article_depth = 0
+        self.heading_depth = 0
+        self.paragraph_depth = 0
+        self.active_href = ""
+        self.current: dict[str, object] | None = None
+        self.articles: list[dict[str, object]] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        name = tag.lower()
+        values = {key.lower(): (value or "") for key, value in attrs}
+        if name == "article":
+            if self.article_depth == 0:
+                self.current = {
+                    "links": [],
+                    "heading_link": "",
+                    "heading": [],
+                    "paragraph": [],
+                    "published_at": "",
+                }
+            self.article_depth += 1
+            return
+        if self.current is None:
+            return
+        if name == "a":
+            href = values.get("href", "").strip()
+            if href:
+                self.active_href = href
+                links = self.current["links"]
+                assert isinstance(links, list)
+                links.append(href)
+                if self.heading_depth and not self.current["heading_link"]:
+                    self.current["heading_link"] = href
+        elif name in {"h1", "h2", "h3", "h4", "h5", "h6"} and not self.current["heading"]:
+            self.heading_depth += 1
+            if self.active_href and not self.current["heading_link"]:
+                self.current["heading_link"] = self.active_href
+        elif name == "p" and not self.current["paragraph"]:
+            self.paragraph_depth += 1
+        elif name == "time" and not self.current["published_at"]:
+            self.current["published_at"] = values.get("datetime", "").strip()
+
+    def handle_endtag(self, tag: str) -> None:
+        name = tag.lower()
+        if self.current is None:
+            return
+        if name in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+            self.heading_depth = 0
+        elif name == "a":
+            self.active_href = ""
+        elif name == "p":
+            self.paragraph_depth = 0
+        elif name == "article":
+            self.article_depth -= 1
+            if self.article_depth == 0:
+                self.articles.append(self.current)
+                self.current = None
+                self.heading_depth = 0
+                self.paragraph_depth = 0
+                self.active_href = ""
+
+    def handle_data(self, data: str) -> None:
+        if self.current is None:
+            return
+        if self.heading_depth:
+            heading = self.current["heading"]
+            assert isinstance(heading, list)
+            heading.append(data)
+        elif self.paragraph_depth:
+            paragraph = self.current["paragraph"]
+            assert isinstance(paragraph, list)
+            paragraph.append(data)
 
 
 def clean_text(value: str | None, limit: int = 600) -> str:
@@ -229,6 +313,116 @@ def parse_json_feed_items(
     return items
 
 
+def parse_wordpress_rest_items(
+    body: bytes,
+    endpoint: Endpoint,
+    source: dict[str, str],
+    retrieved_at: str,
+) -> list[dict[str, object]]:
+    """Interprète une liste publique WordPress REST explicitement déclarée."""
+
+    document = json.loads(body.decode("utf-8"))
+    entries = document if isinstance(document, list) else []
+    items: list[dict[str, object]] = []
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        raw_title = entry.get("title", "")
+        title_value = raw_title.get("rendered", "") if isinstance(raw_title, dict) else raw_title
+        title = clean_text(str(title_value), 300)
+        raw_link = str(entry.get("link", ""))
+        url = canonical_url(raw_link, endpoint.url)
+        if not title or not url:
+            continue
+        raw_excerpt = entry.get("excerpt", "")
+        excerpt_value = raw_excerpt.get("rendered", "") if isinstance(raw_excerpt, dict) else raw_excerpt
+        raw_date = str(
+            entry.get("date_gmt")
+            or entry.get("date")
+            or entry.get("modified_gmt")
+            or entry.get("modified")
+            or ""
+        )
+        parsed_date = parse_datetime(raw_date)
+        guid = str(entry.get("id", ""))
+        items.append(
+            {
+                "item_id": fingerprint(endpoint.source_id, guid, url, title),
+                "source_id": endpoint.source_id,
+                "source_name": source["name"],
+                "source_class": source["source_class"],
+                "institution_level": source["institution_level"],
+                "geography": source["geography"],
+                "official_status": source["official_status"],
+                "endpoint_id": endpoint.endpoint_id,
+                "endpoint_label": endpoint.label,
+                "content_scope": endpoint.content_scope,
+                "language": endpoint.language,
+                "title": title,
+                "url": url,
+                "summary": clean_text(str(excerpt_value), 600),
+                "published_at": parsed_date.isoformat().replace("+00:00", "Z") if parsed_date else None,
+                "retrieved_at": retrieved_at,
+                "categories": [],
+            }
+        )
+    return items
+
+
+def parse_semantic_html_items(
+    body: bytes,
+    endpoint: Endpoint,
+    source: dict[str, str],
+    retrieved_at: str,
+) -> list[dict[str, object]]:
+    """Interprète uniquement les cartes HTML sémantiques et datées."""
+
+    parser = SemanticArticleParser(endpoint.url)
+    parser.feed(body.decode("utf-8", errors="replace"))
+    items: list[dict[str, object]] = []
+    for article in parser.articles:
+        heading = article.get("heading", [])
+        paragraph = article.get("paragraph", [])
+        links = article.get("links", [])
+        title = clean_text(" ".join(str(value) for value in heading), 300) if isinstance(heading, list) else ""
+        summary = clean_text(" ".join(str(value) for value in paragraph), 600) if isinstance(paragraph, list) else ""
+        raw_date = str(article.get("published_at", ""))
+        parsed_date = parse_datetime(raw_date)
+        url = ""
+        link_candidates = [article.get("heading_link", "")]
+        if isinstance(links, list):
+            link_candidates.extend(links)
+        for raw_link in link_candidates:
+            if raw_link:
+                if candidate := canonical_url(str(raw_link), endpoint.url):
+                    url = candidate
+                    break
+        if not title or not url or parsed_date is None:
+            continue
+        items.append(
+            {
+                "item_id": fingerprint(endpoint.source_id, "", url, title),
+                "source_id": endpoint.source_id,
+                "source_name": source["name"],
+                "source_class": source["source_class"],
+                "institution_level": source["institution_level"],
+                "geography": source["geography"],
+                "official_status": source["official_status"],
+                "endpoint_id": endpoint.endpoint_id,
+                "endpoint_label": endpoint.label,
+                "content_scope": endpoint.content_scope,
+                "language": endpoint.language,
+                "title": title,
+                "url": url,
+                "summary": summary,
+                "published_at": parsed_date.isoformat().replace("+00:00", "Z"),
+                "retrieved_at": retrieved_at,
+                "categories": [],
+            }
+        )
+    return items
+
+
 @dataclass
 class CollectionResult:
     endpoint_id: str
@@ -258,6 +452,10 @@ def collect_endpoint(
             items = parse_xml_items(response.body, endpoint, source, retrieved_at)
         elif detected == "json_feed":
             items = parse_json_feed_items(response.body, endpoint, source, retrieved_at)
+        elif endpoint.expected_format == "wp_json" and detected == "json":
+            items = parse_wordpress_rest_items(response.body, endpoint, source, retrieved_at)
+        elif endpoint.expected_format == "html_articles" and detected == "html":
+            items = parse_semantic_html_items(response.body, endpoint, source, retrieved_at)
         else:
             return CollectionResult(endpoint.endpoint_id, endpoint.source_id, "unsupported", detected, error=f"Format reçu: {detected}")
         return CollectionResult(endpoint.endpoint_id, endpoint.source_id, "ok", detected, len(items), items=items)

@@ -1,12 +1,12 @@
 # Couverture déclarée
 
-Généré le `2026-08-27T15:10:23.697025Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-08-28T08:47:12.881651Z` par `veille-redaction-belge/coverage-0.1.0`.
 
-- Sources enregistrées : **94**
-- Points d'accès actifs : **114**
-- Cibles complètes : **14/14**
-- Sources requises distinctes : **90**
-- Sources hors des cibles actuelles : **4**
+- Sources enregistrées : **132**
+- Points d'accès actifs : **155**
+- Cibles complètes : **20/20**
+- Sources requises distinctes : **122**
+- Sources hors des cibles actuelles : **10**
 
 Une cible `complète` signifie seulement que chaque producteur attendu est inscrit et possède au moins un accès actif. La sonde de santé vérifie séparément si cet accès répond réellement.
 
@@ -26,3 +26,9 @@ Une cible `complète` signifie seulement que chaque producteur attendu est inscr
 | Producteurs fonctionnels flamands | région\|communauté | 10 | 10 | 10 | `complete` | — |
 | Producteurs fonctionnels de la Fédération Wallonie-Bruxelles | communauté | 5 | 5 | 5 | `complete` | — |
 | Producteurs fonctionnels de la Communauté germanophone | communauté | 4 | 4 | 4 | `complete` | — |
+| Producteurs politiques nationaux | national | 11 | 11 | 11 | `complete` | — |
+| Producteurs politiques du Parlement flamand | région | 8 | 8 | 8 | `complete` | — |
+| Producteurs politiques germanophones | communauté | 6 | 6 | 6 | `complete` | — |
+| Partenaires sociaux nationaux | national | 6 | 6 | 6 | `complete` | — |
+| Unions nationales de mutualités et CAAMI | national | 6 | 6 | 6 | `complete` | — |
+| Réseaux régionaux de lutte contre la pauvreté | région | 2 | 2 | 2 | `complete` | — |

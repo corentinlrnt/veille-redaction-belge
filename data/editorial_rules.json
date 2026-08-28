@@ -16,6 +16,9 @@
     "scientific_institute": 3,
     "social_partner": 3,
     "consumer_association": 3,
+    "civil_society": 3,
+    "health_insurer": 3,
+    "political_party": 2,
     "consultative_body": 3,
     "institution": 3,
     "public_body": 2,
@@ -42,23 +45,23 @@
     {
       "id": "politics",
       "label": "Politiques publiques et société",
-      "source_classes": ["institution", "parliament", "public_body", "consultative_body", "social_partner"],
+      "source_classes": ["institution", "parliament", "public_body", "consultative_body", "social_partner", "political_party", "civil_society", "health_insurer"],
       "scopes": ["décisions", "agenda", "travaux", "questions", "réformes", "avis"],
-      "terms": ["gouvernement", "parlement", "ministre", "commission", "budget", "accord", "décret", "ordonnance", "loi", "réforme", "politique", "service public", "logement", "mobilité", "transport", "santé", "soins", "enseignement", "école", "climat", "environnement", "asile", "migration", "pauvreté", "handicap", "discrimination", "regering", "parlement", "minister", "commissie", "begroting", "decreet", "hervorming", "beleid", "wonen", "mobiliteit", "zorg", "onderwijs", "klimaat", "armoede", "regierung", "minister", "parlament", "haushalt", "reform", "wohnen", "gesundheit", "bildung"]
+      "terms": ["gouvernement", "parlement", "ministre", "commission", "budget", "accord", "décret", "ordonnance", "loi", "réforme", "politique", "service public", "logement", "mobilité", "transport", "santé", "soins", "assurance maladie", "mutualité", "remboursement", "invalidité", "enseignement", "école", "climat", "environnement", "asile", "migration", "pauvreté", "handicap", "discrimination", "regering", "parlement", "minister", "commissie", "begroting", "decreet", "hervorming", "beleid", "wonen", "mobiliteit", "zorg", "ziekenfonds", "terugbetaling", "invaliditeit", "onderwijs", "klimaat", "armoede", "regierung", "minister", "parlament", "haushalt", "reform", "wohnen", "gesundheit", "krankenkasse", "erstattung", "invalidität", "bildung"]
     },
     {
       "id": "justice",
       "label": "Justice, droits et contrôle",
-      "source_classes": ["judiciary", "independent_public_body"],
-      "scopes": ["arrêts", "décisions", "alertes", "rapports", "recommandations"],
+      "source_classes": ["judiciary", "independent_public_body", "civil_society"],
+      "scopes": ["arrêts", "décisions", "alertes", "rapports", "recommandations", "droits", "justice"],
       "terms": ["justice", "tribunal", "cour", "arrêt", "jugement", "condamnation", "recours", "prison", "détention", "procureur", "enquête", "sanction", "fraude", "corruption", "droit", "liberté", "vie privée", "discrimination", "audit", "contrôle", "rechtbank", "hof", "arrest", "vonnis", "beroep", "gevangenis", "onderzoek", "sanctie", "fraude", "recht", "vrijheid", "discriminatie", "prüfung", "gericht", "urteil", "berufung", "gefängnis", "untersuchung", "sanktion", "recht", "freiheit"]
     },
     {
       "id": "economy",
       "label": "Économie, emploi et consommateurs",
-      "source_classes": ["regulator", "statistics", "consumer_association", "public_company"],
+      "source_classes": ["regulator", "statistics", "consumer_association", "public_company", "public_body", "consultative_body", "social_partner", "civil_society", "health_insurer"],
       "scopes": ["statistiques", "emploi", "économie", "consommateurs", "études", "tarifs"],
-      "terms": ["économie", "emploi", "chômage", "salaire", "indexation", "inflation", "prix", "tarif", "facture", "énergie", "pension", "allocation", "impôt", "taxe", "entreprise", "faillite", "croissance", "pouvoir d'achat", "consommateur", "marché", "economie", "werk", "werkloosheid", "loon", "index", "inflatie", "prijs", "tarief", "factuur", "energie", "pensioen", "belasting", "bedrijf", "faillissement", "koopkracht", "consument", "wirtschaft", "arbeit", "arbeitslosigkeit", "lohn", "inflation", "preis", "tarif", "energie", "rente", "steuer", "unternehmen", "kaufkraft", "verbraucher"]
+      "terms": ["économie", "emploi", "chômage", "salaire", "indexation", "inflation", "prix", "tarif", "facture", "énergie", "pension", "allocation", "indemnité", "cotisation", "remboursement", "mutualité", "soins", "impôt", "taxe", "entreprise", "faillite", "croissance", "pouvoir d'achat", "consommateur", "marché", "economie", "werk", "werkloosheid", "loon", "index", "inflatie", "prijs", "tarief", "factuur", "energie", "pensioen", "uitkering", "bijdrage", "terugbetaling", "ziekenfonds", "zorg", "belasting", "bedrijf", "faillissement", "koopkracht", "consument", "wirtschaft", "arbeit", "arbeitslosigkeit", "lohn", "inflation", "preis", "tarif", "energie", "rente", "leistung", "beitrag", "erstattung", "krankenkasse", "pflege", "steuer", "unternehmen", "kaufkraft", "verbraucher"]
     }
   ],
   "signals": [
@@ -72,7 +75,7 @@
       "id": "citizen_impact",
       "label": "impact concret pour la population",
       "weight": 5,
-      "terms": ["prix", "tarif", "facture", "salaire", "pension", "allocation", "logement", "loyer", "transport", "soins", "remboursement", "impôt", "taxe", "emploi", "chômage", "consommateur", "prijs", "tarief", "factuur", "loon", "pensioen", "uitkering", "huur", "vervoer", "zorg", "belasting", "werk", "werkloosheid", "consument", "preis", "lohn", "rente", "miete", "verkehr", "pflege", "steuer", "arbeit", "arbeitslosigkeit", "verbraucher"]
+      "terms": ["prix", "tarif", "facture", "salaire", "pension", "allocation", "indemnité", "cotisation", "logement", "loyer", "transport", "soins", "remboursement", "ticket modérateur", "honoraires", "mutualité", "impôt", "taxe", "emploi", "chômage", "consommateur", "prijs", "tarief", "factuur", "loon", "pensioen", "uitkering", "bijdrage", "huur", "vervoer", "zorg", "terugbetaling", "remgeld", "ereloon", "ziekenfonds", "belasting", "werk", "werkloosheid", "consument", "preis", "lohn", "rente", "leistung", "beitrag", "miete", "verkehr", "pflege", "erstattung", "honorar", "krankenkasse", "steuer", "arbeit", "arbeitslosigkeit", "verbraucher"]
     },
     {
       "id": "evidence",
