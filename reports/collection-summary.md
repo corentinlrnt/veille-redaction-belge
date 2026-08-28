@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-08-28T09:03:35.205012Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-08-28T09:46:00.195470Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **30**
 - Flux collectés : **29**
 - Flux en erreur : **1**
-- Éléments conservés : **35**
+- Éléments conservés : **36**
 - Sources contributrices : **11**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |

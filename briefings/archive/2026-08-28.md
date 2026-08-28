@@ -1,6 +1,6 @@
 # Veille rédaction belge — 28 août 2026
 
-Générée à **11:03** (heure de Bruxelles) à partir de **35 éléments collectés**.
+Générée à **11:46** (heure de Bruxelles) à partir de **36 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
@@ -30,6 +30,14 @@ Générée à **11:03** (heure de Bruxelles) à partir de **35 éléments collec
 
 > Extrait fourni par la source : À l’occasion de la rentrée scolaire, Valérie Glatigny était l’invitée de plusieurs médias pour présenter les priorités de cette nouvelle année. Au cœur de celles-ci: la qualité de l’enseignement,...
 
+### [Bons d'État - émission du 4 septembre 2026 - Résultat intermédiaire - Jour 2](https://news.belgium.be/fr/bons-detat-emission-du-4-septembre-2026-resultat-intermediaire-jour-2)
+
+**Presscenter fédéral** · source publique officielle · 28/08/2026 à 11:11 · score `12`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
+
+> Extrait fourni par la source : Campagne des Bons d'État du 4 septembre 2026 - Résultat intermédiaire
+
 ### [Pascal Arimont und Jean-Paul Bastin zum Brand im Hohen Venn: „Wir brauchen eine Anerkennung für die Landwirte, die sich spontan engagiert haben“](https://www.csp-dg.be/single-post/pascal-arimont-und-jean-paul-bastin-zum-brand-im-hohen-venn-wir-brauchen-eine-anerkennung-f%C3%BCr-die)
 
 **CSP Ostbelgien** · acteur politique · 27/08/2026 à 00:00 · score `12`
@@ -45,14 +53,6 @@ Générée à **11:03** (heure de Bruxelles) à partir de **35 éléments collec
 **Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures.
 
 > Extrait fourni par la source : Le jeudi 27 août 2026, la Régie des Bâtiments a organisé une cérémonie pour l’achèvement de la restauration de la façade avant du Palais de Justice de Bruxelles sur la place Poelaert. Les travaux ont débuté en août 2023 et sont à présent en grande partie achevés. Compte tenu des différentes vagues de chaleur survenues au cours de ces derniers mois d’été, certains travaux de finition nécessitent davantage de temps. L’accès principal situé place Poelaert sera remis en service au cours du mois de septembre 2026. La date précise sera communiquée par le SPF Justice.
-
-### [Bons d'État - émission du 4 septembre 2026 - Résultat intermédiaire - Jour 1](https://news.belgium.be/fr/bons-detat-emission-du-4-septembre-2026-resultat-intermediaire-jour-1)
-
-**Presscenter fédéral** · source publique officielle · 27/08/2026 à 11:17 · score `10`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Campagne des Bons d'État du 4 septembre 2026 - Résultat intermédiaire
 
 ### [L’Année de Service Militaire débute aujourd’hui à la Marine](https://www.mil.be/fr/news/l-annee-de-service-militaire-debute-aujourd-hui-a-la-marine/)
 
