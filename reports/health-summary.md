@@ -1,6 +1,6 @@
 # Santé des accès
 
-Généré le `2026-08-28T21:57:52.343073Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-29T04:18:40.406854Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **218**
 - Accès testés : **218**
