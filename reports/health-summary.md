@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-08-31T04:19:19.529841Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **218**
 - Accès testés : **218**
-- Accès opérationnels : **200**
-- Accès en erreur ou bloqués : **18**
-- Flux candidats découverts : **40**
+- Accès opérationnels : **197**
+- Accès en erreur ou bloqués : **21**
+- Flux candidats découverts : **41**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -43,14 +43,14 @@ Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
 | CAAMI-HZIV | Actualités pour les membres | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canopea | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Centre fédéral d'expertise des soins de santé | Communiqués de presse | `ok` | 200 | `html → html` | `unknown` | 0 |
+| Centre fédéral d'expertise des soins de santé | Communiqués de presse | `http_error` | 429 | `html → unknown` | `unknown` | 0 |
 | CGSLB-Syndicat libéral | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission wallonne pour l'Énergie | Documents récents | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Commission wallonne pour l'Énergie | Flux des documents récents | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -76,9 +76,9 @@ Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
 | De Morgen | In het nieuws | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Standaard | Binnenland | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Tijd | Algemeen nieuws | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| De Tijd | Home en nieuws | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| De Tijd | Home en nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | De Tijd | RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Departement Zorg | Actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DH Les Sports+ | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -87,7 +87,7 @@ Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| FGTB | Presse | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -145,7 +145,7 @@ Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
 | Ostbelgien Statistik | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Parlement de la Région de Bruxelles-Capitale | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Parlement de la Région de Bruxelles-Capitale | Agenda | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Parlement de Wallonie | Actualités et travaux | `ok` | 200 | `html → html` | `allowed` | 10 |
 | Parlement de Wallonie | Flux des questions d'actualité | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Parlement de Wallonie | Flux des questions écrites | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -180,8 +180,8 @@ Généré le `2026-08-30T04:19:01.958484Z` par `veille-redaction-belge/0.1.0`.
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
-| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| SPF Finances | Flux des actualités | `ok` | 200 | `rss → html` | `allowed` | 0 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
+| SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
