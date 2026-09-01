@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-08-31T04:19:19.529841Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-01T04:25:01.851109Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **218**
 - Accès testés : **218**
-- Accès opérationnels : **197**
-- Accès en erreur ou bloqués : **21**
+- Accès opérationnels : **198**
+- Accès en erreur ou bloqués : **20**
 - Flux candidats découverts : **41**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -87,7 +87,7 @@ Généré le `2026-08-31T04:19:19.529841Z` par `veille-redaction-belge/0.1.0`.
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| FGTB | Presse | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -118,7 +118,7 @@ Généré le `2026-08-31T04:19:19.529841Z` par `veille-redaction-belge/0.1.0`.
 | Kinderrechtencommissariaat | Adviezen | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Kinderrechtencommissariaat | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | L'Avenir | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| L'Echo | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| L'Echo | Accueil et actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | L'Echo | Répertoire des flux RSS | `ok` | 200 | `html → html` | `allowed` | 0 |
 | La Libre Belgique | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | La Libre Belgique | Flux Belgique | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -145,7 +145,7 @@ Généré le `2026-08-31T04:19:19.529841Z` par `veille-redaction-belge/0.1.0`.
 | Ostbelgien Statistik | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Parlement de la Région de Bruxelles-Capitale | Agenda | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Parlement de la Région de Bruxelles-Capitale | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de Wallonie | Actualités et travaux | `ok` | 200 | `html → html` | `allowed` | 10 |
 | Parlement de Wallonie | Flux des questions d'actualité | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Parlement de Wallonie | Flux des questions écrites | `ok` | 200 | `rss → rss` | `allowed` | 0 |
