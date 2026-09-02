@@ -1,61 +1,20 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-09-01T04:16:35.036177Z",
+  "generated_at": "2026-09-02T04:18:47.715854Z",
   "summary": {
-    "collected_items": 2376,
+    "collected_items": 2775,
     "selected_items": 36,
     "minimum_score": 10,
     "by_section": {
-      "politics": 23,
-      "economy": 4,
-      "justice": 9
+      "politics": 21,
+      "justice": 10,
+      "economy": 5
     }
   },
   "items": [
     {
-      "item_id": "a8ed7d5521dc0e2d59086d87",
-      "source_id": "gezinsbond",
-      "source_name": "Gezinsbond",
-      "source_class": "civil_society",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "civil_society",
-      "access_model": "",
-      "endpoint_id": "gezinsbond_press",
-      "endpoint_label": "Persberichten",
-      "content_scope": "communiqués|familles|enfance|consommateurs",
-      "language": "nl",
-      "title": "Eerste studie over impact nieuw BOA-decreet bevestigt bezorgdheid van Gezinsbond",
-      "url": "https://nieuws.gezinsbond.be/eerste-studie-over-impact-nieuw-boa-decreet-bevestigt-bezorgdheid-van-gezinsbond",
-      "summary": "",
-      "published_at": "2026-08-31T13:12:00Z",
-      "retrieved_at": "2026-09-01T04:15:59.651151Z",
-      "categories": [],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 24,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "0fea16c37e288792deea2dbd",
+      "item_id": "904e777c3c34018275a140dd",
       "source_id": "gva",
       "source_name": "Gazet van Antwerpen",
       "source_class": "news_media",
@@ -67,45 +26,87 @@
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "In één op drie gemeenten wordt buitenschoolse opvang duurder: “Vele ouders gaan het pas beseffen bij hun eerste factuur”",
-      "url": "https://www.gva.be/binnenland/in-een-op-drie-gemeenten-wordt-buitenschoolse-opvang-duurder-vele-ouders-gaan-het-pas-beseffen-bij-hun-eerste-factuur/160719745.html",
-      "summary": "Vanaf 1 september zijn de steden en gemeenten zelf verantwoordelijk voor de buitenschoolse kinderopvang. In een op drie gemeenten gaat de prijs daardoor omhoog, zo blijkt uit een nieuw rapport van de VVSG. Elders gaat de opvang later open of vroeger dicht. “Ik denk dat veel ouders de impact nog niet goed beseffen.”",
-      "published_at": "2026-08-31T01:00:00Z",
-      "retrieved_at": "2026-08-31T04:09:04.707235Z",
+      "title": "Zorgverleners trekken naar Grondwettelijk Hof tegen hervorming gezondheidssector",
+      "url": "https://www.gva.be/politiek/zorgverleners-trekken-naar-grondwettelijk-hof-tegen-hervorming-gezondheidssector/160841222.html",
+      "summary": "De Belgische Unie van Zorgverstrekkers (BUG) heeft een beroep ingesteld bij het Grondwettelijk Hof tegen sommige bepalingen van de nieuwe kaderwet die de gezondheidssector grondig hervormt. Dat maakt de organisatie woensdag bekend in een persbericht. De kaderwet moet volgend jaar in werking treden.",
+      "published_at": "2026-09-02T02:34:15Z",
+      "retrieved_at": "2026-09-02T04:18:12.485131Z",
       "categories": [
-        "Binnenland"
+        "Politiek"
       ],
-      "first_seen_at": "2026-08-31T04:09:33.900009Z",
-      "observation_status": "cached",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
       "seen_count": 1,
-      "score": 22,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
+      "score": 23,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
       "matched_signals": [
-        "citizen_impact",
-        "evidence",
-        "change_alert"
+        "public_decision",
+        "accountability"
       ],
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
       ],
       "related_items": [
         {
           "source_id": "het_nieuwsblad",
           "source_name": "Het Nieuwsblad",
-          "title": "In één op drie gemeenten wordt buitenschoolse opvang duurder: “Vele ouders gaan het pas beseffen bij hun eerste factuur”",
-          "url": "https://www.nieuwsblad.be/binnenland/in-een-op-drie-gemeenten-wordt-buitenschoolse-opvang-duurder-vele-ouders-gaan-het-pas-beseffen-bij-hun-eerste-factuur/160645728.html"
+          "title": "Zorgverleners trekken naar Grondwettelijk Hof tegen hervorming gezondheidssector",
+          "url": "https://www.nieuwsblad.be/politiek/zorgverleners-trekken-naar-grondwettelijk-hof-tegen-hervorming-gezondheidssector/160841210.html"
         }
       ]
     },
     {
-      "item_id": "ba1ea18530113c632aa8a1db",
+      "item_id": "476e57c2666f13b409e87830",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "Audi Brussels: un nouveau pôle économique et d’emplois pour Bruxelles",
+      "url": "https://www.mr.be/audi-brussels-un-nouveau-pole-economique-et-demplois-pour-bruxelles/",
+      "summary": "La reconversion du site d’Audi Brussels franchit une étape importante. Un accord a été trouvé entre Heylen Warehouses, Audi, la Région de Bruxelles-Capitale et la commune de Forest pour l’acquisition...",
+      "published_at": "2026-09-01T12:13:57Z",
+      "retrieved_at": "2026-09-02T04:18:07.314223Z",
+      "categories": [
+        "A la Une",
+        "Bruxelles",
+        "Dans les medias"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "407166b4e65bdfe6eceda669",
       "source_id": "bx1",
       "source_name": "BX1",
       "source_class": "news_media",
@@ -117,40 +118,54 @@
       "endpoint_label": "Flux BX1",
       "content_scope": "actualités|presse|terrain",
       "language": "fr",
-      "title": "Avoirs dormants, indexation et nouveau code pénal: tout ce qui change ce 1er septembre",
-      "url": "https://bx1.be/categories/news/avoirs-dormants-indexation-et-nouveau-code-penal-tout-ce-qui-change-ce-1er-septembre/",
-      "summary": "À partir du 1er septembre 2026, une série de nouvelles mesures entrent en vigueur en Belgique. Tour d’horizon des principaux changements. Nouveau code pénal Le nouveau Code pénal entrera en vigueur le 1er septembre, près de 160 ans après l’adoption de son prédécesseur. Le texte, séparé en deux livres, se veut plus simple, plus cohérent … lire plus",
-      "published_at": "2026-09-01T04:00:41Z",
-      "retrieved_at": "2026-09-01T04:16:03.159483Z",
+      "title": "Sécurité, budget, mobilité…: les dossiers chauds de la rentrée politique bruxelloise",
+      "url": "https://bx1.be/categories/politique/securite-budget-mobilite-les-dossiers-chauds-de-la-rentree-politique-bruxelloise/",
+      "summary": "Après plusieurs semaines de pause estivale, le gouvernement bruxellois fait sa rentrée. Les ministres se retrouveront ce jeudi 3 septembre pour un premier Conseil des ministres qui s’annonce chargé. Alors que les fusillades liées au narcotrafic ont fait de la sécurité une priorité, plusieurs autres dossiers sensibles attendent Boris Dilliès et son équipe: le … lire plus",
+      "published_at": "2026-09-02T04:01:24Z",
+      "retrieved_at": "2026-09-02T04:18:14.020848Z",
       "categories": [
-        "Ce qui change",
-        "News",
-        "indexation",
-        "logopédie",
-        "nouveau code pénal"
+        "Boris Dilliès",
+        "Foyer anderlechtois",
+        "Fusillades à Bruxelles",
+        "Good Move",
+        "LEZ",
+        "Le zoom de la rédac'",
+        "Mobilité",
+        "Nuisance des avions",
+        "Politique",
+        "Saint-Josse",
+        "Société",
+        "Survol de Bruxelles",
+        "accord budgétaire",
+        "brussels deal",
+        "gouvernement Dilliès",
+        "lutte contre le trafic de drogue",
+        "rentrée politique",
+        "trotinettes",
+        "Économie"
       ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 21,
+      "score": 22,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 2,
+      "section_strength": 12,
       "matched_signals": [
         "public_decision",
-        "change_alert"
+        "agenda"
       ],
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
         "publié depuis moins de 6 heures",
         "décision ou réforme publique",
-        "changement, alerte ou échéance"
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "c2a72eae83912ab35f120785",
+      "item_id": "00df92190f0ca0175b06ecd5",
       "source_id": "gva",
       "source_name": "Gazet van Antwerpen",
       "source_class": "news_media",
@@ -162,21 +177,21 @@
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "Terugbetaling voor urinetest die nierschade opspoort: “Belangrijker dan cholesterol kennen”",
-      "url": "https://www.gva.be/binnenland/terugbetaling-voor-urinetest-die-nierschade-opspoort-belangrijker-dan-cholesterol-kennen/160780901.html",
-      "summary": "Vanaf 1 september wordt een urinetest die nierproblemen vroegtijdig kan opsporen, terugbetaald voor bepaalde risicogroepen. De test meet de hoeveelheid albumine in urine en kan nierschade aantonen nog voor er klachten zijn.",
-      "published_at": "2026-09-01T01:00:00Z",
-      "retrieved_at": "2026-09-01T04:16:01.441403Z",
+      "title": "Arbeidsmigratie daalt fors door strengere regels",
+      "url": "https://www.gva.be/politiek/arbeidsmigratie-daalt-fors-door-strengere-regels/160841387.html",
+      "summary": "Strengere regels sinds begin dit jaar doen het aantal nieuwe aanvragen en toelatingen voor arbeidsmigranten van buiten Europa in Vlaanderen dalen. Dat schrijft De Tijd woensdag op basis van cijfers die de krant opvroeg bij Vlaams minister van Werk Zuhal Demir (N-VA).",
+      "published_at": "2026-09-02T03:54:41Z",
+      "retrieved_at": "2026-09-02T04:18:12.485131Z",
       "categories": [
-        "Binnenland"
+        "Politiek"
       ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
       "score": 21,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "section_strength": 6,
       "matched_signals": [
         "citizen_impact",
         "change_alert"
@@ -192,16 +207,284 @@
         {
           "source_id": "hbvl",
           "source_name": "Het Belang van Limburg",
-          "title": "Terugbetaling voor urinetest die nierschade opspoort: “Belangrijker dan cholesterol kennen”",
-          "url": "https://www.hbvl.be/natuur-en-wetenschap/terugbetaling-voor-urinetest-die-nierschade-opspoort-belangrijker-dan-cholesterol-kennen/160780902.html"
+          "title": "Arbeidsmigratie daalt fors door strengere regels",
+          "url": "https://www.hbvl.be/politiek/arbeidsmigratie-daalt-fors-door-strengere-regels/160841542.html"
         },
         {
           "source_id": "het_nieuwsblad",
           "source_name": "Het Nieuwsblad",
-          "title": "Terugbetaling voor urinetest die nierschade opspoort: “Belangrijker dan cholesterol kennen”",
-          "url": "https://www.nieuwsblad.be/binnenland/terugbetaling-voor-urinetest-die-nierschade-opspoort-belangrijker-dan-cholesterol-kennen/160735585.html"
+          "title": "Arbeidsmigratie daalt fors door strengere regels",
+          "url": "https://www.nieuwsblad.be/politiek/arbeidsmigratie-daalt-fors-door-strengere-regels/160841305.html"
+        },
+        {
+          "source_id": "de_tijd",
+          "source_name": "De Tijd",
+          "title": "Arbeidsmigratie daalt fors door strengere regels",
+          "url": "https://www.tijd.be/r/t/1/id/10681746"
         }
       ]
+    },
+    {
+      "item_id": "3bc1909a77010e65bbaf5967",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "L’IA va aider la justice belge a résoudre des affaires: « Nous sommes parmi les premiers à avoir développé ce type de projet »",
+      "url": "https://www.sudinfo.be/id1188204/article/2026-09-01/lia-va-aider-la-justice-belge-resoudre-des-affaires-nous-sommes-parmi-les",
+      "summary": "Le projet est un système d’aide à la décision judiciaire basé sur l’intelligence artificielle, en vue notamment d’assister les juges dans la sélection et le traitement prioritaire des dossiers. L’objectif est de détecter plus rapidement les schémas de fraude, concernant les entreprises fantômes notamment.",
+      "published_at": "2026-09-01T15:15:00Z",
+      "retrieved_at": "2026-09-02T04:18:10.750480Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "73e11fa9a6d89cd68234ddd5",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Réforme des études de kiné: un cursus de cinq ans, des spécialisations et des soins de première ligne",
+      "url": "https://www.rtbf.be/article/reforme-des-etudes-de-kine-un-cursus-de-cinq-ans-des-specialisations-et-des-soins-de-premiere-ligne-11778500",
+      "summary": "Une chose est sûre, il ne s’agit pas d’étaler sur cinq ans le programme des cours et des stages organisés jusqu’ici...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "retrieved_at": "2026-09-02T04:18:13.716835Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "4c10c94dce980516c9a2fbd5",
+      "source_id": "bx1",
+      "source_name": "BX1",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bx1_rss",
+      "endpoint_label": "Flux BX1",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Reconversion du site d’Audi Forest: “La Région ne met pas un euro pour la dépollution du site”",
+      "url": "https://bx1.be/categories/news/reconversion-du-site-daudi-forest-la-region-ne-met-pas-un-euro-pour-la-depollution-du-site/",
+      "summary": "La dépollution du site d’Audi Brussels sera entièrement à charge des propriétaires privés. La reconversion de l’ancien site Audi Brussels à Forest devrait permettre le retour d’activités économiques sur place “dès le début 2027”, annonce ce mardi le ministre bruxellois de l’Economie et de l’Emploi Laurent Hublet (Les Engagés). “Notre objectif, c’est que très rapidement, … lire plus",
+      "published_at": "2026-09-01T17:29:55Z",
+      "retrieved_at": "2026-09-02T04:18:14.020848Z",
+      "categories": [
+        "Audi Brussels",
+        "Bonsoir Bruxelles",
+        "Dépollution",
+        "Laurent Hublet",
+        "News"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "3073e68be7745be8aa804bd5",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Nouveau Code pénal, contrôle technique, casque obligatoire à trottinette, avoirs dormants…: voici ce qui change ce 1er septembre",
+      "url": "https://www.rtbf.be/article/nouveau-code-penal-controle-technique-casque-obligatoire-a-trottinette-avoirs-dormants-voici-ce-qui-change-ce-1er-septembre-11775967",
+      "summary": "Le nouveau Code pénal entre en vigueur le 1er septembre, près de 160 ans après l’adoption de son prédécesseur. Le...",
+      "published_at": "2026-09-01T04:05:00Z",
+      "retrieved_at": "2026-09-02T04:18:13.716835Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 36 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c54db3edcfe310417a2b0644",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Parlement Nicaragua keurt hervorming goed die oppositie uitsluit bij verkiezingen",
+      "url": "https://www.gva.be/buitenland/parlement-nicaragua-keurt-hervorming-goed-die-oppositie-uitsluit-bij-verkiezingen/160841270.html",
+      "summary": "Het parlement van Nicaragua heeft dinsdag unaniem ingestemd met een omstreden grondwetshervorming waardoor oppositieleden niet langer kunnen deelnemen aan verkiezingen. Dat heeft de voorzitter van het parlement, Gustavo Porras, meegedeeld. President Daniel Ortega vergroot zo verder zijn greep op het Midden-Amerikaanse land.",
+      "published_at": "2026-09-02T02:59:54Z",
+      "retrieved_at": "2026-09-02T04:18:12.485131Z",
+      "categories": [
+        "Buitenland"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Parlement Nicaragua keurt hervorming goed die oppositie uitsluit bij verkiezingen",
+          "url": "https://www.nieuwsblad.be/buitenland/parlement-nicaragua-keurt-hervorming-goed-die-oppositie-uitsluit-bij-verkiezingen/160841254.html"
+        },
+        {
+          "source_id": "de_morgen",
+          "source_name": "De Morgen",
+          "title": "Parlement Nicaragua keurt hervorming goed die oppositie uitsluit bij verkiezingen",
+          "url": "https://www.demorgen.be/snelnieuws/parlement-nicaragua-keurt-hervorming-goed-die-oppositie-uitsluit-bij-verkiezingen~b046567e/"
+        },
+        {
+          "source_id": "hln",
+          "source_name": "Het Laatste Nieuws",
+          "title": "Parlement Nicaragua keurt hervorming goed die oppositie uitsluit bij verkiezingen",
+          "url": "https://www.hln.be/buitenland/parlement-nicaragua-keurt-hervorming-goed-die-oppositie-uitsluit-bij-verkiezingen~a046567e/"
+        }
+      ]
+    },
+    {
+      "item_id": "eaf51247c5136f14fad6d603",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "David Clarinval donne un coup de pouce aux épargnants",
+      "url": "https://www.mr.be/david-clarinval-donne-un-coup-de-pouce-aux-epargnants/",
+      "summary": "Le ministre de l’Économie a décidé de maintenir à 3,75 % le taux d’intérêt maximal applicable aux assurances-vie à long terme pour 2027, malgré la proposition de la Banque nationale...",
+      "published_at": "2026-09-01T09:46:36Z",
+      "retrieved_at": "2026-09-02T04:18:07.314223Z",
+      "categories": [
+        "Communiqués"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
     },
     {
       "item_id": "ba01581c614463b94ce0752d",
@@ -229,9 +512,9 @@
         "consommation d'alcool"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 21,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -242,7 +525,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
@@ -270,9 +553,9 @@
         "Monde"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 20,
+      "score": 18,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -283,56 +566,291 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "47620ae76801bc242396f534",
-      "source_id": "de_standaard",
-      "source_name": "De Standaard",
+      "item_id": "d3b94a651218d4c8f7ba6f56",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
       "source_class": "news_media",
       "institution_level": "national",
       "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "de_standaard_rss",
-      "endpoint_label": "Binnenland",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|Belgique",
       "language": "nl",
-      "title": "In een op de drie gemeenten wordt buitenschoolse opvang duurder: “Budget van overheid ligt ver onder reële noden”",
-      "url": "https://www.standaard.be/binnenland/in-een-op-de-drie-gemeenten-wordt-buitenschoolse-opvang-duurder-budget-van-overheid-ligt-ver-onder-reele-noden/160731477.html",
-      "summary": "Vanaf 1 september zijn de steden en gemeenten zelf verantwoordelijk voor de buitenschoolse kinderopvang. In een op de drie gemeenten gaat de prijs daardoor omhoog, blijkt uit een nieuw rapport van de VVSG. Elders gaat de opvang later open of vroeger dicht.",
-      "published_at": "2026-08-31T05:41:03Z",
-      "retrieved_at": "2026-09-01T04:16:04.767987Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "title": "Europees kampioen pendelen: Belg rijdt gemiddeld 61 minuten van en naar het werk. Hoe komt dat? En wat kan je eraan doen?",
+      "url": "https://www.hln.be/binnenland/europees-kampioen-pendelen-belg-rijdt-gemiddeld-61-minuten-van-en-naar-het-werk-hoe-komt-dat-en-wat-kan-je-eraan-doen~a9a67ba6/",
+      "summary": "Wij Belgen zijn ook in 2026 Europees kampioen pendelen. Nergens zijn werknemers gemiddeld langer onderweg van en naar het werk dan hier. Voor het eerst overschrijden we daarbij zelfs de kaap van 60 minuten, zo blijkt nog uit het jaarlijkse internationaal onderzoek van SD Worx. Hoeveel tijd en kilometers besteden we aan woon-werkverkeer? En waarom is de Belg zo’n pendelaar?",
+      "published_at": "2026-09-02T04:00:18Z",
+      "retrieved_at": "2026-09-02T04:18:11.421387Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 20,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "score": 17,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
       "matched_signals": [
         "citizen_impact",
-        "evidence",
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9a89f22a13974ccf238764b6",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Hallucinant à Mons: enceinte de 8 mois, Fiona doit vivre avec des rats dans son logement social! « Il est descendu comme si on allait lui servir une assiette »",
+      "url": "https://www.sudinfo.be/id1188351/article/2026-09-02/hallucinant-mons-enceinte-de-8-mois-fiona-doit-vivre-avec-des-rats-dans-son",
+      "summary": "Enceinte de huit mois, Fiona est aussi famille d’accueil de deux enfants, une petite fille de 3 ans et un petit garçon de 5 ans. Mais depuis quelques mois, ils cohabitent avec les rats! La future maman s’inquiète pour son bébé. Elle a pu faire des vidéos pour prouver ses propos.",
+      "published_at": "2026-09-02T03:00:00Z",
+      "retrieved_at": "2026-09-02T04:18:10.750480Z",
+      "categories": [
+        "Mons Actu"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8c6c998f19a8dcd757b90215",
+      "source_id": "la_libre",
+      "source_name": "La Libre Belgique",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "la_libre_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Parachutage du chef cab d’Ahmed Laaouej à Rabat: un accord trouvé pour éteindre les colères chez Hub?",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/09/01/parachutage-du-chef-cab-dahmed-laaouej-a-rabat-un-accord-trouve-pour-eteindre-les-coleres-chez-hub-46PB3SIWOVGXDJTWLGLRIAFPWE/",
+      "summary": "Le salaire du représentant bruxellois au Maroc ne sera pas à la charge de hub.brussels. Une petite victoire qui apaise les craintes et colères, mais ne dissipe pas certaines critiques sur les jeux politiques....",
+      "published_at": "2026-09-01T09:31:40Z",
+      "retrieved_at": "2026-09-02T04:18:10.690751Z",
+      "categories": [
+        "Entreprises & Start-up"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "6af2ed560c993bc1314d5d8c",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Mons: le nouveau Code pénal entre en scène avec un Montois impliqué dans une bagarre",
+      "url": "https://www.dhnet.be/regions/mons/borinage/2026/09/01/mons-le-nouveau-code-penal-entre-en-scene-avec-un-montois-implique-dans-une-bagarre-WJIZO55JGJHU7PFONV3UO4O6YQ/",
+      "summary": "Entré en vigueur ce 1er septembre, le nouveau Code pénal belge était déjà au cœur des débats devant le tribunal correctionnel de Mons ce matin....",
+      "published_at": "2026-09-01T11:01:00Z",
+      "retrieved_at": "2026-09-02T04:18:11.272359Z",
+      "categories": [
+        "Borinage"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
         "change_alert"
       ],
       "score_reasons": [
         "contenu de type actualités",
         "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation",
+        "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "1e02a710748ee22e98c24177",
+      "item_id": "e10a775dbbe8757102e19d52",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Enseignement: déçus de leur rencontre avec Glatigny, les syndicats appellent à durcir le mouvement, \"J'ai perdu mon temps\"",
+      "url": "https://www.dhnet.be/actu/belgique/2026/09/01/enseignement-decus-de-leur-rencontre-avec-glatigny-les-syndicats-appellent-a-durcir-le-mouvement-jai-perdu-mon-temps-DLQYOG5MGFBLTDTNGFNCM6A23U/",
+      "summary": "Selon les syndicats CSC, CGSP et Setca-SEL, la ministre s'est bornée au cours de cette rencontre à proposer la mise sur pied d'un nouveau comité d'avis pour améliorer la concertation avec le secteur, mais sans revoir les mesures contestées....",
+      "published_at": "2026-09-01T09:20:45Z",
+      "retrieved_at": "2026-09-02T04:18:11.272359Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "92795849689664cce685d49f",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "\"De la poudre aux yeux\", \"une nécessité\": plus moderne et lisible, le nouveau Code pénal décrypté par les acteurs du monde de la justice",
+      "url": "https://www.dhnet.be/actu/belgique/2026/09/01/de-la-poudre-aux-yeux-une-necessite-plus-moderne-et-lisible-le-nouveau-code-penal-decrypte-par-les-acteurs-du-monde-de-la-justice-RR5VDFEKW5AHNFC6NDL3HSNVME/",
+      "summary": "Le nouveau Code pénal belge fait de la prison un dernier recours. Mais pour que cette philosophie soit rencontrée, encore faut-il renforcer les moyens des maisons de justice, décryptent un magistrat et un avocat....",
+      "published_at": "2026-09-01T04:37:10Z",
+      "retrieved_at": "2026-09-02T04:18:11.272359Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 6,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "a976993339f584fe7ed68713",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Croissance à 0%, inflation, faillites record, chômage en hausse: les chiffres de l’Arizona avancés par Paul Magnette sont-ils corrects?",
+      "url": "https://www.rtbf.be/article/croissance-a-0-inflation-faillites-record-chomage-en-hausse-les-chiffres-de-l-arizona-avances-par-paul-magnette-sont-ils-corrects-11777892",
+      "summary": "Au lendemain de la rentrée du Parti socialiste, son président, Paul Magnette, était l’invité de Matin Première, ce...",
+      "published_at": "2026-08-31T16:23:55Z",
+      "retrieved_at": "2026-09-01T04:16:02.649714Z",
+      "categories": [
+        "BELGIQUE"
+      ],
+      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 36 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "20808363da34fca8340589b4",
       "source_id": "le_soir",
       "source_name": "Le Soir",
       "source_class": "news_media",
@@ -344,107 +862,143 @@
       "endpoint_label": "Flux principal",
       "content_scope": "actualités|presse|Belgique",
       "language": "fr",
-      "title": "Hausse des prix Spotify, nouveau Code pénal, contrôle technique... voici tout ce qui change ce 1er septembre",
-      "url": "https://www.lesoir.be/768021/article/2026-08-30/hausse-des-prix-spotify-nouveau-code-penal-controle-technique-voici-tout-ce-qui",
-      "summary": "Nouvelles règles pour le contrôle technique, hausse des abonnements Spotify, entrée en vigueur du nouveau Code pénal, téléconsultations pour les logopèdes: tour d’horizon des principaux changements applicables en Belgique à partir du 1er septembre.",
-      "published_at": "2026-08-30T20:08:26Z",
-      "retrieved_at": "2026-08-31T04:09:02.438478Z",
+      "title": "Etudes de kiné: hautes écoles et universités vont devoir apprendre à travailler ensemble",
+      "url": "https://www.lesoir.be/768470/article/2026-09-02/etudes-de-kine-hautes-ecoles-et-universites-vont-devoir-apprendre-travailler",
+      "summary": "Dès cette rentrée, les études de kinésithérapie passent de 4 à 5 ans, à l’université comme en haute école. Avec un même diplôme à la clé, la réforme ouvre la voie à de nouvelles collaborations entre établissements.",
+      "published_at": "2026-09-02T04:00:00Z",
+      "retrieved_at": "2026-09-02T04:18:10.055746Z",
       "categories": [
-        "Société"
+        "Enseignement"
       ],
-      "first_seen_at": "2026-08-31T04:09:33.900009Z",
-      "observation_status": "cached",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
       "seen_count": 1,
-      "score": 19,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9a913f76758dd35efbcefc2c",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Rechtbank Honduras seponeert aanklachten oud-president Hernández",
+      "url": "https://www.hln.be/buitenland/rechtbank-honduras-seponeert-aanklachten-oud-president-hernandez~ae4b3411/",
+      "summary": "Een Hondurese rechtbank heeft de aanklachten wegens fraude en witwassen tegen oud-president Juan Orlando Hernández ingetrokken. Negen maanden geleden werd Hernández gratie verleend door de Amerikaanse president Donald Trump. Hernández zat in een Amerikaanse gevangenis een lange straf uit voor drugshandel.",
+      "published_at": "2026-09-02T02:35:00Z",
+      "retrieved_at": "2026-09-02T04:18:11.421387Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
+      "section_strength": 8,
+      "matched_signals": [
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "80d993c2cf6d571a531ace48",
+      "source_id": "brf_news",
+      "source_name": "BRF Nachrichten",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Communauté germanophone",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "brf_news_rss",
+      "endpoint_label": "Flux BRF Nachrichten",
+      "content_scope": "actualités|presse|terrain",
+      "language": "de",
+      "title": "Amel führt Steuer auf Übernachtungen ein",
+      "url": "https://brf.be/regional/2105265/",
+      "summary": "Der Gemeinderat von Amel hat eine Steuer auf Übernachtungen eingeführt. Sie beläuft sich auf 2,50 Euro pro Person pro Nacht. Damit folgt Amel dem Beispiel anderer Gemeinden und Urlaubsregionen. Die Übernachtungssteuer tritt an die Stelle der früheren Bettensteuer. Laut Schöffin Anna Pauels ist diese nicht mehr zeitgemäß und hat auch nicht viel eingebracht. Die Steuer […]",
+      "published_at": "2026-09-01T19:45:50Z",
+      "retrieved_at": "2026-09-02T04:18:13.414650Z",
+      "categories": [
+        "Amel",
+        "Gemeinderat",
+        "Regional",
+        "Top News"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "46091bbc36a9d8decc013841",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "\"Winter is coming\": Europa dreigt af te stevenen op nieuwe gascrisis",
+      "url": "https://vrtnws.be/p.XEXb4axwO",
+      "summary": "De Europese gasprijs brak gisteren door de grens van de 70 euro en is vandaag verder doorgeklommen. Alweer nieuwe records sinds het conflict in de Perzische Golf en meteen ook de hoogste prijs sinds de naweeën van de gascrisis in januari 2023. Verontrustend, want Europa moet zijn wintervoorraden nog aanvullen. Die voorraden staan historisch laag, zelfs lager dan in de jaren 2021 en 2022, toen de gascrisis in alle hevigheid woedde. Een nieuw rampscenario lijkt in de maak.",
+      "published_at": "2026-09-01T13:48:35Z",
+      "retrieved_at": "2026-09-02T04:18:12.553666Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
       "section_strength": 2,
       "matched_signals": [
         "citizen_impact",
-        "accountability",
         "change_alert"
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 36 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "c692f0b089f843ad6aa78d2c",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Nouveau Code pénal, logopédie en visio, avoirs dormants… Voici ce qui change ce 1er septembre",
-      "url": "https://www.rtbf.be/article/nouveau-code-penal-logopedie-en-visio-avoirs-dormants-voici-ce-qui-change-ce-1er-septembre-11775967",
-      "summary": "Le nouveau Code pénal entre en vigueur le 1er septembre, près de 160 ans après l’adoption de son prédécesseur. Le...",
-      "published_at": "2026-09-01T04:05:00Z",
-      "retrieved_at": "2026-09-01T04:16:02.649714Z",
-      "categories": [],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "existing",
-      "seen_count": 6,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 0,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "89a659605a6deb88752ca93e",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Nouvelle philosophie, nouvelles incriminations, plus de lisibilité: le nouveau Code pénal entre en vigueur ce 1er septembre",
-      "url": "https://www.rtbf.be/article/nouvelle-philosophie-nouvelles-incriminations-plus-de-lisibilite-le-nouveau-code-penal-entre-en-vigueur-ce-1er-septembre-11693284",
-      "summary": "Après dix ans de travaux et un report décidé en avril dernier, le nouveau Code pénal entre finalement en vigueur ce...",
-      "published_at": "2026-09-01T04:00:00Z",
-      "retrieved_at": "2026-09-01T04:16:02.649714Z",
-      "categories": [],
-      "first_seen_at": "2026-08-28T14:03:52.325895Z",
-      "observation_status": "existing",
-      "seen_count": 6,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 0,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
       "related_items": []
@@ -471,9 +1025,9 @@
         "Binnenland"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -483,7 +1037,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique"
       ],
       "related_items": [
@@ -496,212 +1050,204 @@
       ]
     },
     {
-      "item_id": "a976993339f584fe7ed68713",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Croissance à 0%, inflation, faillites record, chômage en hausse: les chiffres de l’Arizona avancés par Paul Magnette sont-ils corrects?",
-      "url": "https://www.rtbf.be/article/croissance-a-0-inflation-faillites-record-chomage-en-hausse-les-chiffres-de-l-arizona-avances-par-paul-magnette-sont-ils-corrects-11777892",
-      "summary": "Au lendemain de la rentrée du Parti socialiste, son président, Paul Magnette, était l’invité de Matin Première, ce...",
-      "published_at": "2026-08-31T16:23:55Z",
-      "retrieved_at": "2026-09-01T04:16:02.649714Z",
-      "categories": [
-        "BELGIQUE"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d39edb7c9893c823cf2d44a8",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Drie magistraten die examenvragen doorspeelden moeten terechtstaan na fraude",
-      "url": "https://vrtnws.be/p.mR06p93M8",
-      "summary": "In het dossier over de fraude met het magistratenexamen zullen 3 magistraten moeten terechtstaan voor feiten van belangenvermenging en schending van het beroepsgeheim. Dat heeft de Brusselse Kamer van Inbeschuldigingstelling beslist.",
-      "published_at": "2026-08-31T14:38:32Z",
-      "retrieved_at": "2026-09-01T04:16:02.481120Z",
-      "categories": [],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "0b3a2bba154bfacd27c2dc67",
-      "source_id": "la_libre",
-      "source_name": "La Libre Belgique",
+      "item_id": "bf4600f0a93764121864a7b2",
+      "source_id": "de_tijd",
+      "source_name": "De Tijd",
       "source_class": "news_media",
       "institution_level": "national",
       "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "la_libre_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Ces éléments du passé judiciaire de Grégory Lenoci qui ont pesé dans la décision du tribunal",
-      "url": "https://www.lalibre.be/belgique/judiciaire/2026/08/31/ces-elements-du-passe-judiciaire-de-gregory-lenoci-qui-ont-pese-dans-la-decision-du-tribunal-TD5HDIMNFREJBKRZP6UAANHAOE/",
-      "summary": "La condamnation de Grégory Lenoci à 17 ans de prison pour tentative d’assassinat a beaucoup fait parler. Si le tribunal de Namur a opté pour cette peine, c’est aussi en regard du passé judiciaire du Jambois....",
-      "published_at": "2026-08-31T14:03:04Z",
-      "retrieved_at": "2026-09-01T04:15:59.911929Z",
+      "endpoint_id": "de_tijd_rss",
+      "endpoint_label": "Algemeen nieuws",
+      "content_scope": "actualités|presse|économie",
+      "language": "nl",
+      "title": "Vliegen we straks dubbel zo snel in nieuwe Concordes? 'Het zal kunnen voor prijs van businessticket'",
+      "url": "https://www.tijd.be/r/t/1/id/10684321",
+      "summary": "Supersonisch vliegen is voor veel mensen vooral een vage herinnering aan de Concorde. Maar die tijd komt wellicht terug nu vliegtuigbouwers nieuwe toestellen ontwikkelen, het doorbreken van de geluidsgrens wellicht geluidloos kan, luchtvaartmaatschappijen er tientallen bestellen en overheden hun wetgeving versoepelen.",
+      "published_at": "2026-09-02T03:00:35Z",
+      "retrieved_at": "2026-09-02T04:18:11.899077Z",
       "categories": [
-        "Judiciaire"
+        "Ondernemen"
       ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 18,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 6,
+      "score": 14,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
       "matched_signals": [
-        "public_decision",
-        "accountability"
+        "citizen_impact"
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
       ],
       "related_items": []
     },
     {
-      "item_id": "e7d1be7b42b9a1f99df159f6",
-      "source_id": "bx1",
-      "source_name": "BX1",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "bx1_rss",
-      "endpoint_label": "Flux BX1",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Nouveau code pénal: ce qui changera concrètement dès le 1er septembre",
-      "url": "https://bx1.be/categories/news/nouveau-code-penal-ce-qui-changera-concretement-des-le-1er-septembre/",
-      "summary": "Nouvelle échelle de peines, prison davantage conçue comme un dernier recours ou encore apparition de l’écocide: le Code pénal qui entrera en vigueur le 1er septembre modifiera en profondeur la manière de définir et de sanctionner les infractions en Belgique. Le texte est organisé en deux livres. Le Livre Ier pose les règles générales du … lire plus",
-      "published_at": "2026-08-31T04:01:51Z",
-      "retrieved_at": "2026-08-31T04:09:07.358769Z",
-      "categories": [
-        "Justice",
-        "News",
-        "code pénal",
-        "nouveau code pénal"
-      ],
-      "first_seen_at": "2026-08-31T04:09:33.900009Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 6,
-      "matched_signals": [
-        "accountability",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "99cf35e6cf0714c11b0ced3e",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
+      "item_id": "1ffd7e84a5911a9cafa3637b",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
       "source_class": "news_media",
       "institution_level": "région",
       "geography": "Flandre",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
+      "endpoint_id": "hbvl_rss",
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "Een op de twintig ambtenaren met ziektepensioen aan het werk",
-      "url": "https://www.gva.be/politiek/een-op-de-twintig-ambtenaren-met-ziektepensioen-aan-het-werk/160784767.html",
-      "summary": "Een op de twintig ambtenaren met een ziektepensioen is vandaag minstens deeltijds aan de slag. Dat schrijft Het Laatste Nieuws dinsdag op basis van cijfers die CD&V-Kamerlid Nahima Lanjri opvroeg bij minister van Pensioenen Jan Jambon (N-VA).",
-      "published_at": "2026-09-01T03:42:09Z",
-      "retrieved_at": "2026-09-01T04:16:01.441403Z",
+      "title": "Nieuw schooljaar zonder overleden meester Marnick (34): “Ik mis mijn maatje hier op school”",
+      "url": "https://www.hbvl.be/regio/limburg/halen/nieuw-schooljaar-zonder-overleden-meester-marnick-34-ik-mis-mijn-maatje-hier-op-school/160800360.html",
+      "summary": "1 september zonder meester Marnick: voor VBS Wegwijs in Halen was het een dubbele start. De populaire meester van het vierde overleed aan NEC-kanker. “De kinderen hadden het meteen door: jij mist de meester hé?”",
+      "published_at": "2026-09-01T21:59:00Z",
+      "retrieved_at": "2026-09-02T04:18:13.237590Z",
       "categories": [
-        "Politiek"
+        "Halen"
       ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
+      "section_strength": 2,
       "matched_signals": [
-        "citizen_impact"
+        "change_alert"
       ],
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
+        "publié depuis moins de 12 heures",
+        "changement, alerte ou échéance"
       ],
       "related_items": [
         {
           "source_id": "het_nieuwsblad",
           "source_name": "Het Nieuwsblad",
-          "title": "Een op de twintig ambtenaren met ziektepensioen aan het werk",
-          "url": "https://www.nieuwsblad.be/politiek/een-op-de-twintig-ambtenaren-met-ziektepensioen-aan-het-werk/160784733.html"
+          "title": "Nieuw schooljaar zonder overleden meester Marnick (34): “Ik mis mijn maatje hier op school”",
+          "url": "https://www.nieuwsblad.be/regio/limburg/halen/nieuw-schooljaar-zonder-overleden-meester-marnick-34-ik-mis-mijn-maatje-hier-op-school/160833789.html"
         }
       ]
+    },
+    {
+      "item_id": "973229b1054262ba21465e67",
+      "source_id": "federal_press",
+      "source_name": "Presscenter fédéral",
+      "source_class": "institution",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "federal_rss",
+      "endpoint_label": "Flux de tous les communiqués",
+      "content_scope": "communiqués",
+      "language": "fr",
+      "title": "Dépassements de quotas: l’AFMPS poursuit ses travaux et renforce la transparence",
+      "url": "https://news.belgium.be/fr/depassements-de-quotas-lafmps-poursuit-ses-travaux-et-renforce-la-transparence",
+      "summary": "À la suite des articles de presse publiés aujourd’hui concernant un nouveau cas de dépassement de quota impliquant un donneur étranger de gamètes, ainsi que de la publication des informations correspondantes sur son site internet, l’Agence fédérale des médicaments et des produits de santé (AFMPS) souhaite apporter des précisions sur la situation. L’AFMPS souligne que l’identification et la publication de nouveaux dépassements de quotas s’inscrivent dans la continuité du travail entrepris par l’Agence et dans sa volonté de transparence à l’égard des citoyens.",
+      "published_at": "2026-09-01T16:16:38Z",
+      "retrieved_at": "2026-09-02T04:18:04.750093Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "56b80f826f761ccec84d4298",
+      "source_id": "ligue_droits_humains",
+      "source_name": "Ligue des droits humains",
+      "source_class": "civil_society",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "ldh_wp",
+      "endpoint_label": "Flux des publications",
+      "content_scope": "actualités|communiqués|droits|justice",
+      "language": "fr",
+      "title": "| CP | 01.09.26 | Le Farmer Case arrive devant la Cour d’appel de Mons",
+      "url": "https://www.liguedh.be/environnement/cp-01-09-26-le-farmer-case-arrive-devant-la-cour-dappel-de-mons/",
+      "summary": "L’article | CP | 01.09.26 | Le Farmer Case arrive devant la Cour d’appel de Mons est apparu en premier sur La Ligue des Droits Humains.",
+      "published_at": "2026-09-01T12:36:38Z",
+      "retrieved_at": "2026-09-02T04:18:08.898341Z",
+      "categories": [
+        "Environnement",
+        "Farmer Case",
+        "TotalEnergies",
+        "communiqué de presse",
+        "cour d'appel de Mons",
+        "procès climatique"
+      ],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 10,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type droits",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "4a452c32036ff8c295e421fc",
+      "source_id": "federal_press",
+      "source_name": "Presscenter fédéral",
+      "source_class": "institution",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "federal_rss",
+      "endpoint_label": "Flux de tous les communiqués",
+      "content_scope": "communiqués",
+      "language": "fr",
+      "title": "Les Affaires étrangères accueillent un nouveau porte-parole, Maxime Ramon",
+      "url": "https://news.belgium.be/fr/les-affaires-etrangeres-accueillent-un-nouveau-porte-parole-maxime-ramon",
+      "summary": "À compter du 1er septembre, le SPF Affaires étrangères, Commerce extérieur et Coopération au développement accueille un nouveau porte-parole, Maxime Ramon. Aux côtés de Florinda Baleci, qui exerce cette fonction depuis deux ans, il portera la voix officielle du SPF Affaires étrangères, Commerce extérieur et Coopération au développement auprès des médias.",
+      "published_at": "2026-09-01T08:05:48Z",
+      "retrieved_at": "2026-09-02T04:18:04.750093Z",
+      "categories": [],
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
     },
     {
       "item_id": "86489f0dab835ef9e0c03bb3",
@@ -725,9 +1271,9 @@
         "Onderwijs"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -737,7 +1283,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population"
       ],
       "related_items": [
@@ -771,9 +1317,9 @@
         "Zonnebeke"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -783,46 +1329,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3d253a8d032ddc7e376d989d",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Argent, santé, pensions...: voici tout ce qui change ce 1er septembre",
-      "url": "https://www.sudinfo.be/id1187887/article/2026-09-01/argent-sante-pensions-voici-tout-ce-qui-change-ce-1er-septembre",
-      "summary": "Plusieurs changements entreront en vigueur en Belgique dès le 1er septembre. Voici ce qu’il faut savoir.",
-      "published_at": "2026-09-01T04:00:00Z",
-      "retrieved_at": "2026-09-01T04:15:59.901260Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "changement, alerte ou échéance"
       ],
       "related_items": []
@@ -849,9 +1356,9 @@
         "Tongeren-Borgloon"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 14,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
@@ -861,7 +1368,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
@@ -888,9 +1395,9 @@
         "Tessenderlo-Ham"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 14,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
@@ -900,7 +1407,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
@@ -933,9 +1440,9 @@
         "semlex"
       ],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 14,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 12,
@@ -944,9 +1451,16 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type droits",
         "contenu de type communiqués",
-        "publié depuis moins de 12 heures"
+        "publié depuis moins de 36 heures"
       ],
-      "related_items": []
+      "related_items": [
+        {
+          "source_id": "ligue_droits_humains",
+          "source_name": "Ligue des droits humains",
+          "title": "CP | 31.08.26 | Congo: Semlex renvoyée devant le tribunal correctionnel pour corruption internationale",
+          "url": "https://www.liguedh.be/justice/cp31-08-26-congo-semlex-renvoyee-devant-le-tribunal-correctionnel-pour-corruption-internationale/"
+        }
+      ]
     },
     {
       "item_id": "390a2cebf30fb0e0b3bb4482",
@@ -965,12 +1479,12 @@
       "url": "http://nautilus.parlement-wallon.be/Archives/2024_2025/QR/qr23.pdf",
       "summary": "Bulletin des questions et réponses",
       "published_at": "2026-08-31T16:54:18Z",
-      "retrieved_at": "2026-09-01T04:15:53.050748Z",
+      "retrieved_at": "2026-09-02T04:18:05.274994Z",
       "categories": [],
       "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -979,283 +1493,12 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type questions",
         "contenu de type travaux",
-        "publié depuis moins de 12 heures"
+        "publié depuis moins de 36 heures"
       ],
       "related_items": []
     },
     {
-      "item_id": "a0a7fc340b0192a401482a77",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Affaire d’espionnage au SHAPE: Claire Biwei Zhang, la stagiaire canadienne, reste en détention",
-      "url": "https://www.sudinfo.be/id1187780/article/2026-08-31/affaire-despionnage-au-shape-claire-biwei-zhang-la-stagiaire-canadienne-reste-en",
-      "summary": "Soupçonnée d’espionnage au profit d’un pays tiers, Claire Biwei Zhang, ex-stagiaire canadienne au SHAPE à Casteau, restera en détention préventive après la décision de la chambre des mises en accusation ce lundi.",
-      "published_at": "2026-08-31T16:49:43Z",
-      "retrieved_at": "2026-09-01T04:15:59.901260Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "a13473a022e6ef030d480d89",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Gratuité scolaire: entre le décret et la réalité, le grand écart",
-      "url": "https://www.lesoir.be/768228/article/2026-09-01/gratuite-scolaire-entre-le-decret-et-la-realite-le-grand-ecart",
-      "summary": "Alors que la gratuité des fournitures s’étend désormais aux élèves de 4e et 5e primaire, les moyens dédiés sont fortement réduits. Sur le terrain, les écoles doivent procéder à des arbitrages, et le respect des prescrits légaux en est fortement impacté.",
-      "published_at": "2026-09-01T04:06:58Z",
-      "retrieved_at": "2026-09-01T04:15:59.007564Z",
-      "categories": [
-        "Enseignement"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "31b48f2b00a1a77098d1256c",
-      "source_id": "de_standaard",
-      "source_name": "De Standaard",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_standaard_rss",
-      "endpoint_label": "Binnenland",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Zuhal Demir is hoopvol op 1 september: “Het komt goed met het Vlaamse onderwijs”",
-      "url": "https://www.standaard.be/binnenland/zuhal-demir-is-hoopvol-op-1-september-het-komt-goed-met-het-vlaamse-onderwijs/160736296.html",
-      "summary": "Een wiskundebooster, een hervorming van de B-stroom en een langetermijnvisie op onderwijs: minister Zuhal Demir (N-VA) heeft haar volgende reeks uitdagingen uitgekozen. “We hebben gouden koppen en gouden handen nodig.”",
-      "published_at": "2026-08-31T21:59:00Z",
-      "retrieved_at": "2026-09-01T04:16:04.767987Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "bfb769d3e5807b798376d450",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Woningbrand in Wintershoven snel onder controle: brandweer stoot op wietplantage",
-      "url": "https://www.hbvl.be/regio/limburg/hasselt/woningbrand-in-wintershoven-snel-onder-controle-brandweer-stoot-op-wietplantage/160781810.html",
-      "summary": "De hulpdiensten zijn maandag even voor 21 uur opgeroepen voor een brand in de Bronstraat in Wintershoven. Het vuur woedde in een hoekhuis. In het huis werd een wietplantage ontdekt.",
-      "published_at": "2026-08-31T19:22:00Z",
-      "retrieved_at": "2026-09-01T04:16:04.544188Z",
-      "categories": [
-        "Hasselt"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "2ef47b710a79ec5d7dd9ddc9",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Tot 19,50 euro extra per kledingstuk: Frankrijk maakt ultrasnelle mode duurder",
-      "url": "https://vrtnws.be/p.0YJq0BBXL",
-      "summary": "Wie in Frankrijk kleren wil bestellen bij Shein, Temu of AliExpress, betaalt vanaf 1 september extra. Het land voert dan een taks in op ultrasnelle mode, de zogenaamde \"ecologische bijdrage\". Die bedraagt voorlopig nog maar enkele euro's, maar kan tegen 2030 oplopen tot 19,50 euro voor grote kledingstukken.",
-      "published_at": "2026-08-31T16:12:32Z",
-      "retrieved_at": "2026-09-01T04:16:02.481120Z",
-      "categories": [],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "182bce44d605964e9a3536ee",
-      "source_id": "brf_news",
-      "source_name": "BRF Nachrichten",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "brf_news_rss",
-      "endpoint_label": "Flux BRF Nachrichten",
-      "content_scope": "actualités|presse|terrain",
-      "language": "de",
-      "title": "Strafgericht Eupen verhängt Geldbußen wegen Schneeballsystems mit Kryptowährung",
-      "url": "https://brf.be/regional/2104844/",
-      "summary": "Vor dem Eupener Strafgericht ist am Montag das Urteil im Prozess gegen acht Personen wegen ihrer Beteiligung an einem Schneeballsystem verkündet worden. Sie wurden jeweils zu Geldstrafen zwischen 8.000 und 64.000 Euro verurteilt. Die Zivilparteien, die Anspruch auf Schadensersatz erhoben hatten, mussten sich mit einem vorläufigen Euro begnügen. Für das Gericht ist nicht geklärt, wie […]",
-      "published_at": "2026-08-31T10:38:00Z",
-      "retrieved_at": "2026-09-01T04:16:02.999918Z",
-      "categories": [
-        "Eupen",
-        "Regional",
-        "Top News"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "f9bb2e97f178edff7dc17653",
-      "source_id": "de_morgen",
-      "source_name": "De Morgen",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_morgen_rss",
-      "endpoint_label": "In het nieuws",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Meer langdurig zieken zien uitkering geschrapt na controle door de ziekenfondsen",
-      "url": "https://www.demorgen.be/nieuws/meer-langdurig-zieken-zien-uitkering-geschrapt-na-controle-door-de-ziekenfondsen~b6b5a5a6/",
-      "summary": "",
-      "published_at": "2026-08-31T01:00:27Z",
-      "retrieved_at": "2026-08-31T04:09:03.782280Z",
-      "categories": [],
-      "first_seen_at": "2026-08-31T04:09:33.900009Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "c4f1ba5d2139b76accb3f5af",
+      "item_id": "d6975384d4ade48501f82880",
       "source_id": "hln",
       "source_name": "Het Laatste Nieuws",
       "source_class": "news_media",
@@ -1267,19 +1510,19 @@
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|Belgique",
       "language": "nl",
-      "title": "Bijna 85.000 vastbenoemde ambtenaren kregen stempel ‘te ziek om te werken’, toch is 1 op de 20 vandaag aan de slag",
-      "url": "https://www.hln.be/binnenland/bijna-85-000-vastbenoemde-ambtenaren-kregen-stempel-te-ziek-om-te-werken-toch-is-1-op-de-20-vandaag-aan-de-slag~ae6b38cb/",
-      "summary": "Officieel zijn bijna 85.000 vastbenoemde ambtenaren ‘te ziek’ om ooit nog te werken. Toch is één op de twintig vandaag aan de slag, blijkt uit informatie die CD&V opvroeg bij minister van Pensioenen Jan Jambon (N-VA). Het gaat om zo’n 4.200 Belgen. “Dit toont aan dat de overheid mensen vaak onterecht te snel uit de arbeidsmarkt duwde”, vindt Kamerlid Nahima Lanjri (CD&V). Waar werken ze? Kunnen ze hun uitkering combineren met een job? En wat gaat er in de toekomst met die groep gebeuren?",
-      "published_at": "2026-09-01T04:00:22Z",
-      "retrieved_at": "2026-09-01T04:16:00.529477Z",
+      "title": "Waarom Marc Coucke zelfs niet de hoogste prijs moest bieden om ‘zijn’ beachbar in Het Zoute te krijgen",
+      "url": "https://www.hln.be/nieuws/waarom-marc-coucke-zelfs-niet-de-hoogste-prijs-moest-bieden-om-zijn-beachbar-in-het-zoute-te-krijgen~ad5a2b1d/",
+      "summary": "De ‘beachbar-oorlog’ blijft de gemoederen beroeren. Sommige uitbaters willen nu naar de Raad van State trekken in de hoop de toewijzing van de strandbars terug te draaien. Maar wie denkt dat Marc Coucke bijvoorbeeld zijn plek louter heeft ‘gekocht’, heeft het toch mis. Zelfs zonder zijn bod - 18,42 euro per vierkante meter en bijna de helft lager dan het hoogste bod - had hij het gehaald van zijn tegenstanders. Dat blijkt uit het dossier dat onze redactie kon inkijken.",
+      "published_at": "2026-09-02T04:00:31Z",
+      "retrieved_at": "2026-09-02T04:18:11.421387Z",
       "categories": [],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
+      "first_seen_at": "2026-09-02T04:18:47.483595Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "score": 13,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 2,
       "matched_signals": [
         "citizen_impact"
       ],
@@ -1287,200 +1530,6 @@
         "contenu de type actualités",
         "publié depuis moins de 6 heures",
         "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "39d28c9a885683526f74a170",
-      "source_id": "la_libre",
-      "source_name": "La Libre Belgique",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "la_libre_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "La réforme de la désignation des top managers publics “ne va pas nécessairement aboutir à l’arrivée de personnes plus compétentes”",
-      "url": "https://www.lalibre.be/belgique/politique-belge/2026/08/31/la-reforme-de-la-designation-des-top-managers-publics-ne-va-pas-necessairement-aboutir-a-larrivee-de-personnes-plus-competentes-R2CDJFD4QBEIRCQH3KUB3CFJCU/",
-      "summary": "Le professeur de l’ULB Marek Hudon considère que la réforme wallonne ne dépolitisera pas l’administration....",
-      "published_at": "2026-08-31T17:18:37Z",
-      "retrieved_at": "2026-09-01T04:15:59.911929Z",
-      "categories": [
-        "Politique belge"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "853f7b80ada1930662167708",
-      "source_id": "brf_news",
-      "source_name": "BRF Nachrichten",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "brf_news_rss",
-      "endpoint_label": "Flux BRF Nachrichten",
-      "content_scope": "actualités|presse|terrain",
-      "language": "de",
-      "title": "Außenminister Prévot warnt US-Botschafter White vor weiteren Provokationen",
-      "url": "https://brf.be/national/2104850/",
-      "summary": "Außenminister Maxime Prévot hat den US-Botschafter Bill White aufgefordert, Angriffe auf Politiker zu beenden. Anlass war ein umstrittener Instagram-Beitrag über Gesundheitsminister Frank Vandenbroucke. White hatte Vandenbroucke darin als \"Belgiens größten Loser\" verunglimpft. Prévot hatte White deshalb erneut ins Außenministerium einbestellt. Bereits im Februar war White den flämischen Sozialisten scharf angegangen. Damals ging's um ein Ermittlungsverfahren […]",
-      "published_at": "2026-08-31T10:59:00Z",
-      "retrieved_at": "2026-09-01T04:16:02.999918Z",
-      "categories": [
-        "Föderalregierung",
-        "National",
-        "Top News",
-        "USA"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3e1a4037bec8a97a7c9f5a69",
-      "source_id": "fps_mobility",
-      "source_name": "SPF Mobilité et Transports",
-      "source_class": "public_body",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "mobility_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués",
-      "language": "fr",
-      "title": "Lignes directrices pour la catégorie SPECIFIC et la SORA",
-      "url": "http://mobilit.belgium.be/fr/news/lignes-directrices-pour-la-categorie-specific-et-la-sora",
-      "summary": "À partir du 1er septembre 2026, la DGTA publie des lignes directrices destinées aux exploitants d’UAS qui volent, ou souhaitent voler, dans la catégorie SPECIFIC. Elles rassemblent en un seul endroit ce que la DGTA attend d’une demande et la manière dont les dossiers, y compris les demandes SORA, sont évalués. Pourquoi ces lignes directrices? Les exploitations d’UAS dans la catégorie SPECIFIC présentent un risque plus élevé que dans la catégorie OPEN. Elles requièrent dès lors des procédures et des mesures d’atténuation du risque appropriées, qui doivent être correctement…",
-      "published_at": "2026-08-31T08:30:52Z",
-      "retrieved_at": "2026-09-01T04:15:52.426935Z",
-      "categories": [],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "bc159016b0b51892886b0fda",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Plus de 190 000 euros par an pour les top managers wallons avec la réforme de Jacqueline Galant: \"Il y a eu tromperie!\"",
-      "url": "https://www.dhnet.be/actu/belgique/2026/08/31/plus-de-190-000-euros-par-an-pour-les-top-managers-wallons-avec-la-reforme-de-jacqueline-galant-il-y-a-eu-tromperie-VWYHDFH2RZCWHKFWINA6FZ2EHE/",
-      "summary": "Les big boss des grandes administrations wallonnes recevront dorénavant une rémunération fixe, qu’ils aient 10 ou 30 ans d’ancienneté. Stéphane Hazée, chef de groupe Ecolo au parlement wallon, accuse la ministre de la Fonction publique d’avoir caché l’ampleur du changement lié à cette nouveauté pendant des mois....",
-      "published_at": "2026-08-31T04:31:16Z",
-      "retrieved_at": "2026-09-01T04:16:00.483078Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-01T04:16:34.765641Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "fee7c38add8e92176ec065e0",
-      "source_id": "hln",
-      "source_name": "Het Laatste Nieuws",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hln_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "“We zijn nog niet klaar voor het WK”: Antonia Delaere beseft dat er ondanks zege in uitzwaaiwedstrijd werk op de plank ligt voor Belgian Cats",
-      "url": "https://www.hln.be/meer-sport/we-zijn-nog-niet-klaar-voor-het-wk-antonia-delaere-beseft-dat-er-ondanks-zege-in-uitzwaaiwedstrijd-werk-op-de-plank-ligt-voor-belgian-cats~a251633b/",
-      "summary": "“We hebben nog veel werk.” Mike Thibault - bondscoach van de Belgian Cats - was eerlijk in zijn analyse na de WK-voorbereiding. Tegen Japan werd er zondagavond dan wel gewonnen in de uitwuifwedstrijd, het basketbal was niet altijd even goed. Net dat wil je op een wereldkampioenschap vermijden. “We hebben een week om beter te worden. ‘I think we will’.”",
-      "published_at": "2026-08-30T19:17:00Z",
-      "retrieved_at": "2026-08-31T04:09:03.989698Z",
-      "categories": [],
-      "first_seen_at": "2026-08-31T04:09:33.900009Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
       ],
       "related_items": []
     }
