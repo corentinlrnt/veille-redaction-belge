@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-02T04:18:47.507064Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-03T05:35:44.625065Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **49**
-- Flux collectés : **45**
-- Flux en erreur : **4**
-- Éléments conservés : **2775**
-- Sources contributrices : **30**
+- Flux collectés : **47**
+- Flux en erreur : **2**
+- Éléments conservés : **3150**
+- Sources contributrices : **29**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -18,9 +18,9 @@ Généré le `2026-09-02T04:18:47.507064Z` par `veille-redaction-belge/collector
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
-| `cwape` | `cwape_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 31 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 220 | — |
@@ -50,12 +50,12 @@ Généré le `2026-09-02T04:18:47.507064Z` par `veille-redaction-belge/collector
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
-| `sp_dg_party` | `sp_dg_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
 | `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 1 | — |
-| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 3 | — |
-| `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |
+| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 4 | — |
+| `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 5 | — |
