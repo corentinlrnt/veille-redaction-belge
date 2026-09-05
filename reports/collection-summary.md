@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-04T04:17:26.897615Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-05T04:16:30.702397Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **49**
 - Flux collectés : **48**
 - Flux en erreur : **1**
-- Éléments conservés : **3495**
+- Éléments conservés : **3012**
 - Sources contributrices : **30**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -20,7 +20,7 @@ Généré le `2026-09-04T04:17:26.897615Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 32 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 31 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 220 | — |
