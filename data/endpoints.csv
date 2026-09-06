@@ -217,3 +217,6 @@ rtbf_info_rss,rtbf_info,Flux RTBF Info,https://rss.rtbf.be/article/rss/highlight
 vrt_nws_rss,vrt_nws,Flux VRT NWS,https://www.vrt.be/vrtnws/nl.rss.articles.xml,http_get,atom,actualités|presse|Belgique,nl,true,2026-08-28,Flux Atom public du média de service public néerlandophone
 brf_news_rss,brf_news,Flux BRF Nachrichten,https://brf.be/feed/,http_get,rss,actualités|presse|terrain,de,true,2026-08-28,Flux public du média de service public germanophone
 bx1_rss,bx1,Flux BX1,https://bx1.be/feed/,http_get,rss,actualités|presse|terrain,fr,true,2026-08-28,Flux public déclaré par le site du média bruxellois
+lavenir_rss,lavenir,Flux Belgique,https://www.lavenir.net/arc/outboundfeeds/rss/section/actu/belgique/?outputType=xml,http_get,rss,actualités|presse|Belgique|terrain,fr,true,2026-08-28,Flux public candidat de la rubrique Belgique; aucun contenu réservé n'est contourné
+lecho_rss,lecho,Flux actualité,https://www.lecho.be/rss/actualite.xml,http_get,rss,actualités|presse|économie|Belgique,fr,true,2026-08-28,Flux public listé dans le répertoire RSS officiel; aucun contenu réservé n'est contourné
+bruzz_rss,bruzz,Flux général,https://www.bruzz.be/rss.xml,http_get,rss,actualités|presse|terrain|Bruxelles,nl|fr|en,true,2026-08-28,Flux général public listé par la page RSS officielle de BRUZZ
