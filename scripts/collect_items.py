@@ -223,7 +223,9 @@ def parse_xml_items(
     source: dict[str, str],
     retrieved_at: str,
 ) -> list[dict[str, object]]:
-    root = ET.fromstring(body)
+    # Certains producteurs ajoutent une espace ou un BOM avant la déclaration
+    # XML. ElementTree refuse alors un flux pourtant lisible par les agrégateurs.
+    root = ET.fromstring(body.lstrip(b"\xef\xbb\xbf \t\r\n"))
     entries = [node for node in root.iter() if local_name(node.tag) in {"item", "entry"}]
     items: list[dict[str, object]] = []
     for entry in entries:

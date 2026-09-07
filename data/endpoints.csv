@@ -251,7 +251,9 @@ atv_home,atv,Regionaal nieuws,https://www.atv.be/,http_get,html,actualités|pres
 tvl_home,tvl,Regionaal nieuws,https://www.tvl.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
 tv_oost_home,tv_oost,Regionaal nieuws,https://www.tvoost.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
 robtv_home,robtv,Regionaal nieuws,https://www.robtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
-focus_home,focus_tv,Regionaal nieuws,https://www.focus-wtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Portail public commun à Focus et WTV; pas d'extraction afin d'éviter les doublons
-wtv_home,wtv,Regionaal nieuws,https://www.focus-wtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Portail public commun à WTV et Focus; pas d'extraction afin d'éviter les doublons
+focus_wtv_home,focus_wtv,Regionaal nieuws,https://www.focus-wtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Portail public commun à Focus et WTV
 ringtv_home,ringtv,Regionaal nieuws,https://www.ringtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
 rtv_home,rtv,Regionaal nieuws,https://www.rtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+focus_wtv_rss,focus_wtv,Focus en WTV RSS,https://focus-wtv.be/feed/focus-wtv/rss.xml,http_get,rss,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Flux RSS commun déclaré par le portail officiel; titres liens dates et extraits fournis uniquement
+qu4tre_rss,qu4tre,Flux des actualités,https://www.qu4tre.be/flux-rss.xml,http_get,rss,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Flux RSS déclaré par le portail officiel; titres liens dates et extraits fournis uniquement
+tv_lux_rss,tv_lux,Flux des actualités,https://www.tvlux.be/rss,http_get,rss,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Flux RSS déclaré par le portail officiel; titres liens dates et extraits fournis uniquement

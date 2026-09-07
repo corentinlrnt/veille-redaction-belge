@@ -200,7 +200,6 @@ atv,ATV,news_media,région,Province d'Anvers,nl,https://www.atv.be/,editorial_me
 tvl,TV Limburg,news_media,région,Limbourg,nl,https://www.tvl.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
 tv_oost,TV Oost,news_media,région,Flandre orientale,nl,https://www.tvoost.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
 robtv,ROBtv,news_media,région,Brabant flamand,nl,https://www.robtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
-focus_tv,Focus,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Télévision régionale flamande partageant un portail avec WTV; recensée séparément par le Raad voor de Journalistiek,open
-wtv,WTV,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Télévision régionale flamande partageant un portail avec Focus; recensée séparément par le Raad voor de Journalistiek,open
+focus_wtv,Focus & WTV,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Portail éditorial commun aux deux chaînes régionales recensées séparément par le Raad voor de Journalistiek,open
 ringtv,RINGtv,news_media,région,Brabant flamand|Bruxelles,nl,https://www.ringtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
 rtv,RTV,news_media,région,Province d'Anvers,nl,https://www.rtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
