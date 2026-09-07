@@ -184,3 +184,23 @@ data_news,Trends Data News,news_media,national,Belgique,fr|nl,https://datanews.k
 trends_z,Trends Z,news_media,national,Belgique,fr|nl,https://trends.knack.be/trends-z/,editorial_media,2026-09-07,Chaîne d'information économique issue de Canal Z et Kanaal Z; métadonnées publiques uniquement sans contournement,mixed_paywall
 medor,Médor,news_media,national,Belgique,fr,https://medor.coop/,editorial_media,2026-09-07,Média coopératif belge d'investigation et de récit; métadonnées publiques uniquement sans contournement,mixed_paywall
 apache,Apache,news_media,national,Belgique,nl,https://apache.be/,editorial_media,2026-09-07,Média coopératif flamand d'investigation et de contrôle des pouvoirs; métadonnées publiques uniquement sans contournement,mixed_paywall
+antenne_centre,Antenne Centre Télévision,news_media,région,Wallonie,fr,https://www.antennecentre.tv/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+bouke,Boukè,news_media,région,Wallonie,fr,https://www.bouke.media/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+canal_zoom,Canal Zoom,news_media,région,Wallonie,fr,https://www.canalzoom.be/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+matele,Matélé,news_media,région,Wallonie,fr,https://www.matele.be/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+notele,Notélé,news_media,région,Wallonie,fr,https://www.notele.be/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+qu4tre,Qu4tre,news_media,région,Wallonie,fr,https://www.qu4tre.be/,editorial_media,2026-09-07,Média de proximité liégeois de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+tele_mb,Télé MB,news_media,région,Wallonie,fr,https://www.telemb.be/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+telesambre,Télésambre,news_media,région,Wallonie,fr,https://www.telesambre.be/,editorial_media,2026-09-07,Média de proximité de la Fédération Wallonie-Bruxelles; actualité locale et terrain,open
+tv_com,TV Com,news_media,région,Wallonie,fr,https://www.tvcom.be/,editorial_media,2026-09-07,Média de proximité du Brabant wallon; actualité locale et terrain,open
+tv_lux,TV Lux,news_media,région,Wallonie,fr,https://www.tvlux.be/,editorial_media,2026-09-07,Média de proximité de la province de Luxembourg; actualité locale et terrain,open
+vedia,VEDIA,news_media,région,Wallonie|Communauté germanophone,fr,https://www.vedia.be/,editorial_media,2026-09-07,Média de proximité de l'est de la province de Liège; actualité locale et terrain,open
+avs,AVS,news_media,région,Flandre orientale,nl,https://www.avs.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+atv,ATV,news_media,région,Province d'Anvers,nl,https://www.atv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+tvl,TV Limburg,news_media,région,Limbourg,nl,https://www.tvl.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+tv_oost,TV Oost,news_media,région,Flandre orientale,nl,https://www.tvoost.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+robtv,ROBtv,news_media,région,Brabant flamand,nl,https://www.robtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+focus_tv,Focus,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Télévision régionale flamande partageant un portail avec WTV; recensée séparément par le Raad voor de Journalistiek,open
+wtv,WTV,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Télévision régionale flamande partageant un portail avec Focus; recensée séparément par le Raad voor de Journalistiek,open
+ringtv,RINGtv,news_media,région,Brabant flamand|Bruxelles,nl,https://www.ringtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+rtv,RTV,news_media,région,Province d'Anvers,nl,https://www.rtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
