@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-07T14:01:48.492802Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-07T14:31:58.056845Z` par `veille-redaction-belge/collector-0.1.0`.
 
-- Flux configurés : **54**
-- Flux collectés : **53**
+- Flux configurés : **57**
+- Flux collectés : **56**
 - Flux en erreur : **1**
-- Éléments conservés : **3846**
-- Sources contributrices : **35**
+- Éléments conservés : **3993**
+- Sources contributrices : **37**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -22,13 +22,14 @@ Généré le `2026-09-07T14:01:48.492802Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 26 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 220 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
+| `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
 | `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
 | `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
@@ -36,7 +37,7 @@ Généré le `2026-09-07T14:01:48.492802Z` par `veille-redaction-belge/collector
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
 | `gva` | `gva_rss` | `ok` | `rss` | 50 | — |
-| `hbvl` | `hbvl_rss` | `ok` | `rss` | 49 | — |
+| `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
@@ -52,6 +53,7 @@ Généré le `2026-09-07T14:01:48.492802Z` par `veille-redaction-belge/collector
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
 | `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
+| `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
@@ -59,6 +61,7 @@ Généré le `2026-09-07T14:01:48.492802Z` par `veille-redaction-belge/collector
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
+| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
 | `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 1 | — |

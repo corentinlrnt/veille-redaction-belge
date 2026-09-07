@@ -1,6 +1,6 @@
 # Veille rédaction belge — 7 septembre 2026
 
-Générée à **16:01** (heure de Bruxelles) à partir de **3846 éléments collectés**.
+Générée à **16:31** (heure de Bruxelles) à partir de **3993 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
@@ -54,6 +54,14 @@ Générée à **16:01** (heure de Bruxelles) à partir de **3846 éléments coll
 
 > Extrait fourni par la source : Selon l’ICCT, la baisse du prix des batteries et la hausse du coût des carburants font des voitures électriques une option financièrement intéressante en Allemagne et dans le reste de l’Europe.
 
+### [Meerderheid verhindert parlementaire controle over dading: Groen is boos](http://www.groen.be/meerderheid-verhindert-parlementaire-controle-dading)
+
+**Groen** · acteur politique · 07/09/2026 à 16:04 · score `21`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : "Dit is onvoorstelbaar. Wij zijn geen bende kleuters die een kringgesprek gaan houden, maar een parlement dat het recht heeft om de regering te controleren. Zéker wanneer die in het geheim miljoenen uitdeelde."
+
 ### [Le précompte immobilier explose cette année: voici ce qui peut aussi faire grimper votre facture, « les travaux peuvent avoir une incidence mais pas tous, et pas de la même manière… »](https://www.sudinfo.be/id1190695/article/2026-09-07/le-precompte-immobilier-explose-cette-annee-voici-ce-qui-peut-aussi-faire)
 
 **Sudinfo** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 15:45 · score `21`
@@ -78,21 +86,13 @@ Générée à **16:01** (heure de Bruxelles) à partir de **3846 éléments coll
 
 > Extrait fourni par la source : Patrons et syndicats se penchent sur une double réforme: celle de l’indexation automatique des salaires et celle de la loi de 1996 qui régit la hausse des rémunérations des salariés. Enjeu: changer les inconvénients des systèmes en préservant leurs avantages.
 
-### [La Flandre instaure des amendes jusqu'à 800.000 euros contre les fraudes aux subsides](https://www.dhnet.be/actu/belgique/2026/09/07/la-flandre-instaure-des-amendes-jusqua-800000-euros-contre-les-fraudes-aux-subsides-QZZIUKPZYZAMRKFLSPQRBCEOEY/)
+### [Taalcommissie oordeelt dat wegwijzers langs Ring tweetalig moeten zijn, Vlaanderen weigert](https://www.bruzz.be/actua/mobiliteit/taalcommissie-oordeelt-dat-wegwijzers-langs-ring-tweetalig-moeten-zijn-de-ridder-weigert-2026-09-07)
 
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 10:15 · score `20`
+**BRUZZ** · média d'information · 07/09/2026 à 15:57 · score `19`
 
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Le gouvernement flamand a décidé d'instaurer un système d'amende pour fraude aux subsides, le montant pouvant atteindre 800.000 euros, ont annoncé lundi les ministres régionaux Zuhal Demir et Ben Weyts....
-
-### [Vlaanderen voert boetes tot 800.000 euro in bij fraude met subsidies: "Vandaag ontsnappen fraudeurs soms aan een echte sanctie"](https://vrtnws.be/p.YbynnaP1n)
-
-**VRT NWS** · média d'information · 07/09/2026 à 10:12 · score `20`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : Wie fraude pleegt met Vlaamse subsidies, riskeert voortaan een boete tot 800.000 euro, bovenop de volledige terugvordering van de ontvangen middelen. Ook wanneer het parket beslist een dossier niet te vervolgen, kan Vlaanderen zelf sancties opleggen. Tegelijk worden de controles aangescherpt.
+> Extrait fourni par la source : De Vaste Commissie voor Taaltoezicht (VCT) heeft na een klacht geoordeeld dat de wegwijzers op de Ring rond Brussel niet voldoen aan de Belgische taalwetgeving. Dat staat in een advies.
 
 ### [Kan Demir een kletsnatte PISA-dweil gebruiken?](https://www.tijd.be/r/t/1/id/10684956)
 
@@ -130,13 +130,13 @@ Générée à **16:01** (heure de Bruxelles) à partir de **3846 éléments coll
 
 Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/gezondheid/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161056704.html), [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161026697.html).
 
-### [Budget fédéral: Georges-Louis Bouchez met la pression sur la majorité et prévient, "on est parti dans la même direction"](https://www.lavenir.net/actu/belgique/politique/2026/09/06/budget-federal-georges-louis-bouchez-met-la-pression-sur-la-majorite-et-previent-on-est-parti-dans-la-meme-direction-IND42MUE3FECTE7YHPNGPR3UZU/)
+### [Annemie Schaus, rectrice de l’ULB: « Je suis très inquiète, particulièrement pour les sciences humaines »](https://www.lesoir.be/769514/article/2026-09-07/annemie-schaus-rectrice-de-lulb-je-suis-tres-inquiete-particulierement-pour-les)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 06/09/2026 à 16:20 · score `19`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 15:56 · score `18`
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Ce dimanche 6 septembre 2026, le président du MR fixe ses lignes rouges avant le conclave budgétaire: pas de hausse de TVA ni de nouvel impôt, mais des économies dans les dépenses publiques. Georges-Louis Bouchez promet un plan pouvant générer jusqu'à 17 milliards d'économies....
+> Extrait fourni par la source : Hausse du minerval, logement, recherche, intelligence artificielle, étudiants gazaouis… A l’aube de la rentrée, la rectrice de l’ULB, Annemie Schaus, liste les défis qui attendent l’université et appelle le politique à soutenir l’enseignement supérieur.
 
 ### [NAC ontslaat trainer Carl Hoefkens: "Helaas enkele verbeterpunten uit evaluatie niet gerealiseerd"](https://www.hln.be/eredivisie/nac-ontslaat-trainer-carl-hoefkens-helaas-enkele-verbeterpunten-uit-evaluatie-niet-gerealiseerd~ad9e5085/)
 
@@ -156,6 +156,22 @@ Autres publications rapprochées automatiquement : [Het Belang van Limburg](http
 
 Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/regio/limburg/genk/aftellen-naar-pensioen-deze-limburgers-blijven-ook-na-hun-66ste-doorwerken-ik-leer-nog-voortdurend-bij/161059105.html).
 
+### [Budget fédéral: Georges-Louis Bouchez met la pression sur la majorité et prévient, "on est parti dans la même direction"](https://www.lavenir.net/actu/belgique/politique/2026/09/06/budget-federal-georges-louis-bouchez-met-la-pression-sur-la-majorite-et-previent-on-est-parti-dans-la-meme-direction-IND42MUE3FECTE7YHPNGPR3UZU/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 06/09/2026 à 16:20 · score `18`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Ce dimanche 6 septembre 2026, le président du MR fixe ses lignes rouges avant le conclave budgétaire: pas de hausse de TVA ni de nouvel impôt, mais des économies dans les dépenses publiques. Georges-Louis Bouchez promet un plan pouvant générer jusqu'à 17 milliards d'économies....
+
+### [26-jarige Belg, opgepakt in zaak rond dodelijke schietpartij in Overasselt, moet veertien dagen langer in cel blijven](https://www.nieuwsblad.be/buitenland/26-jarige-belg-opgepakt-in-zaak-rond-dodelijke-schietpartij-in-overasselt-moet-veertien-dagen-langer-in-cel-blijven/161101790.html)
+
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 16:28 · score `17`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : De 26-jarige Belg die vrijdag in Amsterdam is opgepakt in de zaak rond de dodelijke schietpartij in Overasselt, blijft veertien dagen langer vast. De rechter-commissaris heeft dat maandag beslist. De man werd maandag voorgeleid bij de rechtbank in Gelderland.
+
 ### [Welzijnswijzer voorgesteld op druk bijgewoonde seniorenbeurs](https://www.gva.be/regio/antwerpen/regio-antwerpen/schoten/welzijnswijzer-voorgesteld-op-druk-bijgewoonde-seniorenbeurs/161073094.html)
 
 **Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 14:00 · score `17`
@@ -164,6 +180,22 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : De tweejaarlijkse Seniorenbeurs in De Kaekelaar trok honderden bezoekers. Van bij de opening tot het einde van de beurs bleef het gezellig druk. Tientallen standhouders informeerden Schotense senioren over de meest uiteenlopende thema’s, van zorg en gezondheid tot vrije tijd, financiën en dienstverlening.
 
+### [Woensdag geen treinen tussen Brussel en Nederland](https://www.bruzz.be/actua/mobiliteit/woensdag-geen-treinen-tussen-brussel-en-nederland-2026-09-07)
+
+**BRUZZ** · média d'information · 07/09/2026 à 13:20 · score `17`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Door een 24 urenstaking bij het openbaar vervoer in Nederland zullen er woensdag ook geen treinen rijden tussen Brussel en Amsterdam.
+
+### [Koekelberg gaat in beroep tegen de herinrichting van de Broustinlaan](https://www.bruzz.be/actua/mobiliteit/koekelberg-gaat-beroep-tegen-herinrichting-van-de-broustinlaan-2026-09-07)
+
+**BRUZZ** · média d'information · 07/09/2026 à 12:34 · score `17`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : De gemeente Koekelberg gaat in beroep bij de Raad van State tegen de plannen voor de heraanleg van de Broustinlaan. Dat zei burgemeester P'tito, die zich verzet tegen nieuwe doodlopende straten.
+
 ### [Un jeune Belge sur trois reporte sa visite chez le dentiste pour des raisons financières](https://www.dhnet.be/actu/belgique/2026/09/07/un-jeune-belge-sur-trois-reporte-sa-visite-chez-le-dentiste-pour-des-raisons-financieres-4HE4XFEZH5FIJKTEIMYXH5RVS4/)
 
 **DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 11:01 · score `17`
@@ -171,6 +203,22 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 **Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
 > Extrait fourni par la source : Un jeune Belge sur trois âgé de moins de 35 ans (32,1%) a déjà reporté une consultation ou un traitement dentaire pour des raisons financières, selon une enquête menée par iVOX pour le compte de la mutualité indépendante Helan auprès d'un millier de personnes....
+
+### [Zwakbegaafde jongeman (20) stemt in met chemische castratie na verkrachting 16-jarig meisje: “Hij walgt van wat hij deed”](https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/zwakbegaafde-jongeman-20-stemt-in-met-chemische-castratie-na-verkrachting-16-jarig-meisje-hij-walgt-van-wat-hij-deed/161077312.html)
+
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 16:20 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : “Hij krijgt zijn driften niet onder controle en beseft dat hij moet geholpen worden”. Een 20-jarige, zwakbegaafde Bruggeling vergreep zich aan een 16-jarig meisje, dat hij misleidde via sociale media. Dat bleek geen alleenstaand geval. Op zijn proces stemde M.B. in met vergaande voorwaarden.
+
+### [Polizei Weser-Göhl kam am Wochenende nicht zur Ruhe](https://brf.be/regional/2107009/)
+
+**BRF Nachrichten** · média d'information · 07/09/2026 à 16:13 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Bei einer Kontrolle in Eupen hat die Polizei am Wochenende einen Kleinbus mit insgesamt dreizehn Insassen angehalten. Außer dem Fahrer konnte sich keine Person ausweisen, deshalb wurde der Fahrer wegen des Verdachts von Schleusertätigkeiten festgenommen. Die zwölf Personen wurden wegen illegalen Aufenthalts den zuständigen Behörden übergeben. Das Fahrzeug und Bargeld wurden sichergestellt. Mehrere Festnahmen nach […]
 
 ### [Negen boetes uitgeschreven bij controle op ladingzekering in Alken](https://www.hbvl.be/regio/limburg/alken/negen-boetes-uitgeschreven-bij-controle-op-ladingzekering-in-alken/161097266.html)
 
@@ -218,71 +266,33 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : La majorité saint-gilloise déposera jeudi au conseil communal une motion demandant une mobilisation coordonnée contre la criminalité organisée, sous l’autorité du Premier ministre et avec l’appui notamment de l’Organe de coordination pour l’analyse de la menace (Ocam). Le texte a été cosigné par la Liste du Bourgmestre et Ecolo-Groen. Le maïeur Jean Spinette (PS) a … lire plus
 
-### [Groen wil bijzondere commissie klimaatrisico's na 3.000 hittedoden](http://www.groen.be/bijzondere-commissie-klimaatrisico)
+### [Une plainte déposée contre une puéricultrice de la crèche Les Lutins du Parc à Offagne (Paliseul)](https://www.tvlux.be/https://www.tvlux.be/actu/info/une-plainte-deposee-contre-une-puericultrice-de-la-creche-les-lutins-du-parc-a-offagne-paliseul_52392)
 
-**Groen** · acteur politique · 07/09/2026 à 08:46 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 12 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Dit was geen verrassing. Wetenschappers waarschuwen hier al jaren voor. Vlaanderen moet stoppen met achter de feiten aan te lopen en zich nú wapenen tegen hitte, droogte en natuurbranden
-
-### [Un passager violent en plein vol: il est ligoté à son siège et l’avion dérouté](https://www.lavenir.net/actu/2026/09/07/un-passager-violent-en-plein-vol-il-est-ligote-a-son-siege-et-lavion-deroute-N2YWTFPPTRCH7A7KHE4HHHF4HI/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 08:44 · score `16`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Un passager de 67 ans aurait agressé un voyageur et proféré des insultes racistes et homophobes à bord d’un vol entre Dallas et Newark. Maîtrisé avec du ruban adhésif, il a été arrêté après le déroutement de l’avion vers Baltimore....
-
-### [Nieuw outdoor basketbalplein wordt feestelijk geopend](https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/knokke-heist/nieuw-outdoor-basketbalplein-wordt-feestelijk-geopend/161091079.html)
-
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 15:50 · score `15`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Het outdoor basketbalplein in Knokke-Heist wordt op woensdag 9 september feestelijk ingehuldigd. Het terrein, gelegen achter het station van Heist tussen de Scheurleg en Noordhinder, is sinds het voorjaar al toegankelijk.
-
-### [Iran: Neue Anti-Schiffs-Rakete im Einsatz](https://brf.be/international/2106952/)
-
-**BRF Nachrichten** · média d'information · 07/09/2026 à 14:34 · score `15`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Der Iran hat im Persischen Golf nach eigenen Angaben eine neue Anti-Schiffs-Rakete gegen die US-Marine eingesetzt. Der Generalsekretär des Nationalen Sicherheitsrats sprach im staatlichen Rundfunk von einer Warnung an den Feind. Die neue Waffe bedeute, dass die Seeblockade verwundbar sei. Er wies die US-Darstellung zurück, wonach die Straße von Hormus für den internationalen Schiffsverkehr wieder […]
-
-### [Twee verdachten gearresteerd voor ‘tientallen’ inbraken over het hele land: “Een van hen probeerde te ontkomen door van spoorwegbrug te springen”](https://www.nieuwsblad.be/regio/brussel/brussel/twee-verdachten-gearresteerd-voor-tientallen-inbraken-over-het-hele-land-een-van-hen-probeerde-te-ontkomen-door-van-spoorwegbrug-te-springen/161091877.html)
-
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 14:30 · score `15`
+**TV Lux** · média d'information · 07/09/2026 à 11:27 · score `16`
 
 **Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : De Federale Gerechtelijke Politie (FGP) Halle-Vilvoorde heeft twee verdachten gearresteerd in het kader van een onderzoek naar een reeks inbraken die verspreid over het hele land werden gepleegd. Eén van hen kon maandagmorgen gevat worden toen hij van een spoorwegbrug in het Brusselse Haren sprong. De verdachten worden gelinkt aan tientallen feiten.
+> Extrait fourni par la source : Les faits datent d’une quinzaine de jours; une puéricultrice aurait été vue portant un enfant la tête vers le bas. Une dénonciation a été faite à la police qui a ouvert une enquête, suite au témoignage d’une habitante.
 
-### [Rentrée politique du MR: discours intégral de Dilan Yeşilgöz-Zegerius](https://www.mr.be/rentree-politique-du-mr-discours-integral-de-dilan-yesilgoz-zegerius/)
+## Justice, droits et contrôle — autres pistes
 
-**Mouvement Réformateur** · acteur politique · 07/09/2026 à 11:25 · score `15`
+### [La Flandre instaure des amendes jusqu'à 800.000 euros contre les fraudes aux subsides](https://www.dhnet.be/actu/belgique/2026/09/07/la-flandre-instaure-des-amendes-jusqua-800000-euros-contre-les-fraudes-aux-subsides-QZZIUKPZYZAMRKFLSPQRBCEOEY/)
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures.
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 10:15 · score `19`
 
-> Extrait fourni par la source : Dylan, invité d’honneur des Estivales du MR à Waterloo, a partagé son regard sur les grands enjeux qui traversent notre société: liberté, responsabilité et avenir de notre pays. Retrouvez...
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 12 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
 
-### [Les commerçants ont-ils le droit d’arrondir mon ticket de caisse au montant supérieur alors que je paie par carte bancaire?](https://www.lavenir.net/lavenir-vous-repond/2026/09/07/les-commercants-ont-ils-le-droit-darrondir-mon-ticket-de-caisse-au-montant-superieur-alors-que-je-paie-par-carte-bancaire-ZKLKXOLZZ5GX3GA4F56AZPQSEY/)
+> Extrait fourni par la source : Le gouvernement flamand a décidé d'instaurer un système d'amende pour fraude aux subsides, le montant pouvant atteindre 800.000 euros, ont annoncé lundi les ministres régionaux Zuhal Demir et Ben Weyts....
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 09:00 · score `15`
+### [Vlaanderen voert boetes tot 800.000 euro in bij fraude met subsidies: "Vandaag ontsnappen fraudeurs soms aan een echte sanctie"](https://vrtnws.be/p.YbynnaP1n)
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population.
+**VRT NWS** · média d'information · 07/09/2026 à 10:12 · score `19`
 
-> Extrait fourni par la source : De nombreux prix se terminent par 99 centimes en Belgique. Une façon de rendre le montant à payer un peu plus digeste visuellement. Mais en fin de compte, le centime restant ne va pas forcément dans notre poche....
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 12 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Wie fraude pleegt met Vlaamse subsidies, riskeert voortaan een boete tot 800.000 euro, bovenop de volledige terugvordering van de ontvangen middelen. Ook wanneer het parket beslist een dossier niet te vervolgen, kan Vlaanderen zelf sancties opleggen. Tegelijk worden de controles aangescherpt.
 
 ## Économie, emploi et consommateurs — autres pistes
-
-### [Budget: pour le MR, aucun nouvel impôt et 17 milliards d'économies sont possibles](https://www.lecho.be/r/t/1/id/10684923)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 06/09/2026 à 16:13 · score `17`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Georges-Louis Bouchez a insisté ce dimanche devant ses militants sur l'effort budgétaire. Pas de hausse de TVA ni de nouvelle taxe: L'Etat doit impérativement "réduire son train de vie".
 
 ### [Le gouvernement espagnol prend le contrôle du port de Ceuta](https://www.lecho.be/r/t/1/id/10684914)
 
@@ -297,14 +307,6 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 **STIB** · source publique officielle · 07/09/2026 à 15:54 · score `16`
 
 **Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; impact concret pour la population.
-
-### [Du changement à la pompe pour les automobilistes](https://www.lesoir.be/769419/article/2026-09-07/du-changement-la-pompe-pour-les-automobilistes)
-
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 07/09/2026 à 10:12 · score `16`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : Le prix du diesel recule de trois centimes à la pompe dès mardi, atteignant 2,36 euros le litre, selon le SPF Economie, tandis que le gasoil de chauffage voit également ses tarifs baisser.
 
 ## Méthode et limites
 
