@@ -52,6 +52,13 @@ class FeedParsingTests(unittest.TestCase):
         self.assertEqual(items[0]["source_name"], "Source test")
         self.assertEqual(items[0]["access_model"], "open")
 
+    def test_tolerates_whitespace_before_xml_declaration(self):
+        body = ''' \n\t<?xml version="1.0" encoding="UTF-8"?>
+        <rss><channel><item><title>Titre régional</title>
+        <link>https://example.org/news/2</link></item></channel></rss>'''.encode()
+        items = parse_xml_items(body, endpoint(), SOURCE, "2026-08-27T05:00:00Z")
+        self.assertEqual(items[0]["title"], "Titre régional")
+
     def test_parses_atom_alternate_link(self):
         body = b"""<feed xmlns='http://www.w3.org/2005/Atom'><entry>
         <title>Atom title</title><id>tag:example,1</id>

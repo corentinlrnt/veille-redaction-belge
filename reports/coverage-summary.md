@@ -1,12 +1,12 @@
 # Couverture déclarée
 
-Généré le `2026-09-07T14:01:03.292305Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-09-07T14:24:46.427853Z` par `veille-redaction-belge/coverage-0.1.0`.
 
-- Sources enregistrées : **185**
-- Points d'accès actifs : **236**
-- Cibles complètes : **25/25**
-- Sources requises distinctes : **152**
-- Sources hors des cibles actuelles : **33**
+- Sources enregistrées : **204**
+- Points d'accès actifs : **258**
+- Cibles complètes : **27/27**
+- Sources requises distinctes : **173**
+- Sources hors des cibles actuelles : **31**
 
 Une cible `complète` signifie seulement que chaque producteur attendu est inscrit et possède au moins un accès actif. La sonde de santé vérifie séparément si cet accès répond réellement.
 
@@ -37,3 +37,5 @@ Une cible `complète` signifie seulement que chaque producteur attendu est inscr
 | Quotidiens néerlandophones | national | 7 | 7 | 7 | `complete` | — |
 | Magazines d'actualité et d'économie de Roularta | national | 4 | 4 | 4 | `complete` | — |
 | Magazines néerlandophones d'actualité économie et technologie | national | 4 | 4 | 4 | `complete` | — |
+| Médias de proximité de la Fédération Wallonie-Bruxelles | communauté | 12 | 12 | 12 | `complete` | — |
+| Télévisions régionales flamandes | région | 9 | 9 | 9 | `complete` | — |

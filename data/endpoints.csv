@@ -235,3 +235,25 @@ medor_rss,medor,Flux des derniers articles,https://medor.coop/rss.xml,http_get,r
 apache_home,apache,Homepage en artikels,https://apache.be/,http_get,html,actualités|presse|enquêtes|analyses|droits,nl,true,2026-09-07,Page publique du média d'investigation; aucun article réservé n'est contourné
 apache_feeds,apache,Overzicht RSS-feeds,https://apache.be/feeds,http_get,html,actualités|presse|enquêtes|analyses,nl,true,2026-09-07,Page publique officielle répertoriant les flux sans extraction automatique des articles
 apache_rss,apache,Alle artikels,https://www.apache.be/feed/artikels,http_get,rss,actualités|presse|enquêtes|analyses|droits,nl,true,2026-09-07,Flux RSS général listé par Apache; titres liens dates et extraits fournis uniquement
+antenne_centre_home,antenne_centre,Actualités régionales,https://www.antennecentre.tv/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+bouke_home,bouke,Actualités régionales,https://www.bouke.media/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+canal_zoom_home,canal_zoom,Actualités régionales,https://www.canalzoom.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+matele_home,matele,Actualités régionales,https://www.matele.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+notele_home,notele,Actualités régionales,https://www.notele.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+qu4tre_home,qu4tre,Actualités régionales,https://www.qu4tre.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+tele_mb_home,tele_mb,Actualités régionales,https://www.telemb.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+telesambre_home,telesambre,Actualités régionales,https://www.telesambre.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+tv_com_home,tv_com,Actualités régionales,https://www.tvcom.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+tv_lux_home,tv_lux,Actualités régionales,https://www.tvlux.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+vedia_home,vedia,Actualités régionales,https://www.vedia.be/,http_get,html,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Page publique surveillée sans extraction non validée
+avs_home,avs,Regionaal nieuws,https://www.avs.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+atv_home,atv,Regionaal nieuws,https://www.atv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+tvl_home,tvl,Regionaal nieuws,https://www.tvl.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+tv_oost_home,tv_oost,Regionaal nieuws,https://www.tvoost.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+robtv_home,robtv,Regionaal nieuws,https://www.robtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+focus_wtv_home,focus_wtv,Regionaal nieuws,https://www.focus-wtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Portail public commun à Focus et WTV
+ringtv_home,ringtv,Regionaal nieuws,https://www.ringtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+rtv_home,rtv,Regionaal nieuws,https://www.rtv.be/,http_get,html,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Page publique surveillée sans extraction non validée
+focus_wtv_rss,focus_wtv,Focus en WTV RSS,https://focus-wtv.be/feed/focus-wtv/rss.xml,http_get,rss,actualités|presse|terrain|politique|économie,nl,true,2026-09-07,Flux RSS commun déclaré par le portail officiel; titres liens dates et extraits fournis uniquement
+qu4tre_rss,qu4tre,Flux des actualités,https://www.qu4tre.be/flux-rss.xml,http_get,rss,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Flux RSS déclaré par le portail officiel; titres liens dates et extraits fournis uniquement
+tv_lux_rss,tv_lux,Flux des actualités,https://www.tvlux.be/rss,http_get,rss,actualités|presse|terrain|politique|économie,fr,true,2026-09-07,Flux RSS déclaré par le portail officiel; titres liens dates et extraits fournis uniquement
