@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-09-07T14:31:58.301787Z",
+  "generated_at": "2026-09-08T04:18:16.106156Z",
   "summary": {
-    "collected_items": 3993,
+    "collected_items": 4034,
     "selected_items": 36,
     "minimum_score": 10,
     "by_section": {
-      "politics": 27,
-      "justice": 4,
+      "politics": 28,
+      "justice": 3,
       "economy": 5
     }
   },
@@ -30,12 +30,12 @@
       "url": "https://www.cwape.be/documents-recents/grd-de-gaz-avis-concernant-les-plans-dinvestissement-2027-2031",
       "summary": "GRD de gaz: avis concernant les plans d'investissement 2027-2031 Valerie 07-09-2026 GRD de gaz: avis concernant les plans d'investissement 2027-2031 07-09-2026 La CWaPE a analysé les plans d'investissement 2027-2031 des GRD de gaz naturel rendus en application de l’article 16 du décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz. Contenu lié Avis concernant les plans d'investissement 2027-2031 des gestionnaires de réseaux de distribution de gaz naturel Publications Fichier Télécharger (983.86 Ko) Référence CWAPE CD-26g30-CWaPE-0981 Type de document…",
       "published_at": "2026-09-07T08:44:51Z",
-      "retrieved_at": "2026-09-07T14:31:17.174865Z",
+      "retrieved_at": "2026-09-08T04:17:35.152947Z",
       "categories": [],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "existing",
-      "seen_count": 2,
-      "score": 34,
+      "seen_count": 3,
+      "score": 32,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -48,7 +48,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation"
       ],
@@ -80,9 +80,9 @@
         "gare du midi"
       ],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 31,
+      "score": 29,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
@@ -95,7 +95,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
@@ -119,12 +119,12 @@
       "url": "https://www.cwape.be/documents-recents/osp-eclairage-public-rapport-sur-le-respect-et-les-couts-pour-2025",
       "summary": "OSP \"éclairage public\": rapport sur le respect et les coûts pour 2025 Veronique 07-09-2026 OSP \"éclairage public\": rapport sur le respect et les coûts pour 2025 07-09-2026 La CWaPE a établi son rapport ayant pour objet d’évaluer la réalisation de certaines tâches en lien direct avec l’OSP \"éclairage public\" qui est imposée aux GRD électricité. L’arrêté du Gouvernement wallon du 6 novembre 2008, tel que modifié par l’arrêté du 13 septembre 2012, a en effet introduit, à charge des GRD électricité, des obligations en matière d’entretien et d’amélioration de l’efficacité énergétique des…",
       "published_at": "2026-09-07T11:38:03Z",
-      "retrieved_at": "2026-09-07T14:31:17.174865Z",
+      "retrieved_at": "2026-09-08T04:17:35.152947Z",
       "categories": [],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "existing",
-      "seen_count": 2,
-      "score": 29,
+      "seen_count": 3,
+      "score": 27,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -136,7 +136,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation"
       ],
@@ -159,12 +159,12 @@
       "url": "https://www.cwape.be/documents-recents/rapport-concernant-lanalyse-des-prix-de-lelectricite-et-du-gaz-naturel-pour-les",
       "summary": "Rapport concernant l'analyse des prix de l'électricité et du gaz naturel pour les clients professionnels en Wallonie de janvier 2009 à décembre 2025 Veronique 07-09-2026 Rapport concernant l'analyse des prix de l'électricité et du gaz naturel pour les clients professionnels en Wallonie de janvier 2009 à décembre 2025 07-09-2026 Cette étude a pour but de présenter les évolutions des prix de l’électricité et du gaz naturel (et de leurs composantes) pour les clients professionnels disposant d’un raccordement relevé au minimum mensuellement et dont la consommation annuelle est inférieure à 20…",
       "published_at": "2026-09-07T12:33:21Z",
-      "retrieved_at": "2026-09-07T14:31:17.174865Z",
+      "retrieved_at": "2026-09-08T04:17:35.152947Z",
       "categories": [],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "existing",
-      "seen_count": 2,
-      "score": 28,
+      "seen_count": 3,
+      "score": 26,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 6,
@@ -176,7 +176,95 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "7e3b276ed02724bdaafaf8b9",
+      "source_id": "bx1",
+      "source_name": "BX1",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bx1_rss",
+      "endpoint_label": "Flux BX1",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "La gouvernance des écoles supérieures des arts de la FWB bientôt réformée",
+      "url": "https://bx1.be/categories/news/la-gouvernance-des-ecoles-superieures-des-arts-de-la-fwb-bientot-reformee/",
+      "summary": "La commission Enseignement supérieur du parlement de la Fédération Wallonie-Bruxelles a approuvé lundi un projet de décret qui redéfinit la gouvernance dans les seize écoles supérieures des arts (ESA) que compte la FWB. Le nouveau décret vise à moderniser des règles qui étaient en place depuis 25 ans déjà. Le nouveau texte met notamment en … lire plus",
+      "published_at": "2026-09-07T14:56:04Z",
+      "retrieved_at": "2026-09-08T04:17:41.755177Z",
+      "categories": [
+        "Enseignement supérieur",
+        "News",
+        "Politique",
+        "commission Enseignement supérieur"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 24,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 14,
+      "matched_signals": [
+        "public_decision",
+        "change_alert",
+        "agenda"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "13bcf61d3955a5bb2b1c0484",
+      "source_id": "la_libre",
+      "source_name": "La Libre Belgique",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "la_libre_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "”Un effet de la réforme du chômage”: le profil des personnes en (ré)orientation professionnelle évolue",
+      "url": "https://www.lalibre.be/belgique/enseignement/2026/09/07/un-effet-de-la-reforme-du-chomage-le-profil-des-personnes-en-reorientation-professionnelle-evolue-TSCSJC5ZBJFD5MIZIASJVDQQNM/",
+      "summary": "Selon une étude du Siep, reconversions, besoins sociaux et pragmatisme définissent les nouvelles tendances en termes d’orientation professionnelle....",
+      "published_at": "2026-09-07T15:54:53Z",
+      "retrieved_at": "2026-09-08T04:17:39.432803Z",
+      "categories": [
+        "Enseignement"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 22,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -204,9 +292,9 @@
         "Enseignement"
       ],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 24,
+      "score": 22,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -217,7 +305,7 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "changement, alerte ou échéance"
@@ -246,9 +334,9 @@
         "Auto-moto"
       ],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 23,
+      "score": 22,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -260,10 +348,172 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation",
         "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "32c41f24f63e3bb94af019ad",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Nadège et sa famille se retrouvent à la rue après avoir perdu leur logement à Oreye: « Nous cherchons, mais ne trouvons rien, je baisse les bras »",
+      "url": "https://www.sudinfo.be/id1190875/article/2026-09-08/nadege-et-sa-famille-se-retrouvent-la-rue-apres-avoir-perdu-leur-logement-oreye",
+      "summary": "Le temps presse pour cette famille d’Oreye: expulsés de leur logement, Cédric, sa compagne, sa maman et son fils pourraient bientôt se retrouver sans toit. Ils lancent un appel pour trouver un logement rapidement.",
+      "published_at": "2026-09-08T03:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:39.896933Z",
+      "categories": [
+        "Huy Waremme Actu"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "7ba5bed828f16a368f11fd50",
+      "source_id": "lecho",
+      "source_name": "L'Echo",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lecho_rss",
+      "endpoint_label": "Flux actualité",
+      "content_scope": "actualités|presse|économie|Belgique",
+      "language": "fr",
+      "title": "L’administration remet en question les allègements fiscaux pour les entreprises",
+      "url": "https://www.lecho.be/r/t/1/id/10685081",
+      "summary": "Les 4,4 milliards d’euros qui partent chaque année dans des réductions fiscales pour le travail en équipes, la recherche et les heures supplémentaires ne sont plus proportionnels à l’objectif initial, indique un audit du Bosa. Vooruit, le CD&V et Les Engagés plaident pour une réforme.",
+      "published_at": "2026-09-08T03:00:50Z",
+      "retrieved_at": "2026-09-08T04:17:52.656893Z",
+      "categories": [
+        "Economie & Politique"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8f0e55bf3a8407909fb72e87",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "« Je vais me retrouver à la rue avec trois petits bouts »: après l’incendie de leur maison, Laetitia et ses enfants doivent quitter leur logement d’urgence à Hermalle",
+      "url": "https://www.sudinfo.be/id1190833/article/2026-09-07/je-vais-me-retrouver-la-rue-avec-trois-petits-bouts-apres-lincendie-de-leur",
+      "summary": "Après avoir perdu son logement dans un incendie, Laetitia avait trouvé un peu de répit dans une maison d’urgence à Hermalle. Mais elle doit la quitter fin septembre sous peine d’expulsion et craint de se retrouver à la rue avec ses trois enfants.",
+      "published_at": "2026-09-07T17:55:00Z",
+      "retrieved_at": "2026-09-08T04:17:39.896933Z",
+      "categories": [
+        "Liège Actu"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "3dfa9f3ce56bbca72849f262",
+      "source_id": "de_tijd",
+      "source_name": "De Tijd",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "de_tijd_rss",
+      "endpoint_label": "Algemeen nieuws",
+      "content_scope": "actualités|presse|économie",
+      "language": "nl",
+      "title": "Administratie stelt fiscale kortingen voor bedrijven in vraag",
+      "url": "https://www.tijd.be/r/t/1/id/10685071",
+      "summary": "De 4,4 miljard euro die jaarlijks opgaat aan fiscale kortingen voor ploegenarbeid, onderzoek en overuren staat niet in verhouding tot de oorspronkelijke doelstelling, zegt de administratie in een doorlichting. Vooruit, CD&V en Les Engagés pleiten voor een hervorming, Voka vindt de voorstelling in miljarden oneerlijk.",
+      "published_at": "2026-09-08T03:00:55Z",
+      "retrieved_at": "2026-09-08T04:17:41.041507Z",
+      "categories": [
+        "Politiek & Economie"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "chiffres, étude ou évaluation"
       ],
       "related_items": []
     },
@@ -284,12 +534,12 @@
       "url": "http://www.groen.be/meerderheid-verhindert-parlementaire-controle-dading",
       "summary": "\"Dit is onvoorstelbaar. Wij zijn geen bende kleuters die een kringgesprek gaan houden, maar een parlement dat het recht heeft om de regering te controleren. Zéker wanneer die in het geheim miljoenen uitdeelde.\"",
       "published_at": "2026-09-07T14:04:00Z",
-      "retrieved_at": "2026-09-07T14:31:18.702891Z",
+      "retrieved_at": "2026-09-08T04:17:36.102206Z",
       "categories": [],
       "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 21,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 12,
@@ -300,134 +550,226 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
     {
-      "item_id": "32b63d130250e928dcd27235",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
+      "item_id": "877ae520a4e582fc00fc54f4",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
       "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
+      "institution_level": "national",
+      "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
       "language": "fr",
-      "title": "Le précompte immobilier explose cette année: voici ce qui peut aussi faire grimper votre facture, « les travaux peuvent avoir une incidence mais pas tous, et pas de la même manière… »",
-      "url": "https://www.sudinfo.be/id1190695/article/2026-09-07/le-precompte-immobilier-explose-cette-annee-voici-ce-qui-peut-aussi-faire",
-      "summary": "Si le précompte immobilier augmente déjà sous l’effet de l’indexation annuelle du revenu cadastral et, dans certaines communes, de la hausse des centimes additionnels, les travaux peuvent eux aussi avoir une incidence sur le revenu cadastral (RC). Mais pas tous, et pas de la même manière…",
-      "published_at": "2026-09-07T13:45:09Z",
-      "retrieved_at": "2026-09-07T14:31:23.548494Z",
+      "title": "La Flandre instaure des amendes jusqu'à 800.000 euros contre les fraudes aux subsides",
+      "url": "https://www.dhnet.be/actu/belgique/2026/09/07/la-flandre-instaure-des-amendes-jusqua-800000-euros-contre-les-fraudes-aux-subsides-QZZIUKPZYZAMRKFLSPQRBCEOEY/",
+      "summary": "Le gouvernement flamand a décidé d'instaurer un système d'amende pour fraude aux subsides, le montant pouvant atteindre 800.000 euros, ont annoncé lundi les ministres régionaux Zuhal Demir et Ben Weyts....",
+      "published_at": "2026-09-07T08:15:05Z",
+      "retrieved_at": "2026-09-08T04:17:39.868852Z",
       "categories": [
         "Belgique"
       ],
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "existing",
-      "seen_count": 2,
-      "score": 21,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "6f8566c750cf97c3a4fafd99",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Inquiétude autour de l’intelligence artificielle: des agents d’OpenAI ont désobéi aux instructions et ont pris le contrôle d’un site allemand, l’Union européenne ouvre une enquête",
-      "url": "https://www.sudinfo.be/id1190635/article/2026-09-07/inquietude-autour-de-lintelligence-artificielle-des-agents-dopenai-ont-desobei",
-      "summary": "OpenAI fait l’objet d’une nouvelle enquête de l’Union européenne après que ses agents d’IA ont outrepassé leurs consignes et agi sur un site internet allemand, selon un incident signalé en mai.",
-      "published_at": "2026-09-07T12:02:02Z",
-      "retrieved_at": "2026-09-07T14:31:23.548494Z",
-      "categories": [
-        "Technologies"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 21,
+      "seen_count": 3,
+      "score": 18,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
       "matched_signals": [
-        "evidence",
+        "public_decision",
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "40b8942bef0f9badca842c98",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Vlaanderen voert boetes tot 800.000 euro in bij fraude met subsidies: \"Vandaag ontsnappen fraudeurs soms aan een echte sanctie\"",
+      "url": "https://vrtnws.be/p.YbynnaP1n",
+      "summary": "Wie fraude pleegt met Vlaamse subsidies, riskeert voortaan een boete tot 800.000 euro, bovenop de volledige terugvordering van de ontvangen middelen. Ook wanneer het parket beslist een dossier niet te vervolgen, kan Vlaanderen zelf sancties opleggen. Tegelijk worden de controles aangescherpt.",
+      "published_at": "2026-09-07T08:12:54Z",
+      "retrieved_at": "2026-09-07T14:31:24.682090Z",
+      "categories": [],
+      "first_seen_at": "2026-09-07T14:01:48.438589Z",
+      "observation_status": "cached",
+      "seen_count": 2,
+      "score": 18,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "88d2267355290f07d8203c4f",
+      "source_id": "fps_economy",
+      "source_name": "SPF Économie",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "economy_atom",
+      "endpoint_label": "Flux des communiqués",
+      "content_scope": "communiqués|analyses",
+      "language": "fr",
+      "title": "Un achat impulsif? Vous pouvez changer d’avis",
+      "url": "https://news.economie.fgov.be/270126-un-achat-impulsif-vous-pouvez-changer-d-avis/",
+      "summary": "De nombreux consommateurs font la chasse aux bonnes affaires en ligne. Mais il arrive de regretter son achat une fois le paiement effectué. Voici donc tout ce qu’il faut savoir sur le droit de rétractation, en dix questions-réponses.",
+      "published_at": "2026-09-07T06:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:34.281600Z",
+      "categories": [],
+      "first_seen_at": "2026-09-07T14:01:48.438589Z",
+      "observation_status": "existing",
+      "seen_count": 3,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "accountability"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type analyses",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "0d6b9fa318d00bb435609223",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
+      "url": "https://www.gva.be/binnenland/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161056703.html",
+      "summary": "Eén op de drie Belgen onder de 35 jaar stelde een tandartsbezoek of -behandeling al eens uit om financiële redenen. Dat blijkt uit onderzoek van onafhankelijk ziekenfonds Helan. “Er is een groep die wij niet bereiken”, zegt ook het Verbond van Vlaamse Tandartsen.",
+      "published_at": "2026-09-07T01:00:00Z",
+      "retrieved_at": "2026-09-07T04:17:23.286462Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-09-07T04:17:58.374490Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 36 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": [
+        {
+          "source_id": "hbvl",
+          "source_name": "Het Belang van Limburg",
+          "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
+          "url": "https://www.hbvl.be/gezondheid/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161056704.html"
+        },
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
+          "url": "https://www.nieuwsblad.be/binnenland/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161026697.html"
+        }
+      ]
+    },
+    {
+      "item_id": "c9e49aaceea440e4e3475748",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Kat van Frans gezin ontsnapt tijdens tussenstop op vakantie, maar na 28 dagen zoeken rond het tankstation is ze terug",
+      "url": "https://www.gva.be/buitenland/kat-van-frans-gezin-ontsnapt-tijdens-tussenstop-op-vakantie-maar-na-28-dagen-zoeken-rond-het-tankstation-is-ze-terug/161120021.html",
+      "summary": "Een gezin uit Versailles annuleerde hun vakantie nadat hun kat tijdens een plaspauze aan een tankstation was weggelopen. De familie deed beroep op vrijwilligers en loofde zelfs een beloning van 500 euro uit. Na 28 dagen is het diertje eindelijk terug.",
+      "published_at": "2026-09-08T01:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:40.689383Z",
+      "categories": [
+        "Buitenland"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
         "accountability"
       ],
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
         "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
       ],
-      "related_items": []
-    },
-    {
-      "item_id": "3cb71991c8eb75e80646b00c",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Salaires: les interlocuteurs sociaux abordent deux cols hors catégorie",
-      "url": "https://www.lesoir.be/769315/article/2026-09-06/salaires-les-interlocuteurs-sociaux-abordent-deux-cols-hors-categorie",
-      "summary": "Patrons et syndicats se penchent sur une double réforme: celle de l’indexation automatique des salaires et celle de la loi de 1996 qui régit la hausse des rémunérations des salariés. Enjeu: changer les inconvénients des systèmes en préservant leurs avantages.",
-      "published_at": "2026-09-06T13:30:42Z",
-      "retrieved_at": "2026-09-06T15:44:54.120605Z",
-      "categories": [
-        "Emploi"
-      ],
-      "first_seen_at": "2026-09-06T15:45:29.774749Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 21,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Kat van Frans gezin ontsnapt tijdens tussenstop op vakantie, maar na 28 dagen zoeken rond het tankstation is ze terug",
+          "url": "https://www.nieuwsblad.be/buitenland/kat-van-frans-gezin-ontsnapt-tijdens-tussenstop-op-vakantie-maar-na-28-dagen-zoeken-rond-het-tankstation-is-ze-terug/161119472.html"
+        }
+      ]
     },
     {
       "item_id": "cfdd71177489594975f3095b",
@@ -446,14 +788,14 @@
       "url": "https://www.bruzz.be/actua/mobiliteit/taalcommissie-oordeelt-dat-wegwijzers-langs-ring-tweetalig-moeten-zijn-de-ridder-weigert-2026-09-07",
       "summary": "De Vaste Commissie voor Taaltoezicht (VCT) heeft na een klacht geoordeeld dat de wegwijzers op de Ring rond Brussel niet voldoen aan de Belgische taalwetgeving. Dat staat in een advies.",
       "published_at": "2026-09-07T13:57:08Z",
-      "retrieved_at": "2026-09-07T14:31:25.749676Z",
+      "retrieved_at": "2026-09-08T04:17:41.669347Z",
       "categories": [
         "Mobiliteit"
       ],
       "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -464,7 +806,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "contrôle, droits ou responsabilité publique",
         "agenda institutionnel proche"
       ],
@@ -494,7 +836,7 @@
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 17,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 8,
@@ -504,7 +846,7 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -534,7 +876,7 @@
       "first_seen_at": "2026-09-07T14:01:48.438589Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -544,257 +886,9 @@
       ],
       "score_reasons": [
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "877ae520a4e582fc00fc54f4",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "La Flandre instaure des amendes jusqu'à 800.000 euros contre les fraudes aux subsides",
-      "url": "https://www.dhnet.be/actu/belgique/2026/09/07/la-flandre-instaure-des-amendes-jusqua-800000-euros-contre-les-fraudes-aux-subsides-QZZIUKPZYZAMRKFLSPQRBCEOEY/",
-      "summary": "Le gouvernement flamand a décidé d'instaurer un système d'amende pour fraude aux subsides, le montant pouvant atteindre 800.000 euros, ont annoncé lundi les ministres régionaux Zuhal Demir et Ben Weyts....",
-      "published_at": "2026-09-07T08:15:05Z",
-      "retrieved_at": "2026-09-07T14:31:23.945583Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 19,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "40b8942bef0f9badca842c98",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Vlaanderen voert boetes tot 800.000 euro in bij fraude met subsidies: \"Vandaag ontsnappen fraudeurs soms aan een echte sanctie\"",
-      "url": "https://vrtnws.be/p.YbynnaP1n",
-      "summary": "Wie fraude pleegt met Vlaamse subsidies, riskeert voortaan een boete tot 800.000 euro, bovenop de volledige terugvordering van de ontvangen middelen. Ook wanneer het parket beslist een dossier niet te vervolgen, kan Vlaanderen zelf sancties opleggen. Tegelijk worden de controles aangescherpt.",
-      "published_at": "2026-09-07T08:12:54Z",
-      "retrieved_at": "2026-09-07T14:31:24.682090Z",
-      "categories": [],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 19,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "88d2267355290f07d8203c4f",
-      "source_id": "fps_economy",
-      "source_name": "SPF Économie",
-      "source_class": "public_body",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "economy_atom",
-      "endpoint_label": "Flux des communiqués",
-      "content_scope": "communiqués|analyses",
-      "language": "fr",
-      "title": "Un achat impulsif? Vous pouvez changer d’avis",
-      "url": "https://news.economie.fgov.be/270126-un-achat-impulsif-vous-pouvez-changer-d-avis/",
-      "summary": "De nombreux consommateurs font la chasse aux bonnes affaires en ligne. Mais il arrive de regretter son achat une fois le paiement effectué. Voici donc tout ce qu’il faut savoir sur le droit de rétractation, en dix questions-réponses.",
-      "published_at": "2026-09-07T06:00:00Z",
-      "retrieved_at": "2026-09-07T14:31:22.916403Z",
-      "categories": [],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 19,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type analyses",
-        "contenu de type communiqués",
-        "publié depuis moins de 12 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "0d6b9fa318d00bb435609223",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
-      "url": "https://www.gva.be/binnenland/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161056703.html",
-      "summary": "Eén op de drie Belgen onder de 35 jaar stelde een tandartsbezoek of -behandeling al eens uit om financiële redenen. Dat blijkt uit onderzoek van onafhankelijk ziekenfonds Helan. “Er is een groep die wij niet bereiken”, zegt ook het Verbond van Vlaamse Tandartsen.",
-      "published_at": "2026-09-07T01:00:00Z",
-      "retrieved_at": "2026-09-07T04:17:23.286462Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-09-07T04:17:58.374490Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 19,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
         "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": [
-        {
-          "source_id": "hbvl",
-          "source_name": "Het Belang van Limburg",
-          "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
-          "url": "https://www.hbvl.be/gezondheid/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161056704.html"
-        },
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "1 op 3 jongeren stelt tandartsbezoek uit, en dat heeft ernstige gevolgen",
-          "url": "https://www.nieuwsblad.be/binnenland/1-op-3-jongeren-stelt-tandartsbezoek-uit-en-dat-heeft-ernstige-gevolgen/161026697.html"
-        }
-      ]
-    },
-    {
-      "item_id": "adc1899a8cc50dbeeb42c322",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Annemie Schaus, rectrice de l’ULB: « Je suis très inquiète, particulièrement pour les sciences humaines »",
-      "url": "https://www.lesoir.be/769514/article/2026-09-07/annemie-schaus-rectrice-de-lulb-je-suis-tres-inquiete-particulierement-pour-les",
-      "summary": "Hausse du minerval, logement, recherche, intelligence artificielle, étudiants gazaouis… A l’aube de la rentrée, la rectrice de l’ULB, Annemie Schaus, liste les défis qui attendent l’université et appelle le politique à soutenir l’enseignement supérieur.",
-      "published_at": "2026-09-07T13:56:27Z",
-      "retrieved_at": "2026-09-07T14:31:22.702881Z",
-      "categories": [
-        "Enseignement"
-      ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "c64c825a6ca5d416c9e9a92d",
-      "source_id": "hln",
-      "source_name": "Het Laatste Nieuws",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hln_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "NAC ontslaat trainer Carl Hoefkens: \"Helaas enkele verbeterpunten uit evaluatie niet gerealiseerd\"",
-      "url": "https://www.hln.be/eredivisie/nac-ontslaat-trainer-carl-hoefkens-helaas-enkele-verbeterpunten-uit-evaluatie-niet-gerealiseerd~ad9e5085/",
-      "summary": "Carl Hoefkens is niet langer hoofdtrainer van NAC. De 47-jarige Belg is ontslagen. Dat besluit volgt drie dagen na de nederlaag van 4-2 bij RKC in de eerste divisie. De Bredase club, die vorig seizoen uit de eredivisie degradeerde, heeft na vijf speelronden 7 punten en staat elfde.",
-      "published_at": "2026-09-07T11:36:54Z",
-      "retrieved_at": "2026-09-07T14:01:14.433982Z",
-      "categories": [],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 0,
-      "matched_signals": [
-        "public_decision",
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
         "décision ou réforme publique",
-        "chiffres, étude ou évaluation"
+        "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
@@ -822,7 +916,7 @@
       "first_seen_at": "2026-09-07T04:17:58.374490Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -833,7 +927,7 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 24 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -847,48 +941,7 @@
       ]
     },
     {
-      "item_id": "90e626286aa6b2f0e17351ef",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
-      "language": "fr",
-      "title": "Budget fédéral: Georges-Louis Bouchez met la pression sur la majorité et prévient, \"on est parti dans la même direction\"",
-      "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/06/budget-federal-georges-louis-bouchez-met-la-pression-sur-la-majorite-et-previent-on-est-parti-dans-la-meme-direction-IND42MUE3FECTE7YHPNGPR3UZU/",
-      "summary": "Ce dimanche 6 septembre 2026, le président du MR fixe ses lignes rouges avant le conclave budgétaire: pas de hausse de TVA ni de nouvel impôt, mais des économies dans les dépenses publiques. Georges-Louis Bouchez promet un plan pouvant générer jusqu'à 17 milliards d'économies....",
-      "published_at": "2026-09-06T14:20:48Z",
-      "retrieved_at": "2026-09-07T14:31:25.519879Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-09-06T15:45:29.774749Z",
-      "observation_status": "existing",
-      "seen_count": 4,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "7ca7d4d0c841dbe877a0caa1",
+      "item_id": "d0696782457c400b845f741c",
       "source_id": "het_nieuwsblad",
       "source_name": "Het Nieuwsblad",
       "source_class": "news_media",
@@ -900,34 +953,34 @@
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "26-jarige Belg, opgepakt in zaak rond dodelijke schietpartij in Overasselt, moet veertien dagen langer in cel blijven",
-      "url": "https://www.nieuwsblad.be/buitenland/26-jarige-belg-opgepakt-in-zaak-rond-dodelijke-schietpartij-in-overasselt-moet-veertien-dagen-langer-in-cel-blijven/161101790.html",
-      "summary": "De 26-jarige Belg die vrijdag in Amsterdam is opgepakt in de zaak rond de dodelijke schietpartij in Overasselt, blijft veertien dagen langer vast. De rechter-commissaris heeft dat maandag beslist. De man werd maandag voorgeleid bij de rechtbank in Gelderland.",
-      "published_at": "2026-09-07T14:28:59Z",
-      "retrieved_at": "2026-09-07T14:31:24.324257Z",
+      "title": "Bedevaartsoord zit met handen in het haar nu 93-jarige toiletdame Mariëtte met pensioen gaat: “Ik kuis de brillen na elk gebruik”",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/bedevaartsoord-zit-met-handen-in-het-haar-nu-93-jarige-toiletdame-mariette-met-pensioen-gaat-ik-kuis-de-brillen-na-elk-gebruik/161071466.html",
+      "summary": "Ze zitten met de handen in het haar in bedevaartsoord Lourdes in Oostakker. Hun toiletdame Mariëtte gaat eind september met pensioen. Ondanks het feit dat ze 93 is, poetst en onderhoudt ze nog alles zelf, en dat zeven dagen op zeven.",
+      "published_at": "2026-09-08T01:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:40.255751Z",
       "categories": [
-        "Buitenland"
+        "Gent"
       ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 17,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
       "matched_signals": [
-        "public_decision"
+        "citizen_impact"
       ],
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
         "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
+        "impact concret pour la population"
       ],
       "related_items": []
     },
     {
-      "item_id": "0eb5cb5d33af4bf0b2427a3d",
+      "item_id": "065d33d3370e632115a05bc2",
       "source_id": "gva",
       "source_name": "Gazet van Antwerpen",
       "source_class": "news_media",
@@ -939,21 +992,21 @@
       "endpoint_label": "Nieuwsfeed",
       "content_scope": "actualités|presse|terrain",
       "language": "nl",
-      "title": "Welzijnswijzer voorgesteld op druk bijgewoonde seniorenbeurs",
-      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/schoten/welzijnswijzer-voorgesteld-op-druk-bijgewoonde-seniorenbeurs/161073094.html",
-      "summary": "De tweejaarlijkse Seniorenbeurs in De Kaekelaar trok honderden bezoekers. Van bij de opening tot het einde van de beurs bleef het gezellig druk. Tientallen standhouders informeerden Schotense senioren over de meest uiteenlopende thema’s, van zorg en gezondheid tot vrije tijd, financiën en dienstverlening.",
-      "published_at": "2026-09-07T12:00:00Z",
-      "retrieved_at": "2026-09-07T14:01:15.021180Z",
+      "title": "Bij sommige mensen is het moreel kompas zoek op de bus of de tram: wie denkt zich alles te kunnen permitteren, moet gestraft worden",
+      "url": "https://www.gva.be/binnenland/bij-sommige-mensen-is-het-moreel-kompas-zoek-op-de-bus-of-de-tram-wie-denkt-zich-alles-te-kunnen-permitteren-moet-gestraft-worden/161097939.html",
+      "summary": "De Antwerpse controleurs van De Lijn hebben maandag geen controles gedaan op zwartrijden in het openbaar vervoer. Dat is een gevolg van een zware aanval op een controleur zaterdagavond. Deze aanval toont opnieuw dat sommige mensen totaal geen moreel kompas hebben. Dit soort mensen, dat denkt zich alles te kunnen permitteren, moet lik op stuk krijgen.",
+      "published_at": "2026-09-08T00:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:40.689383Z",
       "categories": [
-        "Schoten"
+        "Binnenland"
       ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "cached",
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
       "seen_count": 1,
-      "score": 17,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "section_strength": 2,
       "matched_signals": [
         "citizen_impact"
       ],
@@ -962,6 +1015,455 @@
         "contenu de type actualités",
         "publié depuis moins de 6 heures",
         "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "70fc38a7cf330bad63a4fa49",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Het cijfer waar de Vlaamse regering over clasht: Brouns wil dat landbouw nog met 165.000 hectare kan groeien",
+      "url": "https://www.hbvl.be/politiek/het-cijfer-waar-de-vlaamse-regering-over-clasht-brouns-wil-dat-landbouw-nog-met-165.000-hectare-kan-groeien/161121719.html",
+      "summary": "CD&V-minister Jo Brouns wil 765.000 hectare reserveren voor landbouwgrond, terwijl er vandaag maar 600.000 effectief in gebruik is. Dat blijkt uit zijn openingsbod voor het Beleidsplan Ruimte, dat De Standaard kon inkijken. “We zien echt niet waar dat vandaan moet komen. Stap af van die planologische fictie”, zegt de N-VA.",
+      "published_at": "2026-09-07T21:59:00Z",
+      "retrieved_at": "2026-09-08T04:17:45.816435Z",
+      "categories": [
+        "Politiek"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Het cijfer waar de Vlaamse regering over clasht: Brouns wil dat landbouw nog met 165.000 hectare kan groeien",
+          "url": "https://www.nieuwsblad.be/politiek/het-cijfer-waar-de-vlaamse-regering-over-clasht-brouns-wil-dat-landbouw-nog-met-165.000-hectare-kan-groeien/161122768.html"
+        }
+      ]
+    },
+    {
+      "item_id": "adc1899a8cc50dbeeb42c322",
+      "source_id": "le_soir",
+      "source_name": "Le Soir",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "le_soir_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Annemie Schaus, rectrice de l’ULB: « Je suis très inquiète, particulièrement pour les sciences humaines »",
+      "url": "https://www.lesoir.be/769514/article/2026-09-07/annemie-schaus-rectrice-de-lulb-je-suis-tres-inquiete-particulierement-pour-les",
+      "summary": "Hausse du minerval, logement, recherche, intelligence artificielle, étudiants gazaouis… A l’aube de la rentrée, la rectrice de l’ULB, Annemie Schaus, liste les défis qui attendent l’université et appelle le politique à soutenir l’enseignement supérieur.",
+      "published_at": "2026-09-07T13:56:27Z",
+      "retrieved_at": "2026-09-07T14:31:22.702881Z",
+      "categories": [
+        "Enseignement"
+      ],
+      "first_seen_at": "2026-09-07T14:31:58.020371Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c64c825a6ca5d416c9e9a92d",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "NAC ontslaat trainer Carl Hoefkens: \"Helaas enkele verbeterpunten uit evaluatie niet gerealiseerd\"",
+      "url": "https://www.hln.be/eredivisie/nac-ontslaat-trainer-carl-hoefkens-helaas-enkele-verbeterpunten-uit-evaluatie-niet-gerealiseerd~ad9e5085/",
+      "summary": "Carl Hoefkens is niet langer hoofdtrainer van NAC. De 47-jarige Belg is ontslagen. Dat besluit volgt drie dagen na de nederlaag van 4-2 bij RKC in de eerste divisie. De Bredase club, die vorig seizoen uit de eredivisie degradeerde, heeft na vijf speelronden 7 punten en staat elfde.",
+      "published_at": "2026-09-07T11:36:54Z",
+      "retrieved_at": "2026-09-07T14:01:14.433982Z",
+      "categories": [],
+      "first_seen_at": "2026-09-07T14:01:48.438589Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 0,
+      "matched_signals": [
+        "public_decision",
+        "evidence"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "cf6412e6e5175e2cca3730dc",
+      "source_id": "lecho",
+      "source_name": "L'Echo",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lecho_rss",
+      "endpoint_label": "Flux actualité",
+      "content_scope": "actualités|presse|économie|Belgique",
+      "language": "fr",
+      "title": "Les aides à l'emploi wallonnes siphonnées par l'intérim?",
+      "url": "https://www.lecho.be/r/t/1/id/10685036",
+      "summary": "Lors des deux premiers mois de leur mise en service, plus de la moitié des aides à l'emploi nouvelle formule Job+ ont été sollicitées par des sociétés d'intérim. Gare à l'effet d'aubaine, s'alarme la CSC.",
+      "published_at": "2026-09-08T03:00:59Z",
+      "retrieved_at": "2026-09-08T04:17:52.656893Z",
+      "categories": [
+        "Economie & Politique"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "18cc706f9212af13d235f310",
+      "source_id": "de_morgen",
+      "source_name": "De Morgen",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "de_morgen_rss",
+      "endpoint_label": "In het nieuws",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Europese Commissie wil af van aanbesteding op laagste prijs",
+      "url": "https://www.demorgen.be/snelnieuws/europese-commissie-wil-af-van-aanbesteding-op-laagste-prijs~ba6698b8/",
+      "summary": "",
+      "published_at": "2026-09-08T01:41:27Z",
+      "retrieved_at": "2026-09-08T04:17:40.505343Z",
+      "categories": [],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": [
+        {
+          "source_id": "hln",
+          "source_name": "Het Laatste Nieuws",
+          "title": "Europese Commissie wil af van aanbesteding op laagste prijs: “Een echt keerpunt”",
+          "url": "https://www.hln.be/nieuws/europese-commissie-wil-af-van-aanbesteding-op-laagste-prijs-een-echt-keerpunt~aa6698b8/"
+        }
+      ]
+    },
+    {
+      "item_id": "6e5049436b9f0fcf580709a9",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Gemeente heeft plannen voor wissel van woonzone en parkgebied: “Meer woningen aan Kasseitje in Lochristi, meer groen in centrum Beervelde”",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/lochristi/gemeente-heeft-plannen-voor-wissel-van-woonzone-en-parkgebied-meer-woningen-aan-kasseitje-in-lochristi-meer-groen-in-centrum-beervelde/161032943.html",
+      "summary": "Een woonzone in Beervelde een groene bestemming geven en in ruil nieuwe woningen mogelijk maken aan het Kasseitje in Lochristi: dat wil de gemeente via een nieuw ruimtelijk uitvoeringsplan (RUP) realiseren. “Groen waar het waardevol is, en woningen waar ze beter passen. Meer zit er niet achter”, zegt schepen van Ruimtelijke Ordening Sandro Di Nunzio (Anders).",
+      "published_at": "2026-09-08T01:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:40.255751Z",
+      "categories": [
+        "Lochristi"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e9eb50b49c0c5b0a6c7b7aef",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Bel&Bo kiest Oostkamp voor opening 99ste filiaal: “Nieuw concept ademt gezelligheid en beleving”",
+      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/oostkamp/belbo-kiest-oostkamp-voor-opening-99ste-filiaal-nieuw-concept-ademt-gezelligheid-en-beleving/160961058.html",
+      "summary": "In de Kortrijksestraat in Oostkamp heeft Bel&Bo een nieuw filiaal geopend. Het gaat om de 99ste vestiging van de West-Vlaamse modeketen.",
+      "published_at": "2026-09-08T01:00:00Z",
+      "retrieved_at": "2026-09-08T04:17:40.255751Z",
+      "categories": [
+        "Oostkamp"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "46d5eae54510a8136f62d61b",
+      "source_id": "brf_news",
+      "source_name": "BRF Nachrichten",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Communauté germanophone",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "brf_news_rss",
+      "endpoint_label": "Flux BRF Nachrichten",
+      "content_scope": "actualités|presse|terrain",
+      "language": "de",
+      "title": "Hochmodernes Gas- und Dampfkraftwerk in Flémalle eingeweiht",
+      "url": "https://brf.be/regional/2107053/",
+      "summary": "In Flémalle ist am Montag die neue Gas- und Dampfkraftanlage von Engie eingeweiht worden. Mit einer Leistung von 875 Megawatt soll das ultramoderne Kraftwerk künftig als flexibler Partner für die erneuerbaren Energien dienen.",
+      "published_at": "2026-09-07T16:36:00Z",
+      "retrieved_at": "2026-09-08T04:17:41.865206Z",
+      "categories": [
+        "Engie",
+        "Lüttich",
+        "Regional",
+        "Top News"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8eaa58e7efb8557c7528ff15",
+      "source_id": "bx1",
+      "source_name": "BX1",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bx1_rss",
+      "endpoint_label": "Flux BX1",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Réaménagement de l’avenue Broustin: “On a l’impression de ne pas être écoutés alors qu’on habite dans ce quartier”",
+      "url": "https://bx1.be/categories/news/reamenagement-de-lavenue-broustin-on-a-limpression-de-ne-pas-etre-ecoutes-et-quon-ne-fait-pas-partie-de-ce-projet/",
+      "summary": "De nouveaux remous dans le dossier du réaménagement de l’avenue Broustin: Koekelberg dépose un recours en annulation. La commune, voisine du futur chantier, estime ne pas avoir été écoutée. Des blocs de béton sont toujours en place, de part et d’autre de l’avenue Broustin. Un réaménagement de la voie est pourtant prévu depuis l’obtention … lire plus",
+      "published_at": "2026-09-07T16:31:03Z",
+      "retrieved_at": "2026-09-08T04:17:41.755177Z",
+      "categories": [
+        "Avenue Broustin",
+        "Ganshoren",
+        "Jette",
+        "Koekelberg",
+        "News",
+        "Reportages",
+        "olivia p'tito"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "accountability"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "181fcd9ddc2240982c90696a",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Cabinets de médecine générale: du changement dans l’intervention pour continuité des soins",
+      "url": "https://www.lavenir.net/actu/societe/sante/2026/09/07/cabinets-de-medecine-generale-du-changement-dans-lintervention-pour-continuite-des-soins-VR35FE34SZGV7M5G7EXVMA2A7A/",
+      "summary": "L’objectif du changement est de faciliter les collaborations fixes avec un infirmier ou un “assistant de pratique”....",
+      "published_at": "2026-09-07T15:19:21Z",
+      "retrieved_at": "2026-09-08T04:17:41.852390Z",
+      "categories": [
+        "Santé"
+      ],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "contenu de type terrain",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e49bcb2760d8cfffa6e87853",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Antwerpen én Anvers: moeten wegwijzers op Brusselse ring in Wemmel plots tweetalig worden?",
+      "url": "https://vrtnws.be/p.nwYjW1JvR",
+      "summary": "'Bergen' en 'Mons', 'Brussel' en 'Bruxelles': als het aan de Vaste Commissie voor Taaltoezicht (VCT) ligt, worden de wegwijzerborden op de Brusselse ring ter hoogte van de Vlaamse faciliteitengemeente Wemmel weer tweetalig. Dat stelt die taalwaakhond in een advies. Vlaams minister van Mobiliteit Annick De Ridder (N-VA) trekt eens een stevige wenkbrauw op.",
+      "published_at": "2026-09-07T15:07:06Z",
+      "retrieved_at": "2026-09-08T04:17:40.751375Z",
+      "categories": [],
+      "first_seen_at": "2026-09-08T04:18:15.699046Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "accountability",
+        "agenda"
+      ],
+      "score_reasons": [
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "contrôle, droits ou responsabilité publique",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -982,14 +1484,14 @@
       "url": "https://www.bruzz.be/actua/mobiliteit/woensdag-geen-treinen-tussen-brussel-en-nederland-2026-09-07",
       "summary": "Door een 24 urenstaking bij het openbaar vervoer in Nederland zullen er woensdag ook geen treinen rijden tussen Brussel en Amsterdam.",
       "published_at": "2026-09-07T11:20:35Z",
-      "retrieved_at": "2026-09-07T14:31:25.749676Z",
+      "retrieved_at": "2026-09-08T04:17:41.669347Z",
       "categories": [
         "Mobiliteit"
       ],
       "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -999,510 +1501,8 @@
       "score_reasons": [
         "contenu de type terrain",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "54a72cf098f359fc8cd0d025",
-      "source_id": "bruzz",
-      "source_name": "BRUZZ",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "bruzz_rss",
-      "endpoint_label": "Flux général",
-      "content_scope": "actualités|presse|terrain|Bruxelles",
-      "language": "nl|fr|en",
-      "title": "Koekelberg gaat in beroep tegen de herinrichting van de Broustinlaan",
-      "url": "https://www.bruzz.be/actua/mobiliteit/koekelberg-gaat-beroep-tegen-herinrichting-van-de-broustinlaan-2026-09-07",
-      "summary": "De gemeente Koekelberg gaat in beroep bij de Raad van State tegen de plannen voor de heraanleg van de Broustinlaan. Dat zei burgemeester P'tito, die zich verzet tegen nieuwe doodlopende straten.",
-      "published_at": "2026-09-07T10:34:38Z",
-      "retrieved_at": "2026-09-07T14:31:25.749676Z",
-      "categories": [
-        "Mobiliteit"
-      ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "da71fdca385283ec4b53bd16",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Un jeune Belge sur trois reporte sa visite chez le dentiste pour des raisons financières",
-      "url": "https://www.dhnet.be/actu/belgique/2026/09/07/un-jeune-belge-sur-trois-reporte-sa-visite-chez-le-dentiste-pour-des-raisons-financieres-4HE4XFEZH5FIJKTEIMYXH5RVS4/",
-      "summary": "Un jeune Belge sur trois âgé de moins de 35 ans (32,1%) a déjà reporté une consultation ou un traitement dentaire pour des raisons financières, selon une enquête menée par iVOX pour le compte de la mutualité indépendante Helan auprès d'un millier de personnes....",
-      "published_at": "2026-09-07T09:01:28Z",
-      "retrieved_at": "2026-09-07T14:31:23.945583Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 17,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "e48adf64423f1144dcf3ec3b",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "Le gouvernement espagnol prend le contrôle du port de Ceuta",
-      "url": "https://www.lecho.be/r/t/1/id/10684914",
-      "summary": "Le gouvernement espagnol a décidé samedi de prendre le contrôle du port de l'enclave nord-africaine de Ceuta en raison d'un litige avec les autorités locales sur l'hébergement de migrants sur ce territoire",
-      "published_at": "2026-09-06T11:53:37Z",
-      "retrieved_at": "2026-09-06T15:44:57.133976Z",
-      "categories": [
-        "Economie & Politique"
-      ],
-      "first_seen_at": "2026-09-06T15:45:29.774749Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "17c1cc9f73194bb4c286727e",
-      "source_id": "het_nieuwsblad",
-      "source_name": "Het Nieuwsblad",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "het_nieuwsblad_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Zwakbegaafde jongeman (20) stemt in met chemische castratie na verkrachting 16-jarig meisje: “Hij walgt van wat hij deed”",
-      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/zwakbegaafde-jongeman-20-stemt-in-met-chemische-castratie-na-verkrachting-16-jarig-meisje-hij-walgt-van-wat-hij-deed/161077312.html",
-      "summary": "“Hij krijgt zijn driften niet onder controle en beseft dat hij moet geholpen worden”. Een 20-jarige, zwakbegaafde Bruggeling vergreep zich aan een 16-jarig meisje, dat hij misleidde via sociale media. Dat bleek geen alleenstaand geval. Op zijn proces stemde M.B. in met vergaande voorwaarden.",
-      "published_at": "2026-09-07T14:20:00Z",
-      "retrieved_at": "2026-09-07T14:31:24.324257Z",
-      "categories": [
-        "Brugge"
-      ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "eb392e34c87c0e89476cb1c0",
-      "source_id": "brf_news",
-      "source_name": "BRF Nachrichten",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "brf_news_rss",
-      "endpoint_label": "Flux BRF Nachrichten",
-      "content_scope": "actualités|presse|terrain",
-      "language": "de",
-      "title": "Polizei Weser-Göhl kam am Wochenende nicht zur Ruhe",
-      "url": "https://brf.be/regional/2107009/",
-      "summary": "Bei einer Kontrolle in Eupen hat die Polizei am Wochenende einen Kleinbus mit insgesamt dreizehn Insassen angehalten. Außer dem Fahrer konnte sich keine Person ausweisen, deshalb wurde der Fahrer wegen des Verdachts von Schleusertätigkeiten festgenommen. Die zwölf Personen wurden wegen illegalen Aufenthalts den zuständigen Behörden übergeben. Das Fahrzeug und Bargeld wurden sichergestellt. Mehrere Festnahmen nach […]",
-      "published_at": "2026-09-07T14:13:00Z",
-      "retrieved_at": "2026-09-07T14:31:26.445846Z",
-      "categories": [
-        "Eupen",
-        "Eynatten",
-        "Hergenrath",
-        "Kelmis",
-        "Polizeibericht",
-        "Polizeizone Weser-Göhl",
-        "Raeren",
-        "Regional",
-        "Top News"
-      ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d75a27cff2dc8d3b902585dc",
-      "source_id": "stib",
-      "source_name": "STIB",
-      "source_class": "public_company",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "stib_press_rss",
-      "endpoint_label": "Flux presse",
-      "content_scope": "communiqués|mobilité",
-      "language": "fr",
-      "title": "Plus de confort et d’accessibilité sur les lignes 39/44",
-      "url": "https://stib.prezly.com/plus-de-confort-et-daccessibilite-sur-les-lignes-3944",
-      "summary": "",
-      "published_at": "2026-09-07T13:54:00Z",
-      "retrieved_at": "2026-09-07T14:31:17.348590Z",
-      "categories": [],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "ae659beff58155a98d9499bc",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Negen boetes uitgeschreven bij controle op ladingzekering in Alken",
-      "url": "https://www.hbvl.be/regio/limburg/alken/negen-boetes-uitgeschreven-bij-controle-op-ladingzekering-in-alken/161097266.html",
-      "summary": "18 van de 19 gecontroleerde tractoren waren in orde. © Politie LRH",
-      "published_at": "2026-09-07T13:36:51Z",
-      "retrieved_at": "2026-09-07T14:31:25.225866Z",
-      "categories": [
-        "Alken"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": [
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Negen boetes uitgeschreven bij controle op ladingzekering in Alken",
-          "url": "https://www.nieuwsblad.be/regio/limburg/alken/negen-boetes-uitgeschreven-bij-controle-op-ladingzekering-in-alken/161097543.html"
-        }
-      ]
-    },
-    {
-      "item_id": "0d8096e7576cfb25284a52a4",
-      "source_id": "het_nieuwsblad",
-      "source_name": "Het Nieuwsblad",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "het_nieuwsblad_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "100-tal keramisten tonen hun werk op gezellige en zomerse keramiekmarkt Kerkhoven",
-      "url": "https://www.nieuwsblad.be/regio/limburg/lommel/100-tal-keramisten-tonen-hun-werk-op-gezellige-en-zomerse-keramiekmarkt-kerkhoven/161094525.html",
-      "summary": "Op de eerste zondag van september konden keramiekliefhebbers opnieuw terecht in Kerkhoven. Daar vond voor de 17de keer de jaarlijkse keramiekmarkt plaats, georganiseerd door Anita Vanherk, Paul Vandeweyer en Els Vanderheyden. Een honderdtal kramen bood gebruikskeramiek, decoratieve stukken en kunstwerken aan.",
-      "published_at": "2026-09-07T13:05:19Z",
-      "retrieved_at": "2026-09-07T14:01:14.465163Z",
-      "categories": [
-        "Lommel"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": [
-        {
-          "source_id": "hbvl",
-          "source_name": "Het Belang van Limburg",
-          "title": "100-tal keramisten tonen hun werk op gezellige en zomerse keramiekmarkt Kerkhoven",
-          "url": "https://www.hbvl.be/regio/limburg/lommel/100-tal-keramisten-tonen-hun-werk-op-gezellige-en-zomerse-keramiekmarkt-kerkhoven/160995280.html"
-        }
-      ]
-    },
-    {
-      "item_id": "d16b9d621c0bced48dee0bfa",
-      "source_id": "brf_news",
-      "source_name": "BRF Nachrichten",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "brf_news_rss",
-      "endpoint_label": "Flux BRF Nachrichten",
-      "content_scope": "actualités|presse|terrain",
-      "language": "de",
-      "title": "VW-Werk Osnabrück soll Rüstungsstandort werden",
-      "url": "https://brf.be/international/2106960/",
-      "summary": "Das VW-Werk in Osnabrück soll künftig Rüstungsgüter herstellen. Nach dem Ende der Auto-Produktion 2027 entsteht dort ein Zentrum für Verteidigungstechnik. Das soll die Zukunft von 1.400 der 1.800 dort Beschäftigten sichern. Als erster Partner ist der israelische Rüstungskonzern Rafael vorgesehen, bekannt durch das Abwehrsystem \"Iron Dome\". Zunächst sollen in Osnabrück Bauteile für Luftabwehrsysteme entwickelt und […]",
-      "published_at": "2026-09-07T12:43:00Z",
-      "retrieved_at": "2026-09-07T14:31:26.445846Z",
-      "categories": [
-        "Deutschland",
-        "International"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "47b68ff5e5b39760b6bc0e76",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Nieuwe inzamelboxen in Lille: “Door sportspullen opnieuw in omloop te brengen, verlagen we drempel”",
-      "url": "https://www.gva.be/regio/antwerpen/kempen/lille/nieuwe-inzamelboxen-in-lille-door-sportspullen-opnieuw-in-omloop-te-brengen-verlagen-we-drempel/161091176.html",
-      "summary": "Het lokaal bestuur van Lille plaatst op drie locaties in de gemeente inzamelboxen voor sportkledij en sportmateriaal dat niet meer gebruikt wordt, maar nog in goede staat is. De ingezamelde spullen gaan naar het Mamadepot, waar gezinnen ze aan een betaalbare prijs kunnen aankopen.",
-      "published_at": "2026-09-07T12:32:00Z",
-      "retrieved_at": "2026-09-07T14:31:25.087238Z",
-      "categories": [
-        "Lille"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": [
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Nieuwe inzamelboxen in Lille: “Door sportspullen opnieuw in omloop te brengen, verlagen we drempel”",
-          "url": "https://www.nieuwsblad.be/regio/antwerpen/kempen/lille/nieuwe-inzamelboxen-in-lille-door-sportspullen-opnieuw-in-omloop-te-brengen-verlagen-we-drempel/161092178.html"
-        }
-      ]
-    },
-    {
-      "item_id": "92e6e99b0a316ba91bb87f0f",
-      "source_id": "bx1",
-      "source_name": "BX1",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "bx1_rss",
-      "endpoint_label": "Flux BX1",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "La majorité de Saint-Gilles va officialiser ses demandes contre le trafic de stupéfiants",
-      "url": "https://bx1.be/categories/news/la-majorite-de-saint-gilles-va-officialiser-ses-demandes-contre-le-trafic-de-stupefiants/",
-      "summary": "La majorité saint-gilloise déposera jeudi au conseil communal une motion demandant une mobilisation coordonnée contre la criminalité organisée, sous l’autorité du Premier ministre et avec l’appui notamment de l’Organe de coordination pour l’analyse de la menace (Ocam). Le texte a été cosigné par la Liste du Bourgmestre et Ecolo-Groen. Le maïeur Jean Spinette (PS) a … lire plus",
-      "published_at": "2026-09-07T11:58:57Z",
-      "retrieved_at": "2026-09-07T14:31:27.204844Z",
-      "categories": [
-        "Commune de Saint-Gilles",
-        "Fusillades à Bruxelles",
-        "News",
-        "Saint-Gilles",
-        "spinette"
-      ],
-      "first_seen_at": "2026-09-07T14:01:48.438589Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "67feb5d4cbbd1e029aa408c1",
-      "source_id": "tv_lux",
-      "source_name": "TV Lux",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "tv_lux_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|presse|terrain|politique|économie",
-      "language": "fr",
-      "title": "Une plainte déposée contre une puéricultrice de la crèche Les Lutins du Parc à Offagne (Paliseul)",
-      "url": "https://www.tvlux.be/https://www.tvlux.be/actu/info/une-plainte-deposee-contre-une-puericultrice-de-la-creche-les-lutins-du-parc-a-offagne-paliseul_52392",
-      "summary": "Les faits datent d’une quinzaine de jours; une puéricultrice aurait été vue portant un enfant la tête vers le bas. Une dénonciation a été faite à la police qui a ouvert une enquête, suite au témoignage d’une habitante.",
-      "published_at": "2026-09-07T09:27:00Z",
-      "retrieved_at": "2026-09-07T14:31:27.437987Z",
-      "categories": [
-        "info"
-      ],
-      "first_seen_at": "2026-09-07T14:31:58.020371Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "evidence"
-      ],
-      "score_reasons": [
-        "contenu de type terrain",
-        "contenu de type actualités",
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation"
       ],
       "related_items": []
     }

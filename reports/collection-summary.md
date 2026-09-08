@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-07T14:31:58.056845Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-08T04:18:15.758824Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **57**
-- Flux collectés : **56**
-- Flux en erreur : **1**
-- Éléments conservés : **3993**
-- Sources contributrices : **37**
+- Flux collectés : **55**
+- Flux en erreur : **2**
+- Éléments conservés : **4034**
+- Sources contributrices : **36**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -22,7 +22,7 @@ Généré le `2026-09-07T14:31:58.056845Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 26 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 30 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 220 | — |
@@ -31,7 +31,7 @@ Généré le `2026-09-07T14:31:58.056845Z` par `veille-redaction-belge/collector
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
-| `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
+| `fps_finance` | `finance_rss` | `unsupported` | `html` | 0 | Format reçu: html |
 | `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
