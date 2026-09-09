@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-09-09T09:08:34.521680Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-09T09:35:25.239654Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **283**
 - Accès testés : **283**
-- Accès opérationnels : **243**
-- Accès en erreur ou bloqués : **40**
+- Accès opérationnels : **245**
+- Accès en erreur ou bloqués : **38**
 - Flux candidats découverts : **94**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -56,7 +56,7 @@ Généré le `2026-09-09T09:08:34.521680Z` par `veille-redaction-belge/0.1.0`.
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Centre fédéral d'expertise des soins de santé | Communiqués de presse | `http_error` | 429 | `html → unknown` | `unknown` | 0 |
 | CGSLB-Syndicat libéral | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| Chambre des représentants | Agenda des commissions | `ok` | 200 | `html → html` | `allowed` | 0 |
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -108,7 +108,7 @@ Généré le `2026-09-09T09:08:34.521680Z` par `veille-redaction-belge/0.1.0`.
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| FGTB | Presse | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| FGTB | Presse | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Focus & WTV | Focus en WTV RSS | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
 | Focus & WTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
@@ -218,7 +218,7 @@ Généré le `2026-09-09T09:08:34.521680Z` par `veille-redaction-belge/0.1.0`.
 | RTBF Info | Flux RTBF Info | `ok` | 200 | `rss → rss` | `unknown` | 0 |
 | RTL info | RTL info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Région de Bruxelles-Capitale | Dernières nouvelles | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Réseau wallon de lutte contre la pauvreté | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Sciensano | Coin presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Service fédéral des Pensions | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
