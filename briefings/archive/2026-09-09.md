@@ -1,6 +1,6 @@
 # Veille rédaction belge — 9 septembre 2026
 
-Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments collectés**.
+Générée à **10:42** (heure de Bruxelles) à partir de **4347 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
@@ -13,22 +13,6 @@ Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments coll
 **Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Un recours en suspension, un autre en annulation: la CGSP met la gomme contre la réforme des hauts managers, en cours à la Région wallonne et à la Communauté française....
-
-### [Le panier Testachats-Sudinfo: les courses restent 30 % plus chères qu’en 2022, voici ce qui a le plus augmenté en août](https://www.sudinfo.be/id1191220/article/2026-09-08/le-panier-testachats-sudinfo-les-courses-restent-30-plus-cheres-quen-2022-voici)
-
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 19:00 · score `20`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Bonne nouvelle pour le portefeuille? Pour la troisième fois consécutive, l’inflation dans les supermarchés belges est négative. Après -0,41 % en juin et -0,63 % en juillet, elle s’établit à -0,56 % en août, selon le dernier panier de Testachats. Mais derrière ce chiffre rassurant, les prix en rayons restent trop levés pour de nombreux ménages.
-
-### [Surpopulation dans les prisons: “Il n’y a pas de solution et on restera là pendant quelques années”](https://bx1.be/categories/politique/conditions-de-vie-dans-les-prisons-il-y-a-2-500-detenus-en-trop/)
-
-**BX1** · média d'information · 08/09/2026 à 18:26 · score `20`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Les conditions de vie des prisonniers sont dans le viseur du Comité européen pour la prévention de la torture. Celui-ci a publié un rapport sévère sur les failles du système pénitentiaire. Surpopulation, agents épuisés, soins insuffisants. Un constat qui intervient alors que les agents pénitentiaires sont en grève. Gregory Wallez, secrétaire permanent de la CGSP … lire plus
 
 ### [Rue du Midi: un centre d’hébergement tout juste fermé est à nouveau occupé](https://bx1.be/categories/reportages/rue-du-midi-un-centre-dhebergement-tout-juste-ferme-est-a-nouveau-occupe/)
 
@@ -54,13 +38,21 @@ Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments coll
 
 > Extrait fourni par la source : L'enquête PISA menée en 2025 auprès des élèves de 15 ans, quelle que soit leur année d'étude, met en évidence une baisse des résultats en mathématiques et en français par rapport à 2022, mais une progression en sciences.
 
-### [L’enquête PISA version 2025 montre une baisse généralisée du niveau scolaire dans les pays de l’OCDE: les élèves sont-ils plus bêtes qu’avant?](https://www.lavenir.net/actu/belgique/politique/2026/09/08/lenquete-pisa-version-2025-montre-une-baisse-generalisee-du-niveau-scolaire-dans-les-pays-de-locde-les-eleves-sont-ils-plus-betes-quavant-5TKG623VWVAVDBDEVQZDVKRWNY/)
+### [Le panier Testachats-Sudinfo: les courses restent 30 % plus chères qu’en 2022, voici ce qui a le plus augmenté en août](https://www.sudinfo.be/id1191220/article/2026-09-08/le-panier-testachats-sudinfo-les-courses-restent-30-plus-cheres-quen-2022-voici)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 18:51 · score `19`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 19:00 · score `19`
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : Les résultats de l’enquête PISA 2025 ont été dévoilés ce mardi. Ils montrent une baisse générale inquiétante – moins marquée en Fédération Wallonie-Bruxelles – au sein des pays de l’OCDE. La faute aux écrans?...
+> Extrait fourni par la source : Bonne nouvelle pour le portefeuille? Pour la troisième fois consécutive, l’inflation dans les supermarchés belges est négative. Après -0,41 % en juin et -0,63 % en juillet, elle s’établit à -0,56 % en août, selon le dernier panier de Testachats. Mais derrière ce chiffre rassurant, les prix en rayons restent trop levés pour de nombreux ménages.
+
+### [Surpopulation dans les prisons: “Il n’y a pas de solution et on restera là pendant quelques années”](https://bx1.be/categories/politique/conditions-de-vie-dans-les-prisons-il-y-a-2-500-detenus-en-trop/)
+
+**BX1** · média d'information · 08/09/2026 à 18:26 · score `19`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Les conditions de vie des prisonniers sont dans le viseur du Comité européen pour la prévention de la torture. Celui-ci a publié un rapport sévère sur les failles du système pénitentiaire. Surpopulation, agents épuisés, soins insuffisants. Un constat qui intervient alors que les agents pénitentiaires sont en grève. Gregory Wallez, secrétaire permanent de la CGSP … lire plus
 
 ### [Piscine Seraing: tarif préférentiel pour les travailleurs et entreprises](https://www.qu4tre.be/sports/piscine-seraing-tarif-preferentiel-pour-les-travailleurs-et-entreprises/2016373)
 
@@ -78,13 +70,47 @@ Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments coll
 
 > Extrait fourni par la source : LES ANALYSES DU RBDH Une nouvelle organisation rejoint le RBDH: BADALA pour “Bailleurs-Acteurs du Droit Au Logement Abordable”. Un tout jeune syndicat de propriétaires, bailleur.resses etoccupant.es, qui tient à se distinguer du projet et des discours et prises de positionspubliques des représentant.es traditionnel.les des bailleur.resses. C’est bien là l’un des objectifs de BADALA: faire entendre les propriétaires qui louent des logements abordables, de qualité et qui veulent faire primer le droit au logement sur le profit pur et simple. Qui sont les propriétaires socialement responsables…
 
-### [« Cela reste un territoire flamand »: des panneaux en néerlandais sur le ring de Bruxelles font polémique!](https://www.sudinfo.be/id1191199/article/2026-09-08/cela-reste-un-territoire-flamand-des-panneaux-en-neerlandais-sur-le-ring-de)
+### [Oom van Hamza blijft in de cel in onderzoek naar dood van 7-jarige jongen uit Merchtem](https://vrtnws.be/p.YbyG60eQX)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 18:20 · score `18`
+**VRT NWS** · média d'information · 09/09/2026 à 10:26 · score `18`
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : Le respect de la législation linguistique sur les panneaux du ring de Bruxelles à Wemmel crée des tensions entre partis francophones et le gouvernement flamand, relancées par un avis de la Commission permanente de Contrôle linguistique.
+> Extrait fourni par la source : De oom van de 7-jarige Hamza uit Merchtem blijft aangehouden op verdenking van moord op de kleine jongen, dat heeft de raadkamer in Brussel beslist. Ook de moeder van het slachtoffer en een inwonende vriendin, zitten voorlopig nog in de cel.
+
+### [Olieprijs doorbreekt grens van 100 dollar na nieuw geweld tussen VS en Iran](https://www.tijd.be/r/t/1/id/10685289)
+
+**De Tijd** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 08:27 · score `18`
+
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : De prijs van een vat Brent-olie is woensdag gestegen tot meer dan 100 dollar per vat, nadat de Verenigde Staten en Iran elkaar in het Midden-Oosten opnieuw bestookt hebben. Het conflict is weer helemaal opgelaaid.
+
+### [Home Invest est déboutée de son action contre trois membres d’un syndicat de locataires](https://bx1.be/categories/news/home-invest-est-deboutee-de-son-action-contre-trois-membres-dun-syndicat-de-locataires/)
+
+**BX1** · média d'information · 09/09/2026 à 08:00 · score `18`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Le tribunal de première instance francophone de Bruxelles, section civile et statuant en référé, a débouté la SA Home Invest Belgium de son action intentée contre trois membres de Wuune, le syndicat d’habitants locataires de Bruxelles. Dans son ordonnance du 7 septembre, le tribunal a déclaré les demandes du bailleur Home Invest “irrecevables” et “non … lire plus
+
+### [Téhéran frappe la Jordanie et menace la région, les prix du pétrole repartent à la hausse](https://www.lecho.be/r/t/1/id/10685280)
+
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 07:23 · score `18`
+
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : L'Iran a riposté aux raids américains sur ses pétroliers en visant une base américaine en Jordanie. Téhéran menace également les pétroliers du Koweït et de Bahreïn. Ces tensions provoquent une hausse des prix du pétrole.
+
+## Politiques publiques et société — autres pistes
+
+### [L’enquête PISA version 2025 montre une baisse généralisée du niveau scolaire dans les pays de l’OCDE: les élèves sont-ils plus bêtes qu’avant?](https://www.lavenir.net/actu/belgique/politique/2026/09/08/lenquete-pisa-version-2025-montre-une-baisse-generalisee-du-niveau-scolaire-dans-les-pays-de-locde-les-eleves-sont-ils-plus-betes-quavant-5TKG623VWVAVDBDEVQZDVKRWNY/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 18:51 · score `18`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Les résultats de l’enquête PISA 2025 ont été dévoilés ce mardi. Ils montrent une baisse générale inquiétante – moins marquée en Fédération Wallonie-Bruxelles – au sein des pays de l’OCDE. La faute aux écrans?...
 
 ### [Wemmel: des panneaux de signalisation uniquement en néerlandais sur le ring relancent le débat sur l’emploi des langues en périphérie](https://www.rtbf.be/article/wemmel-des-panneaux-de-signalisation-uniquement-en-neerlandais-sur-le-ring-relancent-le-debat-sur-l-emploi-des-langues-en-peripherie-11782014)
 
@@ -94,24 +120,6 @@ Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments coll
 
 > Extrait fourni par la source : La Commission permanente de Contrôle linguistique (CPCL) a considéré, dans un récent avis, que plusieurs panneaux de...
 
-### [Des panneaux du ring à Wemmel ravivent les tensions linguistiques](https://bx1.be/categories/news/des-panneaux-du-ring-a-wemmel-ravivent-les-tensions-linguistiques/)
-
-**BX1** · média d'information · 08/09/2026 à 18:10 · score `18`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Le MR Périphérie ainsi que le parti lib.res appellent mardi le gouvernement flamand à respecter la législation linguistique pour les panneaux de signalisation du ring de Bruxelles situés sur la commune à facilités de Wemmel. La Commission permanente de Contrôle linguistique (CPCL) a considéré, dans un récent avis, que plusieurs panneaux de signalisation situés en … lire plus
-
-## Politiques publiques et société — autres pistes
-
-### [Le prix du mazout de chauffage, en hausse ce mercredi en Belgique, franchit la barre de 1,5 euro (infographie)](https://www.lavenir.net/actu/conso/2026/09/08/le-prix-du-mazout-de-chauffage-en-hausse-ce-mercredi-en-belgique-franchit-la-barre-de-15-euro-infographie-BG5ODHNQLFDPZN4RU3727BJSCY/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 09:44 · score `18`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Du changement est annoncé dans le prix maximum de certains produits pétroliers ce mercredi 9 septembre 2026....
-
 ### [Nadège et sa famille se retrouvent à la rue après avoir perdu leur logement à Oreye: « Nous cherchons, mais ne trouvons rien, je baisse les bras »](https://www.sudinfo.be/id1190875/article/2026-09-08/nadege-et-sa-famille-se-retrouvent-la-rue-apres-avoir-perdu-leur-logement-oreye)
 
 **Sudinfo** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 05:00 · score `18`
@@ -120,25 +128,23 @@ Générée à **06:18** (heure de Bruxelles) à partir de **4081 éléments coll
 
 > Extrait fourni par la source : Le temps presse pour cette famille d’Oreye: expulsés de leur logement, Cédric, sa compagne, sa maman et son fils pourraient bientôt se retrouver sans toit. Ils lancent un appel pour trouver un logement rapidement.
 
-### [“Verhuizing van medische dienst liep in het honderd”: politiemensen moeten bijna een jaar wachten op terugbetaling medische kosten](https://www.gva.be/crimi/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161171026.html)
+### [Oom blijft in de cel na gewelddadige dood van Hamza (7)](https://www.gva.be/binnenland/oom-blijft-in-de-cel-na-gewelddadige-dood-van-hamza-7/161185210.html)
 
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `17`
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 10:16 · score `17`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : De oom van de 7-jarige Hamza uit Merchtem blijft aangehouden op verdenking van moord op de kleine jongen, dat heeft de raadkamer in Brussel beslist. Ook de moeder van het slachtoffer en een inwonende vriendin, zitten voorlopig nog in de cel.
+
+Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/oom-blijft-in-de-cel-na-gewelddadige-dood-van-hamza-7/161184498.html).
+
+### [La police accuse près d'un an de retard dans les remboursements médicaux: les montants peuvent atteindre des dizaines de milliers d'euros](https://www.lavenir.net/actu/belgique/2026/09/09/la-police-accuse-pres-dun-an-de-retard-dans-les-remboursements-medicaux-les-montants-peuvent-atteindre-des-dizaines-de-milliers-deuros-T6OFIZXZZVH4LLQQGBOGRKXJZA/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 07:32 · score `17`
 
 **Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
 
-> Extrait fourni par la source : Door problemen bij de verhuizing van de medische dienst van de politie naar de Financietoren in Brussel zijn vele honderden dossiers van arbeidsongevallen van politiemensen maandenlang in verhuisdozen blijven liggen. De achterstand bij de betalingen liep daardoor op tot bijna een jaar. “Choquerend”, reageert Groen. De politie belooft beterschap.
-
-Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/economie/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161173093.html), [Het Nieuwsblad](https://www.nieuwsblad.be/crimi/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161129980.html).
-
-### [Mobiliteitsexperts erg kritisch voor wegenvignet: “Weinig gebruiksvriendelijk en soms oneerlijk”](https://www.gva.be/binnenland/mobiliteitsexperts-erg-kritisch-voor-wegenvignet-weinig-gebruiksvriendelijk-en-soms-oneerlijk/161167575.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `17`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : De mobiliteitsexperts die de Vlaamse regering adviseren, maken in een officieel advies brandhout van de invoering van het wegenvignet. De files worden er niet korter door, klinkt het, en in de grensstreek leidt het mogelijk tot gevaarlijk sluipverkeer over lokale wegen. Ook de controle erop dreigt mank te lopen, waardoor de inkomsten tegenvallen.
-
-Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/binnenland/mobiliteitsexperts-erg-kritisch-voor-wegenvignet-weinig-gebruiksvriendelijk-en-soms-oneerlijk/161171282.html), [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/mobiliteitsexperts-erg-kritisch-voor-wegenvignet-weinig-gebruiksvriendelijk-en-soms-oneerlijk/161141466.html).
+> Extrait fourni par la source : En raison de soucis lors du déménagement du service médical de la police vers la Tour des Finances à Bruxelles, le remboursement des frais médicaux accuse près d'un an de retard, rapportent mercredi les quotidiens Het Nieuwsblad, Gazet van Antwerpen et Het Belang van Limburg....
 
 ### [PISA 2025: “Je veux casser la spirale négative des résultats”](https://www.mr.be/pisa-2025-je-veux-casser-la-spirale-negative-des-resultats/)
 
@@ -148,31 +154,71 @@ Autres publications rapprochées automatiquement : [Het Belang van Limburg](http
 
 > Extrait fourni par la source : Les résultats de l’enquête PISA 2025 publiés par l’OCDE montrent une nouvelle fois les difficultés auxquelles fait face notre système éducatif. Si les performances des élèves de Fédération Wallonie-Bruxelles se...
 
-### [Chaos op Britse luchthavens door storing: 1.300 vluchten geannuleerd, Vlaamse zit zes uur lang vast in vliegtuig dat niet vertrekt](https://www.hln.be/buitenland/chaos-op-britse-luchthavens-door-storing-1-300-vluchten-geannuleerd-vlaamse-zit-zes-uur-lang-vast-in-vliegtuig-dat-niet-vertrekt~ad761bca/)
+### [Driftende BMW-bestuurder wordt de les gespeld in politierechtbank “Een voertuig is geen stuk speelgoed”](https://www.nieuwsblad.be/regio/oost-vlaanderen/driftende-bmw-bestuurder-wordt-de-les-gespeld-in-politierechtbank-een-voertuig-is-geen-stuk-speelgoed/161184029.html)
 
-**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 04:00 · score `16`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : In het Verenigd Koninkrijk zijn dinsdag in totaal 1.300 vluchten geannuleerd door een technisch probleem bij de Britse luchtverkeersleiding NATS. Dat meldt FlightRadar24 in de nacht op woensdag in een bericht op X. Voorlopig zouden vandaag ook 177 vluchten zijn geschrapt, allemaal vanaf Londen Heathrow. Een Vlaamse die op die luchthaven gestrand is, laat aan de redactie weten gisteravond laat zes uur lang in een vliegtuig te hebben vastgezeten, dat uiteindelijk niet is opgestegen. “Ook over wat er vandaag zal gebeuren, is nog veel onduidelijkheid.”
-
-### [Overal staat gehakt in promotie, tot 10 euro voor 3 kilogram: “In september moeten gezinnen extra op centen letten”](https://www.gva.be/binnenland/overal-staat-gehakt-in-promotie-tot-10-euro-voor-3-kilogram-in-september-moeten-gezinnen-extra-op-centen-letten/161177000.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `16`
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 10:15 · score `16`
 
 **Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
 
-> Extrait fourni par la source : Het is voorpaginanieuws in de folders van de supermarkten: de prijs van het gehakt. Overal krijg je er korting op. Maar waarom staat het gehakt net nu in de uitverkoop?
+> Extrait fourni par la source : Een BMW-bestuurder die meermaals roekeloos met zijn wagen reed, mocht het woensdag komen uitleggen aan de politierechter. Daar dreigde de procureur om zijn wagen in beslag te laten nemen. “Ik ga nu met de fiets naar het werk.”
 
-Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/overal-staat-gehakt-in-promotie-tot-10-euro-voor-3-kilogram-in-september-moeten-gezinnen-extra-op-centen-letten/161085061.html), [Het Belang van Limburg](https://www.hbvl.be/economie/overal-staat-gehakt-in-promotie-tot-10-euro-voor-3-kilogram-in-september-moeten-gezinnen-extra-op-centen-letten/161171147.html).
+### [Huisarts vindt anderhalve meter lange slang in tuinhuis: “Gelukkig waren onze kinderen er niet”](https://www.nieuwsblad.be/binnenland/huisarts-vindt-anderhalve-meter-lange-slang-in-tuinhuis-gelukkig-waren-onze-kinderen-er-niet/161176840.html)
 
-### [“Als een op de drie jongens school tijdverspilling vindt, moet de hele maatschappij haar verantwoordelijkheid nemen. Vooral de ouders”](https://www.nieuwsblad.be/binnenland/als-een-op-de-drie-jongens-school-tijdverspilling-vindt-moet-de-hele-maatschappij-haar-verantwoordelijkheid-nemen.-vooral-de-ouders/161173073.html)
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 09:49 · score `16`
 
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `16`
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation.
+> Extrait fourni par la source : Het was een opmerkelijke ontdekking zondag in een tuinhuis aan de Kruisbaan in Tervant. Toen de man van huisarts Selin Bayazit er aan het werk ging, zag hij plots een slang van naar schatting anderhalve meter lang. Die lag rustig tussen het werkmateriaal.
 
-> Extrait fourni par la source : Er was een tijd dat het Vlaams onderwijs de PISA-resultaten met vertrouwen afwachtte. Het is ondertussen wel anders. Het internationale onderzoek van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) is nu al zeven jaar bijzonder negatief. Het blijft bergaf gaan, zo blijkt. Het grootste probleem zijn de jongens. Maar dat is niet het enige.
+### [Clarebout: Bürgermeisterin fordert Gespräche über geplante Werksschließung](https://brf.be/national/2107469/)
+
+**BRF Nachrichten** · média d'information · 09/09/2026 à 09:23 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Die Bürgermeisterin von Mouscron, Ann Kloet, will Gespräche mit der Direktion von Clarebout Potatoes führen. Der Kartoffelverarbeiter plant, sein Werk in der Stadt wegen eines weltweiten Überangebots an Tiefkühlprodukten zu schließen. Fast 400 Arbeitsplätze stehen auf dem Spiel. Die Bürgermeisterin bezeichnete die Pläne als "Drama" - sowohl für die Mitarbeiter als auch für die Stadt […]
+
+### [Anthony (43) valt tijdens eerste Kemmel Klim: “Ik had deze berg nog nooit beklommen”](https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/heuvelland/anthony-43-valt-tijdens-eerste-kemmel-klim-ik-had-deze-berg-nog-nooit-beklommen/161180071.html)
+
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 09:20 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Tijdens de allereerste Kemmel Klim snelden fietsten 50 deelnemers om het snelst West-Vlaanderens hoogste berg omhoog in flandrienweer. Voor sommigen werd het een klim met vallen en opstaan. “Zot zijn doet geen zeer”, zegt Anthony (43), die de Prijs van de Pechvogel won.
+
+### [Deze architect drukte zijn stempel op het Waasland, nu kan je zijn werk opnieuw ontdekken](https://www.gva.be/regio/oost-vlaanderen/waasland/lokeren/deze-architect-drukte-zijn-stempel-op-het-waasland-nu-kan-je-zijn-werk-opnieuw-ontdekken/161183908.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 08:03 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Wie op zondag 13 september het Waasland wil ontdekken, krijgt tijdens Open Monumentendag een brede waaier aan erfgoed voorgeschoteld. Erfpunt bundelde alle activiteiten in het Waasland in een overzichtelijke brochure.
+
+### [Iran-Krieg: USA zerstören Tanker - Teheran feuert Raketen ab](https://brf.be/international/2107419/)
+
+**BRF Nachrichten** · média d'information · 09/09/2026 à 07:25 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Der Kampf zwischen den USA und dem Iran um die Kontrolle in der Straße von Hormus eskaliert aufs Neue. Das US-Militär hat fünf iranische Rohöltanker zerstört, nach eigenen Angaben als Vergeltung für iranische Angriffe auf ein Kriegsschiff der US-Marine. Verletzt wurde angeblich niemand. Es ist bereits das zweite Mal innerhalb weniger Tage, dass die USA […]
+
+### [Champions League: Real Madrid besiegt Inter Mailand mit 2:1](https://brf.be/sport/2107427/)
+
+**BRF Nachrichten** · média d'information · 09/09/2026 à 07:16 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : In der Champions League setzte sich Real Madrid mit 2:1 gegen Inter Mailand durch. Belgiens Nationaltorhüter Thibaut Courtois überzeugte dabei mit einer starken Leistung und war einer der herausragenden Spieler der Partie. Courtois wird allerdings in der kommenden Nations-League-Phase nicht für die "Roten Teufel" auflaufen. Nur wenn andere Torhüter verletzt sind, kann Nationaltrainer Marc van […]
+
+### [“Verhuizing van medische dienst liep in het honderd”: politiemensen moeten bijna een jaar wachten op terugbetaling medische kosten](https://www.gva.be/crimi/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161171026.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `16`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Door problemen bij de verhuizing van de medische dienst van de politie naar de Financietoren in Brussel zijn vele honderden dossiers van arbeidsongevallen van politiemensen maandenlang in verhuisdozen blijven liggen. De achterstand bij de betalingen liep daardoor op tot bijna een jaar. “Choquerend”, reageert Groen. De politie belooft beterschap.
+
+Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/economie/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161173093.html), [Het Nieuwsblad](https://www.nieuwsblad.be/crimi/verhuizing-van-medische-dienst-liep-in-het-honderd-politiemensen-moeten-bijna-een-jaar-wachten-op-terugbetaling-medische-kosten/161129980.html).
 
 ### [Caro verloor 17.000 euro door phishing bij aankoop loungeset, tuinmeubelenzaak 4 Seasons schiet te hulp](https://www.hbvl.be/regio/limburg/sint-truiden/caro-verloor-17.000-euro-door-phishing-bij-aankoop-loungeset-tuinmeubelenzaak-4-seasons-schiet-te-hulp/161151322.html)
 
@@ -190,99 +236,41 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : À partir du 6 octobre prochain, Samuel D’Orazio, bourgmestre de Tubize, reprendra la présidence de l’Union des Villes et des Communes de Wallonie (UVCW). Il succèdera à Rachel Sobry, qui...
 
-### [Trump schakelt versnelling hoger in tarievenoorlog en verbiedt invoer van Canadese alcohol in VS](https://www.hbvl.be/buitenland/trump-schakelt-versnelling-hoger-in-tarievenoorlog-en-verbiedt-invoer-van-canadese-alcohol-in-vs/161179025.html)
+### [« Stop the rich »](https://rwlp.be/stop-the-rich/)
 
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 06:11 · score `15`
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 09/09/2026 à 09:16 · score `15`
 
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 6 heures.
 
-> Extrait fourni par la source : De Verenigde Staten verbieden vanaf 29 september de invoer van verschillende Canadese producten, waaronder alcohol en motorfietsen. Dat heeft het Witte Huis in de nacht van dinsdag op woensdag bekendgemaakt.
+> Extrait fourni par la source : Le Réseau Wallon de Lutte contre la Pauvreté sera, ce dimanche 13 septembre 2026, à la parade « STOP THE RICH »! Cette parade radicale et festive en fanfare et en chansons est l’amorce d’un débat public sur l’instauration d’une « Richesse Maximale Autorisée », parce que la question des richesses et de leur répartition ne peut être dissociée de celle des inégalités, de la pauvreté et de l’appauvrissement. Parce que les pauvres et les personnes appauvries sont violemment amputées de droits et de libertés dont jouissent celles et ceux qui ne le sont pas. Parce que combattre les inégalités, la…
 
-Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https://www.gva.be/buitenland/trump-schakelt-versnelling-hoger-in-tarievenoorlog-en-verbiedt-invoer-van-canadese-alcohol-in-vs/161178733.html), [Het Nieuwsblad](https://www.nieuwsblad.be/buitenland/trump-schakelt-versnelling-hoger-in-tarievenoorlog-en-verbiedt-invoer-van-canadese-alcohol-in-vs/161178681.html).
+### [Politie neemt meer dan halve ton cannabis in beslag, paletten waren afkomstig uit Canada](https://www.hbvl.be/binnenland/politie-neemt-meer-dan-halve-ton-cannabis-in-beslag-paletten-waren-afkomstig-uit-canada/161180325.html)
 
-### [Bijna kwart van Nederlandstalige crèches in Brussel heeft voorbije vier jaar niet voldaan aan voorschriften](https://www.nieuwsblad.be/binnenland/bijna-kwart-van-nederlandstalige-creches-in-brussel-heeft-voorbije-vier-jaar-niet-voldaan-aan-voorschriften/161179007.html)
-
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 06:10 · score `15`
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 08:21 · score `15`
 
 **Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : Bijna een kwart van de Nederlandstalige crèches in Brussel heeft de afgelopen vier jaar niet voldaan aan de veiligheidsvoorschriften. In Vlaanderen lag dat cijfer een stuk lager: daar kreeg een op de tien crèches werkpunten opgelegd van de inspectie. Dat blijkt uit een groot data-onderzoek van Knack en BRUZZ, gebaseerd op 3.307 inspectierapporten over kinderdagverblijven in Vlaanderen en Nederlandstalig Brussel die tussen eind 2022 en 10 augustus 2026 openbaar beschikbaar waren.
+> Extrait fourni par la source : In het kader van een onderzoek van de Federale Gerechtelijke Politie Brussel werden twee paletten afkomstig uit Canada, met daarin meer dan een halve ton cannabis, in beslag genomen. Acht personen werden gearresteerd, vier van hen werden onder aanhoudingsmandaat geplaatst. Het onderzoek wordt nu voortgezet om eventuele andere betrokkenen te identificeren.
 
-### [Axl opent nieuwe frituur: “Vanaf de eerste dag wist ik het: dit is exact wat ik wil”](https://www.nieuwsblad.be/regio/oost-vlaanderen/vlaamse-ardennen/herzele/axl-opent-nieuwe-frituur-vanaf-de-eerste-dag-wist-ik-het-dit-is-exact-wat-ik-wil/160911069.html)
-
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 03:00 · score `15`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Herzele is een frituur rijker. In het voormalige pand van Traiteur Umami in de Stationsstraat in Herzele opende Axl Canon frituur ‘De Friturist’.
-
-### [Tag der offenen Tür bei der Polizeizone Eifel](https://brf.be/regional/2107307/)
-
-**BRF Nachrichten** · média d'information · 08/09/2026 à 19:11 · score `15`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : Bei der Polizeizone Eifel können Besucher am Sonntag einen Blick hinter die Kulissen werfen. Dabei stellen die verschiedenen Polizeidienste ihre Arbeit und Ausrüstung vor. Dazu gehören der Streifen- und Verkehrsdienst sowie die Kriminalpolizei. Außerdem gibt es Vorführungen mit Diensthunden, Drohnen und Einsatztraining. Besucher können auch im Überschlagwagen erleben, welche Kräfte bei einem Fahrzeugüberschlag wirken. Dazu […]
-
-### [Climat: deux années de hausse consécutives pour les émissions belges](https://www.lesoir.be/769800/article/2026-09-08/climat-deux-annees-de-hausse-consecutives-pour-les-emissions-belges)
-
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 18:55 · score `15`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Pour la seconde année consécutive, les émissions de gaz à effet de serre de la Belgique ont augmenté en 2025 par rapport à 2024. A l’opposé de la tendance européenne qui est à la baisse.
-
-### [Campingsektor in Ostbelgien im Wandel](https://brf.be/regional/2107345/)
-
-**BRF Nachrichten** · média d'information · 08/09/2026 à 17:20 · score `14`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Die Zahl der Campingplätze in Ostbelgien hat sich innerhalb von zehn Jahren halbiert. Das geht aus Zahlen von DG-Minister Gregor Freches hervor. Waren 2016 noch 14 Campingbetriebe registriert, sind es heute nur noch sieben. Gleichzeitig sind die verbliebenen Campingplätze im Durchschnitt größer geworden. Hatte ein Betrieb 2015 durchschnittlich 134 touristische Betten, waren es im vergangenen […]
-
-### [Vakbonden plannen betoging op 9 oktober: 'Waarschuwing aan regering'](https://www.bruzz.be/actua/samenleving/vakbonden-plannen-betoging-op-9-oktober-waarschuwing-aan-regering-2026-09-08)
-
-**BRUZZ** · média d'information · 08/09/2026 à 14:58 · score `14`
-
-**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Vakbonden ABVV en ACV organiseren op 9 oktober een betoging als "eerste duidelijke waarschuwing" aan de federale regering, die miljarden gaat zoeken om de begroting op orde te brengen.
-
-### [Enquête Pisa 2025: les performances de l’enseignement francophone baissent encore, mais moins vite qu'ailleurs](https://www.lalibre.be/belgique/enseignement/2026/09/08/enquete-pisa-2025-la-qualite-de-lenseignement-en-fwb-resiste-et-gagne-du-terrain-sur-ses-voisins-4V65A7HX5VHSBEONHHIUUTRTOY/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 07:10 · score `14`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les résultats indiquent une baisse généralisée en sciences, mathématiques et lecture. La Fédération Wallonie-Bruxelles n'y fait pas exception....
-
-## Justice, droits et contrôle — autres pistes
-
-### [Elia se fait taper sur les doigts par son régulateur pour un bâtiment trop cher à Ostende](https://www.lecho.be/r/t/1/id/10685204)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 00:06 · score `16`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 12 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Dans son audit annuel des comptes du gestionnaire du réseau à haute tension Elia, la Creg a rejeté quelques dépenses jugées déraisonnables. Dans le viseur: un nouveau bâtiment à Ostende, des contrats de consultance et des tickets pour Tomorrowland.
-
-### [Met Pisa-testen stuurt de Oeso al 25 jaar het onderwijsbeleid, maar ligt hun focus wel juist?](https://apache.be/2026/09/09/met-pisa-testen-stuurt-oeso-al-25-jaar-onderwijsbeleid-maar-ligt-hun-focus-wel-juist)
-
-**Apache** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 06:00 · score `14`
-
-**Signal éditorial :** contenu de type analyses ; contenu de type droits ; publié depuis moins de 6 heures.
-
-> Extrait fourni par la source : Experts wijzen op de gebreken van de invloedrijke onderwijsstudie.
-
-### [Farmer Case: TotalEnergies joue la montre devant la Cour d’appel de Mons](https://www.liguedh.be/environnement/farmer-case-totalenergies-joue-la-montre-devant-la-cour-dappel-de-mons/)
-
-**Ligue des droits humains** · organisation de la société civile · 08/09/2026 à 15:12 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type droits ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : L’article Farmer Case: TotalEnergies joue la montre devant la Cour d’appel de Mons est apparu en premier sur La Ligue des Droits Humains.
+Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https://www.gva.be/binnenland/politie-neemt-meer-dan-halve-ton-cannabis-in-beslag-paletten-waren-afkomstig-uit-canada/161180181.html).
 
 ## Économie, emploi et consommateurs — autres pistes
+
+### [La nouvelle stratégie de Xiaomi en Belgique: la marque assume sa troisième place et mise sur l’écosystème, « l’idée est de montrer au consommateur que la connexion entre les appareils peut lui simplifier le quotidien »](https://www.sudinfo.be/id1191396/article/2026-09-09/la-nouvelle-strategie-de-xiaomi-en-belgique-la-marque-assume-sa-troisieme-place)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 10:35 · score `17`
+
+**Signal éditorial :** contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Le marché belge du smartphone se polarise entre entrée de gamme et premium. Pour Xiaomi, cette évolution confirme la pertinence de sa stratégie, alors que la marque prépare aussi l’arrivée de sa voiture en Europe.
+
+### [Le Bel 20 recule encore | Avis de broker sur argenx | Position "short" sur Montea | Onward en forme (+Briefing)](https://www.lecho.be/r/t/1/id/10685286)
+
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 09:46 · score `17`
+
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le rouge est encore de mise sur les marchés européens ce mercredi matin sur fond de hausse des cours du pétrole.
 
 ### [L’administration remet en question les allègements fiscaux pour les entreprises](https://www.lecho.be/r/t/1/id/10685081)
 
@@ -292,14 +280,6 @@ Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https:/
 
 > Extrait fourni par la source : Les 4,4 milliards d’euros qui partent chaque année dans des réductions fiscales pour le travail en équipes, la recherche et les heures supplémentaires ne sont plus proportionnels à l’objectif initial, indique un audit du Bosa. Vooruit, le CD&V et Les Engagés plaident pour une réforme.
 
-### [Le MR et Les Engagés temporisent sur l’urgence de demander la prolongation du crédit d’impôt pour la presse écrite](https://www.lalibre.be/belgique/2026/09/08/le-mr-et-les-engages-temporisent-sur-lurgence-de-demander-la-prolongation-du-credit-dimpot-pour-la-presse-ecrite-FMSU5HETVJDKFKV5PPACD2OB5M/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 18:27 · score `16`
-
-**Signal éditorial :** contenu de type actualités ; publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Stéphane Hazée (écolo) considère qu’il y a pourtant “le feu au lac”....
-
 ### [Administratie stelt fiscale kortingen voor bedrijven in vraag](https://www.tijd.be/r/t/1/id/10685071)
 
 **De Tijd** · média d'information · article possiblement réservé aux abonnés · 08/09/2026 à 05:00 · score `16`
@@ -307,6 +287,22 @@ Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https:/
 **Signal éditorial :** contenu de type actualités ; publié depuis moins de 36 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
 
 > Extrait fourni par la source : De 4,4 miljard euro die jaarlijks opgaat aan fiscale kortingen voor ploegenarbeid, onderzoek en overuren staat niet in verhouding tot de oorspronkelijke doelstelling, zegt de administratie in een doorlichting. Vooruit, CD&V en Les Engagés pleiten voor een hervorming, Voka vindt de voorstelling in miljarden oneerlijk.
+
+### [Maillon important au sein de n’importe quelle organisation: quel est le rôle et le salaire d'un assistant administratif?](https://www.dhnet.be/actu/economie/2026/09/09/maillon-important-au-sein-de-nimporte-quelle-organisation-quel-est-le-role-et-le-salaire-dun-assistant-administratif-23V7LAVFFNBDTJJTU6XF2L3ERE/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 09/09/2026 à 10:18 · score `15`
+
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : L’employé administratif est un maillon important au sein de n’importe quelle organisation, qu'il s'agisse d'une petite entreprise ou d'une grande multinationale. Il s'agit d'un poste visant à soutenir les opérations quotidiennes d'une organisation....
+
+### ["QR le débat": Prix de l'énergie, un hiver sous haute tension? Votez et commentez](https://www.rtbf.be/article/qr-le-debat-prix-de-l-energie-un-hiver-sous-haute-tension-votez-et-commentez-11781676)
+
+**RTBF Info** · média d'information · 09/09/2026 à 09:00 · score `15`
+
+**Signal éditorial :** contenu de type actualités ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : La guerre au Moyen-Orient bouleverse les prix de l'énergie. Entre l'avant-guerre et aujourd'hui, les prix du gaz ont plus...
 
 ## Méthode et limites
 

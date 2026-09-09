@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-09T04:18:01.203532Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-09T08:42:21.246227Z` par `veille-redaction-belge/collector-0.1.0`.
 
-- Flux configurés : **57**
+- Flux configurés : **58**
 - Flux collectés : **55**
-- Flux en erreur : **2**
-- Éléments conservés : **4081**
-- Sources contributrices : **39**
+- Flux en erreur : **3**
+- Éléments conservés : **4347**
+- Sources contributrices : **42**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -20,9 +20,9 @@ Généré le `2026-09-09T04:18:01.203532Z` par `veille-redaction-belge/collector
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
-| `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
+| `cwape` | `cwape_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
@@ -40,7 +40,7 @@ Généré le `2026-09-09T04:18:01.203532Z` par `veille-redaction-belge/collector
 | `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
-| `hub_brussels` | `hub_brussels_rss` | `network_error` | `unknown` | 0 | Connexion impossible: The read operation timed out |
+| `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_publications_rss` | `ok` | `rss` | 10 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
@@ -52,12 +52,13 @@ Généré le `2026-09-09T04:18:01.203532Z` par `veille-redaction-belge/collector
 | `mr_party` | `mr_party_rss` | `ok` | `rss` | 10 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
 | `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
+| `province_namur` | `province_namur_rss` | `ok` | `rss` | 10 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
-| `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
+| `sp_dg_party` | `sp_dg_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
