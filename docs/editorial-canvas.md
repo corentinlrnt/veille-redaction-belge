@@ -19,9 +19,13 @@ conférence de rédaction. En quelques minutes, il doit permettre à un journali
 de :
 
 1. connaître les cinq informations qu'il ne peut pas ignorer ;
-2. défendre plusieurs sujets réalisables pour le JT ou la radio ;
-3. disposer d'idées moins évidentes lorsque l'actualité immédiate est pauvre ;
-4. anticiper les échéances utiles des prochaines 72 heures ;
+2. arriver avec plusieurs pas de côté qu'un simple tour de presse ne fournirait
+   pas ;
+3. exploiter les publications fraîches des sources institutionnelles,
+   judiciaires, scientifiques, syndicales et associatives, même lorsque la
+   presse ne les a pas reprises ;
+4. transformer certains signaux récents en projets froids à mettre en chantier
+   sur plusieurs jours ;
 5. distinguer les faits établis, les déclarations intéressées et les hypothèses.
 
 Le briefing n'est ni une revue de presse, ni un résumé automatique, ni une liste
@@ -63,27 +67,36 @@ Information nécessaire pour comprendre la journée, même si elle n'offre aucun
 angle original ou tournage réaliste. L'importance publique et la solidité des
 faits priment ici sur la qualité des images.
 
-### 2. Sujet à défendre
+### 2. Le pas de côté
 
-Proposition travaillée possédant une question centrale, une plus-value, des
-preuves, une incarnation et une hypothèse de production réaliste.
+Proposition de conférence distincte du traitement dominant. Elle part d'une
+conséquence oubliée, d'un écart, d'une affirmation à tester, d'un rapprochement
+inattendu, d'une population peu regardée ou d'un terrain auquel les autres
+rédactions ne penseront pas spontanément. Elle possède une question centrale,
+des premières preuves, une incarnation et une véritable différence éditoriale.
 
-### 3. Décryptage
+### 3. Repéré hors presse
 
-Explication en plateau, infographie, entretien ou séquence de service public
-lorsqu'une règle ou un chiffre est important mais ne justifie pas un reportage
-de terrain.
+Signal issu directement d'une institution, d'une juridiction, d'un régulateur,
+d'un organisme scientifique, d'un partenaire social ou d'une association. Il
+peut être retenu même si aucun média ne l'a encore repris. Comme tout le reste du
+briefing quotidien, il provient de la fenêtre glissante des 36 dernières heures :
+la voie distincte sert à garantir sa lecture, pas à remonter plus loin dans le
+temps. La source reste intéressée ou située et son contenu doit être recoupé.
 
-### 4. Respiration
+### 4. À mettre en chantier
 
-Récit humain, découverte, tendance ou curiosité offrant de bonnes images ou une
-surprise réelle. Cette catégorie reste séparée des incontournables afin que
-l'attrait visuel ne soit pas confondu avec l'importance publique.
+Sujet froid, série ou enquête pouvant se développer sur plusieurs jours. Il naît
+d'un indice frais de la fenêtre quotidienne, sans fabriquer une urgence : donnée
+nouvelle, décision, rapport, contentieux, signal de terrain ou publication d'un
+acteur collectif. Il formule une question structurelle, les premières preuves à
+chercher et un début de plan de recherche.
 
-### 5. Piste à mûrir
+### 5. À surveiller
 
 Idée prometteuse à laquelle il manque encore une preuve, un indice belge, un
-interlocuteur, un terrain ou une échéance. Ce manque doit être nommé.
+interlocuteur ou un terrain. Ce manque et le fait précis qui ferait changer la
+piste de statut doivent être nommés.
 
 ### 6. À écarter
 
@@ -149,13 +162,18 @@ jamais une confirmation indépendante de son propre contenu.
   visible.
 - Décrire des images ou des sons vraisemblables, pas des illustrations vagues.
 - Distinguer images originales, archives, infographies et images de tiers.
-- Qualifier le délai : `13h`, `19h30`, `radio_jour`, `plusieurs_jours`.
 - Ne jamais promettre un accès, un témoignage ou un contact non vérifié.
+
+La faisabilité et le temps nécessaire servent silencieusement à hiérarchiser les
+propositions. Le courriel n'affiche aucun délai de production : le journaliste
+reste seul juge de ce qui peut être lancé et livré.
 
 ### Étape 7 - Mesurer la plus-value
 
 - Vérifier si la RTBF ou plusieurs médias ont déjà traité le sujet.
-- Expliquer le développement ou l'angle qui justifie d'y revenir.
+- Résumer le traitement dominant et nommer exactement le pas de côté proposé.
+- Tester si cette proposition serait vraisemblablement absente d'un simple tour
+  de la presse du matin.
 - Déclasser une proposition qui ne fait que répéter le cadrage dominant.
 
 ### Étape 8 - Attribuer un verdict
@@ -243,7 +261,8 @@ la nouveauté et de ce qui peut se jouer dans la journée. Une information peut
 
 Elle dépend de la force de la question, de la preuve disponible, de la
 conséquence pour le public, de l'incarnation, du potentiel audiovisuel, de la
-faisabilité et de la plus-value par rapport au traitement existant.
+faisabilité interne, de l'originalité et de la plus-value par rapport au
+traitement existant. La faisabilité influence l'ordre mais n'est pas affichée.
 
 Un score lexical sert uniquement à réduire le corpus. Il ne peut pas remplacer
 ces deux jugements et ne doit jamais être affiché au lecteur du courriel final.
@@ -293,36 +312,41 @@ Le courriel doit pouvoir être lu intégralement en quinze minutes. Son premier
 Pour chacun : fait nouveau, importance, point à surveiller aujourd'hui, niveau de
 certitude et sources principales. Cette partie ne force aucun angle de reportage.
 
-### Les sujets à défendre
+### Le pas de côté
 
 Trois à cinq propositions maximum. Pour chacune :
 
 - pitch commençant par « On pourrait raconter… » ;
 - question centrale et moteur d'angle ;
-- plus-value ;
+- traitement dominant et différence éditoriale précise ;
 - faits disponibles et vérifications restantes ;
 - terrain ou incarnation ;
-- version JT avec images et délai ;
+- version JT avec images ;
 - version radio avec sons et contradiction ;
 - interlocuteurs identifiés et statut de leur disponibilité ;
 - sources directes ;
 - verdict de préparation.
 
-### Les idées pour les jours creux
+### Repéré hors presse
 
-Deux à quatre pistes : donnée passée sous les radars, application d'une ancienne
-réforme, phénomène flamand, comparaison étrangère, conséquence locale ou accès à
-préparer. Elles restent explicitement présentées comme hypothèses.
+Deux à quatre signaux tirés des publications des 36 dernières heures de sources
+institutionnelles, judiciaires, scientifiques, syndicales ou associatives, sans
+dépendre d'une reprise par un média. Pour chacun : ce qui a été publié, ce que
+cela pourrait révéler, la question éditoriale et la première vérification à
+effectuer. Aucune source n'est traitée comme neutre sur son propre contenu.
 
-### Radar des prochaines 72 heures
+### À mettre en chantier
 
-Uniquement les échéances auxquelles une question éditoriale est déjà associée.
-Un agenda brut n'est pas publié.
+Deux à quatre projets froids ou de moyen terme nés d'un signal récent : question
+structurelle, point de départ frais, premières données, terrains ou personnes à
+explorer, angles morts et plan de recherche initial. Cette rubrique n'est pas le
+cimetière des propositions faibles du jour.
 
-### Signaux à surveiller
+### À surveiller
 
 Éléments encore trop faibles pour devenir un sujet, avec le déclencheur qui les
-ferait changer de statut.
+ferait changer de statut. Une échéance à venir n'y apparaît que si elle ouvre une
+question éditoriale ; un agenda brut est exclu.
 
 ## Critères d'acceptation d'une version
 
@@ -330,9 +354,14 @@ Une version du briefing n'est considérée comme utile que si :
 
 - les cinq incontournables ne sont pas simplement les cinq liens les mieux notés ;
 - les doublons sont regroupés en histoires ;
-- chaque sujet à défendre formule une plus-value distincte du fait nouveau ;
+- chaque pas de côté formule une différence précise avec le traitement dominant ;
+- la rubrique hors presse s'appuie directement sur des sources primaires et non
+  sur leur reprise médiatique ;
+- les projets à mettre en chantier sont de vraies questions structurelles nées
+  d'un signal frais, pas des sujets chauds rejetés ;
 - les vérifications manquantes restent visibles ;
-- les idées tiennent compte des images, sons, interlocuteurs et délais ;
+- les idées tiennent compte des images, sons et interlocuteurs, tandis que leur
+  faisabilité reste un critère interne de classement ;
 - aucune section n'est remplie artificiellement lorsqu'il n'existe pas de bonne
   proposition ;
 - le lecteur n'a pas besoin d'ouvrir GitHub pour comprendre le courriel ;

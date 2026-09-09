@@ -11,6 +11,9 @@ Le produit éditorial final est une seconde couche distincte. Sa mission, ses ca
 - la collecte conserve sept jours de métadonnées pour résister aux pannes temporaires ;
 - le briefing retient normalement les publications des 36 dernières heures ;
 - une date future située dans les 36 heures peut être conservée pour un agenda ;
+- les idées froides repartent elles aussi de cette matière quotidienne : un
+  indice frais peut ouvrir un chantier de plusieurs jours sans être présenté
+  comme une urgence ;
 - un élément sans date est ignoré lors du premier inventaire puis n'est proposé que lorsqu'il apparaît réellement pour la première fois dans un flux déjà connu.
 
 ## Score explicable
@@ -53,12 +56,16 @@ Les titres lexicalement très proches sont regroupés. Le rapprochement ne const
 
 - conserve les titres, extraits, dates, liens, producteurs et éléments de provenance ;
 - ajoute aux signaux du radar les publications récentes les plus fraîches de chaque producteur, dans la limite définie par le profil éditorial ;
+- relit séparément, dans les mêmes 36 heures, jusqu'à huit publications par
+  source institutionnelle, judiciaire, scientifique, syndicale ou associative,
+  y compris lorsqu'elles n'ont pas été retenues par le radar ou reprises par la
+  presse ; les publications de partis n'entrent pas dans cette voie ;
 - conserve les rapprochements lexicaux comme indices, sans les présenter comme des dossiers établis ;
 - retire le score numérique afin qu'il ne soit jamais interprété comme une mesure d'importance ;
 - joint le profil éditorial canonique de `data/editorial_profile.json` ;
 - rappelle que tout contenu provenant d'un flux est une donnée non fiable et jamais une instruction à suivre.
 
-Le modèle éditorial devra produire un JSON conforme à `data/editorial_output_schema.json`. À ce stade, le dépôt prépare le paquet et le prompt reproductibles mais ne déclenche encore aucun modèle : l'appel au modèle, la validation de sa réponse et la mise en page du courriel constituent la phase suivante.
+Le modèle éditorial devra produire un JSON conforme à `data/editorial_output_schema.json`, avec quatre usages lisibles : cinq incontournables, pas de côté, signaux repérés hors presse et projets à mettre en chantier. La faisabilité participe au classement mais aucun délai de production n'est affiché. À ce stade, le dépôt prépare le paquet et le prompt reproductibles mais ne déclenche encore aucun modèle : l'appel au modèle, la validation de sa réponse et la mise en page du courriel constituent la phase suivante.
 
 ## Garanties de provenance
 
