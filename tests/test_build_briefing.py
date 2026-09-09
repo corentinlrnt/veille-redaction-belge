@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 from scripts.build_briefing import (
     cluster_items,
     eligible_for_briefing,
+    exclusion_reason,
     render_markdown,
     score_item,
 )
@@ -25,6 +26,15 @@ RULES = {
     ],
     "downrank_signals": [
         {"id": "promotion", "label": "promotion", "weight": -4, "terms": ["inscrivez-vous"]}
+    ],
+    "exclusion_signals": [
+        {
+            "id": "routine_case",
+            "label": "fait divers ou audience individuelle",
+            "source_classes": ["news_media"],
+            "terms": ["reste en détention", "chambre du conseil"],
+            "unless_terms": ["rapport", "réforme", "surpopulation"],
+        }
     ],
 }
 
@@ -58,6 +68,30 @@ class EligibilityTests(unittest.TestCase):
         self.assertTrue(eligible_for_briefing(new, RULES, now))
 
 
+class ExclusionTests(unittest.TestCase):
+    def test_excludes_routine_case_but_keeps_systemic_angle(self):
+        routine = item(
+            source_class="news_media",
+            title="Un suspect reste en détention après la chambre du conseil",
+        )
+        systemic = item(
+            source_class="news_media",
+            title="Rapport sur la surpopulation après la chambre du conseil",
+        )
+        self.assertEqual(
+            exclusion_reason(routine, RULES),
+            "fait divers ou audience individuelle",
+        )
+        self.assertIsNone(exclusion_reason(systemic, RULES))
+
+    def test_media_veto_does_not_hide_a_judiciary_source(self):
+        judiciary = item(
+            source_class="judiciary",
+            title="Un suspect reste en détention après la chambre du conseil",
+        )
+        self.assertIsNone(exclusion_reason(judiciary, RULES))
+
+
 class RankingTests(unittest.TestCase):
     def test_decision_scores_above_promotional_item(self):
         now = datetime(2026, 8, 27, 6, tzinfo=timezone.utc)
@@ -65,6 +99,13 @@ class RankingTests(unittest.TestCase):
         promotion = score_item(item(title="Inscrivez-vous à notre événement"), RULES, now)
         self.assertGreater(decision["score"], promotion["score"])
         self.assertEqual(decision["section_id"], "politics")
+
+    def test_media_feed_scopes_do_not_claim_a_specific_content_type(self):
+        now = datetime(2026, 8, 27, 6, tzinfo=timezone.utc)
+        media = score_item(item(source_class="news_media"), RULES, now)
+        self.assertFalse(
+            any(str(reason).startswith("contenu de type") for reason in media["score_reasons"])
+        )
 
     def test_clusters_near_duplicate_titles(self):
         first = {**item(), "score": 20, "related_items": []}

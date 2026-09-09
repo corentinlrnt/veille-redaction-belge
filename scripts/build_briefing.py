@@ -111,6 +111,39 @@ def classify(item: dict[str, object], rules: dict[str, object]) -> tuple[str, st
     return str(section["id"]), str(section["label"]), score
 
 
+def exclusion_reason(
+    item: dict[str, object], rules: dict[str, object]
+) -> str | None:
+    """Applique les veto éditoriaux déclarés sans inférence cachée.
+
+    Une règle peut être limitée à certaines classes de producteurs. Un terme
+    d'exception suffit à conserver l'élément pour que les sujets de politique
+    publique ou de portée systémique ne soient pas éliminés avec le bruit.
+    """
+    searchable = " ".join(
+        [
+            str(item.get("title", "")),
+            str(item.get("summary", "")),
+            " ".join(str(value) for value in item.get("categories", [])),
+        ]
+    )
+    source_class = str(item.get("source_class", ""))
+    source_id = str(item.get("source_id", ""))
+    for signal in rules.get("exclusion_signals", []):
+        source_classes = {str(value) for value in signal.get("source_classes", [])}
+        if source_classes and source_class not in source_classes:
+            continue
+        source_ids = {str(value) for value in signal.get("source_ids", [])}
+        if source_ids and source_id not in source_ids:
+            continue
+        if not matching_terms(searchable, signal.get("terms", [])):
+            continue
+        if matching_terms(searchable, signal.get("unless_terms", [])):
+            continue
+        return str(signal.get("label") or signal.get("id") or "hors périmètre")
+    return None
+
+
 def score_item(
     item: dict[str, object],
     rules: dict[str, object],
@@ -118,13 +151,14 @@ def score_item(
 ) -> dict[str, object]:
     scored = dict(item)
     section_id, section_label, section_strength = classify(item, rules)
-    score = int(rules.get("source_class_weights", {}).get(str(item.get("source_class", "")), 1))
+    source_class = str(item.get("source_class", ""))
+    score = int(rules.get("source_class_weights", {}).get(source_class, 1))
     reasons: list[str] = []
     if score > 1:
         reasons.append("producteur institutionnel ou collectif identifié")
 
     scope_weights = rules.get("scope_weights", {})
-    weighted_scopes = sorted(
+    weighted_scopes = [] if source_class == "news_media" else sorted(
         ((int(scope_weights.get(scope, 0)), scope) for scope in split_scopes(item)),
         reverse=True,
     )
@@ -383,6 +417,7 @@ main{{max-width:780px;margin:auto;padding:20px 14px 56px}}header{{padding:18px 2
 
 def write_outputs(
     selected: list[dict[str, object]],
+    excluded: Counter[str],
     rules: dict[str, object],
     generated_at: datetime,
     collected_count: int,
@@ -410,7 +445,10 @@ def write_outputs(
         "summary": {
             "collected_items": collected_count,
             "selected_items": len(selected),
+            "excluded_items": sum(excluded.values()),
+            "excluded_by_rule": dict(sorted(excluded.items())),
             "minimum_score": int(rules.get("minimum_score", 7)),
+            "minimum_score_by_source_class": rules.get("minimum_score_by_source_class", {}),
             "by_section": dict(Counter(str(item["section_id"]) for item in selected)),
         },
         "items": selected,
@@ -440,17 +478,27 @@ def main(argv: list[str] | None = None) -> int:
         return 2
     now = datetime.now(timezone.utc)
     candidates = []
+    excluded: Counter[str] = Counter()
     for item in collection.get("items", []):
         if eligible_for_briefing(item, rules, now):
             scored = score_item(item, rules, now)
-            if int(scored["score"]) >= int(rules.get("minimum_score", 7)):
-                candidates.append(scored)
+            source_class = str(scored.get("source_class", ""))
+            thresholds = rules.get("minimum_score_by_source_class", {})
+            threshold = int(thresholds.get(source_class, rules.get("minimum_score", 7)))
+            if int(scored["score"]) >= threshold:
+                if reason := exclusion_reason(scored, rules):
+                    excluded[reason] += 1
+                else:
+                    candidates.append(scored)
     selected = select_items(cluster_items(candidates), rules)
     write_outputs(
-        selected, rules, now, len(collection.get("items", [])), args.latest_md,
+        selected, excluded, rules, now, len(collection.get("items", [])), args.latest_md,
         args.archive_dir, args.latest_html, args.html_archive_dir, args.out_json,
     )
-    print(f"{len(selected)} pistes retenues sur {len(collection.get('items', []))} éléments collectés.")
+    print(
+        f"{len(selected)} pistes retenues sur {len(collection.get('items', []))} éléments collectés; "
+        f"{sum(excluded.values())} écartées par veto éditorial."
+    )
     return 0
 
 
