@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-09T08:42:21.246227Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-09T09:06:24.895232Z` par `veille-redaction-belge/collector-0.1.0`.
 
-- Flux configurés : **58**
-- Flux collectés : **55**
-- Flux en erreur : **3**
-- Éléments conservés : **4347**
-- Sources contributrices : **42**
+- Flux configurés : **60**
+- Flux collectés : **59**
+- Flux en erreur : **1**
+- Éléments conservés : **4435**
+- Sources contributrices : **44**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -20,14 +20,16 @@ Généré le `2026-09-09T08:42:21.246227Z` par `veille-redaction-belge/collector
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
-| `cwape` | `cwape_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
 | `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
+| `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
+| `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
@@ -58,7 +60,7 @@ Généré le `2026-09-09T08:42:21.246227Z` par `veille-redaction-belge/collector
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
-| `sp_dg_party` | `sp_dg_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
