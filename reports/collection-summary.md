@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-08T04:18:15.758824Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-09T04:18:01.203532Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **57**
 - Flux collectés : **55**
 - Flux en erreur : **2**
-- Éléments conservés : **4034**
-- Sources contributrices : **36**
+- Éléments conservés : **4081**
+- Sources contributrices : **39**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -22,16 +22,16 @@ Généré le `2026-09-08T04:18:15.758824Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 30 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 220 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
-| `fps_finance` | `finance_rss` | `unsupported` | `html` | 0 | Format reçu: html |
+| `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
 | `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
@@ -40,7 +40,7 @@ Généré le `2026-09-08T04:18:15.758824Z` par `veille-redaction-belge/collector
 | `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
-| `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
+| `hub_brussels` | `hub_brussels_rss` | `network_error` | `unknown` | 0 | Connexion impossible: The read operation timed out |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_publications_rss` | `ok` | `rss` | 10 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
