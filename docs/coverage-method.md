@@ -81,6 +81,12 @@ Les sites du CFFB et du RWDH utilisent un pare-feu qui peut refuser les sondes a
 
 Les organisations de défense des droits et de l'environnement déjà enregistrées complètent ce noyau sans prétention d'exhaustivité.
 
+## Pouvoirs provinciaux
+
+Les dix provinces forment une cible exhaustive distincte. Elle reprend les dix sites officiels reliés par le [portail fédéral Belgium.be](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/provinces) : Anvers, Hainaut, Limbourg, Liège, Luxembourg, Namur, Flandre-Orientale, Brabant flamand, Brabant wallon et Flandre-Occidentale. Bruxelles n'est pas ajoutée à cette cible, car elle n'est pas une province.
+
+Cette couche surveille les actualités, décisions, agendas et services provinciaux susceptibles d'avoir un effet concret sur le territoire. L'inscription d'une page ne suffit pas à la rendre collectable : seuls les flux ou adaptateurs publics validés après la sonde technique peuvent alimenter le briefing. À ce stade, le flux RSS de la Province de Namur est activé. Les trois adresses RSS ou Atom annoncées par le Brabant wallon ne contiennent pas de fil d'actualités exploitable ; les autres listes ne passent pas encore les exigences de structure et de datation de l'adaptateur HTML.
+
 ## Premier périmètre des médias belges
 
 Le fait qu'un article soit réservé aux abonnés n'efface pas le rôle de sa rédaction dans la formation de l'agenda. Le registre sépare donc l'accès public aux métadonnées du modèle commercial de l'article lié. Il ne conserve que le titre, le lien, la date, les catégories et le court extrait éventuellement fourni par un flux public. Il ne se connecte à aucun compte et ne contourne aucun paywall.
@@ -101,4 +107,4 @@ Les deux groupes de quotidiens, les deux groupes de magazines et les deux résea
 
 Parmi les magazines et médias d'enquête de cette couche, seuls les flux publics explicitement publiés par Médor et Apache sont actuellement collectés. Pour les médias régionaux, les flux déclarés par Qu4tre, TV Lux et le portail commun de Focus et WTV sont activés après contrôle. Le lien annoncé par Matélé renvoie actuellement une page HTML et reste donc écarté. Les autres pages sont sondées, mais n'alimentent pas automatiquement le briefing tant qu'un flux ou un adaptateur public fiable n'a pas passé les contrôles. Cette distinction évite de faire passer un simple référencement pour une collecte effective.
 
-Les familles encore à construire sont notamment les provinces, villes et communes, la presse écrite et les sites hyperlocaux au-delà des télévisions régionales, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique. Les magazines et médias d'enquête devront encore être élargis après observation de leur rendement éditorial.
+Les familles encore à construire sont notamment les villes et communes, la presse écrite et les sites hyperlocaux au-delà des télévisions régionales, les institutions européennes et les pays voisins servant à détecter des angles transposables à la Belgique. Les magazines et médias d'enquête devront encore être élargis après observation de leur rendement éditorial.

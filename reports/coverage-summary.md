@@ -1,11 +1,11 @@
 # Couverture déclarée
 
-Généré le `2026-09-09T04:24:09.014197Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-09-09T08:34:47.854275Z` par `veille-redaction-belge/coverage-0.1.0`.
 
-- Sources enregistrées : **204**
-- Points d'accès actifs : **258**
-- Cibles complètes : **27/27**
-- Sources requises distinctes : **173**
+- Sources enregistrées : **214**
+- Points d'accès actifs : **269**
+- Cibles complètes : **28/28**
+- Sources requises distinctes : **183**
 - Sources hors des cibles actuelles : **31**
 
 Une cible `complète` signifie seulement que chaque producteur attendu est inscrit et possède au moins un accès actif. La sonde de santé vérifie séparément si cet accès répond réellement.
@@ -39,3 +39,4 @@ Une cible `complète` signifie seulement que chaque producteur attendu est inscr
 | Magazines néerlandophones d'actualité économie et technologie | national | 4 | 4 | 4 | `complete` | — |
 | Médias de proximité de la Fédération Wallonie-Bruxelles | communauté | 12 | 12 | 12 | `complete` | — |
 | Télévisions régionales flamandes | région | 9 | 9 | 9 | `complete` | — |
+| Provinces belges | province | 10 | 10 | 10 | `complete` | — |

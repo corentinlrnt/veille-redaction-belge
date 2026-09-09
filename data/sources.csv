@@ -203,3 +203,13 @@ robtv,ROBtv,news_media,région,Brabant flamand,nl,https://www.robtv.be/,editoria
 focus_wtv,Focus & WTV,news_media,région,Flandre occidentale,nl,https://www.focus-wtv.be/,editorial_media,2026-09-07,Portail éditorial commun aux deux chaînes régionales recensées séparément par le Raad voor de Journalistiek,open
 ringtv,RINGtv,news_media,région,Brabant flamand|Bruxelles,nl,https://www.ringtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
 rtv,RTV,news_media,région,Province d'Anvers,nl,https://www.rtv.be/,editorial_media,2026-09-07,Télévision régionale flamande recensée par NORTV et le Raad voor de Journalistiek,open
+province_antwerp,Province d'Anvers,institution,province,Province d'Anvers,nl,https://www.provincieantwerpen.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_hainaut,Province de Hainaut,institution,province,Province de Hainaut,fr,https://www.hainaut.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_limburg,Province de Limbourg,institution,province,Province de Limbourg,nl,https://www.limburg.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_liege,Province de Liège,institution,province,Province de Liège,fr,https://www.prov-liege.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_luxembourg,Province de Luxembourg,institution,province,Province de Luxembourg,fr,https://www.province.luxembourg.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_namur,Province de Namur,institution,province,Province de Namur,fr,https://www.province.namur.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_east_flanders,Province de Flandre-Orientale,institution,province,Province de Flandre-Orientale,nl,https://www.oost-vlaanderen.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_flemish_brabant,Province du Brabant flamand,institution,province,Province du Brabant flamand,nl,https://www.vlaamsbrabant.be/nl,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_walloon_brabant,Province du Brabant wallon,institution,province,Province du Brabant wallon,fr,https://www.brabantwallon.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial
+province_west_flanders,Province de Flandre-Occidentale,institution,province,Province de Flandre-Occidentale,nl,https://www.west-vlaanderen.be/,official_public,2026-09-09,Actualités décisions et services du pouvoir provincial

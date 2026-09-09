@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/coverage-0.1.0",
-  "generated_at": "2026-09-09T04:24:09.014197Z",
+  "generated_at": "2026-09-09T08:34:47.854275Z",
   "summary": {
-    "registered_sources": 204,
-    "enabled_endpoints": 258,
-    "declared_targets": 27,
-    "complete_targets": 27,
+    "registered_sources": 214,
+    "enabled_endpoints": 269,
+    "declared_targets": 28,
+    "complete_targets": 28,
     "incomplete_targets": 0,
     "enforced_incomplete_targets": 0,
-    "unique_required_sources": 173,
+    "unique_required_sources": 183,
     "registered_outside_current_targets": 31
   },
   "registered_outside_current_targets": [
@@ -420,6 +420,20 @@
       "required_count": 9,
       "present_count": 9,
       "with_enabled_endpoint_count": 9,
+      "missing_source_ids": [],
+      "without_enabled_endpoint_source_ids": [],
+      "complete": true
+    },
+    {
+      "target_id": "belgian_provinces",
+      "label": "Provinces belges",
+      "scope": "province",
+      "enforced": true,
+      "reference_url": "https://www.belgium.be/fr/la_belgique/pouvoirs_publics/provinces",
+      "notes": "Dix provinces et leurs sites officiels recensés par le portail fédéral; Bruxelles n'est pas une province",
+      "required_count": 10,
+      "present_count": 10,
+      "with_enabled_endpoint_count": 10,
       "missing_source_ids": [],
       "without_enabled_endpoint_source_ids": [],
       "complete": true
