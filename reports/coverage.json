@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/coverage-0.1.0",
-  "generated_at": "2026-09-09T08:41:35.101834Z",
+  "generated_at": "2026-09-09T09:05:42.473979Z",
   "summary": {
-    "registered_sources": 214,
-    "enabled_endpoints": 269,
-    "declared_targets": 28,
-    "complete_targets": 28,
+    "registered_sources": 221,
+    "enabled_endpoints": 283,
+    "declared_targets": 29,
+    "complete_targets": 29,
     "incomplete_targets": 0,
     "enforced_incomplete_targets": 0,
-    "unique_required_sources": 183,
+    "unique_required_sources": 190,
     "registered_outside_current_targets": 31
   },
   "registered_outside_current_targets": [
@@ -434,6 +434,20 @@
       "required_count": 10,
       "present_count": 10,
       "with_enabled_endpoint_count": 10,
+      "missing_source_ids": [],
+      "without_enabled_endpoint_source_ids": [],
+      "complete": true
+    },
+    {
+      "target_id": "eu_institutions",
+      "label": "Institutions de l'Union européenne",
+      "scope": "européen",
+      "enforced": true,
+      "reference_url": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_fr",
+      "notes": "Sept institutions explicitement recensées par le portail officiel de l'Union européenne",
+      "required_count": 7,
+      "present_count": 7,
+      "with_enabled_endpoint_count": 7,
       "missing_source_ids": [],
       "without_enabled_endpoint_source_ids": [],
       "complete": true
