@@ -1,6 +1,6 @@
 # Veille rédaction belge
 
-Ce dépôt construit une veille matinale reproductible pour la rédaction belge. Il inventorie des producteurs publics, contrôle leurs accès, collecte les métadonnées de leurs flux structurés et publie un briefing mobile de pistes politiques, judiciaires et économiques.
+Ce dépôt construit la salle des machines d'un briefing matinal pour la rédaction belge. Il inventorie des producteurs publics, contrôle leurs accès, collecte les métadonnées de leurs flux structurés, réduit le bruit et prépare un paquet sourcé pour une analyse éditoriale distincte.
 
 **Accès mobile :** [ouvrir le dernier briefing](https://github.com/corentinlrnt/veille-redaction-belge/blob/main/briefings/latest.md). Une page HTML autonome est également générée dans `docs/index.html` en vue de l'activation de GitHub Pages.
 
@@ -13,8 +13,9 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 - `robots.txt` est respecté lorsqu’il interdit explicitement un accès ;
 - chaque source et chaque point d’accès possèdent un identifiant stable ;
 - aucun service payant, compte tiers ou clé API ;
-- aucun résumé factuel autonome généré par IA ;
-- le briefing reste une présélection et non une validation pour diffusion.
+- aucune affirmation autonome n'est générée par la chaîne déterministe ;
+- le radar lexical reste une présélection et non une validation pour diffusion ;
+- le briefing final doit séparer les informations incontournables des sujets à proposer.
 
 ## Contenu
 
@@ -22,10 +23,15 @@ Ce dépôt construit une veille matinale reproductible pour la rédaction belge.
 - `data/endpoints.csv` : pages, flux ou API à tester ;
 - `data/coverage_targets.csv` : groupes institutionnels attendus et références de périmètre ;
 - `data/editorial_rules.json` : catégories, seuils et signaux du score explicable ;
+- `data/editorial_profile.json` : mission, moteurs d'angle et contraintes du journaliste éditorial ;
+- `data/editorial_output_schema.json` : contrat structuré du briefing final ;
+- `docs/editorial-canvas.md` : canevas éditorial canonique, dérivé du corpus de productions JT ;
+- `prompts/editorial-briefing.md` : instructions de l'étage d'analyse éditoriale ;
 - `scripts/audit_coverage.py` : contrôle des manques dans le périmètre déclaré ;
 - `scripts/probe_sources.py` : sonde sans dépendance Python externe ;
 - `scripts/collect_items.py` : collecte résiliente des flux RSS, Atom et JSON Feed ainsi que d'adaptateurs publics explicitement validés ;
 - `scripts/build_briefing.py` : dédoublonnage, classement et rendu mobile ;
+- `scripts/build_editorial_packet.py` : paquet sourcé sans score destiné à l'analyse éditoriale ;
 - `tests/` : tests unitaires de l'ensemble de la chaîne ;
 - `briefings/` : dernier briefing Markdown et archives quotidiennes ;
 - `docs/index.html` : version mobile publiée avec GitHub Pages ;
@@ -44,6 +50,7 @@ python scripts/audit_coverage.py
 python scripts/probe_sources.py
 python scripts/collect_items.py
 python scripts/build_briefing.py
+python scripts/build_editorial_packet.py
 python -m unittest discover -s tests -v
 ```
 
@@ -58,6 +65,8 @@ Les fichiers suivants sont alors produits :
 - `reports/items.json` et `reports/items.csv` : métadonnées des éléments collectés ;
 - `reports/collection-summary.md` : disponibilité et rendement des flux ;
 - `reports/briefing.json` : sélection éditoriale lisible par une machine ;
+- `reports/editorial-packet.json` : candidats, provenance et profil pour l'étage éditorial ;
+- `reports/editorial-prompt.md` : prompt reproductible contenant le paquet du jour ;
 - `briefings/latest.md` et `docs/index.html` : briefing courant.
 
 Une cible de couverture est complète si toutes les sources qu’elle exige sont enregistrées et possèdent au moins un point d’accès actif. Cela ne signifie pas que ces accès répondent : la sonde de santé le mesure séparément. Une cible obligatoire incomplète ou une erreur de schéma provoque un échec explicite. Une erreur sur un site distant est enregistrée sans faire échouer l’ensemble du traitement.
@@ -88,7 +97,9 @@ Les flux découverts automatiquement dans une page HTML apparaissent dans `disco
 
 ## Production matinale
 
-À 06:00 dans le fuseau `Europe/Brussels`, le workflow teste le code, collecte les flux, applique le score et met à jour le briefing Markdown et la page mobile. Les métadonnées des sept derniers jours sont conservées afin qu'une panne ponctuelle n'efface pas les publications déjà récupérées. L'état de première apparition permet de traiter proprement les flux dépourvus de date.
+À 06:00 dans le fuseau `Europe/Brussels`, le workflow teste le code, collecte les flux, applique le score, met à jour le radar Markdown et prépare le paquet d'analyse éditoriale. Les métadonnées des sept derniers jours sont conservées afin qu'une panne ponctuelle n'efface pas les publications déjà récupérées. L'état de première apparition permet de traiter proprement les flux dépourvus de date.
+
+La chaîne distingue désormais deux étages. Le radar déterministe réduit plusieurs milliers d'éléments à un ensemble traçable de candidats. Le paquet éditorial retire ensuite le score lexical et fournit au modèle la provenance, les limites des extraits, les huit moteurs d'angle et le contrat du futur courriel. L'appel au modèle, la validation de sa sortie et l'envoi du courriel ne sont pas encore activés.
 
 La [méthode éditoriale](docs/editorial-method.md) documente les fenêtres temporelles, le score, le regroupement des titres et les garanties de provenance. Chaque critère est déclaré dans un fichier versionné et pourra être ajusté après les essais en rédaction.
 
@@ -109,4 +120,6 @@ Lorsque les rapports changent, le robot GitHub met à jour uniquement les six fi
 - les API REST WordPress ne livrent que les champs demandés et les adaptateurs HTML exigent des cartes `<article>` datées avec un lien et un titre ;
 - les autres pages HTML et les réseaux sociaux sont sondés mais ne sont pas encore interprétés ;
 - le classement lexical ne comprend pas le contexte ou l'importance réelle d'une annonce ;
+- le paquet éditorial est prêt, mais aucun modèle n'est encore appelé automatiquement ;
+- le courriel HTML final et son envoi ne sont pas encore implémentés ;
 - la licence du dépôt doit être décidée avant publication, notamment au regard des règles de l’employeur.

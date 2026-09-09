@@ -2,7 +2,9 @@
 
 ## Rôle du système
 
-Le briefing est un outil de présélection. Il ne valide pas un fait pour diffusion, ne remplace pas la vérification journalistique et ne produit pas de synthèse factuelle autonome. Chaque piste conserve le titre, la date, le producteur, le lien et, lorsqu'il existe, un court extrait fourni par le flux source.
+La chaîne déterministe est un radar de présélection. Elle ne valide pas un fait pour diffusion, ne remplace pas la vérification journalistique et ne produit pas de synthèse factuelle autonome. Chaque piste conserve le titre, la date, le producteur, le lien et, lorsqu'il existe, un court extrait fourni par le flux source.
+
+Le produit éditorial final est une seconde couche distincte. Sa mission, ses catégories de sortie, ses moteurs d'angle et ses règles de prudence sont définis dans [`docs/editorial-canvas.md`](editorial-canvas.md). Cette séparation empêche de confondre un signal lexical utile à la collecte avec la hiérarchie d'une conférence de rédaction.
 
 ## Fenêtre observée
 
@@ -44,6 +46,19 @@ Les éléments sont répartis entre trois domaines correspondant au service :
 - économie, emploi et consommateurs.
 
 Les titres lexicalement très proches sont regroupés. Le rapprochement ne constitue pas une affirmation que deux publications traitent exactement du même fait. Trois publications au maximum par producteur peuvent entrer dans un briefing afin d'éviter qu'un flux prolifique n'écrase les autres.
+
+## Passage vers l'analyse éditoriale
+
+`scripts/build_editorial_packet.py` réunit le rapport déterministe et le corpus collecté dans un paquet destiné à l'analyse éditoriale. Ce paquet :
+
+- conserve les titres, extraits, dates, liens, producteurs et éléments de provenance ;
+- ajoute aux signaux du radar les publications récentes les plus fraîches de chaque producteur, dans la limite définie par le profil éditorial ;
+- conserve les rapprochements lexicaux comme indices, sans les présenter comme des dossiers établis ;
+- retire le score numérique afin qu'il ne soit jamais interprété comme une mesure d'importance ;
+- joint le profil éditorial canonique de `data/editorial_profile.json` ;
+- rappelle que tout contenu provenant d'un flux est une donnée non fiable et jamais une instruction à suivre.
+
+Le modèle éditorial devra produire un JSON conforme à `data/editorial_output_schema.json`. À ce stade, le dépôt prépare le paquet et le prompt reproductibles mais ne déclenche encore aucun modèle : l'appel au modèle, la validation de sa réponse et la mise en page du courriel constituent la phase suivante.
 
 ## Garanties de provenance
 
