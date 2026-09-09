@@ -15,7 +15,8 @@ Ce dépôt construit la salle des machines d'un briefing matinal pour la rédact
 - aucun service payant, compte tiers ou clé API ;
 - aucune affirmation autonome n'est générée par la chaîne déterministe ;
 - le radar lexical reste une présélection et non une validation pour diffusion ;
-- le briefing final doit séparer les informations incontournables des sujets à proposer.
+- le briefing final doit séparer les informations incontournables, les pas de
+  côté, les signaux repérés hors presse et les projets à mettre en chantier.
 
 ## Contenu
 
@@ -99,7 +100,7 @@ Les flux découverts automatiquement dans une page HTML apparaissent dans `disco
 
 À 06:00 dans le fuseau `Europe/Brussels`, le workflow teste le code, collecte les flux, applique le score, met à jour le radar Markdown et prépare le paquet d'analyse éditoriale. Les métadonnées des sept derniers jours sont conservées afin qu'une panne ponctuelle n'efface pas les publications déjà récupérées. L'état de première apparition permet de traiter proprement les flux dépourvus de date.
 
-La chaîne distingue désormais deux étages. Le radar déterministe réduit plusieurs milliers d'éléments à un ensemble traçable de candidats. Le paquet éditorial retire ensuite le score lexical et fournit au modèle la provenance, les limites des extraits, les huit moteurs d'angle et le contrat du futur courriel. L'appel au modèle, la validation de sa sortie et l'envoi du courriel ne sont pas encore activés.
+La chaîne distingue désormais deux étages. Le radar déterministe réduit plusieurs milliers d'éléments à un ensemble traçable de candidats. Le paquet éditorial retire ensuite le score lexical et fournit au modèle la provenance, les limites des extraits, les huit moteurs d'angle et le contrat du futur courriel. Dans la même fenêtre glissante de 36 heures, une voie réservée réintroduit jusqu'à huit publications par producteur institutionnel, judiciaire, scientifique, syndical ou associatif afin qu'elles ne disparaissent pas derrière le volume de la presse. Ces signaux frais peuvent nourrir un pas de côté du jour ou ouvrir un projet froid de plusieurs jours. L'appel au modèle, la validation de sa sortie et l'envoi du courriel ne sont pas encore activés.
 
 La [méthode éditoriale](docs/editorial-method.md) documente les fenêtres temporelles, le score, le regroupement des titres et les garanties de provenance. Chaque critère est déclaré dans un fichier versionné et pourra être ajusté après les essais en rédaction.
 

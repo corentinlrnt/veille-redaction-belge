@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "profile_id": "belgian_newsroom_morning_editorial",
   "mission": "Transformer un radar de sources en briefing de conférence de rédaction, et non en revue de liens.",
   "reader": {
@@ -12,7 +12,25 @@
     "window_hours": 36,
     "future_window_hours": 36,
     "recent_items_per_source": 6,
-    "strategy": "Réunir tous les signaux du radar et les publications récentes les plus fraîches de chaque producteur, puis laisser la couche éditoriale regrouper et hiérarchiser sans voir le score lexical."
+    "primary_items_per_source": 8,
+    "source_lead_classes": [
+      "public_body",
+      "institution",
+      "civil_society",
+      "independent_public_body",
+      "regulator",
+      "parliament",
+      "social_partner",
+      "judiciary",
+      "health_insurer",
+      "statistics",
+      "consultative_body",
+      "public_company",
+      "scientific_institute",
+      "professional_body",
+      "consumer_association"
+    ],
+    "strategy": "Conserver une fenêtre quotidienne de 36 heures, réunir les signaux du radar et les publications récentes, puis garantir une voie identifiable aux sources primaires. Les partis restent des acteurs à recouper et ne nourrissent pas le vivier hors presse."
   },
   "scope": {
     "core": [
@@ -38,24 +56,24 @@
       "purpose": "Information nécessaire pour comprendre la journée, même sans sujet original immédiatement réalisable."
     },
     {
-      "id": "pitch",
-      "label": "sujet à défendre",
-      "purpose": "Proposition possédant question centrale, plus-value, preuves, incarnation et production crédible."
+      "id": "original_pitch",
+      "label": "le pas de côté",
+      "purpose": "Proposition de conférence distincte du traitement dominant, fondée sur une question, un indice ou un rapprochement que les autres rédactions n'apporteront pas spontanément."
     },
     {
-      "id": "explainer",
-      "label": "décryptage",
-      "purpose": "Plateau, infographie, entretien ou mode d'emploi pour un enjeu important mais peu télévisuel."
+      "id": "source_lead",
+      "label": "repéré hors presse",
+      "purpose": "Signal provenant directement d'une institution, d'un régulateur, d'une juridiction, d'une association, d'un partenaire social ou d'un organisme scientifique."
     },
     {
-      "id": "breather",
-      "label": "respiration",
-      "purpose": "Récit humain, découverte ou tendance surprenante ayant une consistance réelle."
+      "id": "long_term_project",
+      "label": "à mettre en chantier",
+      "purpose": "Sujet froid ou enquête de plusieurs jours, soutenu par une question structurelle et des premières pistes de recherche."
     },
     {
-      "id": "develop",
-      "label": "piste à mûrir",
-      "purpose": "Idée prometteuse dont les manques sont précisément identifiés."
+      "id": "watch",
+      "label": "à surveiller",
+      "purpose": "Signal encore trop faible, accompagné du fait précis qui le ferait changer de statut."
     },
     {
       "id": "discard",
@@ -105,6 +123,23 @@
       "question": "Qu'est-ce que cette histoire apparemment légère nous apprend ?"
     }
   ],
+  "originality_tests": [
+    "La proposition part-elle d'une source primaire ou d'une donnée que la presse n'a pas encore exploitée ?",
+    "Relie-t-elle deux informations traitées séparément ?",
+    "Révèle-t-elle un écart entre une règle et son application, une promesse et ses résultats ou deux territoires belges ?",
+    "Identifie-t-elle une population, un coût ou un effet oublié du cadrage dominant ?",
+    "Permet-elle de vérifier concrètement une affirmation plutôt que d'organiser un débat d'opinions ?",
+    "Ouvre-t-elle un chantier durable au-delà de l'actualité du jour ?",
+    "Serait-elle vraisemblablement absente d'un simple tour de la presse du matin ?"
+  ],
+  "silent_selection_factors": [
+    "importance publique",
+    "originalité par rapport au traitement dominant",
+    "solidité et caractère primaire des sources",
+    "possibilité réaliste d'obtenir preuves, terrain et interlocuteurs",
+    "potentiel audiovisuel ou sonore",
+    "valeur de service public"
+  ],
   "evidence_types": [
     "texte légal, décision, jugement, rapport ou donnée",
     "observation de terrain",
@@ -114,7 +149,6 @@
     "contradicteur pertinent",
     "précédent ou comparaison valable"
   ],
-  "production_windows": ["13h", "19h30", "radio_jour", "plusieurs_jours"],
   "readiness_verdicts": [
     "pret_a_lancer",
     "un_appel_necessaire",
@@ -148,7 +182,6 @@
     "terrain ou incarnation vraisemblable",
     "images ou sons précis",
     "interlocuteurs et statut de disponibilité",
-    "délai de production réaliste",
     "sources directes"
   ],
   "hard_rules": [
@@ -161,6 +194,7 @@
     "Ne jamais extrapoler à tout le pays à partir d'un témoignage ou d'un seul terrain.",
     "Ne jamais importer une tendance étrangère sans indice belge.",
     "Ne jamais promettre un tournage sans images, sons ou interlocuteurs vraisemblables.",
+    "Ne jamais afficher de délai de production dans le briefing; la faisabilité sert uniquement au classement interne.",
     "Ne jamais remplir artificiellement une rubrique faute de bonne proposition."
   ],
   "risk_flags": [
@@ -176,10 +210,12 @@
   ],
   "output_contract": {
     "must_know_count": 5,
-    "pitch_min": 0,
-    "pitch_max": 5,
-    "slow_idea_min": 0,
-    "slow_idea_max": 4,
+    "original_pitch_min": 0,
+    "original_pitch_max": 5,
+    "source_lead_min": 0,
+    "source_lead_max": 4,
+    "long_term_project_min": 0,
+    "long_term_project_max": 4,
     "allow_empty_sections": true,
     "hide_internal_lexical_score": true,
     "source_links_required": true,
@@ -190,6 +226,7 @@
     "utile ou inutile",
     "évident ou original",
     "réalisable ou irréaliste",
-    "correctement hiérarchisé ou non"
+    "correctement hiérarchisé ou non",
+    "apport réel des sources hors presse"
   ]
 }

@@ -9,14 +9,14 @@
     "briefing_date",
     "headline",
     "must_know",
-    "pitches",
-    "slow_ideas",
-    "radar_72h",
-    "watch_signals",
+    "original_pitches",
+    "source_leads",
+    "long_term_projects",
+    "watchlist",
     "editorial_note"
   ],
   "properties": {
-    "schema_version": {"const": 1},
+    "schema_version": {"const": 2},
     "briefing_date": {"type": "string"},
     "headline": {"type": "string", "minLength": 1},
     "must_know": {
@@ -25,25 +25,28 @@
       "maxItems": 5,
       "items": {"$ref": "#/$defs/mustKnow"}
     },
-    "pitches": {
+    "original_pitches": {
       "type": "array",
       "minItems": 0,
       "maxItems": 5,
-      "items": {"$ref": "#/$defs/pitch"}
+      "items": {"$ref": "#/$defs/originalPitch"}
     },
-    "slow_ideas": {
+    "source_leads": {
       "type": "array",
       "minItems": 0,
       "maxItems": 4,
-      "items": {"$ref": "#/$defs/slowIdea"}
+      "items": {"$ref": "#/$defs/sourceLead"}
     },
-    "radar_72h": {
+    "long_term_projects": {
       "type": "array",
-      "items": {"$ref": "#/$defs/radarItem"}
+      "minItems": 0,
+      "maxItems": 4,
+      "items": {"$ref": "#/$defs/longTermProject"}
     },
-    "watch_signals": {
+    "watchlist": {
       "type": "array",
-      "items": {"$ref": "#/$defs/watchSignal"}
+      "maxItems": 6,
+      "items": {"$ref": "#/$defs/watchItem"}
     },
     "editorial_note": {"type": "string"}
   },
@@ -51,10 +54,11 @@
     "source": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["title", "publisher", "url", "certainty"],
+      "required": ["title", "publisher", "source_class", "url", "certainty"],
       "properties": {
         "title": {"type": "string"},
         "publisher": {"type": "string"},
+        "source_class": {"type": "string"},
         "url": {"type": "string", "format": "uri"},
         "certainty": {
           "enum": ["etabli", "rapporte", "declaration", "hypothese"]
@@ -103,7 +107,7 @@
         }
       }
     },
-    "pitch": {
+    "originalPitch": {
       "type": "object",
       "additionalProperties": false,
       "required": [
@@ -111,15 +115,15 @@
         "pitch",
         "central_question",
         "angle_engine",
-        "news_peg",
-        "added_value",
-        "known_facts",
+        "fresh_signal",
+        "dominant_coverage",
+        "original_move",
+        "factual_basis",
         "checks_needed",
-        "field",
-        "tv_treatment",
-        "radio_treatment",
-        "people_to_call",
-        "production_window",
+        "field_or_incarnation",
+        "tv_hook",
+        "radio_hook",
+        "people_to_explore",
         "verdict",
         "risk_flags",
         "sources"
@@ -140,19 +144,17 @@
             "revealing_breather"
           ]
         },
-        "news_peg": {"type": "string"},
-        "added_value": {"type": "string"},
-        "known_facts": {"type": "array", "items": {"type": "string"}},
+        "fresh_signal": {"type": "string"},
+        "dominant_coverage": {"type": "string"},
+        "original_move": {"type": "string"},
+        "factual_basis": {"type": "array", "items": {"type": "string"}},
         "checks_needed": {"type": "array", "items": {"type": "string"}},
-        "field": {"type": "string"},
-        "tv_treatment": {"type": "string"},
-        "radio_treatment": {"type": "string"},
-        "people_to_call": {
+        "field_or_incarnation": {"type": "string"},
+        "tv_hook": {"type": "string"},
+        "radio_hook": {"type": "string"},
+        "people_to_explore": {
           "type": "array",
           "items": {"$ref": "#/$defs/person"}
-        },
-        "production_window": {
-          "enum": ["13h", "19h30", "radio_jour", "plusieurs_jours"]
         },
         "verdict": {
           "enum": [
@@ -171,30 +173,99 @@
         }
       }
     },
-    "slowIdea": {
+    "sourceLead": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["title", "hypothesis", "belgian_clue", "next_check", "sources"],
+      "required": [
+        "title",
+        "published_clue",
+        "potential_reveal",
+        "editorial_question",
+        "first_verification",
+        "certainty",
+        "sources"
+      ],
       "properties": {
         "title": {"type": "string"},
-        "hypothesis": {"type": "string"},
-        "belgian_clue": {"type": "string"},
-        "next_check": {"type": "string"},
-        "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}}
+        "published_clue": {"type": "string"},
+        "potential_reveal": {"type": "string"},
+        "editorial_question": {"type": "string"},
+        "first_verification": {"type": "string"},
+        "certainty": {
+          "enum": ["etabli", "rapporte", "declaration", "hypothese"]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "contains": {
+            "type": "object",
+            "required": ["source_class"],
+            "properties": {
+              "source_class": {
+                "enum": [
+                  "public_body",
+                  "institution",
+                  "civil_society",
+                  "independent_public_body",
+                  "regulator",
+                  "parliament",
+                  "social_partner",
+                  "judiciary",
+                  "health_insurer",
+                  "statistics",
+                  "consultative_body",
+                  "public_company",
+                  "scientific_institute",
+                  "professional_body",
+                  "consumer_association"
+                ]
+              }
+            }
+          },
+          "items": {"$ref": "#/$defs/source"}
+        }
       }
     },
-    "radarItem": {
+    "longTermProject": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["when", "event", "editorial_question", "source"],
+      "required": [
+        "title",
+        "pitch",
+        "structural_question",
+        "fresh_starting_point",
+        "why_in_line",
+        "first_evidence",
+        "research_tracks",
+        "terrain_or_people",
+        "blind_spots",
+        "certainty",
+        "sources"
+      ],
       "properties": {
-        "when": {"type": "string"},
-        "event": {"type": "string"},
-        "editorial_question": {"type": "string"},
-        "source": {"$ref": "#/$defs/source"}
+        "title": {"type": "string"},
+        "pitch": {
+          "type": "string",
+          "pattern": "^On pourrait (raconter|enquêter|mesurer|tester)"
+        },
+        "structural_question": {"type": "string"},
+        "fresh_starting_point": {"type": "string"},
+        "why_in_line": {"type": "string"},
+        "first_evidence": {"type": "array", "items": {"type": "string"}},
+        "research_tracks": {"type": "array", "items": {"type": "string"}},
+        "terrain_or_people": {"type": "array", "items": {"type": "string"}},
+        "blind_spots": {"type": "array", "items": {"type": "string"}},
+        "certainty": {
+          "enum": ["etabli", "rapporte", "declaration", "hypothese"]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/source"}
+        }
       }
     },
-    "watchSignal": {
+    "watchItem": {
       "type": "object",
       "additionalProperties": false,
       "required": ["signal", "why_too_weak", "trigger", "sources"],
@@ -202,7 +273,11 @@
         "signal": {"type": "string"},
         "why_too_weak": {"type": "string"},
         "trigger": {"type": "string"},
-        "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}}
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/source"}
+        }
       }
     }
   }
