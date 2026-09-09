@@ -1,0 +1,209 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/corentinlrnt/veille-redaction-belge/data/editorial_output_schema.json",
+  "title": "Briefing éditorial matinal",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "briefing_date",
+    "headline",
+    "must_know",
+    "pitches",
+    "slow_ideas",
+    "radar_72h",
+    "watch_signals",
+    "editorial_note"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "briefing_date": {"type": "string"},
+    "headline": {"type": "string", "minLength": 1},
+    "must_know": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 5,
+      "items": {"$ref": "#/$defs/mustKnow"}
+    },
+    "pitches": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 5,
+      "items": {"$ref": "#/$defs/pitch"}
+    },
+    "slow_ideas": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 4,
+      "items": {"$ref": "#/$defs/slowIdea"}
+    },
+    "radar_72h": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/radarItem"}
+    },
+    "watch_signals": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/watchSignal"}
+    },
+    "editorial_note": {"type": "string"}
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "publisher", "url", "certainty"],
+      "properties": {
+        "title": {"type": "string"},
+        "publisher": {"type": "string"},
+        "url": {"type": "string", "format": "uri"},
+        "certainty": {
+          "enum": ["etabli", "rapporte", "declaration", "hypothese"]
+        }
+      }
+    },
+    "mustKnow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "rank",
+        "title",
+        "new_fact",
+        "why_it_matters",
+        "watch_today",
+        "certainty",
+        "sources"
+      ],
+      "properties": {
+        "rank": {"type": "integer", "minimum": 1, "maximum": 5},
+        "title": {"type": "string"},
+        "new_fact": {"type": "string"},
+        "why_it_matters": {"type": "string"},
+        "watch_today": {"type": "string"},
+        "certainty": {
+          "enum": ["etabli", "rapporte", "declaration", "hypothese"]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/source"}
+        }
+      }
+    },
+    "person": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "role", "availability"],
+      "properties": {
+        "name": {"type": "string"},
+        "role": {"type": "string"},
+        "public_contact": {"type": ["string", "null"]},
+        "contact_source": {"type": ["string", "null"], "format": "uri"},
+        "availability": {
+          "enum": ["confirmee", "probable", "a_verifier", "non_recherchee"]
+        }
+      }
+    },
+    "pitch": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "pitch",
+        "central_question",
+        "angle_engine",
+        "news_peg",
+        "added_value",
+        "known_facts",
+        "checks_needed",
+        "field",
+        "tv_treatment",
+        "radio_treatment",
+        "people_to_call",
+        "production_window",
+        "verdict",
+        "risk_flags",
+        "sources"
+      ],
+      "properties": {
+        "title": {"type": "string"},
+        "pitch": {"type": "string", "pattern": "^On pourrait raconter"},
+        "central_question": {"type": "string"},
+        "angle_engine": {
+          "enum": [
+            "concrete_impact",
+            "embodied_number",
+            "promise_test",
+            "system_backstage",
+            "how_to",
+            "external_mirror",
+            "power_shift",
+            "revealing_breather"
+          ]
+        },
+        "news_peg": {"type": "string"},
+        "added_value": {"type": "string"},
+        "known_facts": {"type": "array", "items": {"type": "string"}},
+        "checks_needed": {"type": "array", "items": {"type": "string"}},
+        "field": {"type": "string"},
+        "tv_treatment": {"type": "string"},
+        "radio_treatment": {"type": "string"},
+        "people_to_call": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/person"}
+        },
+        "production_window": {
+          "enum": ["13h", "19h30", "radio_jour", "plusieurs_jours"]
+        },
+        "verdict": {
+          "enum": [
+            "pret_a_lancer",
+            "un_appel_necessaire",
+            "a_developper",
+            "information_seule",
+            "a_ecarter"
+          ]
+        },
+        "risk_flags": {"type": "array", "items": {"type": "string"}},
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/source"}
+        }
+      }
+    },
+    "slowIdea": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "hypothesis", "belgian_clue", "next_check", "sources"],
+      "properties": {
+        "title": {"type": "string"},
+        "hypothesis": {"type": "string"},
+        "belgian_clue": {"type": "string"},
+        "next_check": {"type": "string"},
+        "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}}
+      }
+    },
+    "radarItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["when", "event", "editorial_question", "source"],
+      "properties": {
+        "when": {"type": "string"},
+        "event": {"type": "string"},
+        "editorial_question": {"type": "string"},
+        "source": {"$ref": "#/$defs/source"}
+      }
+    },
+    "watchSignal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["signal", "why_too_weak", "trigger", "sources"],
+      "properties": {
+        "signal": {"type": "string"},
+        "why_too_weak": {"type": "string"},
+        "trigger": {"type": "string"},
+        "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}}
+      }
+    }
+  }
+}

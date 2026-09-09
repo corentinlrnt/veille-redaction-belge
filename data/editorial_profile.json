@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "profile_id": "belgian_newsroom_morning_editorial",
+  "mission": "Transformer un radar de sources en briefing de conférence de rédaction, et non en revue de liens.",
+  "reader": {
+    "role": "journaliste RTBF travaillant principalement sur la matière belge",
+    "channels": ["JT", "radio"],
+    "full_read_minutes": 15,
+    "first_screen_minutes": 2
+  },
+  "input_contract": {
+    "window_hours": 36,
+    "future_window_hours": 36,
+    "recent_items_per_source": 6,
+    "strategy": "Réunir tous les signaux du radar et les publications récentes les plus fraîches de chaque producteur, puis laisser la couche éditoriale regrouper et hiérarchiser sans voir le score lexical."
+  },
+  "scope": {
+    "core": [
+      "politiques publiques, institutions et rapports de force",
+      "justice, droits, sécurité et contrôle public",
+      "économie, emploi, consommation et finances publiques",
+      "conséquences sociales, sanitaires, éducatives, environnementales et locales de ces matières"
+    ],
+    "foreign_bridge_required": true,
+    "foreign_bridges": [
+      "effet concret en Belgique",
+      "décision européenne applicable ou transposable en Belgique",
+      "Belges directement concernés",
+      "expérience comparable permettant de tester une politique belge",
+      "enjeu économique ou stratégique pour une filière belge",
+      "premier indice belge d'un phénomène observé ailleurs"
+    ]
+  },
+  "editorial_outputs": [
+    {
+      "id": "must_know",
+      "label": "incontournable",
+      "purpose": "Information nécessaire pour comprendre la journée, même sans sujet original immédiatement réalisable."
+    },
+    {
+      "id": "pitch",
+      "label": "sujet à défendre",
+      "purpose": "Proposition possédant question centrale, plus-value, preuves, incarnation et production crédible."
+    },
+    {
+      "id": "explainer",
+      "label": "décryptage",
+      "purpose": "Plateau, infographie, entretien ou mode d'emploi pour un enjeu important mais peu télévisuel."
+    },
+    {
+      "id": "breather",
+      "label": "respiration",
+      "purpose": "Récit humain, découverte ou tendance surprenante ayant une consistance réelle."
+    },
+    {
+      "id": "develop",
+      "label": "piste à mûrir",
+      "purpose": "Idée prometteuse dont les manques sont précisément identifiés."
+    },
+    {
+      "id": "discard",
+      "label": "à écarter",
+      "purpose": "Bruit, répétition, fait individuel sans portée collective ou niveau de preuve insuffisant."
+    }
+  ],
+  "angle_engines": [
+    {
+      "id": "concrete_impact",
+      "label": "conséquence concrète",
+      "question": "Qui devra faire quoi différemment, à partir de quand et avec quel effet ?"
+    },
+    {
+      "id": "embodied_number",
+      "label": "chiffre incarné",
+      "question": "Où ce chiffre devient-il visible aujourd'hui ?"
+    },
+    {
+      "id": "promise_test",
+      "label": "promesse mise à l'épreuve",
+      "question": "Quel indicateur permettrait de savoir si la promesse fonctionne ?"
+    },
+    {
+      "id": "system_backstage",
+      "label": "coulisses d'un système",
+      "question": "Que se passe-t-il derrière la porte que le public ne voit pas ?"
+    },
+    {
+      "id": "how_to",
+      "label": "mode d'emploi",
+      "question": "Qu'est-ce que le public doit désormais comprendre ou faire ?"
+    },
+    {
+      "id": "external_mirror",
+      "label": "miroir extérieur",
+      "question": "Quel indice permet de vérifier que la comparaison est valable en Belgique ?"
+    },
+    {
+      "id": "power_shift",
+      "label": "rapport de force",
+      "question": "Qu'est-ce qui a réellement changé derrière les déclarations ?"
+    },
+    {
+      "id": "revealing_breather",
+      "label": "respiration révélatrice",
+      "question": "Qu'est-ce que cette histoire apparemment légère nous apprend ?"
+    }
+  ],
+  "evidence_types": [
+    "texte légal, décision, jugement, rapport ou donnée",
+    "observation de terrain",
+    "personne directement concernée",
+    "opérateur chargé d'appliquer la mesure",
+    "expert indépendant",
+    "contradicteur pertinent",
+    "précédent ou comparaison valable"
+  ],
+  "production_windows": ["13h", "19h30", "radio_jour", "plusieurs_jours"],
+  "readiness_verdicts": [
+    "pret_a_lancer",
+    "un_appel_necessaire",
+    "a_developper",
+    "information_seule",
+    "a_ecarter"
+  ],
+  "certainty_levels": [
+    {
+      "id": "etabli",
+      "meaning": "document primaire ou convergence de sources fiables"
+    },
+    {
+      "id": "rapporte",
+      "meaning": "information attribuée à un média ou un acteur identifiable"
+    },
+    {
+      "id": "declaration",
+      "meaning": "affirmation intéressée non confirmée indépendamment"
+    },
+    {
+      "id": "hypothese",
+      "meaning": "question de travail ou piste à vérifier"
+    }
+  ],
+  "pitch_required_fields": [
+    "question centrale unique",
+    "plus-value par rapport au fait nouveau",
+    "preuve disponible au-delà du communiqué",
+    "vérifications manquantes",
+    "terrain ou incarnation vraisemblable",
+    "images ou sons précis",
+    "interlocuteurs et statut de disponibilité",
+    "délai de production réaliste",
+    "sources directes"
+  ],
+  "hard_rules": [
+    "Ne jamais présenter un communiqué comme une confirmation indépendante.",
+    "Ne jamais transformer une piste en fait établi.",
+    "Ne jamais inventer un contact, une citation, un chiffre, un accès ou une conséquence.",
+    "Ne jamais paraphraser comme consulté le contenu inaccessible d'un article payant.",
+    "Ne jamais confondre annonce, texte adopté et entrée en vigueur.",
+    "Ne jamais déduire une causalité d'une simple corrélation.",
+    "Ne jamais extrapoler à tout le pays à partir d'un témoignage ou d'un seul terrain.",
+    "Ne jamais importer une tendance étrangère sans indice belge.",
+    "Ne jamais promettre un tournage sans images, sons ou interlocuteurs vraisemblables.",
+    "Ne jamais remplir artificiellement une rubrique faute de bonne proposition."
+  ],
+  "risk_flags": [
+    "chiffre provisoire",
+    "superlatif non démontré",
+    "causalité fragile",
+    "source anonyme unique",
+    "sources provenant toutes de l'organisation intéressée",
+    "comparaison internationale non homogène",
+    "article inaccessible",
+    "sujet déjà traité sans développement nouveau",
+    "imagerie prétexte ou accès incertain"
+  ],
+  "output_contract": {
+    "must_know_count": 5,
+    "pitch_min": 0,
+    "pitch_max": 5,
+    "slow_idea_min": 0,
+    "slow_idea_max": 4,
+    "allow_empty_sections": true,
+    "hide_internal_lexical_score": true,
+    "source_links_required": true,
+    "email_is_primary_interface": true,
+    "github_is_traceability_only": true
+  },
+  "feedback_axes": [
+    "utile ou inutile",
+    "évident ou original",
+    "réalisable ou irréaliste",
+    "correctement hiérarchisé ou non"
+  ]
+}

@@ -8,6 +8,8 @@ on:
     paths:
       - ".github/workflows/briefing.yml"
       - "data/**"
+      - "docs/editorial-canvas.md"
+      - "prompts/**"
       - "scripts/**"
       - "tests/**"
   pull_request:
@@ -16,6 +18,8 @@ on:
     paths:
       - ".github/workflows/briefing.yml"
       - "data/**"
+      - "docs/editorial-canvas.md"
+      - "prompts/**"
       - "scripts/**"
       - "tests/**"
   schedule:
@@ -51,6 +55,9 @@ jobs:
       - name: Construire le briefing
         run: python scripts/build_briefing.py
 
+      - name: Préparer l'analyse éditoriale
+        run: python scripts/build_editorial_packet.py
+
       - name: Afficher les synthèses
         run: |
           tee -a "${GITHUB_STEP_SUMMARY}" < reports/collection-summary.md
@@ -64,6 +71,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add reports/items.json reports/items.csv reports/collection-summary.md reports/briefing.json
+          git add reports/editorial-packet.json reports/editorial-prompt.md
           git add state/first-seen.json briefings/latest.md briefings/archive
           git add docs/index.html docs/briefings
           if git diff --cached --quiet; then
