@@ -4,6 +4,9 @@
   "briefing_hours": 36,
   "future_hours": 36,
   "minimum_score": 10,
+  "minimum_score_by_source_class": {
+    "news_media": 14
+  },
   "priority_count": 12,
   "max_items": 36,
   "max_per_source": 3,
@@ -126,6 +129,70 @@
       "label": "information opérationnelle de transport",
       "weight": -5,
       "terms": ["itinéraire habituel", "déviation", "arrêt déplacé", "escalator", "travaux de maintenance", "roltrap", "omleiding", "halte verplaatst", "onderhoudswerken", "umleitung", "haltestelle verlegt", "wartungsarbeiten"]
+    },
+    {
+      "id": "institutional_speech",
+      "label": "discours ou déclaration institutionnelle sans décision explicite",
+      "weight": -5,
+      "terms": ["speech by", "speech at", "statement by", "remarks by", "discours de", "déclaration de", "toespraak van", "verklaring van", "rede von", "erklärung von"]
+    }
+  ],
+  "exclusion_signals": [
+    {
+      "id": "market_ticks",
+      "label": "marchés financiers au fil de l'eau",
+      "source_classes": ["news_media"],
+      "terms": ["bel 20", "bel20", "avis de broker", "position short", "bourse en direct", "marchés en direct", "cours de bourse", "beursblog", "beurs live", "koersdoel", "wall street", "dax"],
+      "unless_terms": ["emploi", "licenciement", "faillite", "restructuration", "inflation", "épargne", "consommateur", "régulation", "taxe", "pension", "werkgelegenheid", "ontslag", "faillissement", "herstructurering", "inflatie", "spaargeld", "consument", "regelgeving", "belasting", "pensioen", "beschäftigung", "entlassung", "insolvenz", "umstrukturierung", "inflation", "ersparnisse", "verbraucher", "regulierung", "steuer", "rente"]
+    },
+    {
+      "id": "routine_case",
+      "label": "fait divers ou audience individuelle",
+      "source_classes": ["news_media"],
+      "terms": ["reste en prison", "reste en détention", "mandat d'arrêt", "chambre du conseil", "accident mortel", "collision", "tombe lors", "chute lors", "politierechtbank", "blijft in de cel", "raadkamer", "gewelddadige dood", "ongeval", "botsing", "valt tijdens", "bleibt in haft", "unfall"],
+      "unless_terms": ["surpopulation", "conditions de détention", "violence conjugale", "féminicide", "racisme", "discrimination", "rapport", "statistique", "réforme", "loi", "politique publique", "manifestation", "grève", "corruption", "retard judiciaire", "délai judiciaire", "attend toujours", "overbevolking", "detentieomstandigheden", "partnergeweld", "femicide", "racisme", "discriminatie", "rapport", "statistiek", "hervorming", "wet", "beleid", "betoging", "staking", "corruptie", "overbelegung", "haftbedingungen", "häusliche gewalt", "rassismus", "diskriminierung", "bericht", "statistik", "reform", "gesetz", "politik", "demonstration", "streik", "korruption"]
+    },
+    {
+      "id": "leisure",
+      "label": "sport loisir ou culture sans enjeu collectif",
+      "source_classes": ["news_media"],
+      "terms": ["football", "match", "classement", "mercato", "tournoi", "festival", "concert", "exposition", "patrimoine", "journées du patrimoine", "voetbal", "wedstrijd", "sport", "museum", "tentoonstelling", "kunst", "erfgoed", "open monumentendag", "konzert", "ausstellung", "fußball", "kulturerbe"],
+      "unless_terms": ["subvention", "budget", "emploi", "licenciement", "fermeture", "grève", "réforme", "accessibilité", "discrimination", "financement public", "politique culturelle", "subsidie", "begroting", "werkgelegenheid", "ontslag", "sluiting", "staking", "hervorming", "toegankelijkheid", "discriminatie", "overheidsfinanciering", "kulturpolitik", "haushalt", "beschäftigung", "entlassung", "schließung", "streik", "reform", "barrierefreiheit", "diskriminierung", "öffentliche finanzierung"]
+    },
+    {
+      "id": "gadget_or_celebrity",
+      "label": "produit gadget ou célébrité",
+      "source_classes": ["news_media"],
+      "terms": ["smartphone", "iphone", "playstation", "lamborghini", "célébrité", "influenceur", "série netflix", "recette", "test du", "review", "getest"],
+      "unless_terms": ["rappel", "sécurité", "droit", "vie privée", "arnaque", "consommateur", "régulation", "emploi", "fermeture", "usine", "taxe", "terugroepactie", "veiligheid", "recht", "privacy", "oplichting", "consument", "regelgeving", "werkgelegenheid", "sluiting", "fabriek", "belasting", "rückruf", "sicherheit", "recht", "privatsphäre", "betrug", "verbraucher", "regulierung", "beschäftigung", "schließung", "fabrik", "steuer"]
+    },
+    {
+      "id": "foreign_news",
+      "label": "actualité étrangère sans angle belge ou effet concret identifié",
+      "source_classes": ["news_media"],
+      "terms": ["international", "buitenland", "ausland", "monde", "aéroport britannique", "aéroports britanniques", "britse luchthaven", "britse luchthavens", "britischer flughafen", "britische flughäfen"],
+      "unless_terms": ["belgique", "belgië", "belgien", "union européenne", "européen", "europese unie", "europäisch", "prix du pétrole", "prix du gaz", "olieprijs", "gasprijs", "ölpreis", "gaspreis", "inflation", "inflatie", "migration", "migratie", "migration", "réfugié", "vluchteling", "flüchtling", "commerce", "handel", "taxe", "belasting", "steuer", "sanction", "sanctie", "sanktion"]
+    },
+    {
+      "id": "routine_regulatory_act",
+      "label": "acte administratif individuel sans effet collectif explicite",
+      "source_classes": ["regulator"],
+      "terms": ["octroi d'une licence", "octroi de licence", "agrément individuel", "toekenning van een vergunning", "erteilung einer lizenz"],
+      "unless_terms": ["consommateur", "tarif", "prix", "marché", "réforme", "sécurité", "consument", "tarief", "prijs", "markt", "hervorming", "veiligheid", "verbraucher", "preis", "markt", "reform", "sicherheit"]
+    },
+    {
+      "id": "human_interest",
+      "label": "insolite ou récit individuel sans portée collective explicite",
+      "source_classes": ["news_media"],
+      "terms": ["insolite", "opmerkelijke ontdekking", "dans son jardin", "in tuinhuis", "record du monde", "world record", "wereldrecord", "pechvogel"],
+      "unless_terms": ["santé publique", "danger", "espèce invasive", "environnement", "sécurité", "volksgezondheid", "gevaar", "invasieve soort", "milieu", "veiligheid", "öffentliche gesundheit", "gefahr", "invasive art", "umwelt", "sicherheit"]
+    },
+    {
+      "id": "aggregate_digest",
+      "label": "agrégat institutionnel sans sujet unique",
+      "source_ids": ["eu_commission"],
+      "terms": ["daily news"],
+      "unless_terms": []
     }
   ]
 }

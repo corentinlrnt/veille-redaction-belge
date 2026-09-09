@@ -16,18 +16,24 @@ Le briefing est un outil de présélection. Il ne valide pas un fait pour diffus
 Le score additionne des critères déclarés dans `data/editorial_rules.json` :
 
 1. nature du producteur : parlement, juridiction, régulateur, institut statistique, organisme public, partenaire social, mutualité, ordre professionnel, association, parti ou média ;
-2. nature du contenu : décision, arrêt, alerte, statistique, rapport, étude, avis, agenda ou communiqué ;
+2. nature du contenu : décision, arrêt, alerte, statistique, rapport, étude, avis, agenda ou communiqué ; les libellés génériques d'un flux de presse ne valent pas preuve que chaque article appartient à l'un de ces types ;
 3. fraîcheur de la publication ;
 4. signaux lexicaux multilingues : décision publique, effet concret sur la population, données, contrôle et droits, changement ou échéance ;
 5. minoration des contenus promotionnels, sportifs ou culturels sans enjeu public explicite.
 
 Chaque entrée affiche les raisons qui ont effectivement contribué à son score. Les règles sont modifiables sans changer le programme et feront l'objet des essais éditoriaux.
 
+## Veto éditoriaux explicites
+
+Un bon score ne suffit pas lorsqu'un titre de presse relève manifestement d'un résultat sportif, d'un loisir sans enjeu collectif, d'un produit gadget, d'un fait divers ou d'une séance de marché au fil de l'eau. Ces familles sont déclarées dans `exclusion_signals` et écartées après le calcul du score. Le nombre d'éléments concernés et leur répartition par règle sont conservés dans `reports/briefing.json` pour rendre le réglage contrôlable.
+
+La plupart de ces veto sont limités aux médias d'information et comportent des termes d'exception. Une mention de réforme, rapport, statistique, discrimination, emploi, financement public ou sécurité du consommateur maintient ainsi l'élément dans la sélection. Les règles visant un producteur précis servent uniquement à écarter un agrégat sans sujet unique; les communiqués d'une juridiction ou d'une autorité ne sont jamais masqués par une règle destinée au bruit des flux de presse. Ce mécanisme reste lexical : en cas d'ambiguïté, il doit être corrigé à partir des briefings d'essai.
+
 Les publications de partis reçoivent un poids de base inférieur à celui des autorités, juridictions et régulateurs. Elles sont identifiées comme paroles d'« acteur politique » et constituent des prises de position à recouper, pas des confirmations neutres. Le même principe de provenance explicite distingue partenaires sociaux, société civile, organismes assureurs, ordres professionnels et sources publiques officielles.
 
 Les coordinations de terrain sont utiles pour repérer un effet concret d'une politique ou une mobilisation, mais leur présence ne valide ni leurs chiffres ni leurs conclusions. Elles apparaissent comme « organisation de la société civile » et doivent être recoupées avec les textes publics, données, personnes concernées et points de vue contradictoires pertinents.
 
-Les publications de presse apparaissent comme « média d'information ». Leur poids de base reste faible : un sujet remonte par sa fraîcheur et ses signaux éditoriaux, pas par le seul prestige du titre. Pour un média marqué `mixed_paywall`, le briefing signale que l'article peut être réservé. La chaîne n'utilise que les métadonnées rendues publiques par le média et ne tente aucune authentification ni aucun contournement.
+Les publications de presse apparaissent comme « média d'information ». Leur poids de base reste faible et leur seuil est plus exigeant que celui des autres producteurs : un sujet remonte par sa fraîcheur et ses signaux éditoriaux, pas par le seul prestige du titre ou par les libellés génériques de son flux. Pour un média marqué `mixed_paywall`, le briefing signale que l'article peut être réservé. La chaîne n'utilise que les métadonnées rendues publiques par le média et ne tente aucune authentification ni aucun contournement.
 
 ## Classement
 
@@ -51,4 +57,4 @@ Les titres lexicalement très proches sont regroupés. Le rapprochement ne const
 
 ## Limites actuelles
 
-La collecte exploite les flux RSS, Atom et JSON Feed explicitement enregistrés. Deux adaptateurs supplémentaires sont volontaires : l'API REST publique de certains sites WordPress avec une liste de champs limitée, et les listes HTML dont chaque carte `<article>` contient un titre, un lien et une date sémantique. Le collecteur ne visite pas ensuite la page de l'article. Les autres pages HTML et les réseaux sociaux ne sont pas interprétés. Le score lexical ne comprend ni l'ironie, ni le contexte politique, ni la portée réelle d'une annonce. Ces limites sont affichées dans chaque briefing.
+La collecte exploite les flux RSS, Atom et JSON Feed explicitement enregistrés. Deux adaptateurs supplémentaires sont volontaires : l'API REST publique de certains sites WordPress avec une liste de champs limitée, et les listes HTML dont chaque carte `<article>` contient un titre, un lien et une date sémantique. Le collecteur ne visite pas ensuite la page de l'article. Les autres pages HTML et les réseaux sociaux ne sont pas interprétés. Le score et les veto lexicaux ne comprennent ni l'ironie, ni le contexte politique, ni la portée réelle d'une annonce. Ces limites sont affichées dans chaque briefing.
