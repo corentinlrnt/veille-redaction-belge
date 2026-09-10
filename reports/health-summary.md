@@ -1,6 +1,6 @@
 # Santé des accès
 
-Généré le `2026-09-09T16:28:46.491356Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-10T04:27:01.119048Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **283**
 - Accès testés : **283**
@@ -56,7 +56,7 @@ Généré le `2026-09-09T16:28:46.491356Z` par `veille-redaction-belge/0.1.0`.
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Centre fédéral d'expertise des soins de santé | Communiqués de presse | `http_error` | 429 | `html → unknown` | `unknown` | 0 |
 | CGSLB-Syndicat libéral | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Chambre des représentants | Agenda des commissions | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -237,7 +237,7 @@ Généré le `2026-09-09T16:28:46.491356Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
