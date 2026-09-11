@@ -1,10 +1,10 @@
 # Santé des accès
 
-Généré le `2026-09-11T04:27:26.707210Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-11T09:08:47.383619Z` par `veille-redaction-belge/0.1.0`.
 
-- Accès configurés et actifs : **283**
-- Accès testés : **283**
-- Accès opérationnels : **243**
+- Accès configurés et actifs : **284**
+- Accès testés : **284**
+- Accès opérationnels : **244**
 - Accès en erreur ou bloqués : **40**
 - Flux candidats découverts : **94**
 
@@ -111,7 +111,7 @@ Généré le `2026-09-11T04:27:26.707210Z` par `veille-redaction-belge/0.1.0`.
 | FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Focus & WTV | Focus en WTV RSS | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
 | Focus & WTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `unknown` | 2 |
+| Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
@@ -135,7 +135,8 @@ Généré le `2026-09-11T04:27:26.707210Z` par `veille-redaction-belge/0.1.0`.
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut fédéral des droits humains | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut fédéral des droits humains | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Institut national d'assurance maladie-invalidité | Communiqués de presse | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
+| Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurances sociales pour travailleurs indépendants | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut pour l'égalité des femmes et des hommes | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut wallon de l'évaluation de la prospective et de la statistique | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
