@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-11T04:18:34.837715Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-11T09:06:26.051864Z` par `veille-redaction-belge/collector-0.1.0`.
 
-- Flux configurés : **60**
-- Flux collectés : **59**
+- Flux configurés : **62**
+- Flux collectés : **61**
 - Flux en erreur : **1**
-- Éléments conservés : **5022**
-- Sources contributrices : **42**
+- Éléments conservés : **5288**
+- Sources contributrices : **43**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -45,6 +45,8 @@ Généré le `2026-09-11T04:18:34.837715Z` par `veille-redaction-belge/collector
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_publications_rss` | `ok` | `rss` | 10 | — |
+| `inami` | `inami_news` | `ok` | `html` | 15 | — |
+| `inami` | `inami_press` | `ok` | `html` | 15 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
 | `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |

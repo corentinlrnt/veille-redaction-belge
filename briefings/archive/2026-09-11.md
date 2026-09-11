@@ -1,6 +1,6 @@
 # Veille rédaction belge — 11 septembre 2026
 
-Générée à **06:18** (heure de Bruxelles) à partir de **5022 éléments collectés**.
+Générée à **11:06** (heure de Bruxelles) à partir de **5288 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
@@ -8,11 +8,19 @@ Générée à **06:18** (heure de Bruxelles) à partir de **5022 éléments coll
 
 ### [David Clarinval se réjouit que la Cour constitutionnelle confirme les fondements de la réforme du chômage](https://www.mr.be/david-clarinval-se-rejouit-que-la-cour-constitutionnelle-confirme-les-fondements-de-la-reforme-du-chomage/)
 
-**Mouvement Réformateur** · acteur politique · 10/09/2026 à 21:37 · score `30`
+**Mouvement Réformateur** · acteur politique · 10/09/2026 à 21:37 · score `29`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : La Cour Constitutionnelle s’est prononcée aujourd’hui sur le recours introduit contre la réforme du chômage portée par David Clarinval. La Cour confirme le principe de la limitation dans le temps des allocations de chômage et le respect...
+
+### [Réforme du chômage: les premiers chiffres confortent la réforme portée par David Clarinval](https://www.mr.be/reforme-du-chomage-les-premiers-chiffres-confortent-la-reforme-portee-par-david-clarinval/)
+
+**Mouvement Réformateur** · acteur politique · 11/09/2026 à 10:00 · score `26`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : Les derniers chiffres de l’ONEM apportent un nouvel éclairage sur la réforme du chômage portée par le ministre fédéral de l’Emploi David Clarinval. En tenant compte des demandeurs d’emploi qui...
 
 ### [|CP| 10.09.26 | La Cour constitutionnelle annule partiellement les mesures transitoires de la réforme chômage, octroyant un sursis à environ 100.000 personnes](https://www.liguedh.be/droits-sociaux/la-cour-constitutionnelle-annule-partiellement-les-mesures-transitoires-de-la-reforme-chomage-octroyant-un-sursis-a-environ-100-000-personnes/)
 
@@ -22,11 +30,19 @@ Générée à **06:18** (heure de Bruxelles) à partir de **5022 éléments coll
 
 > Extrait fourni par la source : L’article |CP| 10.09.26 | La Cour constitutionnelle annule partiellement les mesures transitoires de la réforme chômage, octroyant un sursis à environ 100.000 personnes est apparu en premier sur La Ligue des Droits Humains.
 
+### [Bientôt un Pack Nouveau Départ pour soutenir les victimes de violence intra-conjugale en Région bruxelloise](https://bx1.be/categories/news/bientot-un-pack-nouveau-depart-pour-soutenir-les-victimes-de-violence-intra-conjugale-en-region-bruxelloise/)
+
+**BX1** · média d'information · 11/09/2026 à 06:55 · score `24`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le gouvernement bruxellois a approuvé jeudi une note stratégique visant à mettre en oeuvre un Pack Nouveau Départ. Celui-ci rassemble 36 mesures autour de six priorités visant à soutenir les victimes du comportement d’un ou une (ex-)partenaire violent(e): la sécurité, l’aide financière, l’assistance juridique, l’aide psychologique, la protection socio-économique et le logement. Selon le ministre … lire plus
+
 ### [Réforme du chômage: la Cour constitutionnelle octroie un sursis à environ 100.000 personnes, selon les syndicats](https://bx1.be/categories/news/reforme-du-chomage-la-cour-constitutionnelle-octroie-un-sursis-a-environ-100-000-personnes-selon-les-syndicats/)
 
-**BX1** · média d'information · 10/09/2026 à 18:52 · score `23`
+**BX1** · média d'information · 10/09/2026 à 18:52 · score `22`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Si la Cour constitutionnelle rejette en grande partie le recours que le front commun syndical (CSC, FGTB et SYNOVA) a introduit contre la réforme du chômage, elle octroie un sursis à environ 100.000 personnes, estiment les trois organisations dans un communiqué diffusé jeudi. Toutes les organisations qui ont introduit le recours disent regretter que la … lire plus
 
@@ -34,9 +50,9 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 
 ### [« Notre combat pour la protection sociale se poursuit sans relâche »: les syndicats remontés après le rejet de leur recours contre la réforme du chômage à la Cour constitutionnelle](https://www.sudinfo.be/id1192055/article/2026-09-10/notre-combat-pour-la-protection-sociale-se-poursuit-sans-relache-les-syndicats)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 18:24 · score `23`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 18:24 · score `22`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Environ 100.000 personnes sont concernées. Les syndicats voient dans l’arrêt de la Cour constitutionnelle un répit pour les exclus des premières vagues.
 
@@ -56,13 +72,13 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 
 > Extrait fourni par la source : La Cour constitutionnelle a rendu ce jeudi son arrêt très attendu sur quatre recours contre la réforme du chômage.
 
-### [Harcèlement, discriminations, violences sexistes et sexuelles: un nouveau cadre pour mieux protéger les étudiant·e·s de l’enseignement supérieur](https://news.belgium.be/fr/harcelement-discriminations-violences-sexistes-et-sexuelles-un-nouveau-cadre-pour-mieux-proteger)
+### [Le loyer moyen à Bruxelles dépasse pour la première fois les 1.400 euros (Infographies)](https://bx1.be/categories/economie/le-loyer-moyen-a-bruxelles-depasse-pour-la-premiere-fois-les-1-400-euros/)
 
-**Presscenter fédéral** · source publique officielle · 10/09/2026 à 09:44 · score `21`
+**BX1** · média d'information · 11/09/2026 à 06:52 · score `21`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Bruxelles, 10 septembre 2026 – L'Institut pour l'égalité des femmes et des hommes et Unia saluent l’entrée en vigueur à la rentrée académique 2026-2027 du décret visant à lutter contre le harcèlement, les violences sexistes et sexuelles et les discriminations dans l'enseignement supérieur.
+> Extrait fourni par la source : Les loyers ont augmenté moins rapidement au premier semestre 2026, avec une hausse de 1,5% à Bruxelles et de 1,7% en Wallonie, selon le dernier baromètre de locations publié vendredi par Federia, la fédération des agents immobiliers francophones de Belgique. Ces chiffres doivent toutefois être interprétés avec prudence: on observe très régulièrement un ralentissement de … lire plus
 
 ### [Loyers en Wallonie: la hausse des prix se calme, mais le répit pourrait être de courte durée](https://www.lavenir.net/actu/2026/09/11/loyers-en-wallonie-la-hausse-des-prix-se-calme-mais-le-repit-pourrait-etre-de-courte-duree-3C3IX2A7P5H5JC7NPYJ7XJYFGU/)
 
@@ -72,27 +88,23 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 
 > Extrait fourni par la source : En Wallonie, les loyers connaissent une certaine stabilisation. Au premier semestre 2026, les prix n’ont progressé que de 1,7 %, indique le dernier baromètre des locations de Federia, publié ce vendredi 11 septembre 2026. Une bonne nouvelle pour les locataires? Plutôt un bref répit, avant une nouvelle hausse plus que probable....
 
-### [Ces chiffres de la réforme du chômage qui changent la donne: certains retrouvent un emploi… avant même d’être exclus!](https://www.sudinfo.be/id1192131/article/2026-09-11/ces-chiffres-de-la-reforme-du-chomage-qui-changent-la-donne-certains-retrouvent)
+### [Harcèlement, discriminations, violences sexistes et sexuelles: un nouveau cadre pour mieux protéger les étudiant·e·s de l’enseignement supérieur](https://news.belgium.be/fr/harcelement-discriminations-violences-sexistes-et-sexuelles-un-nouveau-cadre-pour-mieux-proteger)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 04:00 · score `20`
+**Presscenter fédéral** · source publique officielle · 10/09/2026 à 09:44 · score `20`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Bruxelles, 10 septembre 2026 – L'Institut pour l'égalité des femmes et des hommes et Unia saluent l’entrée en vigueur à la rentrée académique 2026-2027 du décret visant à lutter contre le harcèlement, les violences sexistes et sexuelles et les discriminations dans l'enseignement supérieur.
+
+### [« Que vont devenir nos travailleurs? »: Samuel craint de voir disparaître son entreprise d’insertion sociale Brillo et ses 50 emplois à Auvelais avec la perte programmée d’un subside de 100.000 euros (photos)](https://www.sudinfo.be/id1192141/article/2026-09-11/que-vont-devenir-nos-travailleurs-samuel-craint-de-voir-disparaitre-son)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 05:50 · score `19`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
 
-> Extrait fourni par la source : Les derniers chiffres de la réforme du chômage menée par le ministre fédéral de l’Emploi David Clarinval (MR) réservent une surprise: en tenant compte de ceux qui retrouvent du travail pour anticiper leur exclusion, les résultats sont nettement meilleurs. Décryptage.
+> Extrait fourni par la source : La réforme wallonne des aides à l’emploi inquiète fortement Samuel Courtois, directeur de la coopérative d’insertion sociale Brillo, à Auvelais (Sambreville). Avec la diminution annoncée des soutiens publics, il redoute de devoir augmenter ses tarifs, réduire ses activités et, à terme, voir disparaître un modèle construit depuis près de vingt ans.
 
-### [Commission de l'énergie, du climat et du logement - 15/09/2026 09:30 - Salle de commission 6](http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc232.pdf)
-
-**Parlement de Wallonie** · source publique officielle · 11/09/2026 à 06:18 · score `18`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type agenda ; nouvel élément d'un flux sans date fournie ; impact concret pour la population ; agenda institutionnel proche.
-
-### [Enseignement: “Quand on voit l’état des bâtiments scolaires aujourd’hui, c’est à pleurer”](https://bx1.be/categories/news/enseignement-quand-on-voit-letat-des-batiments-scolaires-aujourdhui-cest-a-pleurer/)
-
-**BX1** · média d'information · 10/09/2026 à 18:51 · score `18`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les enseignants se sont mobilisés aujourd’hui à Liège contre les économies dans leur secteur. Ils étaient 13.000 manifestants d’après les syndicats, 10.000 selon la police. Enseignants, étudiants et parents dénoncent les suppressions de postes et la hausse des coûts. Fabrice Grosfilley a reçu dans son émission Bonsoir Bruxelles, Fabrice Pina, secrétaire régional de la CSC … lire plus
+## Politiques publiques et société — autres pistes
 
 ### [Eléonore Simonet: “Quand j’entends le mot ‘taxe’, mes oreilles bourdonnent”](https://www.mr.be/eleonore-simonet-quand-jentends-le-mot-taxe-mes-oreilles-bourdonnent/)
 
@@ -102,8 +114,6 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 
 > Extrait fourni par la source : Invitée dans L’Echo du week-end dernier, la Ministre fédérale des Classes moyennes, des Indépendants et des PME, Eléonore Simonet, a évoqué les pistes budgétaires pour trouver 10 milliards, mais elle...
 
-## Politiques publiques et société — autres pistes
-
 ### [Vieillir chez soi… ou autrement? Une conférence pour explorer les solutions](https://www.province.namur.be/2026/09/10/https-www-province-namur-be-2026-09-10-vieillir-chez-soi-ou-autrement-une-conference-pour-explorer-les-solutions/)
 
 **Province de Namur** · source publique officielle · 10/09/2026 à 11:39 · score `18`
@@ -111,12 +121,6 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 **Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population.
 
 > Extrait fourni par la source : Comment adapter son logement pour continuer à vivre chez soi? Faut-il envisager un déménagement ou découvrir de nouvelles formes […]
-
-### [Commission de l'économie, de l'emploi et de la formation - 15/09/2026 09:00 - Salle de commission 7](http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc230.pdf)
-
-**Parlement de Wallonie** · source publique officielle · 11/09/2026 à 06:18 · score `17`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type agenda ; nouvel élément d'un flux sans date fournie ; impact concret pour la population ; agenda institutionnel proche.
 
 ### [Victoire pour le gouvernement De Wever: la réforme du chômage jugée conforme par la Cour constitutionnelle](https://www.dhnet.be/actu/belgique/2026/09/10/victoire-pour-le-gouvernement-de-wever-la-reforme-du-chomage-jugee-conforme-par-la-cour-constitutionnelle-WE7PQYRC4FAFRKOXT5XDCYP32U/)
 
@@ -142,11 +146,45 @@ Autres publications rapprochées automatiquement : [L'Avenir](https://www.laveni
 
 > Extrait fourni par la source : La limitation des allocations de chômage dans le temps est confirmée dans son principe. Mais le régime transitoire qui touchait les chômeurs en troisième période d’indemnisation au 30 juin 2025 est annulé. Cela concernerait potentiellement quelques 100 000 personnes....
 
-### [Van Sportpark Ruggeveld naar Oeganda: Mauro Van Reusel loopt mee in het mekka van de snelste langeafstandslopers ter wereld](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/van-sportpark-ruggeveld-naar-oeganda-mauro-van-reusel-loopt-mee-in-het-mekka-van-de-snelste-langeafstandslopers-ter-wereld/161241235.html)
+### [Le prix du mazout de chauffage en Belgique, encore en hausse ce samedi, flirte avec la barre de 1,6 euro (infographie)](https://www.lavenir.net/actu/conso/2026/09/11/le-prix-du-mazout-de-chauffage-en-belgique-encore-en-hausse-ce-samedi-infographie-CP3C26X4R5HCBOMREGVQR7NRCQ/)
 
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 03:00 · score `16`
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 09:52 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Du changement est annoncé en Belgique dans le prix maximum de certains produits pétroliers ce samedi 12 septembre 2026....
+
+### [Onderzoek bij Vlamingen: PFAS gelinkt aan hogere cholesterol, verstoorde nierfunctie en leverwaarden](https://www.hln.be/binnenland/onderzoek-bij-vlamingen-pfas-gelinkt-aan-hogere-cholesterol-verstoorde-nierfunctie-en-leverwaarden~a49f4b6e/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 09:00 · score `16`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Blootstelling aan PFAS is gelinkt aan verschillende gezondheidsproblemen, zoals een hogere cholesterol, verhoogde leverwaarden en aanwijzingen voor een verstoorde nierfunctie. Dat blijkt vrijdag uit een nieuwe studie bij 1.734 Vlamingen, uitgevoerd door de KU Leuven en de partnerorganisatie Milieugezondheidszorg in opdracht van het Departement Zorg.
+
+Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https://www.gva.be/binnenland/pfas-gelinkt-aan-hogere-cholesterol-verstoorde-nierfunctie-en-leverwaardes-bij-vlamingen/161294007.html).
+
+### [Le PTB revient sur la taxe des millionnaires avec une nouvelle étude: “Le top 1 % en Belgique s’est enrichi de 22 milliards en un an”](https://www.dhnet.be/actu/belgique/2026/09/11/le-ptb-revient-sur-la-taxe-des-millionnaires-avec-une-nouvelle-etude-le-top-1-en-belgique-sest-enrichi-de-22-milliards-en-un-an-4C76TOQROJFWVPNI5Z7K3C3J2E/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 06:35 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Le parti de gauche radicale espère peser sur les négociations budgétaires au fédéral en sortant de nouveaux chiffres. “Il est incompréhensible que le Premier ministre annonce en même temps de nouvelles mesures d’austérité”, déclare Sofie Merckx, cheffe de groupe PTB à la Chambre....
+
+### [« Action de désobéissance civile pour les 50 ans des CPAS: un tapis d’humains et d’humaines pour « accueillir » les invités »](https://rwlp.be/action-de-desobeissance-civile-pour-les-50-ans-des-cpas-un-tapis-dhumains-et-dhumaines-pour-accueillir-les-invites/)
+
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 11/09/2026 à 09:31 · score `15`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 6 heures.
+
+> Extrait fourni par la source : À l’occasion du 50e anniversaire de la Loi organique des CPAS, le Réseau wallon de lutte contre la pauvreté s’est mobilisé aux côtés d’ayants droit, d’animateur·rices et d’intervenant·es sociaux·ales d’associations, ainsi que d’assistantes et assistants sociaux de CPAS. Devant les portes du Business Village Ecolys, à Suarlée, les militant·es ont constitué un véritable « tapis d’humains et d’humaines », comme entrave d’accueil obligatoire pour les quelque 1 200 invité·es à l’évènement.. Allongé·es sur des cartons, dans des sacs de couchage, sur des couvertures de survie, numéroté·es comme des…
+
+### [Van Sportpark Ruggeveld naar Oeganda: Mauro Van Reusel loopt mee in het mekka van de snelste langeafstandslopers ter wereld](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/van-sportpark-ruggeveld-naar-oeganda-mauro-van-reusel-loopt-mee-in-het-mekka-van-de-snelste-langeafstandslopers-ter-wereld/161241235.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 03:00 · score `15`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
 > Extrait fourni par la source : De 23-jarige Mauro Van Reusel krijgt van de Provincie Antwerpen de Prijs voor Mondiaal Onderzoek voor zijn masterproef. Voor zijn documentairefilm Our forest, our champions trok hij naar Oeganda, waar de snelste langeafstandslopers ter wereld thuis zijn. De film gaat zaterdag in première in De Studio.
 
@@ -154,27 +192,11 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 ### ["Ils ne se sont jamais entendus": Egbert Lachaert paie à nouveau le prix des tensions internes chez les libéraux flamands](https://www.lalibre.be/belgique/politique-belge/2026/09/10/ils-ne-se-sont-jamais-entendus-egbert-lachaert-paie-a-nouveau-le-prix-des-tensions-internes-chez-les-liberaux-flamands-LKTN4KYDNBE4HMVRE57FNCPIAA/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 19:12 · score `16`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 19:12 · score `15`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : L’ancien président de l’Open VLD (depuis lors rebaptisé “Anders”) a quitté ses fonctions de chef de groupe au parlement flamand. La raison: ses mauvaises relations avec le nouveau patron des libéraux flamands, Frédéric De Gucht....
-
-### [La Bibliothèque vous présente son nouveau site web](https://finances.belgium.be/fr/Actualites/la-biblioth%C3%A8que-vous-pr%C3%A9sente-son-nouveau-site-web)
-
-**SPF Finances** · source publique officielle · 11/09/2026 à 00:00 · score `15`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 12 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Notre catalogue et notre page web évoluent pour devenir un site complet, moderne et intuitif. Il rassemble en un seul endroit tout ce que vous recherchez à propos de Bib Fin: ouvrages et articles; horaires et accès; services aux particuliers; … et bien plus encore! Le site est disponible dès aujourd'hui. Découvrez-le à l’adresse bibfin.belgium.be! Nous avons également changé d’adresse e-mail et sommes désormais joignables par courriel à bibfin@minfin.fed.be N’hésitez pas à nous contacter pour toute question ou suggestion. Centre des Connaissances - Direction Bibliothèque
-
-### [Evaluatie Good Move zet relatie tussen MR en Groen opnieuw op scherp](https://www.bruzz.be/actua/mobiliteit/evaluatie-good-move-zet-spanning-tussen-mr-en-groen-opnieuw-op-scherp-2026-09-10)
-
-**BRUZZ** · média d'information · 10/09/2026 à 18:23 · score `15`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Groen wil de wettelijke termijnen respecteren voor de invoering van een nieuw gewestelijk mobiliteitsplan, terwijl ze bij de MR snel willen gaan.
 
 ### [Brussel houdt code geel aan voor droogte](https://vrtnws.be/p.6KV7PVXLe)
 
@@ -184,14 +206,6 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : De droogtecode in het Brussels Gewest blijft geel. Dat betekent dat de waakzaamheidsfase van kracht blijft, omdat het nog altijd droog is. Dat heeft de Gewestelijke Droogtecel beslist na een nieuwe evaluatie van de situatie.
 
-### [L'action contre les excès de vitesse est à revoir en Wallonie, estime la Cour des comptes](https://www.lavenir.net/actu/belgique/politique/2026/09/10/laction-contre-les-exces-de-vitesse-est-a-revoir-en-wallonie-estime-la-cour-des-comptes-BOCB4PM5M5GHZFL6UCUU4RIAXA/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 15:45 · score `15`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : La Région wallonne manque d'une stratégie globale et concrète de sécurité routière en vue d'atteindre l'objectif de "zéro tué" sur ses routes en 2050, et n'a aujourd'hui pas non plus les moyens d'évaluer les effets du déploiement de radars, qu'elle finance mais dont elle ne contrôle pas l'utilisation. Ces constats ressortent d'un rapport de la Cour des comptes publié jeudi....
-
 ### [La Belgique obtient gain de cause devant la Cour de cassation dans l'affaire de la taxe annuelle sur les organismes de placement collectif](https://news.belgium.be/fr/la-belgique-obtient-gain-de-cause-devant-la-cour-de-cassation-dans-laffaire-de-la-taxe-annuelle-sur)
 
 **Presscenter fédéral** · source publique officielle · 10/09/2026 à 12:19 · score `15`
@@ -200,45 +214,37 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : L'État belge a obtenu gain de cause devant les Chambres réunies de la Cour de cassation dans quatre pourvois concernant la taxe annuelle sur les organismes de placement collectif, également appelée « taxe d'abonnement ».
 
-### [Nekpijn of een tenniselleboog? Voortaan kun je naar de kinesist gaan zonder voorschrift van de dokter](https://www.gva.be/politiek/nekpijn-of-een-tenniselleboog-voortaan-kun-je-naar-de-kinesist-gaan-zonder-voorschrift-van-de-dokter/161285980.html)
+### [Brussel voert 36 maatregelen in tegen huiselijk geweld: 1 centraal aanspreekpunt voor slachtoffers](https://vrtnws.be/p.w78oXkbVy)
 
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 03:00 · score `14`
+**VRT NWS** · média d'information · 11/09/2026 à 11:03 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : De Brusselse regering heeft een pakket van 36 maatregelen goedgekeurd die slachtoffers van huiselijk geweld moeten ondersteunen op het gebied van veiligheid, geld, juridische bijstand, psychologische hulp, sociaal-economische bescherming en huisvesting. Zo komt er 1 centraal aanspreekpunt, kondigt minister van Gelijke Kansen Ahmed Laaouej (PS) aan.
+
+### [Voor nekpijn en lagerugpijn kun je straks zonder voorschrift naar de kinesist](https://www.standaard.be/binnenland/voor-nekpijn-en-lagerugpijn-kun-je-straks-zonder-voorschrift-naar-de-kinesist/161295645.html)
+
+**De Standaard** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 09:45 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; changement, alerte ou échéance ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Vanaf volgend jaar wordt het mogelijk om, voor lichte aandoeningen zoals nek- en lage rugpijn, naar de kinesist te gaan zonder daarvoor eerst naar de dokter te moeten. De ministerraad keurt daarvoor vrijdag een ontwerp-KB goed van minister van Volksgezondheid Frank Vandenbroucke (Vooruit). Patiënten zullen wel niet bij alle kinesisten terechtkunnen.
+> Extrait fourni par la source : Vanaf volgend jaar wordt het mogelijk om, voor lichte aandoeningen zoals nek- en lagerugpijn, naar de kinesist te gaan zonder eerst een dokter te raadplegen. De ministerraad keurt daarvoor vrijdag een ontwerp-KB goed van minister van Volksgezondheid Frank Vandenbroucke (Vooruit).
 
-Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/politiek/nekpijn-of-een-tenniselleboog-straks-kun-je-naar-de-kinesist-gaan-zonder-voorschrift-van-de-dokter/161287085.html), [Het Nieuwsblad](https://www.nieuwsblad.be/politiek/nekpijn-of-een-tenniselleboog-voortaan-kun-je-naar-de-kinesist-gaan-zonder-voorschrift-van-de-dokter/161275950.html).
+### [Ordre du jour du Conseil des ministres du 11 septembre 2026](https://news.belgium.be/fr/ordre-du-jour-du-conseil-des-ministres-du-11-septembre-2026)
 
-### [La Régie des Bâtiments présente son rapport d’activité 2025](https://news.belgium.be/fr/la-regie-des-batiments-presente-son-rapport-dactivite-2025)
+**Presscenter fédéral** · source publique officielle · 11/09/2026 à 09:11 · score `14`
 
-**Presscenter fédéral** · source publique officielle · 10/09/2026 à 15:54 · score `14`
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation.
+> Extrait fourni par la source : Voici la liste provisoire des points à l'ordre du jour du Conseil des ministres:
 
-> Extrait fourni par la source : La Régie des Bâtiments, le gestionnaire immobilier de l’État fédéral, vient de publier son rapport d’activité 2025.Celui-ci offre un tour d’horizon des projets réalisés en 2025, met en lumière le fonctionnement de l’organisation, ainsi que les avancées et les moyens mis en œuvre pour améliorer son efficacité et atteindre ses objectifs.
+### [Brusselse regering komt met 'Nieuwe start'-pakket voor slachtoffers van huiselijk geweld](https://www.bruzz.be/actua/samenleving/brusselse-regering-komt-met-nieuwe-start-pakket-voor-slachtoffers-van-huiselijk-geweld-2026-09-11)
 
-### [Commission de la santé, de l'environnement et de l'action sociale - 15/09/2026 09:00 - Salle de commission 8](http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc231.pdf)
+**BRUZZ** · média d'information · 11/09/2026 à 08:05 · score `14`
 
-**Parlement de Wallonie** · source publique officielle · 11/09/2026 à 06:18 · score `13`
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type agenda ; nouvel élément d'un flux sans date fournie ; agenda institutionnel proche.
-
-### [Senior Focus poursuit son déploiement: bientôt 25 communes participantes en Province de Namur](https://www.province.namur.be/2026/09/10/senior-focus-2026/)
-
-**Province de Namur** · source publique officielle · 10/09/2026 à 11:29 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Gembloux, Houyet et Rochefort s’apprêtent à rejoindre le dispositif. À l’approche de la Journée internationale des personnes âgées, le 1er […]
-
-### [A l’occasion du 50e anniversaire de la loi organique des CPAS, le RWLP organise une action de désobéissance civile pacifique!](https://rwlp.be/a-loccasion-du-50e-anniversaire-de-la-loi-organique-des-cpas-le-rwlp-organise-une-action-de-desobeissance-civile-pacifique/)
-
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 10/09/2026 à 11:00 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Ce jeudi 10 septembre 2026, le Réseau Wallon de Lutte contre la Pauvreté, accompagné d’associations, de proches et partenaires, de partenaires sociaux, d’étudiant·es en écoles sociales, d’assistant·es sociaux·les, de professeur·es d’hautes écoles d’AS, de chercheur·euses et penseur·euses du travail social, etc., organise une action de désobéissance civile pacifique à l’occasion de l’évènement du 50e anniversaire de la loi organique des CPAS, organisé par la Fédération des CPAS au Business Village Ecolys à Suarlée! Ils constitueront un véritable « tapis d’humains et d’humaines » comme entrave…
+> Extrait fourni par la source : De Brusselse regering heeft donderdag een strategische nota goedgekeurd om het 'Nieuwe start'-pakket in te voeren ter ondersteuning van de slachtoffers van huiselijk geweld.
 
 ## Justice, droits et contrôle — autres pistes
 
@@ -250,11 +256,29 @@ Autres publications rapprochées automatiquement : [Het Belang van Limburg](http
 
 > Extrait fourni par la source : La Fédération des entreprises de Belgique (FEB) s’est réjouie jeudi de l’arrêt de la Cour constitutionnelle concernant la limitation dans le temps des allocations de chômage....
 
+### [Rechter verplicht Belgische staat om overbevolking in Gentse gevangenis aan te pakken: dwangsommen tot 45 miljoen euro](https://www.gva.be/binnenland/rechter-verplicht-belgische-staat-om-overbevolking-in-gentse-gevangenis-aan-te-pakken-dwangsommen-tot-45-miljoen-euro/161296094.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 09:46 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : De rechtbank verplicht de Belgische Staat om de effectieve bezetting van de gevangenis van Gent te reduceren tot 110 procent van haar reële capaciteit. Dat werd vrijdag beslist, nadat de Orde van Vlaamse Balies de Belgische staat rechtstreeks voor de rechter had gedaagd.
+
+Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/binnenland/rechter-verplicht-belgische-staat-om-overbevolking-in-gentse-gevangenis-aan-te-pakken-dwangsommen-tot-45-miljoen-euro/161298256.html), [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/rechter-verplicht-belgische-staat-om-overbevolking-in-gentse-gevangenis-aan-te-pakken-dwangsommen-tot-45-miljoen-euro/161295159.html).
+
+### [“Deze gevangenis is een héél slecht voorbeeld”: rechter verplicht Belgische staat om overbevolking in Gentse gevangenis terug te dringen](https://www.hln.be/gent/deze-gevangenis-is-een-heel-slecht-voorbeeld-rechter-verplicht-belgische-staat-om-overbevolking-in-gentse-gevangenis-terug-te-dringen~ab90380ff/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 11/09/2026 à 09:31 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : De Belgische Staat krijgt zes maanden de tijd om de zware overbevolking in de Gentse gevangenis terug te dringen. Dat heeft de rechtbank van eerste aanleg in Gent beslist. Vandaag zitten er bijna 500 gevangenen in de gevangenis, terwijl de reële capaciteit slechts 246 bedraagt. Als de overheid niet tijdig ingrijpt, dreigen dwangsommen tot 45 miljoen euro. “Mensen komen hier slechter buiten dan ze erin gaan”, klinkt het.
+
 ### [Brakel mag oude dekenij slopen voor nieuw administratief centrum met theaterzaal](https://vrtnws.be/p.xZWLmZ41R)
 
-**VRT NWS** · média d'information · 10/09/2026 à 21:13 · score `15`
+**VRT NWS** · média d'information · 10/09/2026 à 21:13 · score `14`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 24 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : In Brakel kan de leegstaande oude dekenij gesloopt worden. Niemand diende beroep in tegen de sloopplannen. In de plaats wil het bestuur op die plek een nieuw administratief centrum en een theaterzaal bouwen.
 
@@ -268,35 +292,21 @@ Autres publications rapprochées automatiquement : [Het Belang van Limburg](http
 
 > Extrait fourni par la source : En hausse de 1,5% en six mois à Bruxelles, le marché locatif progresse moins vite que l'inflation, d'après le baromètre des agents immobiliers.
 
+### ["Soit on taxe, soit on rationalise": le libéral Samuel D’Orazio prend la tête de l’Union des villes et communes de Wallonie](https://www.rtbf.be/article/soit-on-taxe-soit-on-rationalise-le-liberal-samuel-d-orazio-prend-la-tete-de-l-union-des-villes-et-communes-de-wallonie-11783436)
+
+**RTBF Info** · média d'information · 11/09/2026 à 10:51 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le portrait du nouveau patron des localités wallonnes est paradoxal. Biberonné à la lutte ouvrière, il est le fils de...
+
 ### [Une cour d'appel confirme la suspension du décret de Trump restreignant le vote par correspondance](https://www.lecho.be/r/t/1/id/10685588)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 23:04 · score `17`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 23:04 · score `16`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : La justice américaine bloque à nouveau les restrictions soutenues par Donald Trump concernant le vote par correspondance, en attendant une éventuelle décision de la Cour suprême.
-
-### [Diesel: encore plus cher dès demain, le litre à 2,407 euros](https://www.rtbf.be/article/diesel-encore-plus-cher-des-demain-le-litre-a-2-407-euros-11782915)
-
-**RTBF Info** · média d'information · 10/09/2026 à 14:10 · score `14`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Le prix maximum du diesel B7 atteindra ainsi 2,407 euros le litre, en hausse de 5,1 centimes d’euro. Il se rapproche de...
-
-### [Wie neemt het stuur over? De routekaart voor een vlotte overdracht van uw familiebedrijf](https://www.tijd.be/r/t/1/id/10685428)
-
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 10/09/2026 à 05:03 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : De komende tien jaar moet ruim een derde van de Belgische familiebedrijven werk maken van de overdracht naar de volgende generatie, zo blijkt uit een recente studie. Maar een zaak overlaten is veel meer dan simpelweg het overdragen van de aandelen. Hoe pakt u dat aan? Wij vroegen het aan een aantal experts.
-
-### [Aangepast tramnet in Gent vanaf 14 september door spoorwerken](https://delijn.prezly.com/aangepast-tramnet-in-gent-vanaf-14-september-door-spoorwerken)
-
-**De Lijn** · source publique officielle · 10/09/2026 à 17:36 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; changement, alerte ou échéance.
 
 ## Méthode et limites
 
