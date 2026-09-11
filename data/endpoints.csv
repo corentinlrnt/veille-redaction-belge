@@ -54,7 +54,8 @@ competition_news,competition_authority,Actualités,https://www.abc-bma.be/fr/pro
 onem_press,onem,Espace presse,https://www.onem.be/espace-presse,http_get,html,communiqués|statistiques,fr,true,2026-08-27,Page officielle
 onss_news,onss,Actualités,https://www.onss.be/actualites,http_get,html,actualités|statistiques,fr,true,2026-08-27,Page officielle
 inasti_news,inasti,Actualités,https://www.inasti.be/fr/actualites,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
-inami_news,inami,Nouvelles,https://www.inami.fgov.be/fr/page/nouvelles,http_get,html,actualités|communiqués,fr,true,2026-08-27,Page officielle
+inami_news,inami,Nouvelles,https://www.inami.fgov.be/fr/page/nouvelles,http_get,html_articles,actualités,fr,true,2026-09-11,Liste officielle avec cartes liens titres et dates textuelles
+inami_press,inami,Communiqués de presse,https://www.inami.fgov.be/fr/presse,http_get,html_articles,communiqués|statistiques,fr,true,2026-09-11,Liste officielle distincte de la rubrique Nouvelles
 federal_pensions_news,federal_pensions,Actualités,https://www.sfpd.fgov.be/fr/a-propos-de-nous/actualite/,http_get,html,actualités|réformes,fr,true,2026-08-27,Page officielle
 sciensano_press,sciensano,Coin presse,https://www.sciensano.be/fr/coin-presse,http_get,html,actualités|communiqués|données,fr,true,2026-08-27,Page officielle
 kce_press,kce,Communiqués de presse,https://www.kce.fgov.be/fr/persberichten-0,http_get,html,communiqués|études,fr,true,2026-08-27,Lien officiel du menu malgré son chemin néerlandais

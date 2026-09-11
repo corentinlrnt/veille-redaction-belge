@@ -1,0 +1,518 @@
+{
+  "schema_version": 2,
+  "briefing_date": "2026-09-11",
+  "headline": "Réforme du chômage : après l’arrêt, l’épreuve de l’application",
+  "must_know": [
+    {
+      "rank": 1,
+      "title": "La limitation du chômage est maintenue, mais son régime transitoire est partiellement annulé",
+      "new_fact": "La presse et les organisations requérantes rapportent que la Cour constitutionnelle valide le principe de la limitation dans le temps, tout en jugeant discriminatoire une disposition transitoire. Les syndicats estiment qu’environ 100.000 personnes bénéficient d’un sursis.",
+      "why_it_matters": "La réforme demeure, mais son calendrier concret doit être repris pour une partie importante des personnes situées dans les premières vagues d’exclusion.",
+      "watch_today": "Le texte intégral de l’arrêt, la définition exacte des personnes concernées et les instructions que l’ONEM transmettra aux organismes de paiement.",
+      "certainty": "rapporte",
+      "sources": [
+        {
+          "title": "La Cour constitutionnelle valide la réforme du chômage, à l'exception d'une disposition",
+          "publisher": "La Libre Belgique",
+          "source_class": "news_media",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/10/la-cour-constitutionnelle-valide-la-reforme-du-chomage-a-lexception-dune-disposition-53QD4RS7LZDH3HYGMUKK4BYCY4/",
+          "certainty": "rapporte"
+        },
+        {
+          "title": "La Cour constitutionnelle annule partiellement les mesures transitoires de la réforme chômage",
+          "publisher": "Ligue des droits humains",
+          "source_class": "civil_society",
+          "url": "https://www.liguedh.be/droits-sociaux/la-cour-constitutionnelle-annule-partiellement-les-mesures-transitoires-de-la-reforme-chomage-octroyant-un-sursis-a-environ-100-000-personnes/",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Un accès direct au kinésithérapeute est annoncé pour certaines affections légères",
+      "new_fact": "Selon la presse flamande, un projet d’arrêté royal doit permettre à partir de 2027 de consulter certains kinésithérapeutes sans prescription préalable pour des douleurs légères du cou ou du bas du dos, sous conditions encore à préciser.",
+      "why_it_matters": "La mesure modifierait le parcours de soins, la fonction de filtre du médecin généraliste et potentiellement les conditions de remboursement.",
+      "watch_today": "Le texte adopté par le Conseil des ministres, les affections couvertes, la qualification exigée des kinésithérapeutes et les règles de remboursement.",
+      "certainty": "rapporte",
+      "sources": [
+        {
+          "title": "Voortaan kun je naar de kinesist gaan zonder voorschrift van de dokter",
+          "publisher": "Gazet van Antwerpen",
+          "source_class": "news_media",
+          "url": "https://www.gva.be/politiek/nekpijn-of-een-tenniselleboog-voortaan-kun-je-naar-de-kinesist-gaan-zonder-voorschrift-van-de-dokter/161285980.html",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Le diesel atteint un nouveau prix maximum de 2,407 euros le litre",
+      "new_fact": "Le prix maximum annoncé pour le diesel B7 augmente de 5,1 centimes et atteint 2,407 euros le litre.",
+      "why_it_matters": "La hausse se répercute immédiatement sur les automobilistes et peut ensuite toucher les coûts de transport des entreprises et des marchandises.",
+      "watch_today": "La durée du choc, l’écart entre prix maximum et prix pratiqués et la prochaine actualisation officielle du contrat-programme.",
+      "certainty": "rapporte",
+      "sources": [
+        {
+          "title": "Diesel : encore plus cher dès demain, le litre à 2,407 euros",
+          "publisher": "RTBF Info",
+          "source_class": "news_media",
+          "url": "https://www.rtbf.be/article/diesel-encore-plus-cher-des-demain-le-litre-a-2-407-euros-11782915",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "La hausse des nouveaux loyers wallons ralentit au premier semestre",
+      "new_fact": "Le baromètre de Federia cité par L’Avenir chiffre à 1,7 % la progression des loyers wallons au premier semestre 2026.",
+      "why_it_matters": "Un ralentissement du prix des nouveaux baux ne signifie pas nécessairement que le logement redevient accessible ni que tous les territoires suivent la même trajectoire.",
+      "watch_today": "Le baromètre primaire, sa méthode, les différences par province et type de logement et la part des ménages réellement concernés par ces nouveaux contrats.",
+      "certainty": "rapporte",
+      "sources": [
+        {
+          "title": "Loyers en Wallonie : la hausse des prix se calme",
+          "publisher": "L'Avenir",
+          "source_class": "news_media",
+          "url": "https://www.lavenir.net/actu/2026/09/11/loyers-en-wallonie-la-hausse-des-prix-se-calme-mais-le-repit-pourrait-etre-de-courte-duree-3C3IX2A7P5H5JC7NPYJ7XJYFGU/",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Bruxelles maintient le code jaune face à la sécheresse",
+      "new_fact": "La cellule régionale sécheresse a décidé de maintenir la phase de vigilance jaune, selon la VRT.",
+      "why_it_matters": "Le maintien de la vigilance après l’été permet de vérifier si la sécheresse devient une contrainte durable pour l’eau, les sols et les espaces verts urbains.",
+      "watch_today": "Les indicateurs régionaux ayant motivé la décision, les éventuelles restrictions et l’état comparé des nappes, cours d’eau et sols.",
+      "certainty": "rapporte",
+      "sources": [
+        {
+          "title": "Brussel houdt code geel aan voor droogte",
+          "publisher": "VRT NWS",
+          "source_class": "news_media",
+          "url": "https://vrtnws.be/p.6KV7PVXLe",
+          "certainty": "rapporte"
+        }
+      ]
+    }
+  ],
+  "original_pitches": [
+    {
+      "title": "Les 100.000 courriers qu’il faut peut-être réécrire",
+      "pitch": "On pourrait raconter l’arrêt sur le chômage depuis la chaîne administrative qui doit maintenant identifier les personnes repêchées, corriger leur dossier et leur expliquer leurs nouveaux droits.",
+      "central_question": "Qui doit réparer quoi, dans quel ordre, pour que l’annulation partielle ne reste pas une victoire seulement juridique ?",
+      "angle_engine": "system_backstage",
+      "fresh_signal": "L’annulation d’une disposition transitoire est rapportée comme pouvant concerner environ 100.000 personnes.",
+      "dominant_coverage": "Le traitement dominant oppose victoire du gouvernement et victoire partielle des syndicats.",
+      "original_move": "Quitter le duel politique et suivre un dossier concret entre Cour constitutionnelle, ONEM, organisme de paiement, CPAS et personne déjà avertie d’une exclusion.",
+      "factual_basis": [
+        "Le principe de la limitation dans le temps est rapporté comme maintenu.",
+        "Une disposition transitoire est rapportée comme discriminatoire et annulée.",
+        "Le chiffre d’environ 100.000 personnes provient à ce stade des organisations requérantes."
+      ],
+      "checks_needed": [
+        "Lire l’arrêt et isoler précisément la catégorie discriminée.",
+        "Obtenir le nombre de dossiers déjà notifiés dans cette catégorie.",
+        "Demander qui suspend, corrige et réexpédie les décisions individuelles."
+      ],
+      "field_or_incarnation": "Une personne ayant déjà reçu un avertissement d’exclusion et son organisme de paiement, avec documents anonymisés.",
+      "tv_hook": "Le trajet matériel d’un même dossier et les courriers avant/après l’arrêt.",
+      "radio_hook": "Le récit chronologique d’une personne qui ne sait plus quelle date vaut, confronté à l’explication de l’ONEM.",
+      "people_to_explore": [],
+      "verdict": "un_appel_necessaire",
+      "risk_flags": [
+        "chiffre de 100.000 provenant des requérants",
+        "arrêt primaire absent du paquet"
+      ],
+      "sources": [
+        {
+          "title": "La Cour constitutionnelle annule partiellement les mesures transitoires de la réforme chômage",
+          "publisher": "Ligue des droits humains",
+          "source_class": "civil_society",
+          "url": "https://www.liguedh.be/droits-sociaux/la-cour-constitutionnelle-annule-partiellement-les-mesures-transitoires-de-la-reforme-chomage-octroyant-un-sursis-a-environ-100-000-personnes/",
+          "certainty": "declaration"
+        },
+        {
+          "title": "La Cour constitutionnelle valide la réforme du chômage, à l'exception d'une disposition",
+          "publisher": "La Libre Belgique",
+          "source_class": "news_media",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/10/la-cour-constitutionnelle-valide-la-reforme-du-chomage-a-lexception-dune-disposition-53QD4RS7LZDH3HYGMUKK4BYCY4/",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "title": "Des radars financés sans pouvoir mesurer leur effet",
+      "pitch": "On pourrait raconter la politique wallonne contre la vitesse à partir d’un paradoxe : la Région finance des radars mais ne disposerait pas des informations nécessaires pour savoir ce qu’ils changent réellement.",
+      "central_question": "Qui possède les données permettant de relier l’emplacement des radars, les infractions, les vitesses et les accidents ?",
+      "angle_engine": "promise_test",
+      "fresh_signal": "L’Avenir rapporte qu’un audit de la Cour des comptes critique l’absence de stratégie globale et de moyens d’évaluation.",
+      "dominant_coverage": "Le traitement immédiat résume le mauvais bulletin adressé à la politique de sécurité routière.",
+      "original_move": "Reconstituer la circulation des données entre Région, police, justice et communes sur deux radars comparables.",
+      "factual_basis": [
+        "La Région vise zéro tué sur les routes en 2050.",
+        "Le rapport cité estime qu’elle ne peut pas mesurer l’effet du déploiement financé."
+      ],
+      "checks_needed": [
+        "Obtenir le rapport complet de la Cour des comptes.",
+        "Identifier les données détenues par chaque niveau de pouvoir.",
+        "Comparer un radar installé après un diagnostic d’accidents à un radar installé selon un autre critère."
+      ],
+      "field_or_incarnation": "Deux axes wallons équipés de radars, les riverains et les gestionnaires de voirie.",
+      "tv_hook": "Cartes avant/après, comptage de vitesse et visualisation des silos de données.",
+      "radio_hook": "Parcours d’un signalement de riverain jusqu’à la décision d’installer ou non un radar.",
+      "people_to_explore": [],
+      "verdict": "un_appel_necessaire",
+      "risk_flags": [
+        "rapport primaire absent du paquet",
+        "article possiblement réservé aux abonnés"
+      ],
+      "sources": [
+        {
+          "title": "L'action contre les excès de vitesse est à revoir en Wallonie, estime la Cour des comptes",
+          "publisher": "L'Avenir",
+          "source_class": "news_media",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/10/laction-contre-les-exces-de-vitesse-est-a-revoir-en-wallonie-estime-la-cour-des-comptes-BOCB4PM5M5GHZFL6UCUU4RIAXA/",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "title": "Le rendez-vous médical supprimé déplace-t-il seulement l’attente ?",
+      "pitch": "On pourrait raconter l’accès direct au kinésithérapeute en suivant deux patients identiques dans des territoires où l’offre de kinés et de généralistes diffère fortement.",
+      "central_question": "La suppression de la prescription raccourcit-elle réellement le parcours ou déplace-t-elle le manque de soignants ?",
+      "angle_engine": "concrete_impact",
+      "fresh_signal": "Un projet d’arrêté royal doit ouvrir en 2027 un accès direct limité à certains kinésithérapeutes.",
+      "dominant_coverage": "Le traitement dominant présente la mesure comme une simplification pour des douleurs courantes.",
+      "original_move": "Tester le gain de temps, le coût et l’orientation du patient dans deux bassins de soins plutôt que commenter le principe.",
+      "factual_basis": [
+        "La mesure est annoncée pour des affections légères et pas auprès de tous les kinésithérapeutes.",
+        "Les conditions de remboursement et de qualification doivent encore être vérifiées."
+      ],
+      "checks_needed": [
+        "Obtenir le projet d’arrêté royal.",
+        "Cartographier les kinés habilités et les délais de rendez-vous.",
+        "Vérifier les critères de renvoi vers un médecin."
+      ],
+      "field_or_incarnation": "Deux cabinets de kinésithérapie et deux patients confrontés à la même douleur dans des zones différentes.",
+      "tv_hook": "Deux parcours chronométrés, de la prise de rendez-vous au début du traitement.",
+      "radio_hook": "La première consultation et le moment où le kiné décide de traiter ou de renvoyer.",
+      "people_to_explore": [],
+      "verdict": "a_developper",
+      "risk_flags": [
+        "texte non encore obtenu",
+        "entrée en vigueur future"
+      ],
+      "sources": [
+        {
+          "title": "Voortaan kun je naar de kinesist gaan zonder voorschrift van de dokter",
+          "publisher": "Gazet van Antwerpen",
+          "source_class": "news_media",
+          "url": "https://www.gva.be/politiek/nekpijn-of-een-tenniselleboog-voortaan-kun-je-naar-de-kinesist-gaan-zonder-voorschrift-van-de-dokter/161285980.html",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "title": "Sur le campus, la protection dépend encore du statut",
+      "pitch": "On pourrait raconter le nouveau cadre contre les violences dans le supérieur par les personnes qu’il ne couvre pas de la même manière : doctorants, chercheurs et membres du personnel.",
+      "central_question": "Que devient une plainte lorsque la victime ou l’auteur présumé n’entre pas dans la catégorie étudiante visée par le décret ?",
+      "angle_engine": "concrete_impact",
+      "fresh_signal": "L’IEFH et Unia saluent l’entrée en vigueur du décret tout en pointant explicitement une limite de champ.",
+      "dominant_coverage": "Le communiqué met d’abord en avant les plans stratégiques, points de contact, cellules d’écoute et sanctions.",
+      "original_move": "Tester le même scénario de plainte selon quatre statuts universitaires et comparer les procédures réellement disponibles.",
+      "factual_basis": [
+        "Chaque établissement doit prévoir un point de contact.",
+        "Le cadre annoncé organise des procédures et sanctions entre étudiants.",
+        "L’IEFH et Unia indiquent que doctorants, chercheurs et personnels ne relèvent pas du même champ."
+      ],
+      "checks_needed": [
+        "Lire le décret et ses mesures d’exécution.",
+        "Comparer les règlements de plusieurs établissements.",
+        "Vérifier les voies disciplinaires et externes selon le statut."
+      ],
+      "field_or_incarnation": "Un point de contact de rentrée et des personnes de statuts différents, sans exposer une victime identifiable.",
+      "tv_hook": "Un organigramme concret des portes auxquelles frapper selon chaque statut.",
+      "radio_hook": "Mise en situation anonymisée d’une même plainte racontée à quatre services compétents.",
+      "people_to_explore": [],
+      "verdict": "a_developper",
+      "risk_flags": [
+        "témoignages sensibles",
+        "communiqué cosigné par des acteurs impliqués dans le dispositif"
+      ],
+      "sources": [
+        {
+          "title": "Harcèlement, discriminations, violences sexistes et sexuelles : un nouveau cadre",
+          "publisher": "Presscenter fédéral",
+          "source_class": "institution",
+          "url": "https://news.belgium.be/fr/harcelement-discriminations-violences-sexistes-et-sexuelles-un-nouveau-cadre-pour-mieux-proteger",
+          "certainty": "etabli"
+        }
+      ]
+    }
+  ],
+  "source_leads": [
+    {
+      "title": "La STIB annonce 500 arrêts accessibles aux personnes à mobilité réduite",
+      "published_clue": "La STIB publie un jalon chiffré de 500 arrêts rendus accessibles.",
+      "potential_reveal": "Le nombre d’arrêts adaptés ne dit pas encore combien de trajets complets sont praticables sans rupture entre trottoir, véhicule et destination.",
+      "editorial_question": "Combien de déplacements de porte à porte deviennent réellement autonomes grâce à ces aménagements ?",
+      "first_verification": "Obtenir la liste des 500 arrêts, leur niveau d’accessibilité et la méthode de certification.",
+      "certainty": "declaration",
+      "sources": [
+        {
+          "title": "500 arrêts rendus accessibles aux PMR",
+          "publisher": "STIB",
+          "source_class": "public_company",
+          "url": "https://stib.prezly.com/500-arrets-rendus-accessibles-aux-pmr",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "La Régie des Bâtiments publie son rapport d’activité 2025",
+      "published_clue": "Le gestionnaire immobilier fédéral annonce un nouveau rapport couvrant ses projets, son fonctionnement et ses moyens.",
+      "potential_reveal": "Le rapport peut fournir une porte d’entrée chiffrée sur l’état, l’occupation, la rénovation et le coût du patrimoine fédéral.",
+      "editorial_question": "Quels bâtiments coûtent encore à entretenir sans répondre correctement aux besoins des services publics ?",
+      "first_verification": "Télécharger le rapport, inventorier les indicateurs comparables et identifier les postes sans objectif mesurable.",
+      "certainty": "declaration",
+      "sources": [
+        {
+          "title": "La Régie des Bâtiments présente son rapport d’activité 2025",
+          "publisher": "Presscenter fédéral",
+          "source_class": "institution",
+          "url": "https://news.belgium.be/fr/la-regie-des-batiments-presente-son-rapport-dactivite-2025",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "Senior Focus doit bientôt couvrir 25 communes namuroises",
+      "published_clue": "La Province de Namur annonce l’arrivée de Gembloux, Houyet et Rochefort dans le dispositif.",
+      "potential_reveal": "Le déploiement communal permet de mesurer l’usage réel d’un outil destiné à sécuriser l’intervention auprès de personnes âgées isolées.",
+      "editorial_question": "Dans combien d’interventions le dispositif change-t-il effectivement la prise en charge ?",
+      "first_verification": "Obtenir le nombre d’inscrits, d’activations, d’utilisations par les secours et de communes encore absentes.",
+      "certainty": "declaration",
+      "sources": [
+        {
+          "title": "Senior Focus poursuit son déploiement : bientôt 25 communes participantes",
+          "publisher": "Province de Namur",
+          "source_class": "institution",
+          "url": "https://www.province.namur.be/2026/09/10/senior-focus-2026/",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "Le RWLP utilise les 50 ans des CPAS pour contester leur évolution",
+      "published_clue": "Le réseau annonce une action de désobéissance civile pacifique lors de l’anniversaire de la loi organique des CPAS.",
+      "potential_reveal": "Au-delà de l’action militante, l’anniversaire peut servir à comparer les missions d’origine, les charges actuelles et les nouvelles conséquences de la réforme du chômage.",
+      "editorial_question": "Quelles tâches les CPAS accomplissent-ils aujourd’hui sans moyens ou indicateurs correspondant à cette transformation ?",
+      "first_verification": "Distinguer les affirmations du RWLP des données des CPAS et obtenir une série longue sur dossiers, personnel, délais et aides.",
+      "certainty": "declaration",
+      "sources": [
+        {
+          "title": "Action à l’occasion du 50e anniversaire de la loi organique des CPAS",
+          "publisher": "Réseau wallon de lutte contre la pauvreté",
+          "source_class": "civil_society",
+          "url": "https://rwlp.be/a-loccasion-du-50e-anniversaire-de-la-loi-organique-des-cpas-le-rwlp-organise-une-action-de-desobeissance-civile-pacifique/",
+          "certainty": "declaration"
+        }
+      ]
+    }
+  ],
+  "long_term_projects": [
+    {
+      "title": "Le patrimoine fédéral pièce par pièce",
+      "pitch": "On pourrait mesurer ce que l’État possède, utilise, laisse vide et doit rénover, puis suivre trois bâtiments comparables jusqu’à la décision d’investir, vendre ou déménager.",
+      "structural_question": "L’État connaît-il assez précisément son parc immobilier pour arbitrer entre coût, service public et rénovation énergétique ?",
+      "fresh_starting_point": "La publication du rapport d’activité 2025 de la Régie des Bâtiments.",
+      "why_in_line": "Le chantier relie finances publiques, conditions de travail, patrimoine, énergie et fonctionnement concret de l’État.",
+      "first_evidence": [
+        "Un nouveau rapport d’activité est annoncé.",
+        "La Régie se présente comme le gestionnaire immobilier de l’État fédéral."
+      ],
+      "research_tracks": [
+        "Construire l’inventaire des surfaces, occupations, coûts et performances énergétiques.",
+        "Comparer objectifs annoncés et réalisations sur plusieurs exercices.",
+        "Identifier trois bâtiments illustrant rénovation, vacance et location externe."
+      ],
+      "terrain_or_people": [
+        "Agents travaillant dans un bâtiment dégradé",
+        "Bâtiment vide encore entretenu",
+        "Régie des Bâtiments et Inspection des finances"
+      ],
+      "blind_spots": [
+        "Le communiqué ne livre aucun chiffre.",
+        "Certaines données peuvent être dispersées entre administrations occupantes."
+      ],
+      "certainty": "hypothese",
+      "sources": [
+        {
+          "title": "La Régie des Bâtiments présente son rapport d’activité 2025",
+          "publisher": "Presscenter fédéral",
+          "source_class": "institution",
+          "url": "https://news.belgium.be/fr/la-regie-des-batiments-presente-son-rapport-dactivite-2025",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "Un trajet accessible ne se résume pas à un arrêt",
+      "pitch": "On pourrait tester une série de déplacements bruxellois annoncés comme accessibles, du domicile à la destination, avec différents handicaps et à différentes heures.",
+      "structural_question": "Où se situent encore les ruptures qui empêchent un trajet autonome malgré l’adaptation d’un arrêt ?",
+      "fresh_starting_point": "La STIB annonce avoir atteint 500 arrêts accessibles.",
+      "why_in_line": "Le sujet confronte un indicateur public visible à l’expérience quotidienne d’un service essentiel.",
+      "first_evidence": [
+        "Un seuil de 500 arrêts est annoncé par l’opérateur.",
+        "La publication ne suffit pas à établir l’accessibilité de trajets complets."
+      ],
+      "research_tracks": [
+        "Obtenir la carte et les catégories d’accessibilité.",
+        "Échantillonner des trajets incluant correspondance et dernier kilomètre.",
+        "Comparer information en temps réel et état observé."
+      ],
+      "terrain_or_people": [
+        "Usagers en fauteuil",
+        "Personnes malvoyantes",
+        "Conducteurs et service infrastructure de la STIB"
+      ],
+      "blind_spots": [
+        "Le type précis d’adaptation des 500 arrêts n’est pas fourni dans le paquet.",
+        "L’accessibilité varie selon le véhicule et l’environnement communal."
+      ],
+      "certainty": "hypothese",
+      "sources": [
+        {
+          "title": "500 arrêts rendus accessibles aux PMR",
+          "publisher": "STIB",
+          "source_class": "public_company",
+          "url": "https://stib.prezly.com/500-arrets-rendus-accessibles-aux-pmr",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "Cinquante ans de CPAS, une mission devenue méconnaissable ?",
+      "pitch": "On pourrait enquêter sur la transformation du travail des CPAS en comparant leurs missions légales, leurs dossiers et leurs effectifs à plusieurs moments depuis 1976.",
+      "structural_question": "Les moyens, métiers et indicateurs des CPAS ont-ils suivi l’élargissement de ce qu’on leur demande ?",
+      "fresh_starting_point": "Le cinquantième anniversaire de la loi organique et la contestation organisée par le RWLP.",
+      "why_in_line": "Le chantier croise pauvreté, institutions locales, réformes fédérales et accès effectif aux droits.",
+      "first_evidence": [
+        "La loi organique fête ses 50 ans.",
+        "Des organisations de terrain utilisent cet anniversaire pour dénoncer l’évolution du système."
+      ],
+      "research_tracks": [
+        "Comparer missions légales et catégories de demandes sur plusieurs décennies.",
+        "Construire une série sur effectifs, délais et bénéficiaires dans plusieurs communes.",
+        "Mesurer les transferts de charge issus des réformes fédérales et régionales."
+      ],
+      "terrain_or_people": [
+        "Assistants sociaux entrés dans le métier à différentes époques",
+        "Bénéficiaires confrontés à plusieurs institutions",
+        "Petits et grands CPAS wallons et bruxellois"
+      ],
+      "blind_spots": [
+        "Le signal initial est militant.",
+        "Les séries historiques risquent de ne pas être homogènes entre communes."
+      ],
+      "certainty": "hypothese",
+      "sources": [
+        {
+          "title": "Action à l’occasion du 50e anniversaire de la loi organique des CPAS",
+          "publisher": "Réseau wallon de lutte contre la pauvreté",
+          "source_class": "civil_society",
+          "url": "https://rwlp.be/a-loccasion-du-50e-anniversaire-de-la-loi-organique-des-cpas-le-rwlp-organise-une-action-de-desobeissance-civile-pacifique/",
+          "certainty": "declaration"
+        }
+      ]
+    },
+    {
+      "title": "Vieillir chez soi : ce que les dispositifs locaux changent vraiment",
+      "pitch": "On pourrait tester plusieurs outils communaux destinés au maintien à domicile des personnes âgées et mesurer leur usage réel plutôt que leur simple déploiement.",
+      "structural_question": "Quels dispositifs réduisent effectivement les risques et l’isolement, et lesquels restent surtout des inscriptions ou du matériel peu utilisé ?",
+      "fresh_starting_point": "Senior Focus doit atteindre 25 communes participantes dans la province de Namur.",
+      "why_in_line": "Le sujet relie vieillissement, santé, autonomie, pouvoirs locaux et inégalités territoriales.",
+      "first_evidence": [
+        "Trois nouvelles communes sont annoncées dans le dispositif.",
+        "Une conférence provinciale pose parallèlement la question des formes du vieillissement à domicile ou ailleurs."
+      ],
+      "research_tracks": [
+        "Comparer inscription, activation et utilisation effective par commune.",
+        "Recenser les autres dispositifs locaux et leurs évaluations.",
+        "Identifier les communes non participantes et leurs alternatives."
+      ],
+      "terrain_or_people": [
+        "Personnes âgées vivant seules",
+        "Services de secours",
+        "Aidants proches et responsables communaux"
+      ],
+      "blind_spots": [
+        "Le paquet ne contient pas d’évaluation d’impact.",
+        "Les publics les plus isolés peuvent aussi être les moins susceptibles de s’inscrire."
+      ],
+      "certainty": "hypothese",
+      "sources": [
+        {
+          "title": "Senior Focus poursuit son déploiement : bientôt 25 communes participantes",
+          "publisher": "Province de Namur",
+          "source_class": "institution",
+          "url": "https://www.province.namur.be/2026/09/10/senior-focus-2026/",
+          "certainty": "declaration"
+        },
+        {
+          "title": "Vieillir chez soi… ou autrement ?",
+          "publisher": "Province de Namur",
+          "source_class": "institution",
+          "url": "https://www.province.namur.be/2026/09/10/https-www-province-namur-be-2026-09-10-vieillir-chez-soi-ou-autrement-une-conference-pour-explorer-les-solutions/",
+          "certainty": "declaration"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "signal": "Des demandeurs d’emploi retrouveraient un travail avant même leur exclusion",
+      "why_too_weak": "Le paquet ne fournit que l’interprétation d’un article et pas les données permettant de séparer anticipation, causalité et effets de composition.",
+      "trigger": "Publication du tableau ONEM complet avec cohortes comparables et définition du retour à l’emploi.",
+      "sources": [
+        {
+          "title": "Ces chiffres de la réforme du chômage qui changent la donne",
+          "publisher": "Sudinfo",
+          "source_class": "news_media",
+          "url": "https://www.sudinfo.be/id1192131/article/2026-09-11/ces-chiffres-de-la-reforme-du-chomage-qui-changent-la-donne-certains-retrouvent",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "signal": "L’évaluation de Good Move ravive la tension entre MR et Groen",
+      "why_too_weak": "Le désaccord politique est visible, mais les résultats précis de l’évaluation ne figurent pas dans le paquet.",
+      "trigger": "Publication de l’évaluation complète et d’indicateurs permettant de distinguer mobilité, sécurité, pollution et effets par quartier.",
+      "sources": [
+        {
+          "title": "Evaluatie Good Move zet relatie tussen MR en Groen opnieuw op scherp",
+          "publisher": "BRUZZ",
+          "source_class": "news_media",
+          "url": "https://www.bruzz.be/actua/mobiliteit/evaluatie-good-move-zet-spanning-tussen-mr-en-groen-opnieuw-op-scherp-2026-09-10",
+          "certainty": "rapporte"
+        }
+      ]
+    },
+    {
+      "signal": "La stabilisation des loyers wallons pourrait n’être qu’un répit",
+      "why_too_weak": "Le document primaire de Federia et sa ventilation ne sont pas encore présents ; un chiffre agrégé ne suffit pas à conclure sur l’accessibilité.",
+      "trigger": "Accès au baromètre complet, aux loyers médians par zone et type de bien et à une comparaison avec les revenus disponibles.",
+      "sources": [
+        {
+          "title": "Loyers en Wallonie : la hausse des prix se calme",
+          "publisher": "L'Avenir",
+          "source_class": "news_media",
+          "url": "https://www.lavenir.net/actu/2026/09/11/loyers-en-wallonie-la-hausse-des-prix-se-calme-mais-le-repit-pourrait-etre-de-courte-duree-3C3IX2A7P5H5JC7NPYJ7XJYFGU/",
+          "certainty": "rapporte"
+        }
+      ]
+    }
+  ],
+  "editorial_note": "Cette édition est une calibration produite à partir du paquet des 36 heures. Les chiffres et conséquences attribués à la presse, aux syndicats ou aux institutions restent explicitement rapportés tant que les documents primaires manquants n’ont pas été consultés."
+}

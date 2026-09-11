@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "briefing_date": "2026-09-11",
+  "briefing_sha256": "0c68d0de5c176eae254aa9356ebd877a43a37932117bbff4296b76220abfb8e4",
+  "overall_comment": "",
+  "items": [
+    {
+      "item_id": "must_know-a9a167119daf",
+      "section": "must_know",
+      "title": "La limitation du chômage est maintenue, mais son régime transitoire est partiellement annulé",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "must_know-0eb49f04e43a",
+      "section": "must_know",
+      "title": "Un accès direct au kinésithérapeute est annoncé pour certaines affections légères",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "must_know-b16c7128412a",
+      "section": "must_know",
+      "title": "Le diesel atteint un nouveau prix maximum de 2,407 euros le litre",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "must_know-d1e9ffc85241",
+      "section": "must_know",
+      "title": "La hausse des nouveaux loyers wallons ralentit au premier semestre",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "must_know-1a6ffcd2ec79",
+      "section": "must_know",
+      "title": "Bruxelles maintient le code jaune face à la sécheresse",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "original_pitches-eb8384015540",
+      "section": "original_pitches",
+      "title": "Les 100.000 courriers qu’il faut peut-être réécrire",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "original_pitches-b905415799f1",
+      "section": "original_pitches",
+      "title": "Des radars financés sans pouvoir mesurer leur effet",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "original_pitches-7422f75f3dad",
+      "section": "original_pitches",
+      "title": "Le rendez-vous médical supprimé déplace-t-il seulement l’attente ?",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "original_pitches-be08b68a91f6",
+      "section": "original_pitches",
+      "title": "Sur le campus, la protection dépend encore du statut",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "source_leads-f3600baa9276",
+      "section": "source_leads",
+      "title": "La STIB annonce 500 arrêts accessibles aux personnes à mobilité réduite",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "source_leads-a010c29a70e8",
+      "section": "source_leads",
+      "title": "La Régie des Bâtiments publie son rapport d’activité 2025",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "source_leads-50596c0cbac6",
+      "section": "source_leads",
+      "title": "Senior Focus doit bientôt couvrir 25 communes namuroises",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "source_leads-f982b100cbef",
+      "section": "source_leads",
+      "title": "Le RWLP utilise les 50 ans des CPAS pour contester leur évolution",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "long_term_projects-261282c030bd",
+      "section": "long_term_projects",
+      "title": "Le patrimoine fédéral pièce par pièce",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "long_term_projects-19f46060b3ad",
+      "section": "long_term_projects",
+      "title": "Un trajet accessible ne se résume pas à un arrêt",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "long_term_projects-2d315e92ec47",
+      "section": "long_term_projects",
+      "title": "Cinquante ans de CPAS, une mission devenue méconnaissable ?",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "long_term_projects-cc403292bedf",
+      "section": "long_term_projects",
+      "title": "Vieillir chez soi : ce que les dispositifs locaux changent vraiment",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "watchlist-d068d2412b16",
+      "section": "watchlist",
+      "title": "Des demandeurs d’emploi retrouveraient un travail avant même leur exclusion",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "watchlist-f1e909b0ce49",
+      "section": "watchlist",
+      "title": "L’évaluation de Good Move ravive la tension entre MR et Groen",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    },
+    {
+      "item_id": "watchlist-f5a0b91b3799",
+      "section": "watchlist",
+      "title": "La stabilisation des loyers wallons pourrait n’être qu’un répit",
+      "verdict": null,
+      "useful": null,
+      "original": null,
+      "feasible": null,
+      "source_value": null,
+      "comment": ""
+    }
+  ]
+}

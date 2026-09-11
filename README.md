@@ -26,6 +26,7 @@ Ce dépôt construit la salle des machines d'un briefing matinal pour la rédact
 - `data/editorial_rules.json` : catégories, seuils et signaux du score explicable ;
 - `data/editorial_profile.json` : mission, moteurs d'angle et contraintes du journaliste éditorial ;
 - `data/editorial_output_schema.json` : contrat structuré du briefing final ;
+- `data/editorial_feedback_schema.json` : contrat des appréciations accumulées pendant la calibration ;
 - `docs/editorial-canvas.md` : canevas éditorial canonique, dérivé du corpus de productions JT ;
 - `prompts/editorial-briefing.md` : instructions de l'étage d'analyse éditoriale ;
 - `scripts/audit_coverage.py` : contrôle des manques dans le périmètre déclaré ;
@@ -33,6 +34,8 @@ Ce dépôt construit la salle des machines d'un briefing matinal pour la rédact
 - `scripts/collect_items.py` : collecte résiliente des flux RSS, Atom et JSON Feed ainsi que d'adaptateurs publics explicitement validés ;
 - `scripts/build_briefing.py` : dédoublonnage, classement et rendu mobile ;
 - `scripts/build_editorial_packet.py` : paquet sourcé sans score destiné à l'analyse éditoriale ;
+- `scripts/finalize_editorial_briefing.py` : validation, traçabilité, archivage et rendu d'une sortie de modèle, indépendamment du fournisseur ;
+- `calibration/` : réponses brutes conservées pendant les essais successifs ;
 - `tests/` : tests unitaires de l'ensemble de la chaîne ;
 - `briefings/` : dernier briefing Markdown et archives quotidiennes ;
 - `docs/index.html` : version mobile publiée avec GitHub Pages ;
@@ -52,6 +55,7 @@ python scripts/probe_sources.py
 python scripts/collect_items.py
 python scripts/build_briefing.py
 python scripts/build_editorial_packet.py
+python scripts/finalize_editorial_briefing.py --response calibration/responses/AAAA-MM-JJ.json
 python -m unittest discover -s tests -v
 ```
 
@@ -68,7 +72,11 @@ Les fichiers suivants sont alors produits :
 - `reports/briefing.json` : sélection éditoriale lisible par une machine ;
 - `reports/editorial-packet.json` : candidats, provenance et profil pour l'étage éditorial ;
 - `reports/editorial-prompt.md` : prompt reproductible contenant le paquet du jour ;
+- `reports/editorial-output.json` : sortie du modèle après validation stricte ;
+- `reports/editorial-generation.json` : empreintes des entrées, fournisseur déclaré et résultats des contrôles ;
 - `briefings/latest.md` et `docs/index.html` : briefing courant.
+- `briefings/editorial/latest.md` : briefing éditorial lisible, produit seulement après validation.
+- `calibration/feedback/AAAA-MM-JJ.json` : grille de retour stable, distincte des règles actives.
 
 Une cible de couverture est complète si toutes les sources qu’elle exige sont enregistrées et possèdent au moins un point d’accès actif. Cela ne signifie pas que ces accès répondent : la sonde de santé le mesure séparément. Une cible obligatoire incomplète ou une erreur de schéma provoque un échec explicite. Une erreur sur un site distant est enregistrée sans faire échouer l’ensemble du traitement.
 
@@ -100,7 +108,18 @@ Les flux découverts automatiquement dans une page HTML apparaissent dans `disco
 
 À 06:00 dans le fuseau `Europe/Brussels`, le workflow teste le code, collecte les flux, applique le score, met à jour le radar Markdown et prépare le paquet d'analyse éditoriale. Les métadonnées des sept derniers jours sont conservées afin qu'une panne ponctuelle n'efface pas les publications déjà récupérées. L'état de première apparition permet de traiter proprement les flux dépourvus de date.
 
-La chaîne distingue désormais deux étages. Le radar déterministe réduit plusieurs milliers d'éléments à un ensemble traçable de candidats. Le paquet éditorial retire ensuite le score lexical et fournit au modèle la provenance, les limites des extraits, les huit moteurs d'angle et le contrat du futur courriel. Dans la même fenêtre glissante de 36 heures, une voie réservée réintroduit jusqu'à huit publications par producteur institutionnel, judiciaire, scientifique, syndical ou associatif afin qu'elles ne disparaissent pas derrière le volume de la presse. Ces signaux frais peuvent nourrir un pas de côté du jour ou ouvrir un projet froid de plusieurs jours. L'appel au modèle, la validation de sa sortie et l'envoi du courriel ne sont pas encore activés.
+La chaîne distingue désormais trois étages. Le radar déterministe réduit plusieurs milliers d'éléments à un ensemble traçable de candidats. Le paquet éditorial retire ensuite le score lexical et fournit au modèle la provenance, les limites des extraits, les huit moteurs d'angle et le contrat du futur courriel. Dans la même fenêtre glissante de 36 heures, une voie réservée réintroduit jusqu'à huit publications par producteur institutionnel, judiciaire, scientifique, syndical ou associatif afin qu'elles ne disparaissent pas derrière le volume de la presse. Ces signaux frais peuvent nourrir un pas de côté du jour ou ouvrir un projet froid de plusieurs jours. Enfin, la sortie du modèle passe par un validateur déterministe avant tout archivage ou rendu : schéma, date, rangs, provenance des liens et usage réel de la voie primaire sont contrôlés. Le fournisseur de modèle reste interchangeable et l'envoi du courriel n'est pas encore activé.
+
+Pendant la calibration, un modèle peut être relié par une commande locale qui lit le prompt sur son entrée standard et renvoie uniquement le JSON attendu :
+
+```bash
+python scripts/finalize_editorial_briefing.py \
+  --command "commande-du-modele" \
+  --provider fournisseur \
+  --model modele
+```
+
+Le dépôt ne contient aucun secret et n'impose aucun service payant. Une réponse obtenue autrement peut être déposée dans `calibration/responses/` puis soumise au même contrôle. Chaque passage conserve les empreintes SHA-256 du prompt, du paquet et du schéma afin qu'une future modification éditoriale reste attribuable à une version précise.
 
 La [méthode éditoriale](docs/editorial-method.md) documente les fenêtres temporelles, le score, le regroupement des titres et les garanties de provenance. Chaque critère est déclaré dans un fichier versionné et pourra être ajusté après les essais en rédaction.
 
@@ -121,6 +140,6 @@ Lorsque les rapports changent, le robot GitHub met à jour uniquement les six fi
 - les API REST WordPress ne livrent que les champs demandés et les adaptateurs HTML exigent des cartes `<article>` datées avec un lien et un titre ;
 - les autres pages HTML et les réseaux sociaux sont sondés mais ne sont pas encore interprétés ;
 - le classement lexical ne comprend pas le contexte ou l'importance réelle d'une annonce ;
-- le paquet éditorial est prêt, mais aucun modèle n'est encore appelé automatiquement ;
+- le validateur et l'archivage éditorial sont prêts, mais aucun fournisseur de modèle gratuit n'est imposé ou appelé automatiquement ;
 - le courriel HTML final et son envoi ne sont pas encore implémentés ;
 - la licence du dépôt doit être décidée avant publication, notamment au regard des règles de l’employeur.
