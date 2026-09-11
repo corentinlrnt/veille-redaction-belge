@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Retour de calibration éditoriale",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "briefing_date",
+    "briefing_sha256",
+    "overall_comment",
+    "items"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "briefing_date": {"type": "string"},
+    "briefing_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "overall_comment": {"type": "string"},
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "item_id",
+          "section",
+          "title",
+          "verdict",
+          "useful",
+          "original",
+          "feasible",
+          "source_value",
+          "comment"
+        ],
+        "properties": {
+          "item_id": {"type": "string"},
+          "section": {
+            "enum": [
+              "must_know",
+              "original_pitches",
+              "source_leads",
+              "long_term_projects",
+              "watchlist"
+            ]
+          },
+          "title": {"type": "string"},
+          "verdict": {
+            "enum": ["a_defendre", "a_garder", "a_jeter", null]
+          },
+          "useful": {"type": ["boolean", "null"]},
+          "original": {"type": ["boolean", "null"]},
+          "feasible": {"type": ["boolean", "null"]},
+          "source_value": {"type": ["boolean", "null"]},
+          "comment": {"type": "string"}
+        }
+      }
+    }
+  }
+}

@@ -23,6 +23,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
 from urllib.parse import urljoin, urlsplit, urlunsplit
+from zoneinfo import ZoneInfo
 
 if __package__:
     from .probe_sources import (
@@ -57,6 +58,8 @@ GENERATOR = "veille-redaction-belge/collector-0.1.0"
 COLLECTABLE_FORMATS = {"rss", "atom", "json_feed", "wp_json", "html_articles"}
 DEFAULT_TIMEOUT = 20.0
 DEFAULT_MAX_BYTES = 3_000_000
+BRUSSELS_TZ = ZoneInfo("Europe/Brussels")
+FUTURE_PUBLICATION_TOLERANCE = timedelta(minutes=5)
 
 
 class TextExtractor(HTMLParser):
@@ -84,6 +87,7 @@ class SemanticArticleParser(HTMLParser):
         self.article_depth = 0
         self.heading_depth = 0
         self.paragraph_depth = 0
+        self.date_depth = 0
         self.active_href = ""
         self.current: dict[str, object] | None = None
         self.articles: list[dict[str, object]] = []
@@ -91,23 +95,28 @@ class SemanticArticleParser(HTMLParser):
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         name = tag.lower()
         values = {key.lower(): (value or "") for key, value in attrs}
+        if name == "a":
+            href = values.get("href", "").strip()
+            if href:
+                self.active_href = href
         if name == "article":
             if self.article_depth == 0:
+                inherited_links = [self.active_href] if self.active_href else []
                 self.current = {
-                    "links": [],
-                    "heading_link": "",
+                    "links": inherited_links,
+                    "heading_link": self.active_href,
                     "heading": [],
                     "paragraph": [],
                     "published_at": "",
+                    "date_text": [],
                 }
             self.article_depth += 1
             return
         if self.current is None:
             return
         if name == "a":
-            href = values.get("href", "").strip()
+            href = self.active_href
             if href:
-                self.active_href = href
                 links = self.current["links"]
                 assert isinstance(links, list)
                 links.append(href)
@@ -121,6 +130,12 @@ class SemanticArticleParser(HTMLParser):
             self.paragraph_depth += 1
         elif name == "time" and not self.current["published_at"]:
             self.current["published_at"] = values.get("datetime", "").strip()
+        elif (
+            name in {"span", "div", "p"}
+            and "date" in values.get("class", "").casefold().split()
+            and not self.current["published_at"]
+        ):
+            self.date_depth += 1
 
     def handle_endtag(self, tag: str) -> None:
         name = tag.lower()
@@ -132,6 +147,9 @@ class SemanticArticleParser(HTMLParser):
             self.active_href = ""
         elif name == "p":
             self.paragraph_depth = 0
+            self.date_depth = 0
+        elif name in {"span", "div"}:
+            self.date_depth = 0
         elif name == "article":
             self.article_depth -= 1
             if self.article_depth == 0:
@@ -139,12 +157,17 @@ class SemanticArticleParser(HTMLParser):
                 self.current = None
                 self.heading_depth = 0
                 self.paragraph_depth = 0
+                self.date_depth = 0
                 self.active_href = ""
 
     def handle_data(self, data: str) -> None:
         if self.current is None:
             return
-        if self.heading_depth:
+        if self.date_depth:
+            date_text = self.current["date_text"]
+            assert isinstance(date_text, list)
+            date_text.append(data)
+        elif self.heading_depth:
             heading = self.current["heading"]
             assert isinstance(heading, list)
             heading.append(data)
@@ -162,6 +185,79 @@ def clean_text(value: str | None, limit: int = 600) -> str:
     if len(text) <= limit:
         return text
     return text[: limit - 1].rsplit(" ", 1)[0] + "…"
+
+
+def parse_listing_datetime(value: str) -> datetime | None:
+    """Interprète aussi les dates civiles belges des listes HTML validées."""
+
+    if parsed := parse_datetime(value):
+        return parsed
+    candidate = " ".join(value.split())
+    for date_format in ("%d-%m-%Y", "%d/%m/%Y", "%d.%m.%Y"):
+        try:
+            local_midnight = datetime.strptime(candidate, date_format).replace(
+                tzinfo=BRUSSELS_TZ
+            )
+        except ValueError:
+            continue
+        return local_midnight.astimezone(timezone.utc)
+    return None
+
+
+def scope_uses_event_dates(content_scope: str) -> bool:
+    scope = content_scope.casefold()
+    return any(
+        marker in scope
+        for marker in ("agenda", "calendrier", "événement", "evenement")
+    )
+
+
+def endpoint_uses_event_dates(endpoint: Endpoint) -> bool:
+    return scope_uses_event_dates(endpoint.content_scope)
+
+
+def normalize_published_dates(
+    items: list[dict[str, object]],
+    endpoint: Endpoint,
+    retrieved_at: str,
+) -> None:
+    """Écarte les dates de publication futures sans casser les agendas.
+
+    Certains CMS exposent comme date de publication une date future alors que
+    la page est déjà visible. La valeur brute reste conservée pour l'audit,
+    tandis que ``first_seen_at`` devient ensuite la date effective. Les flux
+    d'agenda conservent naturellement leurs échéances futures.
+    """
+
+    retrieved = parse_datetime(retrieved_at)
+    if retrieved is None or endpoint_uses_event_dates(endpoint):
+        return
+    for item in items:
+        published = parse_datetime(str(item.get("published_at") or ""))
+        if published is None or published <= retrieved + FUTURE_PUBLICATION_TOLERANCE:
+            continue
+        item["source_published_at"] = item.get("published_at")
+        item["published_at"] = None
+        item["date_status"] = "future_source_date_replaced_by_first_seen"
+
+
+def normalize_dates_against_first_seen(items: Iterable[dict[str, object]]) -> None:
+    """Rattrape une incohérence devenue passée lors d'une collecte ultérieure."""
+
+    for item in items:
+        if scope_uses_event_dates(str(item.get("content_scope") or "")):
+            continue
+        published = parse_datetime(str(item.get("published_at") or ""))
+        first_seen = parse_datetime(str(item.get("first_seen_at") or ""))
+        if (
+            published is None
+            or first_seen is None
+            or published <= first_seen + FUTURE_PUBLICATION_TOLERANCE
+        ):
+            continue
+        item["source_published_at"] = item.get("published_at")
+        item["published_at"] = None
+        item["date_status"] = "future_source_date_replaced_by_first_seen"
 
 
 def canonical_url(value: str, base_url: str) -> str:
@@ -392,7 +488,11 @@ def parse_semantic_html_items(
         title = clean_text(" ".join(str(value) for value in heading), 300) if isinstance(heading, list) else ""
         summary = clean_text(" ".join(str(value) for value in paragraph), 600) if isinstance(paragraph, list) else ""
         raw_date = str(article.get("published_at", ""))
-        parsed_date = parse_datetime(raw_date)
+        if not raw_date:
+            date_text = article.get("date_text", [])
+            if isinstance(date_text, list):
+                raw_date = " ".join(str(value) for value in date_text)
+        parsed_date = parse_listing_datetime(raw_date)
         url = ""
         link_candidates = [article.get("heading_link", "")]
         if isinstance(links, list):
@@ -464,6 +564,7 @@ def collect_endpoint(
             items = parse_semantic_html_items(response.body, endpoint, source, retrieved_at)
         else:
             return CollectionResult(endpoint.endpoint_id, endpoint.source_id, "unsupported", detected, error=f"Format reçu: {detected}")
+        normalize_published_dates(items, endpoint, retrieved_at)
         return CollectionResult(endpoint.endpoint_id, endpoint.source_id, "ok", detected, len(items), items=items)
     except FetchError as exc:
         return CollectionResult(endpoint.endpoint_id, endpoint.source_id, exc.kind, error=str(exc))
@@ -595,7 +696,8 @@ def write_outputs(
         "item_id", "source_id", "source_name", "source_class", "institution_level",
         "geography", "official_status", "access_model", "endpoint_id", "endpoint_label", "content_scope",
         "language", "title", "url", "summary", "published_at", "first_seen_at",
-        "retrieved_at", "categories", "observation_status", "seen_count",
+        "retrieved_at", "source_published_at", "date_status", "categories",
+        "observation_status", "seen_count",
     ]
     with out_csv.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
@@ -675,6 +777,7 @@ def main(argv: list[str] | None = None) -> int:
     now = datetime.now(timezone.utc)
     previous_state, initialized = load_first_seen(args.state)
     state = apply_first_seen(list(current.values()), previous_state, now, initialized)
+    normalize_dates_against_first_seen(current.values())
     deduplicated = {
         str(item["item_id"]): {**item, "observation_status": "cached"}
         for item in previous_items

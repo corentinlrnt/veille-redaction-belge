@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "generator": "veille-redaction-belge/editorial-finalizer-0.1.0",
+  "generated_at": "2026-09-11T08:51:57.784763Z",
+  "briefing_date": "2026-09-11",
+  "transport": "response_file",
+  "provider": "chatgpt-work",
+  "model": "calibration-manual",
+  "inputs": {
+    "prompt": {
+      "path": "reports/editorial-prompt.md",
+      "sha256": "5c2c473f4883e180a8114372d35a1dbcc65ef153ffe2a3f23c39e38f2de68485"
+    },
+    "packet": {
+      "path": "reports/editorial-packet.json",
+      "sha256": "510ff5b2d43602a776da4f4140e7f00f4365696d118debb8858bbacb0d436f02"
+    },
+    "schema": {
+      "path": "data/editorial_output_schema.json",
+      "sha256": "d7c0d56d49c11b4d6d6a992ff7653d5662a0fc190adb57c4c602e9b3041bde40"
+    }
+  },
+  "validation": {
+    "schema": "passed",
+    "editorial_invariants": "passed",
+    "source_references": 23,
+    "distinct_source_urls": 15,
+    "external_source_urls": 0
+  }
+}

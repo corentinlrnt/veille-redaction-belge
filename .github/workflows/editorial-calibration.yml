@@ -1,0 +1,94 @@
+name: Finaliser un briefing éditorial
+
+on:
+  workflow_dispatch:
+    inputs:
+      response_path:
+        description: Chemin du JSON brut à finaliser
+        required: true
+        type: string
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "calibration/responses/**"
+      - "data/editorial_output_schema.json"
+      - "scripts/finalize_editorial_briefing.py"
+      - "tests/test_finalize_editorial_briefing.py"
+  push:
+    branches:
+      - main
+    paths:
+      - "calibration/responses/**"
+
+concurrency:
+  group: editorial-calibration-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Exécuter les tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Choisir la réponse à contrôler
+        id: response
+        shell: bash
+        env:
+          MANUAL_RESPONSE_PATH: ${{ inputs.response_path }}
+        run: |
+          if [ -n "${MANUAL_RESPONSE_PATH}" ]; then
+            response_path="${MANUAL_RESPONSE_PATH}"
+          else
+            response_path="$(find calibration/responses -maxdepth 1 -type f -name '*.json' | sort | tail -n 1)"
+          fi
+          if [ -z "${response_path}" ] || [ ! -f "${response_path}" ]; then
+            echo "Aucune réponse éditoriale JSON trouvée." >&2
+            exit 2
+          fi
+          case "${response_path}" in
+            calibration/responses/*.json) ;;
+            *) echo "Le fichier doit se trouver dans calibration/responses/." >&2; exit 2 ;;
+          esac
+          echo "path=${response_path}" >> "${GITHUB_OUTPUT}"
+
+      - name: Valider, tracer et rendre le briefing
+        run: >-
+          python scripts/finalize_editorial_briefing.py
+          --response "${{ steps.response.outputs.path }}"
+          --provider calibration
+          --model declared-in-pull-request
+
+      - name: Afficher le briefing contrôlé
+        run: tee -a "${GITHUB_STEP_SUMMARY}" < briefings/editorial/latest.md
+
+      - name: Publier les sorties contrôlées
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/editorial-output.json reports/editorial-generation.json
+          git add briefings/editorial/latest.md briefings/editorial/archive
+          git add calibration/feedback
+          if git diff --cached --quiet; then
+            echo "Aucune sortie éditoriale nouvelle."
+          else
+            git commit -m "chore: publier le briefing éditorial calibré"
+            git fetch origin main
+            git rebase origin/main
+            git push
+          fi

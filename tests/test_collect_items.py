@@ -3,6 +3,8 @@ from datetime import datetime, timedelta, timezone
 
 from scripts.collect_items import (
     apply_first_seen,
+    normalize_dates_against_first_seen,
+    normalize_published_dates,
     parse_json_feed_items,
     parse_semantic_html_items,
     parse_wordpress_rest_items,
@@ -89,6 +91,54 @@ class FeedParsingTests(unittest.TestCase):
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0]["title"], "Decision avec impact")
         self.assertEqual(items[0]["url"], "https://example.org/one")
+
+    def test_parses_article_wrapped_by_link_with_textual_belgian_date(self):
+        body = '''<main><a href="/fr/presse/barometre">
+        <article class="feed-news"><span class="date flex-shrink-0">09-09-2026</span>
+        <span>Communique</span><h3>Barometre des independants</h3></article></a></main>'''.encode()
+        items = parse_semantic_html_items(
+            body,
+            endpoint("html_articles"),
+            SOURCE,
+            "2026-09-09T05:00:00Z",
+        )
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["url"], "https://example.org/fr/presse/barometre")
+        self.assertEqual(items[0]["published_at"], "2026-09-08T22:00:00Z")
+
+    def test_replaces_future_publication_date_but_keeps_raw_value(self):
+        items = [{"published_at": "2026-09-11T22:00:00Z"}]
+        normalize_published_dates(
+            items,
+            endpoint("rss"),
+            "2026-09-09T05:00:00Z",
+        )
+        self.assertIsNone(items[0]["published_at"])
+        self.assertEqual(items[0]["source_published_at"], "2026-09-11T22:00:00Z")
+        self.assertEqual(
+            items[0]["date_status"],
+            "future_source_date_replaced_by_first_seen",
+        )
+
+    def test_keeps_future_event_date_for_agenda_endpoint(self):
+        agenda = endpoint("rss")
+        agenda = Endpoint(**{**agenda.__dict__, "content_scope": "agenda|travaux"})
+        items = [{"published_at": "2026-09-11T22:00:00Z"}]
+        normalize_published_dates(items, agenda, "2026-09-09T05:00:00Z")
+        self.assertEqual(items[0]["published_at"], "2026-09-11T22:00:00Z")
+        self.assertNotIn("date_status", items[0])
+
+    def test_replaces_date_later_than_preserved_first_observation(self):
+        items = [
+            {
+                "published_at": "2026-09-10T22:00:00Z",
+                "first_seen_at": "2026-09-09T04:18:01Z",
+                "content_scope": "actualités|communiqués",
+            }
+        ]
+        normalize_dates_against_first_seen(items)
+        self.assertIsNone(items[0]["published_at"])
+        self.assertEqual(items[0]["source_published_at"], "2026-09-10T22:00:00Z")
 
 
 class FirstSeenTests(unittest.TestCase):
