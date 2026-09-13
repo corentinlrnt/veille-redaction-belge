@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-09-12T04:24:33.668548Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-13T04:24:58.488484Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **284**
 - Accès testés : **284**
-- Accès opérationnels : **245**
-- Accès en erreur ou bloqués : **39**
-- Flux candidats découverts : **93**
+- Accès opérationnels : **243**
+- Accès en erreur ou bloqués : **41**
+- Flux candidats découverts : **90**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -60,8 +60,8 @@ Généré le `2026-09-12T04:24:33.668548Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -210,8 +210,8 @@ Généré le `2026-09-12T04:24:33.668548Z` par `veille-redaction-belge/0.1.0`.
 | PTB-PVDA | Nieuws PVDA | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Qu4tre | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Qu4tre | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Rassemblement bruxellois pour le droit à l'habitat | Actualités et actions | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Rassemblement bruxellois pour le droit à l'habitat | Analyses et études | `ok` | 200 | `html → html` | `allowed` | 3 |
+| Rassemblement bruxellois pour le droit à l'habitat | Actualités et actions | `http_error` | 404 | `rss → unknown` | `missing` | 0 |
+| Rassemblement bruxellois pour le droit à l'habitat | Analyses et études | `http_error` | 404 | `html → unknown` | `missing` | 0 |
 | Rassemblement wallon pour le droit à l'habitat | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RINGtv | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | ROBtv | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
