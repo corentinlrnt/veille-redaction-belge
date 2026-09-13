@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-12T04:17:08.363698Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-13T04:17:36.954139Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **62**
 - Flux collectés : **60**
 - Flux en erreur : **2**
-- Éléments conservés : **5271**
+- Éléments conservés : **5304**
 - Sources contributrices : **44**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -20,9 +20,9 @@ Généré le `2026-09-12T04:17:08.363698Z` par `veille-redaction-belge/collector
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
-| `cwape` | `cwape_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 32 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
@@ -59,7 +59,7 @@ Généré le `2026-09-12T04:17:08.363698Z` par `veille-redaction-belge/collector
 | `province_namur` | `province_namur_rss` | `ok` | `rss` | 10 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
-| `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
+| `rbdh` | `rbdh_news` | `http_error` | `unknown` | 0 | HTTP 404: Not Found |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
 | `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
