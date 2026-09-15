@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-14T04:18:37.962495Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-15T04:18:49.021622Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **62**
-- Flux collectés : **60**
-- Flux en erreur : **2**
-- Éléments conservés : **5063**
-- Sources contributrices : **43**
+- Flux collectés : **59**
+- Flux en erreur : **3**
+- Éléments conservés : **4641**
+- Sources contributrices : **45**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -22,7 +22,7 @@ Généré le `2026-09-14T04:18:37.962495Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 30 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 31 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
@@ -33,7 +33,7 @@ Généré le `2026-09-14T04:18:37.962495Z` par `veille-redaction-belge/collector
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
-| `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
+| `fps_finance` | `finance_rss` | `unsupported` | `html` | 0 | Format reçu: html |
 | `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
@@ -48,7 +48,7 @@ Généré le `2026-09-14T04:18:37.962495Z` par `veille-redaction-belge/collector
 | `inami` | `inami_news` | `ok` | `html` | 15 | — |
 | `inami` | `inami_press` | `ok` | `html` | 15 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
-| `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
+| `lavenir` | `lavenir_rss` | `ok` | `rss` | 99 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
 | `lecho` | `lecho_rss` | `ok` | `rss` | 10 | — |
 | `ligue_droits_humains` | `ldh_wp` | `ok` | `rss` | 9 | — |
@@ -69,6 +69,6 @@ Généré le `2026-09-14T04:18:37.962495Z` par `veille-redaction-belge/collector
 | `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 13 | — |
-| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 4 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 9 | — |
+| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 3 | — |
 | `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |

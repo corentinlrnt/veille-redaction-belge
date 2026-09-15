@@ -1,26 +1,551 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-09-14T04:18:38.385385Z",
+  "generated_at": "2026-09-15T04:18:49.407614Z",
   "summary": {
-    "collected_items": 5063,
-    "selected_items": 6,
-    "excluded_items": 2,
+    "collected_items": 4641,
+    "selected_items": 25,
+    "excluded_items": 3,
     "excluded_by_rule": {
-      "actualité étrangère sans angle belge ou effet concret identifié": 1,
-      "sport loisir ou culture sans enjeu collectif": 1
+      "actualité étrangère sans angle belge ou effet concret identifié": 2,
+      "agrégat institutionnel sans sujet unique": 1
     },
     "minimum_score": 10,
     "minimum_score_by_source_class": {
       "news_media": 14
     },
     "by_section": {
-      "justice": 1,
-      "politics": 4,
-      "economy": 1
+      "politics": 18,
+      "economy": 6,
+      "justice": 1
     }
   },
   "items": [
+    {
+      "item_id": "a3768d0b707648f8017732fc",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Arbeider sterft onder zwaar betonnen gewelf als afbraakwerken fout lopen",
+      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/diksmuide/arbeider-sterft-onder-zwaar-betonnen-gewelf-als-afbraakwerken-fout-lopen/161448397.html",
+      "summary": "Bij een arbeidsongeval in de depot van een bouwonderneming in Woumen bij Diksmuide is een arbeider maandagavond om het leven gekomen. De man stierf toen hij een gewelf aan het afbreken was en een groot stuk beton op hem terechtkwam. De politie, het parket en de Dienst Toezicht op het Welzijn op het Werk zijn een onderzoek gestart.",
+      "published_at": "2026-09-15T03:00:00Z",
+      "retrieved_at": "2026-09-15T04:18:13.264511Z",
+      "categories": [
+        "Diksmuide"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence",
+        "accountability"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "bfaaa21d7e9af8745e4bbd3e",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Nouvelle alerte sur le prix de nos carburants: voici pourquoi la prise du détroit de Bab el-Mandeb déstabilise le marché, « Trois euros le litre de diesel? Je ne vois pas ça pour l’instant »",
+      "url": "https://www.sudinfo.be/id1193770/article/2026-09-14/nouvelle-alerte-sur-le-prix-de-nos-carburants-voici-pourquoi-la-prise-du-detroit",
+      "summary": "La prise de contrôle du détroit de Bab el-Mandeb, à l’ouest du Yémen, un endroit stratégique pour le trafic maritime, par une milice islamiste, déstabilise un peu plus le marché du pétrole",
+      "published_at": "2026-09-14T17:01:54Z",
+      "retrieved_at": "2026-09-15T04:18:13.006358Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "17ac143895ccd92d4caab0cf",
+      "source_id": "csa",
+      "source_name": "Conseil supérieur de l'audiovisuel",
+      "source_class": "regulator",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "csa_press_rss",
+      "endpoint_label": "Flux des communiqués de presse",
+      "content_scope": "communiqués|décisions|régulation",
+      "language": "fr",
+      "title": "#PlayFair: optez pour le streaming légal",
+      "url": "https://www.csa.be/301198/playfair-optez-pour-le-streaming-legal/",
+      "summary": "Les pouvoirs publics, le secteur du sport, la fédération du cinéma et le secteur des médias unissent leurs forces dans le cadre d’une campagne de prévention Le SPF Economie et le CSA (Conseil supérieur de l’audiovisuel) lancent, en collaboration avec le secteur des médias belge, la Fédération belge du cinéma et la ProLeague, la campagne […]",
+      "published_at": "2026-09-15T04:00:02Z",
+      "retrieved_at": "2026-09-15T04:18:09.169250Z",
+      "categories": [
+        "Actualités générales",
+        "Communiqués de presse"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type décisions",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures"
+      ],
+      "related_items": [
+        {
+          "source_id": "fps_economy",
+          "source_name": "SPF Économie",
+          "title": "#PlayFair: optez pour le streaming légal",
+          "url": "https://news.economie.fgov.be/270882-playfair-optez-pour-le-streaming-legal/"
+        }
+      ]
+    },
+    {
+      "item_id": "67846c333652be13592fc4a3",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Les prix de l’énergie repartent à la hausse: « Il est évident que des mesures devront être envisagées »",
+      "url": "https://www.sudinfo.be/id1193816/article/2026-09-14/les-prix-de-lenergie-repartent-la-hausse-il-est-evident-que-des-mesures-devront",
+      "summary": "À la commission du parlement wallon, Adrien Dolimont a estimé que la hausse des prix de l’énergie pourrait nécessiter des mesures temporaires et ciblées, si la situation se prolonge jusqu’à l’hiver.",
+      "published_at": "2026-09-14T19:22:45Z",
+      "retrieved_at": "2026-09-15T04:18:13.006358Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "3c1e9e1d58ebc090e1a37931",
+      "source_id": "walloon_parliament",
+      "source_name": "Parlement de Wallonie",
+      "source_class": "parliament",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "walloon_parliament_calendar_rss",
+      "endpoint_label": "Flux du calendrier",
+      "content_scope": "agenda",
+      "language": "fr",
+      "title": "Commission de l'énergie, du climat et du logement - 15/09/2026 09:30 - Salle de commission 6",
+      "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc8.pdf",
+      "summary": "",
+      "published_at": null,
+      "retrieved_at": "2026-09-15T04:18:08.015579Z",
+      "categories": [],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 12,
+      "matched_signals": [
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type agenda",
+        "nouvel élément d'un flux sans date fournie",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "efb2e116183f1117a1ae2915",
+      "source_id": "cawab",
+      "source_name": "Collectif Accessibilité Wallonie Bruxelles",
+      "source_class": "civil_society",
+      "institution_level": "interrégional",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "cawab_news",
+      "endpoint_label": "Actualités",
+      "content_scope": "actualités|avis|accessibilité|handicap",
+      "language": "fr",
+      "title": "Assises bruxelloises l’accessibilité 2026 – 3e édition",
+      "url": "https://cawab.be/assises-bruxelloises-laccessibilite-2026-3e-edition/",
+      "summary": "Mardi 13 octobre 2026 | 9h00 à 17h00Wolubilis, Bruxelles Le CAWaB, avec le soutien d’equal.brussels, organise la 3e édition des Assises bruxelloises de l’accessibilité. Cet événement, qui aura lieu le 13 octobre 2026, rassemblera les principaux acteurs engagés en faveur d’une Région bruxelloise plus accessible et inclusive. Il s’agit d’un moment privilégié pour dresser un […] The post Assises bruxelloises l’accessibilité 2026 – 3e édition appeared first on Le Collectif Accessibilité Wallonie Bruxelles.",
+      "published_at": "2026-09-14T14:34:18Z",
+      "retrieved_at": "2026-09-15T04:18:13.042500Z",
+      "categories": [
+        "Non classé"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type avis",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "abf8bc760133d829438166ff",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Prix de l'énergie: les tarifs sociaux en forte hausse à partir du 1er octobre 2026",
+      "url": "https://www.lavenir.net/actu/conso/2026/09/14/prix-de-lenergie-les-tarifs-sociaux-en-forte-hausse-a-partir-du-1er-octobre-2026-XZRHLXTRQZHT5CDDGBC5NFRIAQ/",
+      "summary": "Les tarifs sociaux du quatrième trimestre, qui seront en vigueur du 1er octobre à la fin de l'année, augmenteront de 11,4% pour le gaz et la chaleur, a annoncé ce lundi la Commission de régulation de l'électricité et du gaz (Creg). Pour l'électricité, ils augmenteront en moyenne de 7% pour les tarifs bihoraire nuit et exclusif nuit....",
+      "published_at": "2026-09-14T09:26:53Z",
+      "retrieved_at": "2026-09-15T04:18:14.135666Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f3d8aedba5ea288d0e83c9f0",
+      "source_id": "walloon_parliament",
+      "source_name": "Parlement de Wallonie",
+      "source_class": "parliament",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "walloon_parliament_calendar_rss",
+      "endpoint_label": "Flux du calendrier",
+      "content_scope": "agenda",
+      "language": "fr",
+      "title": "Commission de l'économie, de l'emploi et de la formation - 15/09/2026 09:00 - Salle de commission 7",
+      "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc6.pdf",
+      "summary": "",
+      "published_at": null,
+      "retrieved_at": "2026-09-15T04:18:08.015579Z",
+      "categories": [],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type agenda",
+        "nouvel élément d'un flux sans date fournie",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "1366d82cb5b89c49dc849368",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "La Wallonie devra-t-elle contribuer aux 10 milliards d’euros d’efforts du fédéral? Adrien Dolimont met les choses au clair!",
+      "url": "https://www.sudinfo.be/id1193809/article/2026-09-14/la-wallonie-devra-t-elle-contribuer-aux-10-milliards-deuros-defforts-du-federal",
+      "summary": "À la commission du parlement wallon, Adrien Dolimont a confirmé lundi qu’aucun accord n’a été donné pour une contribution supplémentaire au budget fédéral, alors que le gouvernement cherche 10 milliards d’euros d’économies.",
+      "published_at": "2026-09-14T18:55:24Z",
+      "retrieved_at": "2026-09-15T04:18:13.006358Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 14,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ea1255a86daf2a31a2e5848b",
+      "source_id": "le_soir",
+      "source_name": "Le Soir",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "le_soir_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "« Chacun doit prendre ses responsabilités »: Dolimont s’exprime sur la contribution de la Wallonie au budget fédéral",
+      "url": "https://www.lesoir.be/770899/article/2026-09-14/chacun-doit-prendre-ses-responsabilites-dolimont-sexprime-sur-la-contribution-de",
+      "summary": "En commission du parlement wallon, Adrien Dolimont a indiqué lundi qu’aucun accord n’avait été donné pour une contribution supplémentaire de la Wallonie au budget fédéral, alors que le fédéral cherche 10 milliards d’euros d’économies d’ici 2029.",
+      "published_at": "2026-09-14T18:38:22Z",
+      "retrieved_at": "2026-09-15T04:18:12.636333Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 12,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9b5167a009e48d28e1d40046",
+      "source_id": "bx1",
+      "source_name": "BX1",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bx1_rss",
+      "endpoint_label": "Flux BX1",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Casino de Bruxelles: SYNOVA demande de réévaluer les offres pour garantir l’emploi",
+      "url": "https://bx1.be/categories/news/casino-de-bruxelles-synova-demande-de-reevaluer-les-offres-pour-garantir-lemploi/",
+      "summary": "Le syndicat libre SYNOVA demande de réévaluer les différentes offres par un groupe d’experts indépendants pour l’octroi de la concession liée au casino de Bruxelles. La priorité, selon l’organisation, est de pérenniser l’emploi des 286 travailleurs. Il y a deux semaines, le Conseil d’État a suspendu la décision de la Ville de Bruxelles d’attribuer la … lire plus",
+      "published_at": "2026-09-14T16:47:46Z",
+      "retrieved_at": "2026-09-15T04:18:13.964056Z",
+      "categories": [
+        "Bruxelles-ville",
+        "News",
+        "casino de bruxelles",
+        "synova"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "554102a8137a99ec0fe16891",
+      "source_id": "de_standaard",
+      "source_name": "De Standaard",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "de_standaard_rss",
+      "endpoint_label": "Binnenland",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Provincie Oost-Vlaanderen ontslaat leerkracht omdat ze hoofddoek niet wil afzetten",
+      "url": "https://www.standaard.be/binnenland/provincie-oost-vlaanderen-ontslaat-leerkracht-omdat-ze-hoofddoek-niet-wil-afzetten/161399818.html",
+      "summary": "De provincie Oost-Vlaanderen heeft beslist leerkracht Hadija Amajoud te ontslaan omdat ze weigert haar hoofddoek af te zetten tijdens haar werk. “Ik verlies niet alleen mijn job, maar ook mijn inkomen, mijn zekerheid en mijn vaste benoeming. Alles wat ik heb opgebouwd, is nu ineens weg”, reageert Amajoud.",
+      "published_at": "2026-09-14T05:18:00Z",
+      "retrieved_at": "2026-09-15T04:18:13.413360Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "1f1ff8c6d02fd7a04ac8ae5e",
+      "source_id": "qu4tre",
+      "source_name": "Qu4tre",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "qu4tre_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|presse|terrain|politique|économie",
+      "language": "fr",
+      "title": "Le premier tribus 100 % électrique arrive à Liège",
+      "url": "https://www.qu4tre.be/infos/le-premier-tribus-100-electrique-arrive-a-liege/2016434",
+      "summary": "Le premier bus bi-articulé 100 % électrique de Letec faisait sa première sortie ce lundi. Long de 24,7 mètres, ce véhicule peut transporter jusqu’à 150 voyageurs et doit permettre de répondre à la forte fréquentation des grands axes liégeois. Un nouveau géant électrique fait son entrée dans le réseau de transport liégeois. Le premier « tribus » 100 % électrique de LETEC vient d’arriver au dépôt de Robermont. Long de près de 25 mètres, ce bus bi-articulé peut transporter jusqu’à 150 voyageurs, avec pour objectif de répondre à la forte fréquentation de certains grands axes. Silencieux, sans…",
+      "published_at": "2026-09-14T15:14:13Z",
+      "retrieved_at": "2026-09-15T04:18:15.075222Z",
+      "categories": [
+        "Infos"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
     {
       "item_id": "b995c7b9ae436ea24d64a63f",
       "source_id": "vrt_nws",
@@ -41,9 +566,9 @@
       "retrieved_at": "2026-09-14T04:18:04.862235Z",
       "categories": [],
       "first_seen_at": "2026-09-14T04:18:37.870619Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 2,
@@ -52,9 +577,199 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "111a48a34383f30a25822f6a",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Premier exercice pratique de la réforme APE, avec les Communes: « Nos craintes se confirment »",
+      "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/15/premier-exercice-pratique-de-la-reforme-ape-avec-les-communes-nos-craintes-se-confirment-XQQZ7QKTYVE5JJ44EAPESK3P24/",
+      "summary": "Un 1er plan de réallocation des aides APE a été rédigé: il concerne les pouvoirs locaux. L’opposition PS l’a décortiqué....",
+      "published_at": "2026-09-15T02:00:00Z",
+      "retrieved_at": "2026-09-15T04:18:14.135666Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "385b918152a932ea6d229b1a",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Luchtverkeersleiders Charleroi willen bijna maand lang elke nacht staken",
+      "url": "https://vrtnws.be/p.oL11QGWb8",
+      "summary": "De luchtverkeersleiders van Skeyes in Charleroi zullen vanaf woensdagavond het werk neerleggen tijdens elke nachtdienst. Dat doen ze omdat de onderhandelingen over nachtpremies zijn afgesprongen, zegt Lennert Mervilde van vakbond VSOA. De stakingen kunnen aanhouden tot 10 oktober.",
+      "published_at": "2026-09-14T15:38:46Z",
+      "retrieved_at": "2026-09-15T04:18:13.957466Z",
+      "categories": [],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "7c80be5c88ff730d8c8a85ef",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the Union Customs Code and Customs Authority",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1867",
+      "summary": "European Commission Speech Strasbourg, 14 Sep 2026 Madam President, Honourable Members. The Customs Reform has been a collective effort towards a shared objective: upgrading our Customs Union, ensuring it will f...",
+      "published_at": "2026-09-14T12:58:22Z",
+      "retrieved_at": "2026-09-15T04:18:15.614830Z",
+      "categories": [
+        "POLICY_AREA=CUSTOMS"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche",
+        "discours ou déclaration institutionnelle sans décision explicite"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "b544e58bac25a1f365f47088",
+      "source_id": "fps_economy",
+      "source_name": "SPF Économie",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "economy_atom",
+      "endpoint_label": "Flux des communiqués",
+      "content_scope": "communiqués|analyses",
+      "language": "fr",
+      "title": "Garantie: vous avez plus de droits que vous ne le pensez",
+      "url": "https://news.economie.fgov.be/270576-garantie-vous-avez-plus-de-droits-que-vous-ne-le-pensez/",
+      "summary": "De nombreux consommateurs ne savent pas exactement dans quels cas ils ont droit à la garantie. Le SPF Economie a déjà reçu cette année 15 % de signalements en plus concernant des problèmes de garantie.",
+      "published_at": "2026-09-14T06:00:00Z",
+      "retrieved_at": "2026-09-15T04:18:07.504143Z",
+      "categories": [],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type analyses",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "0162f031c2313dba0c76ad57",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Hausse du minerval: une rentrée au prix fort pour de nombreux étudiants, voici les coûts (et les aides possibles)",
+      "url": "https://www.dhnet.be/actu/belgique/2026/09/14/hausse-du-minerval-une-rentree-au-prix-fort-pour-de-nombreux-etudiants-voici-les-couts-et-les-aides-possibles-ZWMBWJPVMBHILHRNXWHQXD2WV4/",
+      "summary": "Entre le coût pour les étudiants et le coût pour le gouvernement, la différence est immense. On fait le point....",
+      "published_at": "2026-09-14T04:40:46Z",
+      "retrieved_at": "2026-09-15T04:18:12.717670Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -78,9 +793,9 @@
       "retrieved_at": "2026-09-14T04:18:03.265866Z",
       "categories": [],
       "first_seen_at": "2026-09-14T04:18:37.870619Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -89,7 +804,7 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -117,9 +832,9 @@
         "Politique"
       ],
       "first_seen_at": "2026-09-14T04:18:37.870619Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -128,135 +843,159 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "049ac40f1b5138767c6e0406",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
+      "item_id": "f2a1f3c142bba20d2c5d66d2",
+      "source_id": "walloon_parliament",
+      "source_name": "Parlement de Wallonie",
+      "source_class": "parliament",
       "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Opvallend: wie in Leuven of Gent studeerde, krijgt níét per se voorrang voor een eerste sollicitatiegesprek",
-      "url": "https://www.hbvl.be/binnenland/opvallend-wie-in-leuven-of-gent-studeerde-krijgt-niet-per-se-voorrang-voor-een-eerste-sollicitatiegesprek/161399307.html",
-      "summary": "De KU Leuven en UGent staan bovenaan in internationale ranglijsten. Daar willen studenten dus studeren, want dat ziet er beter uit op je cv. Niet volgens nieuw onderzoek van UGent. Welke Vlaamse universiteit er precies op je diploma staat, maakt voor recruiters helemaal niets uit.",
-      "published_at": "2026-09-14T04:15:05Z",
-      "retrieved_at": "2026-09-14T04:18:04.508638Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-09-14T04:18:37.870619Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": [
-        {
-          "source_id": "gva",
-          "source_name": "Gazet van Antwerpen",
-          "title": "Opvallend: wie in Leuven of Gent studeerde, krijgt níét per se voorrang voor een eerste sollicitatiegesprek",
-          "url": "https://www.gva.be/binnenland/opvallend-wie-in-leuven-of-gent-studeerde-krijgt-niet-per-se-voorrang-voor-een-eerste-sollicitatiegesprek/161382248.html"
-        },
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Opvallend: wie in Leuven of Gent studeerde, krijgt níét per se voorrang voor een eerste sollicitatiegesprek",
-          "url": "https://www.nieuwsblad.be/binnenland/opvallend-wie-in-leuven-of-gent-studeerde-krijgt-niet-per-se-voorrang-voor-een-eerste-sollicitatiegesprek/161354436.html"
-        }
-      ]
-    },
-    {
-      "item_id": "28582a8c982b222e847518cd",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
+      "geography": "Wallonie",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "walloon_parliament_calendar_rss",
+      "endpoint_label": "Flux du calendrier",
+      "content_scope": "agenda",
       "language": "fr",
-      "title": "\"Finalement c’est un robinet qui n’arrête pas de couler\": comment la seconde main peut elle-même participer à la surconsommation",
-      "url": "https://www.rtbf.be/article/finalement-c-est-un-robinet-qui-n-arrete-pas-de-couler-comment-la-seconde-main-peut-elle-meme-participer-a-la-surconsommation-11784421",
-      "summary": "Dans un rapport publié ce jeudi, Oxfam indique que les boutiques solidaires, les friperies commerciales et les plateformes...",
-      "published_at": "2026-09-13T13:09:50Z",
-      "retrieved_at": "2026-09-14T04:18:05.175044Z",
+      "title": "Commission de la santé, de l'environnement et de l'action sociale - 15/09/2026 09:00 - Salle de commission 8",
+      "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc7.pdf",
+      "summary": "",
+      "published_at": null,
+      "retrieved_at": "2026-09-15T04:18:08.015579Z",
       "categories": [],
-      "first_seen_at": "2026-09-14T04:18:37.870619Z",
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 15,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 0,
+      "section_strength": 12,
       "matched_signals": [
-        "public_decision",
-        "evidence"
+        "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "chiffres, étude ou évaluation"
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type agenda",
+        "nouvel élément d'un flux sans date fournie",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "151ec05f39a4b925f54efab9",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "« La Wallonie n’a pas manqué d’argent public, elle a manqué de résultats »: Pierre-Yves Jeholet défend « des réformes indispensables »",
-      "url": "https://www.sudinfo.be/id1193418/article/2026-09-14/la-wallonie-na-pas-manque-dargent-public-elle-manque-de-resultats-pierre-yves",
-      "summary": "Les chiffres de l’emploi en Wallonie ne sont guère réjouissants. Pierre-Yves Jeholet (MR) le reconnaît, mais assume les réformes engagées. Pour le ministre de l’Economie, la Région doit désormais « faire mieux avec moins » et surtout renouer avec la croissance.",
-      "published_at": "2026-09-14T02:00:00Z",
-      "retrieved_at": "2026-09-14T04:18:02.600725Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-09-14T04:18:37.870619Z",
+      "item_id": "525bd08780befed69bf023e0",
+      "source_id": "groen_party",
+      "source_name": "Groen",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "groen_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "nl",
+      "title": "Klimaatwetgeving beschermt Europese bedrijven tegen vervuilende import",
+      "url": "http://www.groen.be/klimaatwetgeving_beschermt_europese_bedrijven",
+      "summary": "Zonnepanelen, warmtepompen en elektrische motoren zijn producten die we meer in Europa willen bouwen. Onze prioriteit is om deze groene producenten te beschermen tegen oneerlijke concurrentie van buitenaf.",
+      "published_at": "2026-09-14T14:33:25Z",
+      "retrieved_at": "2026-09-15T04:18:09.516543Z",
+      "categories": [],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
+      "score": 12,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "28a7f357e075561bcd6e8690",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "EU Missions drive systemic change, new assessment shows",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1863",
+      "summary": "European Commission Press release Brussels, 14 Sep 2026 The five EU Missions in Horizon Europe are delivering tangible positive results in addressing some of Europe's most pressing societal challenges through scientific and technological innovation, according to a mid-term assessment published today by the European Commission.",
+      "published_at": "2026-09-14T08:32:17Z",
+      "retrieved_at": "2026-09-15T04:18:15.614830Z",
+      "categories": [
+        "POLICY_AREA=RESINSC"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 12,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
       "matched_signals": [
-        "citizen_impact"
+        "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "0373db1b166fd1fab247fc9f",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Commission approves €52 million Romanian State aid for cattle farmers facing increased fuel and fertiliser prices",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1835",
+      "summary": "European Commission Press release Brussels, 14 Sep 2026 The European Commission has approved a €52 million (RON 277 million) Romanian State aid scheme for cattle farmers facing increased fuel and fertiliser prices due to the Middle East crisis.",
+      "published_at": "2026-09-13T22:00:00Z",
+      "retrieved_at": "2026-09-15T04:18:15.614830Z",
+      "categories": [
+        "POLICY_AREA=COMPETY,STATAID"
+      ],
+      "first_seen_at": "2026-09-15T04:18:48.937162Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 11,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 36 heures",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     }
