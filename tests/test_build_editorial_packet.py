@@ -20,6 +20,15 @@ PROFILE = {
         "future_window_hours": 36,
         "recent_items_per_source": 1,
         "primary_items_per_source": 2,
+        "agenda_verification_targets": [
+            {
+                "source_id": "parliament",
+                "publisher": "Parlement",
+                "source_class": "parliament",
+                "title": "Agenda officiel",
+                "url": "https://example.org/agenda/official",
+            }
+        ],
         "source_lead_classes": ["public_body", "civil_society"],
     },
     "editorial_outputs": [],
@@ -117,6 +126,39 @@ def collected() -> dict[str, object]:
                 "url": "https://example.org/future-primary",
                 "published_at": "2026-09-10T05:45:00Z",
             },
+            {
+                "item_id": "agenda-today",
+                "source_id": "parliament",
+                "source_name": "Parlement",
+                "source_class": "public_body",
+                "content_scope": "agenda|travaux",
+                "title": "Séance plénière - 09/09/2026 14:15 - Hémicycle",
+                "url": "https://example.org/agenda/today",
+                "published_at": None,
+                "first_seen_at": "2026-09-01T05:00:00Z",
+            },
+            {
+                "item_id": "agenda-tomorrow",
+                "source_id": "parliament",
+                "source_name": "Parlement",
+                "source_class": "public_body",
+                "content_scope": "calendrier",
+                "title": "Commission - 10/09/2026 09:30 - Salle 1",
+                "url": "https://example.org/agenda/tomorrow",
+                "published_at": None,
+                "first_seen_at": "2026-09-01T05:00:00Z",
+            },
+            {
+                "item_id": "agenda-too-late",
+                "source_id": "parliament",
+                "source_name": "Parlement",
+                "source_class": "public_body",
+                "content_scope": "agenda",
+                "title": "Commission - 12/09/2026 09:30 - Salle 2",
+                "url": "https://example.org/agenda/too-late",
+                "published_at": None,
+                "first_seen_at": "2026-09-01T05:00:00Z",
+            },
         ]
     }
 
@@ -160,12 +202,33 @@ class PacketTests(unittest.TestCase):
                 "https://example.org/primary",
                 "https://example.org/recent",
                 "https://example.org/future-primary",
+                "https://example.org/agenda/today",
+                "https://example.org/agenda/tomorrow",
             },
         )
         by_url = {value["source"]["url"]: value for value in packet["candidates"]}
         self.assertTrue(by_url["https://example.org/measure"]["radar_selected"])
         self.assertFalse(by_url["https://example.org/recent"]["radar_selected"])
         self.assertEqual(packet["input_summary"]["recent_items_in_window"], 4)
+
+    def test_agenda_path_has_no_fixed_quota_and_uses_event_dates(self):
+        packet = build_packet(radar(), PROFILE, collected())
+        by_url = {value["source"]["url"]: value for value in packet["candidates"]}
+        self.assertTrue(by_url["https://example.org/agenda/today"]["agenda_candidate"])
+        self.assertTrue(
+            by_url["https://example.org/agenda/tomorrow"]["agenda_candidate"]
+        )
+        self.assertEqual(
+            by_url["https://example.org/agenda/today"]["source"]["event_at"],
+            "2026-09-09T12:15:00Z",
+        )
+        self.assertNotIn("https://example.org/agenda/too-late", by_url)
+        self.assertEqual(packet["input_summary"]["agenda_candidates"], 2)
+        self.assertEqual(packet["input_summary"]["agenda_verification_targets"], 1)
+        self.assertEqual(
+            packet["agenda_verification_targets"][0]["url"],
+            "https://example.org/agenda/official",
+        )
 
     def test_primary_source_path_uses_same_past_36_hour_window(self):
         packet = build_packet(radar(), PROFILE, collected())
@@ -178,6 +241,11 @@ class PacketTests(unittest.TestCase):
         )
         self.assertFalse(
             by_url["https://example.org/future-primary"][
+                "primary_source_candidate"
+            ]
+        )
+        self.assertFalse(
+            by_url["https://example.org/agenda/today"][
                 "primary_source_candidate"
             ]
         )

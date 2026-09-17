@@ -25,6 +25,10 @@
       "maxItems": 5,
       "items": {"$ref": "#/$defs/mustKnow"}
     },
+    "agenda": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/agendaItem"}
+    },
     "original_pitches": {
       "type": "array",
       "minItems": 0,
@@ -83,6 +87,46 @@
         "new_fact": {"type": "string"},
         "why_it_matters": {"type": "string"},
         "watch_today": {"type": "string"},
+        "certainty": {
+          "enum": ["etabli", "rapporte", "declaration", "hypothese"]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/source"}
+        }
+      }
+    },
+    "agendaItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "event_at",
+        "title",
+        "expected",
+        "why_it_matters",
+        "watch_for",
+        "certainty",
+        "sources"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "parliamentary_session",
+            "report_release",
+            "data_release",
+            "government_meeting",
+            "court_event",
+            "institutional_event",
+            "other"
+          ]
+        },
+        "event_at": {"type": "string", "minLength": 1},
+        "title": {"type": "string", "minLength": 1},
+        "expected": {"type": "string"},
+        "why_it_matters": {"type": "string"},
+        "watch_for": {"type": "string"},
         "certainty": {
           "enum": ["etabli", "rapporte", "declaration", "hypothese"]
         },

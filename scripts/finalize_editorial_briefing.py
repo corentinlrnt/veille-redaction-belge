@@ -23,7 +23,7 @@ from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
 
-GENERATOR = "veille-redaction-belge/editorial-finalizer-0.1.0"
+GENERATOR = "veille-redaction-belge/editorial-finalizer-0.2.0"
 BRUSSELS_TZ = ZoneInfo("Europe/Brussels")
 
 
@@ -191,9 +191,12 @@ def iter_source_references(output: dict[str, Any]) -> list[dict[str, Any]]:
     return references
 
 
-def packet_sources(packet: dict[str, Any]) -> tuple[dict[str, dict[str, Any]], set[str]]:
+def packet_sources(
+    packet: dict[str, Any],
+) -> tuple[dict[str, dict[str, Any]], set[str], set[str]]:
     sources: dict[str, dict[str, Any]] = {}
     primary_urls: set[str] = set()
+    agenda_urls: set[str] = set()
     for candidate in packet.get("candidates", []):
         if not isinstance(candidate, dict):
             continue
@@ -203,10 +206,18 @@ def packet_sources(packet: dict[str, Any]) -> tuple[dict[str, dict[str, Any]], s
             sources[url] = source
             if candidate.get("primary_source_candidate") is True:
                 primary_urls.add(url)
+            if candidate.get("agenda_candidate") is True:
+                agenda_urls.add(url)
         for related in candidate.get("lexically_related_sources", []):
             if isinstance(related, dict) and related.get("url"):
                 sources[str(related["url"])] = related
-    return sources, primary_urls
+    for target in packet.get("agenda_verification_targets", []):
+        if not isinstance(target, dict) or not target.get("url"):
+            continue
+        url = str(target["url"])
+        sources[url] = target
+        agenda_urls.add(url)
+    return sources, primary_urls, agenda_urls
 
 
 def validate_editorial_invariants(
@@ -214,7 +225,7 @@ def validate_editorial_invariants(
     packet: dict[str, Any],
     allow_external_sources: bool = False,
 ) -> dict[str, int]:
-    known_sources, primary_urls = packet_sources(packet)
+    known_sources, primary_urls, agenda_urls = packet_sources(packet)
     references = iter_source_references(output)
     unknown = sorted(
         {
@@ -253,6 +264,17 @@ def validate_editorial_invariants(
         if not lead_urls.intersection(primary_urls):
             raise ValidationError(
                 f"$.source_leads[{index}]: aucune source de la voie primaire du paquet"
+            )
+
+    for index, item in enumerate(output.get("agenda", [])):
+        item_urls = {
+            str(source.get("url", ""))
+            for source in item.get("sources", [])
+            if isinstance(source, dict)
+        }
+        if not item_urls.intersection(agenda_urls):
+            raise ValidationError(
+                f"$.agenda[{index}]: aucune source de la voie agenda du paquet"
             )
 
     return {
@@ -295,6 +317,25 @@ def render_markdown(output: dict[str, Any]) -> str:
                 f"**Pourquoi c’est important :** {item['why_it_matters']}",
                 "",
                 f"**À surveiller :** {item['watch_today']}",
+                "",
+                f"**Sources :** {source_links(item['sources'])}",
+                "",
+            ]
+        )
+
+    lines.extend(["## À l’agenda — aujourd’hui et prochaines 36 heures", ""])
+    if not output.get("agenda"):
+        lines.extend(["Aucune échéance suffisamment pertinente n’a été retenue.", ""])
+    for item in output.get("agenda", []):
+        lines.extend(
+            [
+                f"### {item['event_at']} — {item['title']}",
+                "",
+                f"**Ce qui est attendu :** {item['expected']}",
+                "",
+                f"**Pourquoi cela compte :** {item['why_it_matters']}",
+                "",
+                f"**Point d’attention :** {item['watch_for']}",
                 "",
                 f"**Sources :** {source_links(item['sources'])}",
                 "",
@@ -391,6 +432,7 @@ def build_feedback_template(output: dict[str, Any], payload: str) -> dict[str, A
     items: list[dict[str, Any]] = []
     for section in (
         "must_know",
+        "agenda",
         "original_pitches",
         "source_leads",
         "long_term_projects",

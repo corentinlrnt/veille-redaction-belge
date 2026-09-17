@@ -55,7 +55,14 @@ else:
 
 SCHEMA_VERSION = 1
 GENERATOR = "veille-redaction-belge/collector-0.1.0"
-COLLECTABLE_FORMATS = {"rss", "atom", "json_feed", "wp_json", "html_articles"}
+COLLECTABLE_FORMATS = {
+    "rss",
+    "atom",
+    "json_feed",
+    "wp_json",
+    "html_articles",
+    "chamber_live",
+}
 DEFAULT_TIMEOUT = 20.0
 DEFAULT_MAX_BYTES = 3_000_000
 BRUSSELS_TZ = ZoneInfo("Europe/Brussels")
@@ -413,6 +420,87 @@ def parse_json_feed_items(
     return items
 
 
+def parse_chamber_live_items(
+    body: bytes,
+    endpoint: Endpoint,
+    source: dict[str, str],
+    retrieved_at: str,
+) -> list[dict[str, object]]:
+    """Interprète l'API publique des réunions vidéo de la Chambre.
+
+    L'API expose les réunions planifiées et en cours sous forme de liste. Ses
+    horodatages portent un suffixe ``Z`` mais sont affichés comme des heures
+    civiles belges par le site officiel ; on les rattache donc explicitement au
+    fuseau de Bruxelles avant de les convertir en UTC.
+    """
+
+    document = json.loads(body.decode("utf-8"))
+    entries = document if isinstance(document, list) else []
+    items: list[dict[str, object]] = []
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        key = str(entry.get("key", "")).strip()
+        titles = entry.get("title", [])
+        title = ""
+        if isinstance(titles, list):
+            translated = [
+                value
+                for value in titles
+                if isinstance(value, dict)
+                and str(value.get("language", "")) == endpoint.language
+            ]
+            choices = translated or [
+                value for value in titles if isinstance(value, dict)
+            ]
+            if choices:
+                title = clean_text(str(choices[0].get("value", "")), 300)
+        raw_start = str(entry.get("startTime", "")).strip()
+        start = None
+        if raw_start:
+            try:
+                wall_time = datetime.fromisoformat(raw_start.removesuffix("Z"))
+                start = wall_time.replace(tzinfo=BRUSSELS_TZ).astimezone(timezone.utc)
+            except ValueError:
+                start = None
+        if not key or not title or start is None:
+            continue
+        room = clean_text(str(entry.get("room", "")), 120)
+        organ = entry.get("organ", {})
+        organ_label = ""
+        if isinstance(organ, dict):
+            organ_label = clean_text(
+                str(organ.get("drsDescription") or organ.get("drsCode") or ""),
+                120,
+            )
+        status = clean_text(str(entry.get("status", "")), 40)
+        summary = " · ".join(value for value in (room, organ_label, status) if value)
+        url = f"https://media.dekamer.be/meeting/{key}"
+        items.append(
+            {
+                "item_id": fingerprint(endpoint.source_id, key, url, title),
+                "source_id": endpoint.source_id,
+                "source_name": source["name"],
+                "source_class": source["source_class"],
+                "institution_level": source["institution_level"],
+                "geography": source["geography"],
+                "official_status": source["official_status"],
+                "access_model": source.get("access_model", ""),
+                "endpoint_id": endpoint.endpoint_id,
+                "endpoint_label": endpoint.label,
+                "content_scope": endpoint.content_scope,
+                "language": endpoint.language,
+                "title": title,
+                "url": url,
+                "summary": summary,
+                "published_at": start.isoformat().replace("+00:00", "Z"),
+                "retrieved_at": retrieved_at,
+                "categories": ["agenda", "Chambre"],
+            }
+        )
+    return items
+
+
 def parse_wordpress_rest_items(
     body: bytes,
     endpoint: Endpoint,
@@ -558,6 +646,8 @@ def collect_endpoint(
             items = parse_xml_items(response.body, endpoint, source, retrieved_at)
         elif detected == "json_feed":
             items = parse_json_feed_items(response.body, endpoint, source, retrieved_at)
+        elif endpoint.expected_format == "chamber_live" and detected == "json":
+            items = parse_chamber_live_items(response.body, endpoint, source, retrieved_at)
         elif endpoint.expected_format == "wp_json" and detected == "json":
             items = parse_wordpress_rest_items(response.body, endpoint, source, retrieved_at)
         elif endpoint.expected_format == "html_articles" and detected == "html":

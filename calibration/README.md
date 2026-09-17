@@ -6,8 +6,9 @@ calibration. Il ne contient ni doctrine cachée ni logique de rendu.
 Une réponse doit être enregistrée sous
 `calibration/responses/AAAA-MM-JJ.json`. Le workflow dédié la refuse si elle ne
 respecte pas le schéma, si sa date ne correspond pas au paquet quotidien, si
-un lien n'était pas présent dans ce paquet ou si une rubrique « repéré hors
-presse » ne s'appuie pas sur la voie primaire.
+un lien n'était pas présent dans ce paquet, si une rubrique « repéré hors
+presse » ne s'appuie pas sur la voie primaire ou si une échéance ne vient pas
+de la voie agenda.
 
 Après validation, les sorties lisibles et leurs métadonnées sont publiées dans
 `briefings/editorial/` et `reports/`. Un formulaire JSON est créé dans
