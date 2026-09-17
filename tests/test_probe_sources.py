@@ -32,6 +32,7 @@ class FormatDetectionTests(unittest.TestCase):
 
     def test_matches_explicit_adapter_formats(self):
         self.assertTrue(format_matches_expected("wp_json", "json"))
+        self.assertTrue(format_matches_expected("chamber_live", "json"))
         self.assertTrue(format_matches_expected("html_articles", "html"))
         self.assertFalse(format_matches_expected("html_articles", "rss"))
 

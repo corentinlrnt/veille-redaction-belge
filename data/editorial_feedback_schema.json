@@ -36,6 +36,7 @@
           "section": {
             "enum": [
               "must_know",
+              "agenda",
               "original_pitches",
               "source_leads",
               "long_term_projects",

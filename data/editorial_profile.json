@@ -13,6 +13,22 @@
     "future_window_hours": 36,
     "recent_items_per_source": 6,
     "primary_items_per_source": 8,
+    "agenda_verification_targets": [
+      {
+        "source_id": "chamber",
+        "publisher": "Chambre des représentants",
+        "source_class": "parliament",
+        "title": "Agenda de la séance plénière",
+        "url": "https://www.lachambre.be/kvvcr/showpage.cfm?cfm=%2Fsite%2Fwwwcfm%2Fagenda%2FagendaList.cfm&language=fr&section=%2Fdocument%2Fnone"
+      },
+      {
+        "source_id": "chamber",
+        "publisher": "Chambre des représentants",
+        "source_class": "parliament",
+        "title": "Agenda des réunions de commission",
+        "url": "https://www.lachambre.be/kvvcr/showpage.cfm?cfm=%2Fsite%2Fwwwcfm%2Fagenda%2FcomagendaList.cfm&language=fr&section=%2Fnone"
+      }
+    ],
     "source_lead_classes": [
       "public_body",
       "institution",
@@ -54,6 +70,11 @@
       "id": "must_know",
       "label": "incontournable",
       "purpose": "Information nécessaire pour comprendre la journée, même sans sujet original immédiatement réalisable."
+    },
+    {
+      "id": "agenda",
+      "label": "à l'agenda",
+      "purpose": "Échéance officielle datée susceptible de produire une information utile ou d'exiger une préparation dans les 36 prochaines heures; sélectionnée pour sa portée et non pour remplir un calendrier."
     },
     {
       "id": "original_pitch",
@@ -190,6 +211,7 @@
     "Ne jamais inventer un contact, une citation, un chiffre, un accès ou une conséquence.",
     "Ne jamais paraphraser comme consulté le contenu inaccessible d'un article payant.",
     "Ne jamais confondre annonce, texte adopté et entrée en vigueur.",
+    "Ne jamais présenter comme publié ou décidé le contenu encore attendu d'un rapport, d'un vote, d'une audience ou d'une réunion à l'agenda.",
     "Ne jamais déduire une causalité d'une simple corrélation.",
     "Ne jamais extrapoler à tout le pays à partir d'un témoignage ou d'un seul terrain.",
     "Ne jamais importer une tendance étrangère sans indice belge.",
@@ -210,6 +232,8 @@
   ],
   "output_contract": {
     "must_know_count": 5,
+    "agenda_min": 0,
+    "agenda_has_no_fixed_max": true,
     "original_pitch_min": 0,
     "original_pitch_max": 5,
     "source_lead_min": 0,
@@ -227,6 +251,7 @@
     "évident ou original",
     "réalisable ou irréaliste",
     "correctement hiérarchisé ou non",
-    "apport réel des sources hors presse"
+    "apport réel des sources hors presse",
+    "pertinence et complétude de l'agenda"
   ]
 }

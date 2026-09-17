@@ -47,6 +47,18 @@ def output():
                 "sources": [source()],
             }
         ],
+        "agenda": [
+            {
+                "kind": "parliamentary_session",
+                "event_at": "11 septembre, 14 h 15",
+                "title": "Séance plénière",
+                "expected": "Questions au gouvernement et votes annoncés.",
+                "why_it_matters": "Plusieurs décisions peuvent tomber dans la journée.",
+                "watch_for": "L'ordre des votes et les textes ajoutés en urgence.",
+                "certainty": "etabli",
+                "sources": [source("https://example.org/agenda", "parliament")],
+            }
+        ],
         "original_pitches": [],
         "source_leads": [
             {
@@ -71,9 +83,19 @@ def packet():
         "candidates": [
             {
                 "primary_source_candidate": True,
+                "agenda_candidate": False,
                 "source": {
                     "url": "https://example.org/primary",
                     "publisher": "Institution",
+                },
+                "lexically_related_sources": [],
+            },
+            {
+                "primary_source_candidate": False,
+                "agenda_candidate": True,
+                "source": {
+                    "url": "https://example.org/agenda",
+                    "publisher": "Parlement",
                 },
                 "lexically_related_sources": [],
             }
@@ -96,7 +118,7 @@ class ValidationTests(unittest.TestCase):
     def test_validates_canonical_output(self):
         validate_against_schema(output(), SCHEMA)
         summary = validate_editorial_invariants(output(), packet())
-        self.assertEqual(summary["distinct_source_urls"], 1)
+        self.assertEqual(summary["distinct_source_urls"], 2)
 
     def test_rejects_unknown_field(self):
         value = {**output(), "unexpected": True}
@@ -121,6 +143,12 @@ class ValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValidationError, "voie primaire"):
             validate_editorial_invariants(output(), value)
 
+    def test_agenda_item_must_use_agenda_path(self):
+        value = packet()
+        value["candidates"][1]["agenda_candidate"] = False
+        with self.assertRaisesRegex(ValidationError, "voie agenda"):
+            validate_editorial_invariants(output(), value)
+
 
 class RenderingTests(unittest.TestCase):
     def test_renders_and_archives_validated_output(self):
@@ -138,11 +166,12 @@ class RenderingTests(unittest.TestCase):
             markdown = (root / "latest.md").read_text()
             self.assertIn("En deux minutes", markdown)
             self.assertIn("Repéré hors presse", markdown)
+            self.assertIn("À l’agenda", markdown)
             self.assertNotIn("pret_a_lancer", markdown)
             self.assertTrue((root / "archive/2026-09-11.json").exists())
             self.assertTrue((root / "archive/2026-09-11.md").exists())
             feedback = json.loads((root / "feedback/2026-09-11.json").read_text())
-            self.assertEqual(len(feedback["items"]), 2)
+            self.assertEqual(len(feedback["items"]), 3)
             self.assertIsNone(feedback["items"][0]["verdict"])
 
     def test_feedback_ids_are_stable_for_a_briefing_item(self):

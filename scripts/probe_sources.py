@@ -407,8 +407,9 @@ def detect_format(body: bytes, content_type: str) -> str:
 def format_matches_expected(expected: str, detected: str) -> bool:
     """Compare le format reçu aux formats et adaptateurs déclarés.
 
-    ``wp_json`` et ``html_articles`` sont des adaptateurs de collecte opt-in :
-    le format de transport reste respectivement JSON et HTML.
+    ``wp_json``, ``chamber_live`` et ``html_articles`` sont des adaptateurs de
+    collecte opt-in : le format de transport reste respectivement JSON, JSON
+    et HTML.
     """
 
     return (
@@ -416,6 +417,7 @@ def format_matches_expected(expected: str, detected: str) -> bool:
         or detected == expected
         or (expected == "xml" and detected in {"xml", "rss", "atom"})
         or (expected == "wp_json" and detected == "json")
+        or (expected == "chamber_live" and detected == "json")
         or (expected == "html_articles" and detected == "html")
     )
 

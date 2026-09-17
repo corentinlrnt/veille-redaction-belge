@@ -11,6 +11,8 @@ Le produit éditorial final est une seconde couche distincte. Sa mission, ses ca
 - la collecte conserve sept jours de métadonnées pour résister aux pannes temporaires ;
 - le briefing retient normalement les publications des 36 dernières heures ;
 - une date future située dans les 36 heures peut être conservée pour un agenda ;
+- les événements d'agenda sont isolés dans une voie distincte à partir de leur
+  date de tenue, et non de la date à laquelle ils ont été repérés ;
 - lorsqu'une source d'actualités expose une date de publication postérieure au
   moment où la page est déjà observée, cette valeur brute est conservée pour
   l'audit mais la première observation sert de repère au classement ;
@@ -63,14 +65,17 @@ Les titres lexicalement très proches sont regroupés. Le rapprochement ne const
   source institutionnelle, judiciaire, scientifique, syndicale ou associative,
   y compris lorsqu'elles n'ont pas été retenues par le radar ou reprises par la
   presse ; les publications de partis n'entrent pas dans cette voie ;
+- réunit séparément et sans quota par producteur les événements officiels datés
+  du jour et des 36 prochaines heures, y compris lorsqu'ils ont été annoncés
+  plusieurs jours auparavant ;
 - conserve les rapprochements lexicaux comme indices, sans les présenter comme des dossiers établis ;
 - retire le score numérique afin qu'il ne soit jamais interprété comme une mesure d'importance ;
 - joint le profil éditorial canonique de `data/editorial_profile.json` ;
 - rappelle que tout contenu provenant d'un flux est une donnée non fiable et jamais une instruction à suivre.
 
-Le modèle éditorial doit produire un JSON conforme à `data/editorial_output_schema.json`, avec quatre usages lisibles : cinq incontournables, pas de côté, signaux repérés hors presse et projets à mettre en chantier. La faisabilité participe au classement mais aucun délai de production n'est affiché.
+Le modèle éditorial doit produire un JSON conforme à `data/editorial_output_schema.json`, avec cinq usages lisibles : cinq incontournables, agenda pertinent, pas de côté, signaux repérés hors presse et projets à mettre en chantier. La faisabilité participe au classement mais aucun délai de production n'est affiché.
 
-`scripts/finalize_editorial_briefing.py` forme une frontière déterministe entre le modèle et le lecteur. Il accepte une réponse enregistrée ou la sortie standard d'une commande interchangeable, puis contrôle le schéma, la date du paquet, l'ordre des incontournables, la provenance des URL et l'appui réel des signaux hors presse sur la voie primaire. Une réponse refusée ne remplace jamais le dernier briefing valide. Chaque passage accepté archive le JSON, le rendu Markdown et les empreintes des trois entrées canoniques : paquet, prompt et schéma.
+`scripts/finalize_editorial_briefing.py` forme une frontière déterministe entre le modèle et le lecteur. Il accepte une réponse enregistrée ou la sortie standard d'une commande interchangeable, puis contrôle le schéma, la date du paquet, l'ordre des incontournables, la provenance des URL, l'appui réel des signaux hors presse sur la voie primaire et celui des échéances sur la voie agenda. Une réponse refusée ne remplace jamais le dernier briefing valide. Chaque passage accepté archive le JSON, le rendu Markdown et les empreintes des trois entrées canoniques : paquet, prompt et schéma.
 
 Cette séparation permet de corriger plus tard le profil, le prompt, le modèle ou le rendu sans mélanger leurs effets. Le dépôt ne choisit encore aucun fournisseur de modèle et n'active pas l'envoi du courriel.
 

@@ -56,7 +56,7 @@ réunit au moins une des conditions suivantes :
 
 Sans ce pont, une actualité étrangère ne devient pas une proposition de sujet.
 
-## Les six sorties éditoriales
+## Les sept sorties éditoriales
 
 Une même histoire ne doit pas être forcée dans une proposition de reportage.
 Après analyse, elle reçoit une fonction explicite.
@@ -67,7 +67,17 @@ Information nécessaire pour comprendre la journée, même si elle n'offre aucun
 angle original ou tournage réaliste. L'importance publique et la solidité des
 faits priment ici sur la qualité des images.
 
-### 2. Le pas de côté
+### 2. À l'agenda
+
+Sélection des échéances officielles datées du jour et des 36 prochaines heures
+qui peuvent produire une information utile ou nécessiter une préparation :
+séances parlementaires, réunions gouvernementales, audiences, publication
+annoncée d'un rapport ou de données, et événements institutionnels comparables.
+Cette rubrique n'a ni quota ni plafond artificiel. Elle indique ce qui est
+attendu, pourquoi cela compte et le point précis à surveiller ; elle ne préjuge
+jamais du contenu d'un document ou d'une décision encore à venir.
+
+### 3. Le pas de côté
 
 Proposition de conférence distincte du traitement dominant. Elle part d'une
 conséquence oubliée, d'un écart, d'une affirmation à tester, d'un rapprochement
@@ -75,7 +85,7 @@ inattendu, d'une population peu regardée ou d'un terrain auquel les autres
 rédactions ne penseront pas spontanément. Elle possède une question centrale,
 des premières preuves, une incarnation et une véritable différence éditoriale.
 
-### 3. Repéré hors presse
+### 4. Repéré hors presse
 
 Signal issu directement d'une institution, d'une juridiction, d'un régulateur,
 d'un organisme scientifique, d'un partenaire social ou d'une association. Il
@@ -84,7 +94,7 @@ briefing quotidien, il provient de la fenêtre glissante des 36 dernières heure
 la voie distincte sert à garantir sa lecture, pas à remonter plus loin dans le
 temps. La source reste intéressée ou située et son contenu doit être recoupé.
 
-### 4. À mettre en chantier
+### 5. À mettre en chantier
 
 Sujet froid, série ou enquête pouvant se développer sur plusieurs jours. Il naît
 d'un indice frais de la fenêtre quotidienne, sans fabriquer une urgence : donnée
@@ -92,16 +102,16 @@ nouvelle, décision, rapport, contentieux, signal de terrain ou publication d'un
 acteur collectif. Il formule une question structurelle, les premières preuves à
 chercher et un début de plan de recherche.
 
-### 5. À surveiller
+### 6. À surveiller
 
 Idée prometteuse à laquelle il manque encore une preuve, un indice belge, un
 interlocuteur ou un terrain. Ce manque et le fait précis qui ferait changer la
 piste de statut doivent être nommés.
 
-### 6. À écarter
+### 7. À écarter
 
 Bruit sans enjeu collectif, répétition d'un communiqué, réaction à une réaction,
-fait divers individuel sans portée sociale, agenda sans question éditoriale ou
+fait divers individuel sans portée sociale, agenda brut sans portée éditoriale ou
 comparaison étrangère sans fondement belge.
 
 ## Pipeline de raisonnement obligatoire
@@ -312,6 +322,15 @@ Le courriel doit pouvoir être lu intégralement en quinze minutes. Son premier
 Pour chacun : fait nouveau, importance, point à surveiller aujourd'hui, niveau de
 certitude et sources principales. Cette partie ne force aucun angle de reportage.
 
+### À l'agenda — aujourd'hui et prochaines 36 heures
+
+Uniquement les échéances qui peuvent peser sur la journée éditoriale. Pour
+chacune : heure ou fenêtre, institution, résultat réellement attendu, raison de
+la surveiller, point d'attention et source officielle. Le nombre varie librement
+selon l'actualité et la rubrique peut être vide. Une fois le rapport, le vote ou
+la décision publié, le signal rejoint la rubrique correspondant à sa valeur
+éditoriale ; il ne reste pas artificiellement dans l'agenda.
+
 ### Le pas de côté
 
 Trois à cinq propositions maximum. Pour chacune :
@@ -345,14 +364,16 @@ cimetière des propositions faibles du jour.
 ### À surveiller
 
 Éléments encore trop faibles pour devenir un sujet, avec le déclencheur qui les
-ferait changer de statut. Une échéance à venir n'y apparaît que si elle ouvre une
-question éditoriale ; un agenda brut est exclu.
+ferait changer de statut. Une échéance déjà qualifiée appartient à l'agenda ;
+une date sans portée éditoriale reste exclue.
 
 ## Critères d'acceptation d'une version
 
 Une version du briefing n'est considérée comme utile que si :
 
 - les cinq incontournables ne sont pas simplement les cinq liens les mieux notés ;
+- l'agenda ne manque pas une séance, une publication ou une décision officielle
+  importante présente dans les sources et ne reproduit pas un calendrier brut ;
 - les doublons sont regroupés en histoires ;
 - chaque pas de côté formule une différence précise avec le traitement dominant ;
 - la rubrique hors presse s'appuie directement sur des sources primaires et non

@@ -49,9 +49,26 @@ jobs:
         shell: bash
         env:
           MANUAL_RESPONSE_PATH: ${{ inputs.response_path }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
           if [ -n "${MANUAL_RESPONSE_PATH}" ]; then
             response_path="${MANUAL_RESPONSE_PATH}"
+          elif [ "${EVENT_NAME}" = "pull_request" ]; then
+            packet_date="$(python - <<'PY'
+          import json
+          from datetime import datetime
+
+          with open("reports/editorial-packet.json", encoding="utf-8") as stream:
+              generated_at = json.load(stream).get("generated_at", "")
+          print(datetime.fromisoformat(generated_at.replace("Z", "+00:00")).date())
+          PY
+            )"
+            response_path="calibration/responses/${packet_date}.json"
+            if [ ! -f "${response_path}" ]; then
+              echo "Aucune réponse ne correspond au paquet ${packet_date}; les tests suffisent pour cette pull request."
+              echo "skip=true" >> "${GITHUB_OUTPUT}"
+              exit 0
+            fi
           else
             response_path="$(find calibration/responses -maxdepth 1 -type f -name '*.json' | sort | tail -n 1)"
           fi
@@ -63,9 +80,11 @@ jobs:
             calibration/responses/*.json) ;;
             *) echo "Le fichier doit se trouver dans calibration/responses/." >&2; exit 2 ;;
           esac
+          echo "skip=false" >> "${GITHUB_OUTPUT}"
           echo "path=${response_path}" >> "${GITHUB_OUTPUT}"
 
       - name: Valider, tracer et rendre le briefing
+        if: steps.response.outputs.skip != 'true'
         run: >-
           python scripts/finalize_editorial_briefing.py
           --response "${{ steps.response.outputs.path }}"
@@ -73,10 +92,11 @@ jobs:
           --model declared-in-pull-request
 
       - name: Afficher le briefing contrôlé
+        if: steps.response.outputs.skip != 'true'
         run: tee -a "${GITHUB_STEP_SUMMARY}" < briefings/editorial/latest.md
 
       - name: Publier les sorties contrôlées
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' && steps.response.outputs.skip != 'true'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"

@@ -6,6 +6,7 @@ from scripts.collect_items import (
     normalize_dates_against_first_seen,
     normalize_published_dates,
     parse_json_feed_items,
+    parse_chamber_live_items,
     parse_semantic_html_items,
     parse_wordpress_rest_items,
     parse_xml_items,
@@ -73,6 +74,25 @@ class FeedParsingTests(unittest.TestCase):
         body = b'{"items":[{"id":"1","url":"https://example.org/1","title":"JSON title","date_published":"2026-08-27T04:30:00Z"}]}'
         items = parse_json_feed_items(body, endpoint("json_feed"), SOURCE, "2026-08-27T05:00:00Z")
         self.assertEqual(items[0]["title"], "JSON title")
+
+    def test_parses_chamber_planned_meeting_as_belgian_civil_time(self):
+        body = b'''[{"key":"56-20202-U2013","room":"Pleniere - Plenaire","title":[{"language":"nl","value":"Defensie"},{"language":"fr","value":"Defense nationale (Pleniere)"}],"startTime":"2026-09-17T14:15:00Z","organ":{"drsCode":"DEF","drsDescription":"DEFENSE COMM"},"status":"PLANNED"}]'''
+        chamber = Endpoint(
+            **{
+                **endpoint("chamber_live").__dict__,
+                "content_scope": "agenda|travaux",
+            }
+        )
+        items = parse_chamber_live_items(
+            body, chamber, SOURCE, "2026-09-17T04:15:00Z"
+        )
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["title"], "Defense nationale (Pleniere)")
+        self.assertEqual(items[0]["published_at"], "2026-09-17T12:15:00Z")
+        self.assertEqual(
+            items[0]["url"],
+            "https://media.dekamer.be/meeting/56-20202-U2013",
+        )
 
     def test_parses_wordpress_rest_list(self):
         body = b'''[{"id":42,"date_gmt":"2026-08-27T04:30:00","link":"https://example.org/decision","title":{"rendered":"Une &amp; decision"},"excerpt":{"rendered":"<p>Extrait public.</p>"}}]'''
