@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-16T04:18:01.455522Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-17T04:18:15.628772Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **62**
 - Flux collectés : **61**
 - Flux en erreur : **1**
-- Éléments conservés : **4612**
+- Éléments conservés : **3765**
 - Sources contributrices : **44**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -22,10 +22,10 @@ Généré le `2026-09-16T04:18:01.455522Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 31 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 221 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 222 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
@@ -69,6 +69,6 @@ Généré le `2026-09-16T04:18:01.455522Z` par `veille-redaction-belge/collector
 | `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 5 | — |
-| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 3 | — |
-| `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 3 | — |
+| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 4 | — |
+| `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 5 | — |
