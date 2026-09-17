@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/coverage-0.1.0",
-  "generated_at": "2026-09-17T04:23:54.959699Z",
+  "generated_at": "2026-09-17T10:06:08.859151Z",
   "summary": {
     "registered_sources": 221,
-    "enabled_endpoints": 284,
+    "enabled_endpoints": 286,
     "declared_targets": 29,
     "complete_targets": 29,
     "incomplete_targets": 0,
