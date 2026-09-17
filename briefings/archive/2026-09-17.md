@@ -1,28 +1,42 @@
 # Veille rédaction belge — 17 septembre 2026
 
-Générée à **06:18** (heure de Bruxelles) à partir de **3765 éléments collectés**.
+Générée à **12:06** (heure de Bruxelles) à partir de **4091 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
+### [50% de chiffre d'affaires en moins à cause d'une route en sens unique au zoning Bonne Fortune: "Je vais devoir mettre du personnel au chômage](https://www.qu4tre.be/infos/economie/50-de-chiffre-daffaires-en-moins-a-cause-dune-route-en-sens-unique-au-zoning-bonne-fortune-je-vais-devoir-mettre-du-personnel-au-chomage/2016471)
+
+**Qu4tre** · média d'information · 17/09/2026 à 09:05 · score `28`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Des entreprises du zoning de Bonne Fortune disent être victimes d'une baisse importante de leur chiffre d'affaires. La mobilité empire encore vers la sortie d'autoroute entrainant de nombreux désagréments. Jusqu'à 50 % de chiffre d'affaires en moins à cause d'une route mise en sens unique. Les commerçants du zoning Bonne Fortune sont désemparés. "Nous avons été victimes d'une décision arbitraire de la commune d’Ans qui a fermé la route sur 200 mètres parce qu'elle ne voulait plus faire les frais de son entretien", nous explique un gérant du zoning. "On nous annonce cette fermeture pour 2…
+
+### [Patrick Spies: Welche Lehren ziehen wir aus dem Vennbrand?](https://spostbelgien.be/welche-lehren-ziehen-wir-aus-dem-vennbrand/?utm_source=rss&utm_medium=rss&utm_campaign=welche-lehren-ziehen-wir-aus-dem-vennbrand)
+
+**SP Ostbelgien** · acteur politique · 17/09/2026 à 11:51 · score `24`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Monsieur le Président, Madame la Ministre,Chers collègues, A partir du 14 août dernier, notre Région a connu une des pires catastrophes écologiques de son histoire. Cet incendie constitue un choc environnemental… Der Beitrag Patrick Spies: Welche Lehren ziehen wir aus dem Vennbrand? erschien zuerst auf SP Ostbelgien.
+
+### [Erste Aussprache zum Vennbrand im Wallonischen Parlament von Patrick Spies](https://spostbelgien.be/erste-aussprache-zum-vennbrand-im-wallonischen-parlament/?utm_source=rss&utm_medium=rss&utm_campaign=erste-aussprache-zum-vennbrand-im-wallonischen-parlament)
+
+**SP Ostbelgien** · acteur politique · 17/09/2026 à 11:39 · score `20`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : Je veux d’abord, moi aussi, remercier l’ensemble des acteurs qui sont intervenus dans des conditions difficiles, sur un terrain complexe, parfois dangereux, avec des moyens importants, mais sous tension. (les… Der Beitrag Erste Aussprache zum Vennbrand im Wallonischen Parlament von Patrick Spies erschien zuerst auf SP Ostbelgien.
+
 ### [Faire construire coûte encore plus cher: sur un prêt de 250.000 €, la hausse des taux vous coûte 27.000 € supplémentaires](https://www.sudinfo.be/id1194701/article/2026-09-17/faire-construire-coute-encore-plus-cher-sur-un-pret-de-250000-eu-la-hausse-des)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:00 · score `21`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:00 · score `20`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Après l’envolée du prix des matériaux, la hausse des taux d’intérêt frappe à son tour les candidats bâtisseurs. Pour un emprunt de 250.000 € sur 25 ans, la facture grimpe d’environ 27.000 € par rapport à il y a un an, a calculé Embuild. Qui dresse un constat très net: le secteur de la construction s’enfonce dans la crise...
-
-### [Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven](https://www.hbvl.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161551915.html)
-
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 23:59 · score `20`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : De Vlaamse overheid heeft sinds de invoering van het Vlaams opleidingsverlof al voor 34,5 miljoen euro aan subsidies teruggevorderd na inspecties. Dat maakte minister Zuhal Demir (N-VA) bekend in de Commissie Werk.
-
-Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161560970.html).
 
 ### [Europees onderzoek legt grootschalige btw-fraude bloot in België, Frankrijk en Duitsland](https://vrtnws.be/p.E1XdnyMRB)
 
@@ -32,29 +46,73 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : Bij een grootschalig onderzoek naar btw-fraude in Duitsland, Frankrijk en België zijn 2 verdachten opgepakt. Speurders voerden ook 20 huiszoekingen uit. Dat meldt het Europees Openbaar Ministerie (EPPO). Volgens de eerste schattingen loopt de ontdoken belasting op tot 60 miljoen euro.
 
-### [La « garantie autonomie » au profit des personnes âgées s’invite au conclave budgétaire wallon](https://www.lesoir.be/771364/article/2026-09-17/la-garantie-autonomie-au-profit-des-personnes-agees-sinvite-au-conclave)
+### [« Je conteste la tentative d’assassinat »: condamné à 17 ans de prison, Grégory Lenoci fait officiellement appel](https://www.sudinfo.be/id1194746/article/2026-09-17/je-conteste-la-tentative-dassassinat-condamne-17-ans-de-prison-gregory-lenoci)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:00 · score `19`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 08:59 · score `19`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Condamné le 20 août dernier à 17 ans de prison pour tentative d’assassinat, Grégory Lenoci avait annoncé son intention de faire appel. Son nouvel avocat confirme ce jeudi que la décision est désormais actée: la condamnation sera contestée en appel.
+
+### [Schaerbeek: adoption du plan communal logement](https://bx1.be/categories/news/schaerbeek-adoption-du-plan-communal-logement/)
+
+**BX1** · média d'information · 17/09/2026 à 07:45 · score `19`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
 
+> Extrait fourni par la source : Le conseil communal de Schaerbeek a validé le plan communal logement ce mardi soir. Proposé par l’échevine Justine Harzé (PS), il a pour but de donner une feuille de route à la commune. Le plan s’articule autour de trois priorités: développer l’offre de logements abordables, lutter contre le mal-logement et le sans-chez-soirisme, et mieux coordonner … lire plus
+
+### [Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven](https://www.hbvl.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161551915.html)
+
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 23:59 · score `19`
+
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
+
+> Extrait fourni par la source : De Vlaamse overheid heeft sinds de invoering van het Vlaams opleidingsverlof al voor 34,5 miljoen euro aan subsidies teruggevorderd na inspecties. Dat maakte minister Zuhal Demir (N-VA) bekend in de Commissie Werk.
+
+Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161560970.html).
+
+### [Europese Commissie stelt EU Kids Act voor: pas vanaf 15 jaar zelfstandig account op sociale media](https://vrtnws.be/p.PqXOWJxy6)
+
+**VRT NWS** · média d'information · 17/09/2026 à 11:24 · score `18`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Jongeren onder de 13 jaar mogen géén account aanmaken op sociale media, tussen 13 en 15 jaar mag het onder toezicht van de ouders en vanaf 15 jaar kan het zonder ouderlijk toezicht. Dat is de belangrijkste maatregel uit de EU Kids Act van de Europese Unie. Die is vanmorgen officieel voorgesteld, al waren de meeste voorgestelde maatregelen eerder al gelekt.
+
+### [La « garantie autonomie » au profit des personnes âgées s’invite au conclave budgétaire wallon](https://www.lesoir.be/771364/article/2026-09-17/la-garantie-autonomie-au-profit-des-personnes-agees-sinvite-au-conclave)
+
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:00 · score `18`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population.
+
 > Extrait fourni par la source : Prévue dans l’accord de gouvernement, la garantie autonomie, forme d’assurance sociale qui permet des soins à domicile pour les personnes âgées, pourrait être adoptée lors du conclave budgétaire. Du moins Les Engagés l’espèrent-ils. Mais le sujet fera l’objet de tractations avec le MR.
 
-### [Le surendettement survient rarement du jour au lendemain](https://news.economie.fgov.be/270949-le-surendettement-survient-rarement-du-jour-au-lendemain/)
+### [Une assurance pour les seniors s’invite au conclave wallon](https://www.lesoir.be/771364/article/2026-09-17/une-assurance-pour-les-seniors-sinvite-au-conclave-wallon)
 
-**SPF Économie** · source publique officielle · 16/09/2026 à 10:00 · score `18`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:00 · score `18`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation.
+**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population.
 
-> Extrait fourni par la source : Le surendettement résulte rarement d’un événement isolé. Il survient lorsque des situations de vulnérabilité, un tournant dans la vie et un manque d’aide apportée à temps se succèdent. C’est ce qui ressort d’une étude exploratoire commandée par le SPF Economie.
+> Extrait fourni par la source : Prévue dans l’accord de gouvernement, la garantie autonomie, forme d’assurance sociale qui permet des soins à domicile pour les personnes âgées, pourrait être adoptée lors du conclave budgétaire. Du moins Les Engagés l’espèrent-ils. Mais le sujet fera l’objet de tractations avec le MR.
 
-### [Olie en rente zetten Wall Street klem voor cruciaal Fed-besluit](https://www.tijd.be/r/t/1/id/10686090)
+### [Schaarbeek keurt nieuw huisvestingsplan met 57 maatregelen goed](https://www.nieuwsblad.be/regio/brussel/schaarbeek/schaarbeek-keurt-nieuw-huisvestingsplan-met-57-maatregelen-goed/161570159.html)
 
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 15/09/2026 à 22:23 · score `18`
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 10:59 · score `17`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; agenda institutionnel proche.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : De aanhoudende stijging van de olieprijs jaagt de inflatievrees aan, terwijl de rente op Amerikaanse staatsobligaties dinsdag verder opliep. Beleggers hielden hun adem in voor het rentebesluit van de Federal Reserve, dat woensdag op de agenda staat.
+> Extrait fourni par la source : De gemeenteraad van Schaarbeek heeft het nieuwe gemeentelijke huisvestingsplan met 57 maatregelen goedgekeurd. Met het plan wil de gemeente de komende jaren gerichter reageren op de groeiende druk op de woningmarkt en de uitdagingen op het vlak van betaalbaarheid, woonkwaliteit en dakloosheid. Dat meldt de gemeente donderdag in een persbericht.
+
+## Politiques publiques et société — autres pistes
+
+### [La communauté queer adapte ses modes de déplacement pour des questions de sécurité](https://bx1.be/categories/news/la-communaute-queer-adapte-ses-modes-de-deplacement-pour-des-questions-de-securite/)
+
+**BX1** · média d'information · 17/09/2026 à 09:15 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Une étude de la VUB démontre que les personnes queer adaptent leur mode de déplacement dans la ville. Les personnes évitent la marche. Le groupe de recherche Mobilise de l’Université libre de Bruxelles (VUB) vient de mener à bien une étude qualitative sur les déplacements quotidiens en ville et les choix de transport de la … lire plus
 
 ### [Studieren darf keine Frage des Geldbeutels sein](https://spostbelgien.be/studieren-darf-keine-frage-des-geldbeutels-sein/?utm_source=rss&utm_medium=rss&utm_campaign=studieren-darf-keine-frage-des-geldbeutels-sein)
 
@@ -64,21 +122,45 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : Jusos Ostbelgien kritisieren steigende Studiengebühren und fordern eine verlässliche Studien- und Ausbildungsförderung. Studieren wird immer teurer und das können sich längst nicht mehr alle einfach leisten. Steigende Studiengebühren, hohe Mieten… Der Beitrag Studieren darf keine Frage des Geldbeutels sein erschien zuerst auf SP Ostbelgien.
 
-### [Affaire Patrick Bruel – Karine Viseur a réagi à l’allègement du contrôle judiciaire du chanteur: “un profond sentiment de déséquilibre”](https://www.dhnet.be/actu/societe/2026/09/16/affaire-patrick-bruel-karine-viseur-a-reagi-a-lallegement-du-controle-judiciaire-du-chanteur-un-profond-sentiment-de-desequilibre-525DCXTYVBFPHOBI2GXD5RBGRI/)
+### [Finances et Budget (Erasmus) Questions au gouvernement](https://media.dekamer.be/meeting/56-20181-U2002)
 
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 14:06 · score `17`
+**Chambre des représentants** · source publique officielle · 16/09/2026 à 15:00 · score `17`
 
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : La cour d’appel de Versailles a rendu son jugement ce mercredi 16 septembre 2026 et confirmé la décision prise par le juge d’instruction le 21 juillet dernier. Patrick Bruel est libre de ses mouvements....
+> Extrait fourni par la source : Forum F0A Erasmus · FINANCIEN COMM · PLANNED
 
-### [Question d'actualité du 16/09/2026 - QA 2 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa2.pdf)
+### [Budget moyen de 51 000 €, cotisation moyenne à 161 €: une enquête de l’Adeps met en lumière la réalité économique des clubs sportifs francophones](https://www.dhnet.be/sports/omnisports/2026/09/17/budget-moyen-de-51-000-cotisation-moyenne-a-161-une-enquete-de-ladeps-met-en-lumiere-la-realite-economique-des-clubs-sportifs-francophones-ISPR23APXVFVBIRYLJ4DT4BOKI/)
 
-**Parlement de Wallonie** · source publique officielle · 16/09/2026 à 10:30 · score `17`
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 11:08 · score `16`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 24 heures ; agenda institutionnel proche.
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : QA -- Séance plénière
+> Extrait fourni par la source : Les résultats de l’enquête Adeps “Sport, combien tu coûtes?” ont été dévoilés. Ils permettent d’objectiver les difficultés auxquelles sont confrontés les clubs sportifs en Fédération Wallonie-Bruxelles. Voici ce qu’il faut en retenir....
+
+### [Vaccination infantile dans l’UE: une étude alerte sur un reflux depuis la pandémie de Covid](https://www.sudinfo.be/id1194729/article/2026-09-17/vaccination-infantile-dans-lue-une-etude-alerte-sur-un-reflux-depuis-la-pandemie)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 07:30 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Une étude publiée dans The Lancet relève, dans 16 pays de l’UE, un recul récent de plusieurs vaccinations infantiles depuis la pandémie de Covid, avec des baisses marquées contre la méningite B et la poliomyélite.
+
+### [Onderzoek naar veiligheid van queer personen: 'Extra verlichting is niet genoeg'](https://www.bruzz.be/actua/veiligheid/onderzoek-naar-veiligheid-van-queer-personen-extra-verlichting-niet-genoeg-2026-09-17)
+
+**BRUZZ** · média d'information · 17/09/2026 à 07:00 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Hoe voelen queer personen zich in de Brusselse openbare ruimte en op het openbaar vervoer? Doctoraatsonderzoekster Charlotte Van Vessem vroeg het aan queer personen zelf.
+
+### [Cotisations dans les clubs: quels sont les sports les plus chers?](https://www.lalibre.be/belgique/2026/09/17/cotisations-dans-les-clubs-quels-sont-les-sports-les-plus-chers-6QONFX3FDNC6VG3ZBVULWGODFM/)
+
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 06:36 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : L’Adeps a mené une grande enquête sur le budget des clubs sportifs. La cotisation moyenne s’élève à 161 euros. Mais les variations sont fortes d’un sport à l’autre et d’une province à l’autre....
 
 ### [À Bruxelles, les étudiants déjà dans la rue contre un minerval à près de 1200 euros: “On était déjà à bout avant que la réforme passe” (photos)](https://www.lavenir.net/actu/2026/09/16/a-bruxelles-les-etudiants-deja-dans-la-rue-contre-un-minerval-a-pres-de-1200-euros-on-etait-deja-a-bout-avant-que-la-reforme-passe-photos-ZOX6S7EZRRERRNUHJHEU7MEVKI/)
 
@@ -88,13 +170,21 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : Quelques jours après avoir découvert le montant de leur minerval, des centaines d’étudiants ont défilé ce mercredi dans le centre de Bruxelles. Une hausse qui vient s’ajouter aux loyers, aux transports et à l’alimentation....
 
-### [Nieuw onderzoek ontkracht mythe: wijn met kurk is niet per se beter dan wijn met schroefdop](https://vrtnws.be/p.8eXpEqOPK)
+### [Défense nationale (Plénière) Continuation de l'ordre du jour de la réunion du matin](https://media.dekamer.be/meeting/56-20202-U2013)
 
-**VRT NWS** · média d'information · 17/09/2026 à 05:23 · score `15`
+**Chambre des représentants** · source publique officielle · 16/09/2026 à 14:15 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Een fles wijn met een kurk is niet automatisch een betere wijn, zo blijkt uit nieuw onderzoek van de Université de Bourgogne. De studie brengt voor het eerst in kaart wat een kurk doet met een wijn en hoe zuurstof van buitenaf de fles binnendringt, een proces dat maanden tot jaren kan duren. Zeker bij jonge, fruitige wijnen maakt een schroefdop daarom weinig verschil, zegt wijnkenner Dennis van den Buijs.
+> Extrait fourni par la source : Plénière - Plenaire · DEFENSIE COMM · PLANNED
+
+### [Question d'actualité du 16/09/2026 - QA 2 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa2.pdf)
+
+**Parlement de Wallonie** · source publique officielle · 16/09/2026 à 10:30 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 36 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : QA -- Séance plénière
 
 ### [La SNCB annonce son plan de transport 2026-2029, les usagers de Virton/Florenville restent au statu quo](https://www.tvlux.be/https://www.tvlux.be/actu/info/mobilite/la-sncb-annonce-son-plan-de-transport-2026-2029-les-usagers-de-virton-florenville-restent-au-statu-quo_52479)
 
@@ -103,8 +193,6 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 **Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Dans un communiqué, la SNCB annonce les bonnes nouvelles contenues dans son plan de transport 2026-2029 qui entrera en vigueur en décembre et sera disponible dans le planificateur de voyages à partir du 28 septembre.
-
-## Politiques publiques et société — autres pistes
 
 ### [SNCB: d'ici 2028, une offre renforcée en province de Liège](https://www.qu4tre.be/infos/amenagement-du-territoire/sncb-dici-2028-une-offre-renforcee-en-province-de-liege/2016470)
 
@@ -122,137 +210,73 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : Compte tenu de l’évolution favorable de l’incendie dans les Hautes Fagnes et de l’achèvement des principaux travaux de sécurisation, le Comité de coordination provincial a décidé de lever la phase d’urgence provinciale. La décision de lever la phase d’urgence provinciale au vu de l'évolution de la situation dans les Fagnes marque la fin du dispositif exceptionnel de coordination mis en place au niveau provincial. Celui-ci est désormais remplacé par une coordination opérationnelle entre les disciplines et services concernés, afin de poursuivre le suivi de la situation et d’adapter les moyens…
 
-### [Les francophones doivent redresser leurs finances s’ils veulent préserver la Belgique](https://www.lesoir.be/771148/article/2026-09-16/les-francophones-doivent-redresser-leurs-finances-sils-veulent-preserver-la)
+### [Commission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1896)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 00:01 · score `15`
+**Commission européenne** · source publique officielle · 17/09/2026 à 11:27 · score `14`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Les finances des entités francophones s’enfoncent dans le rouge. Au-delà de l’urgence budgétaire, leur dérapage risque de fournir des arguments à ceux qui, autour de Bart De Wever, veulent pousser plus loin la réforme de l’Etat. Au risque d’affaiblir encore la Belgique.
+> Extrait fourni par la source : European Commission Press release Brussels, 17 Sep 2026 Today, the European Commission proposed to mobilise €489 million from the European Union Solidarity Fund (EUSF) to help Portugal, Spain, Italy and Malta recover from severe storms and flooding in January and February 2026.
 
-### [Policier viré des forces de l’ordre puis du cabinet Dolimont: la décision de l’auditorat du travail de Charleroi est tombée!](https://www.sudinfo.be/id1194694/article/2026-09-17/policier-vire-des-forces-de-lordre-puis-du-cabinet-dolimont-la-decision-de)
+### [À Saint-Marc, le Frizet retrouve la lumière](https://www.province.namur.be/2026/09/17/a-saint-marc-le-frizet-retrouve-la-lumiere/)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 05:00 · score `14`
+**Province de Namur** · source publique officielle · 17/09/2026 à 11:01 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures.
 
-> Extrait fourni par la source : L’engagement au sein du cabinet Dolimont d’un ancien policier carolo, viré des forces de l’ordre pour harcèlement, avait déclenché une énorme polémique voici quelques semaines. Alors qu’il avait finalement aussi été renvoyé par le ministre-président, la procédure le concernant devant l’auditorat du travail touche à sa fin… Avec une décision claire!
+> Extrait fourni par la source : Remettre un cours d’eau à ciel ouvert pour diminuer le risque d’inondation et lui permettre de retrouver un fonctionnement plus […]
 
-### [Zwembad van Kapermolen noteert meer bezoekers uit Hasselt en minder incidenten na nieuw ticketsysteem](https://vrtnws.be/p.8eXpY38Ad)
+## Justice, droits et contrôle — autres pistes
 
-**VRT NWS** · média d'information · 16/09/2026 à 19:50 · score `14`
+### [Affaire Patrick Bruel – Karine Viseur a réagi à l’allègement du contrôle judiciaire du chanteur: “un profond sentiment de déséquilibre”](https://www.dhnet.be/actu/societe/2026/09/16/affaire-patrick-bruel-karine-viseur-a-reagi-a-lallegement-du-controle-judiciaire-du-chanteur-un-profond-sentiment-de-desequilibre-525DCXTYVBFPHOBI2GXD5RBGRI/)
 
-**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 14:06 · score `17`
 
-> Extrait fourni par la source : Het vernieuwde toegangs- en veiligheidsbeleid van zwembad Kapermolen in Hasselt werpt zijn vruchten af. Sinds de invoering van een aangepast ticketsysteem stijgt het aantal lokale bezoekers fors, terwijl de rust op de site is teruggekeerd. Dat blijkt uit een evaluatie van het stadsbestuur.
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
 
-### [Regisseur Tom Adjibi toont echte woede in nepdocumentaire: 'Banger dan ooit tevoren'](https://www.bruzz.be/select/film/regisseur-tom-adjibi-toont-echte-woede-nepdocumentaire-banger-dan-ooit-tevoren-2026-09-16)
+> Extrait fourni par la source : La cour d’appel de Versailles a rendu son jugement ce mercredi 16 septembre 2026 et confirmé la décision prise par le juge d’instruction le 21 juillet dernier. Patrick Bruel est libre de ses mouvements....
 
-**BRUZZ** · média d'information · 16/09/2026 à 17:00 · score `14`
+### [Onderzoek naar veiligheidsgevoel van queer personen in Brussel: "Wie er aanwezig is, telt meer dan verlichting of infrastructuur"](https://vrtnws.be/p.RayJkWLJd)
 
-**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**VRT NWS** · média d'information · 17/09/2026 à 09:42 · score `16`
 
-> Extrait fourni par la source : De Brusselse regisseur Tom Adjibi won met zijn mockumentary 'Ceci n’est pas un film français' de Grand Prix op het BRIFF. Vanaf deze week loopt de film in de zalen.
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
-### [Onze reporter ervoer wat het is om met dementie te leven: “Ik begrijp mijn oma beter”](https://www.gva.be/binnenland/onze-reporter-ervoer-wat-het-is-om-met-dementie-te-leven-ik-begrijp-mijn-oma-beter/161501267.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 03:00 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Een virtualreality-bril neemt je mee naar een confronterende ervaring: leven met dementie. Je interne stem houdt je dingen voor, die in de werkelijkheid helemaal anders zijn. De beleving past in een nieuw project van CM en Expertisecentra Dementie, voor iedereen in de zorg die in het hoofd en daarmee de wereld van iemand met dementie wil kruipen. Wij deden de test en zaten met een krop in de keel.
-
-Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/binnenland/onze-reporter-ervoer-wat-het-is-om-met-dementie-te-leven-ik-begrijp-mijn-oma-beter/161467781.html).
-
-### [Le numérique et vous, ça donne quoi?](https://www.province.namur.be/2026/09/16/https-www-province-namur-be-2026-09-16-le-numerique-et-vous-ca-donne-quoi/)
-
-**Province de Namur** · source publique officielle · 16/09/2026 à 10:15 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Vous avez 55 ans ou plus et vous habitez en province de Namur? La Province souhaite mieux comprendre vos […]
-
-### [Fêtes de Wallonie 2026: rdv au Palais provincial le dimanche 20 septembre](https://www.province.namur.be/2026/09/16/fetes-de-wallonie-2026-rendez-vous-au-palais-provincial-le-dimanche-20-septembre/)
-
-**Province de Namur** · source publique officielle · 16/09/2026 à 16:48 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : À l’occasion des Fêtes de Wallonie à Namur, la Province de Namur vous donne rendez-vous le dimanche 20 septembre 2026 […]
-
-### [Réfection de la passerelle cyclo-piétonne de Mouzaive](https://www.province.namur.be/2026/09/16/refection-de-la-passerelle-cyclo-pietonne-de-mouzaive-la-province-de-namur-accompagne-vresse-sur-semois/)
-
-**Province de Namur** · source publique officielle · 16/09/2026 à 16:05 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : À Mouzaive, sur le territoire de Vresse-sur-Semois, la passerelle cyclo-piétonne fait l’objet de travaux de réfection dans le cadre du […]
-
-### [Groen bezorgd: Brouns wil onthardingsdoelstelling afzwakken met 13.000 hectare](http://www.groen.be/halvering-onthardingsdoelstelling)
-
-**Groen** · acteur politique · 16/09/2026 à 15:14 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : "De doelstelling uit 2018 nu nog eens gaan afzwakken, terwijl de voorbije zomer dodelijk heet was, is schuldig verzuim."
-
-### [Groenen reageren op SOTEU: "von der Leyen mist kans voor echte klimaatactie"](http://www.groen.be/soteu_2026)
-
-**Groen** · acteur politique · 16/09/2026 à 12:05 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Onze eis voor een sterk hittegolfplan om gezinnen, bewoners van woonzorgcentra en ouderen te beschermen komt er eindelijk. En er komt op onze vraag ook een initiatief om klimaatadaptatieplannen te realiseren.
-
-### [Georges-Louis Bouchez sur LN24: “Il est temps que les politiques retrouvent le sens des priorités”](https://www.mr.be/georges-louis-bouchez-sur-ln24-il-est-temps-que-les-politiques-retrouvent-le-sens-des-priorites/)
-
-**Mouvement Réformateur** · acteur politique · 16/09/2026 à 11:04 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Face à François Gemenne sur LN24, Georges-Louis Bouchez a défendu une vision claire: la Belgique doit sortir de l’immobilisme institutionnel et se doter d’un État capable de décider, de...
-
-### [State of the Union 2026: Quotes and initiatives](https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1885)
-
-**Commission européenne** · source publique officielle · 16/09/2026 à 08:47 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Factsheet Strasbourg, 16 Sep 2026 State of the Union 2026: Quotes and initiatives State of the Union 2026: Quotes and initiatives
-
-### [Commission sends Statement of Objections over the proposed acquisition of Anglo American's nickel business by MMG](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1877)
-
-**Commission européenne** · source publique officielle · 16/09/2026 à 00:00 · score `11`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 16 Sep 2026 The European Commission has informed MMG Limited ('MMG') of its preliminary view that its proposed acquisition of Anglo American's nickel business ('the target') may restrict competition in the market for low-carbon ferronickel, a key alloying material in stainless steel production.
-
-### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
-
-**Commission européenne** · source publique officielle · 16/09/2026 à 00:00 · score `11`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Speech Strasbourg, 16 Sep 2026 President von der Leyen delivered the second State of the Union Address of the 2024–2029 Commission.
-
-### [La Régie des Bâtiments a achevé la rénovation de la toiture et des menuiseries extérieures de la Porte de Hal (Bruxelles)](https://news.belgium.be/fr/la-regie-des-batiments-acheve-la-renovation-de-la-toiture-et-des-menuiseries-exterieures-de-la)
-
-**Presscenter fédéral** · source publique officielle · 16/09/2026 à 16:46 · score `10`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Ce lundi 14 septembre 2026, la Régie des Bâtiments a achevé la rénovation de la toiture et des menuiseries extérieures de la Porte de Hal à Bruxelles. Ces travaux, débutés en mars 2025, ont porté sur la restauration des ardoises et du voligeage de la toiture ainsi que sur la rénovation des menuiseries en bois extérieures et des grandes portes d’entrée en bois. La fin de ce chantier marque également la réouverture du chemin de ronde, qui sera ouvert au public lors des journées du patrimoine à Bruxelles ce dimanche 20 septembre 2026. Les travaux ont couté environ 1,6 million d’euros et ont été…
-
-### [Exercice Red Snake: soigner, s’adapter et rester mobile](https://www.mil.be/fr/news/exercice-red-snake-soigner-s-adapter-et-rester-mobile/)
-
-**Défense belge** · source publique officielle · 16/09/2026 à 05:09 · score `10`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : Durant une semaine, l’équipe chirurgicale du Role 2 Forward s’est entraînée à intervenir rapidement auprès de blessés, en terrain militaire puis dans un environnement civil. L’exercice Red Snake, qui s’est déroulé dans le Brabant Wallon, leur a permis de tester leur capacité à s’adapter et à rester mobiles, tout en faisant découvrir leurs métiers à de jeunes élèves.
+> Extrait fourni par la source : Hoe veilig voelen queer personen zich in de Brusselse openbare ruimte en op het openbaar vervoer? Doctoraatsonderzoekster Charlotte van Vessem vroeg het aan LGBTQI+-personen zelf. Hun ervaringen laten zien dat veiligheid niet alleen draait om verlichting of infrastructuur, maar vooral om welke groepen aanwezig zijn in de openbare ruimte en hoe mensen met elkaar omgaan.
 
 ## Économie, emploi et consommateurs — autres pistes
+
+### [L’ex-chef de cabinet de Rudi Vervoort en tête pour diriger Actiris](https://bx1.be/categories/economie/lex-chef-de-cabinet-de-rudi-vervoort-en-tete-pour-diriger-actiris/)
+
+**BX1** · média d'information · 17/09/2026 à 08:36 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Selon l’Echo, le jury a classé Eric Mercenier, l’ancien chef de cabinet de Rudi Vervoort (PS), en tête de la procédure de recrutement pour diriger Actiris. Depuis la démission de Cristina Amboldi, l’agence bruxelloise pour l’emploi cherche un nouveau directeur. La procédure de recrutement est toujours en cours. 22 candidatures ont été jugées recevables. Après … lire plus
+
+### [Le surendettement survient rarement du jour au lendemain](https://news.economie.fgov.be/270949-le-surendettement-survient-rarement-du-jour-au-lendemain/)
+
+**SPF Économie** · source publique officielle · 16/09/2026 à 10:00 · score `17`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Le surendettement résulte rarement d’un événement isolé. Il survient lorsque des situations de vulnérabilité, un tournant dans la vie et un manque d’aide apportée à temps se succèdent. C’est ce qui ressort d’une étude exploratoire commandée par le SPF Economie.
+
+### [Un carburant à 0,88€ pour concurrencer le diesel et l’essence en hausse? “On peut rouler avec mais…”](https://www.dhnet.be/conso/argent/2026/09/17/un-carburant-a-088-pour-concurrencer-le-diesel-et-lessence-en-hausse-on-peut-rouler-avec-mais-7MQSNYF7AZEOJJWWTTKZE7H4CM/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 17/09/2026 à 11:15 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Alors que les prix de l’essence et du diesel ont rarement été aussi élevés, un carburant est beaucoup moins cher mais n’est pas disponible en Belgique....
+
+### [161 euros, c’est, en moyenne, le montant de la cotisation pour s’affilier à un club sportif ADEPS](https://www.rtbf.be/article/161-euros-c-est-en-moyenne-le-montant-de-la-cotisation-pour-s-affilier-a-un-club-sportif-adeps-11785909)
+
+**RTBF Info** · média d'information · 17/09/2026 à 09:12 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : L’étude souligne des écarts importants entre les clubs situés à Bruxelles et dans le Brabant wallon, qui disposent de...
 
 ### [Beslissingen over bevroren Russische tegoeden illegaal verklaard](https://www.tijd.be/r/t/1/id/10686086)
 
@@ -270,29 +294,13 @@ Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.
 
 > Extrait fourni par la source : Une hausse des taux directeurs américains traduirait une plus grande préoccupation de la Fed pour l'inflation, tandis qu'un statu quo entamerait sa crédibilité.
 
-### [L’intérim, une vraie porte d’entrée vers l’emploi? « 73,9 % sont toujours dans l’entreprise après un an »](https://www.sudinfo.be/id1194305/article/2026-09-16/linterim-une-vraie-porte-dentree-vers-lemploi-739-sont-toujours-dans-lentreprise)
+### [Schaarbeek is derde gemeente in Brussel die reclame op auto's en vliegreizen wil verbieden](https://www.bruzz.be/actua/economie/schaarbeek-derde-gemeente-brussel-die-fossiele-reclame-wil-verbieden-2026-09-17)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 16/09/2026 à 05:50 · score `14`
+**BRUZZ** · média d'information · 17/09/2026 à 10:59 · score `14`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Les résultats d’une étude menés par la KU Leuven réjouissent le secteur de l’intérim qui se veut acteur du retour à l’emploi.
-
-### [Tax-on-web Mandataire - Tax files: problème pour soumettre des déclarations en masse](https://finances.belgium.be/fr/Actualites/tax-on-web-mandataire-tax-files-probleme-soumission-fichiers)
-
-**SPF Finances** · source publique officielle · 16/09/2026 à 00:00 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : Nous rencontrons actuellement un problème technique dans Tax-on-web impactant la soumission de certaines déclarations à l’impôt des personnes physiques via Tax Files par les mandataires. Vous pouvez néanmoins toujours: remplir, sauvegarder et envoyer normalement vos déclarations dans Tax-on-web Mandataire même sauvegarder vos déclarations via Tax Files (fichiers xml) Nous mettons tout en œuvre pour résoudre ce problème dans les meilleurs délais et vous tiendrons informés de la suite. Nous vous remercions de votre compréhension.
-
-### [Washington révèle disposer d'armes dans l'espace: la guerre des étoiles a-t-elle commencé?](https://www.lecho.be/r/t/1/id/10686105)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 15/09/2026 à 20:30 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les États-Unis disposent d'armes de contrôle spatial en orbite. Si l'annonce n'est pas une surprise, elle marque la première reconnaissance officielle de la militarisation de l'espace. Le cosmos devient-il un nouveau terrain de guerre? Décryptage en quatre questions.
+> Extrait fourni par la source : De gemeenteraad van Schaarbeek heeft een motie goedgekeurd waarin het Brussels Gewest wordt opgeroepen reclame voor de fossiele industrie in de openbare ruimte te verbieden.
 
 ## Méthode et limites
 
