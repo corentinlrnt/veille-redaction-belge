@@ -1,13 +1,12 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-09-17T10:06:49.678850Z",
+  "generated_at": "2026-09-18T04:17:38.165517Z",
   "summary": {
-    "collected_items": 4091,
+    "collected_items": 4078,
     "selected_items": 36,
-    "excluded_items": 3,
+    "excluded_items": 2,
     "excluded_by_rule": {
-      "actualité étrangère sans angle belge ou effet concret identifié": 1,
       "agrégat institutionnel sans sujet unique": 1,
       "sport loisir ou culture sans enjeu collectif": 1
     },
@@ -16,12 +15,52 @@
       "news_media": 14
     },
     "by_section": {
-      "economy": 9,
-      "politics": 23,
-      "justice": 4
+      "politics": 28,
+      "economy": 6,
+      "justice": 2
     }
   },
   "items": [
+    {
+      "item_id": "f8d8e99d3e5e43bcb1273552",
+      "source_id": "cwape",
+      "source_name": "Commission wallonne pour l'Énergie",
+      "source_class": "regulator",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "cwape_rss",
+      "endpoint_label": "Flux des documents récents",
+      "content_scope": "décisions|avis|publications",
+      "language": "fr",
+      "title": "Lignes directrices relatives à l'établissement de l'analyse technique des impacts des activités de partage",
+      "url": "https://www.cwape.be/documents-recents/lignes-directrices-relatives-letablissement-de-lanalyse-technique-des-impacts-des",
+      "summary": "Lignes directrices relatives à l'établissement de l'analyse technique des impacts des activités de partage Valerie 17-09-2026 Lignes directrices relatives à l'établissement de l'analyse technique des impacts des activités de partage 17-09-2026 En date du 17 septembre 2026, le Comité de direction de la CWaPE a décidé d'approuver les lignes directrices relatives à l'établissement de l'analyse technique des impacts des activités de partage. Contenu lié Lignes directrices relatives à l'établissement de l'analyse technique des impacts des activités de partage Publications Fichier Télécharger…",
+      "published_at": "2026-09-17T15:49:23Z",
+      "retrieved_at": "2026-09-18T04:16:56.841941Z",
+      "categories": [],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 27,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "evidence"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type décisions",
+        "contenu de type avis",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
     {
       "item_id": "33901e21fcbc01cb7d2ae868",
       "source_id": "qu4tre",
@@ -35,18 +74,18 @@
       "endpoint_label": "Flux des actualités",
       "content_scope": "actualités|presse|terrain|politique|économie",
       "language": "fr",
-      "title": "50% de chiffre d'affaires en moins à cause d'une route en sens unique au zoning Bonne Fortune: \"Je vais devoir mettre du personnel au chômage",
+      "title": "50% de chiffre d'affaires en moins à cause d'une route en sens unique au zoning Bonne Fortune: \"Je vais devoir mettre du personnel au chômage\"",
       "url": "https://www.qu4tre.be/infos/economie/50-de-chiffre-daffaires-en-moins-a-cause-dune-route-en-sens-unique-au-zoning-bonne-fortune-je-vais-devoir-mettre-du-personnel-au-chomage/2016471",
       "summary": "Des entreprises du zoning de Bonne Fortune disent être victimes d'une baisse importante de leur chiffre d'affaires. La mobilité empire encore vers la sortie d'autoroute entrainant de nombreux désagréments. Jusqu'à 50 % de chiffre d'affaires en moins à cause d'une route mise en sens unique. Les commerçants du zoning Bonne Fortune sont désemparés. \"Nous avons été victimes d'une décision arbitraire de la commune d’Ans qui a fermé la route sur 200 mètres parce qu'elle ne voulait plus faire les frais de son entretien\", nous explique un gérant du zoning. \"On nous annonce cette fermeture pour 2…",
       "published_at": "2026-09-17T07:05:37Z",
-      "retrieved_at": "2026-09-17T10:06:17.801940Z",
+      "retrieved_at": "2026-09-18T04:17:06.125395Z",
       "categories": [
         "Economie"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 28,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 26,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 8,
@@ -57,11 +96,173 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "chiffres, étude ou évaluation",
         "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8de2793cd378f01420d44941",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Sinds hervorming in januari vindt 1 op de 8 Belgen die uitkering verliezen een job",
+      "url": "https://www.hln.be/binnenland/sinds-hervorming-in-januari-vindt-1-op-de-8-belgen-die-uitkering-verliezen-een-job~a08f128e/",
+      "summary": "In de eerste helft van dit jaar heeft 13,5% van de Belgen die uit de werkloosheid vielen in de daaropvolgende maand een job gevonden. Dat is 1 op de 8. Elke maand vinden meer ex-werklozen een baan. Dat meldt de RVA. Minister van Werk David Clarinval (MR) spreekt dan weer van een ambitieuzer cijfer: “Van de mensen die in april uit de werkloosheid stroomden, heeft één op de drie werk gevonden.”",
+      "published_at": "2026-09-18T04:00:48Z",
+      "retrieved_at": "2026-09-18T04:17:02.821641Z",
+      "categories": [],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "291f1a0e6cc3550ece49a64b",
+      "source_id": "le_soir",
+      "source_name": "Le Soir",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "le_soir_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Bouchez face à Colmant: « Aucun pays n’a assaini ses finances avec de l’impôt » vs « Alors, on touche à la sécurité sociale, le patrimoine de ceux qui n’en ont pas »",
+      "url": "https://www.lesoir.be/771611/article/2026-09-18/bouchez-face-colmant-aucun-pays-na-assaini-ses-finances-avec-de-limpot-vs-alors",
+      "summary": "A l’approche du conclave budgétaire, Georges-Louis Bouchez et Bruno Colmant s’opposent sur la manière de trouver 10 milliards d’euros, entre baisse des dépenses, transfert de fiscalité et réforme de la sécurité sociale.",
+      "published_at": "2026-09-18T04:00:00Z",
+      "retrieved_at": "2026-09-18T04:17:02.201056Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8944d6e57ac4bfd325854822",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Prix des carburants: pendant que la Belgique hésite, voici ce que font les autres pays européens pour alléger la facture des automobilistes",
+      "url": "https://www.sudinfo.be/id1195117/article/2026-09-18/prix-des-carburants-pendant-que-la-belgique-hesite-voici-ce-que-font-les-autres",
+      "summary": "Pendant que la Belgique réfléchit encore à de nouvelles mesures, plusieurs pays européens ont déjà décidé d’agir face à la hausse des prix des carburants. Voici les dispositifs mis en place chez nos voisins.",
+      "published_at": "2026-09-18T03:55:00Z",
+      "retrieved_at": "2026-09-18T04:17:02.627683Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "01c8d1086c0afb959db173d8",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Loyers abusifs: le recours contre l’ordonnance bruxelloise rejeté, le gouvernement va pouvoir réformer sa grille des loyers",
+      "url": "https://www.lavenir.net/regions/bruxelles/2026/09/17/loyers-abusifs-le-recours-contre-lordonnance-bruxelloise-rejete-le-gouvernement-va-pouvoir-reformer-sa-grille-des-loyers-DJI2CIZS75FSBOAJMHJJPUPVWY/",
+      "summary": "“Cette décision sécurise un outil essentiel pour mieux protéger les locataires”, se réjouit la secrétaire d’État en charge du Logement Karine Lalieux (PS)....",
+      "published_at": "2026-09-17T13:40:03Z",
+      "retrieved_at": "2026-09-18T04:17:04.563163Z",
+      "categories": [
+        "Bruxelles"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "accountability"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
@@ -82,15 +283,15 @@
       "url": "https://spostbelgien.be/welche-lehren-ziehen-wir-aus-dem-vennbrand/?utm_source=rss&utm_medium=rss&utm_campaign=welche-lehren-ziehen-wir-aus-dem-vennbrand",
       "summary": "Monsieur le Président, Madame la Ministre,Chers collègues, A partir du 14 août dernier, notre Région a connu une des pires catastrophes écologiques de son histoire. Cet incendie constitue un choc environnemental… Der Beitrag Patrick Spies: Welche Lehren ziehen wir aus dem Vennbrand? erschien zuerst auf SP Ostbelgien.",
       "published_at": "2026-09-17T09:51:15Z",
-      "retrieved_at": "2026-09-17T10:06:14.639495Z",
+      "retrieved_at": "2026-09-18T04:17:02.434199Z",
       "categories": [
         "Tierschutz",
         "Vennbrand"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 24,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 22,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -102,9 +303,170 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "6a1a43832ea98f5808f8585d",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Réforme du chômage: David Clarinval s’estime conforté par les derniers chiffres, « c’est une réussite »",
+      "url": "https://www.sudinfo.be/id1194948/article/2026-09-17/reforme-du-chomage-david-clarinval-sestime-conforte-par-les-derniers-chiffres",
+      "summary": "David Clarinval s’appuie sur l’évaluation de l’Onem, révélée en exclusivité par Sudinfo, pour défendre la limitation des allocations de chômage, alors qu’un tiers des personnes arrivées en fin de droit en avril a retrouvé un emploi.",
+      "published_at": "2026-09-17T13:49:12Z",
+      "retrieved_at": "2026-09-18T04:17:02.627683Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "5c29673eefa8890d591928cc",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "Recherche: davantage de résultats pour chaque euro investi",
+      "url": "https://www.mr.be/recherche-davantage-de-resultats-pour-chaque-euro-investi/",
+      "summary": "Après l’adoption cet été de la Stratégie Recherche-Innovation-Économie 2027-2034, le Gouvernement wallon franchit une nouvelle étape. Sur proposition du ministre de la Recherche Pierre-Yves Jeholet, il a adopté en deuxième...",
+      "published_at": "2026-09-17T19:13:49Z",
+      "retrieved_at": "2026-09-18T04:16:59.499009Z",
+      "categories": [
+        "Communiqués"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f6bd54a7829b63121883ab66",
+      "source_id": "defence",
+      "source_name": "Défense belge",
+      "source_class": "institution",
+      "institution_level": "fédéral",
+      "geography": "Belgique|international",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "defence_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués",
+      "language": "fr",
+      "title": "F-35: les partenaires européens passent au modèle de la flotte partagée",
+      "url": "https://www.mil.be/fr/news/f-35-les-partenaires-europeens-passent-au-modele-de-la-flotte-partagee/",
+      "summary": "Voir un pilote belge prendre les commandes d'un F-35 norvégien, préparé au sol par un mécanicien danois, pour mener une mission internationale n'a plus rien de fictif. Mis en œuvre lors du Weapons Instructor Course (WIC) 2026, l'accord « Capacity on Call » réunit les capacités de six pays alliés et plus de 150 F-35.",
+      "published_at": "2026-09-18T03:24:12Z",
+      "retrieved_at": "2026-09-18T04:16:54.864926Z",
+      "categories": [],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "00380ca8f93d820a03246c85",
+      "source_id": "bx1",
+      "source_name": "BX1",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bx1_rss",
+      "endpoint_label": "Flux BX1",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "26.986 Bruxellois exclus du chômage depuis le début de la réforme",
+      "url": "https://bx1.be/categories/mobilite/exclus-du-chomage-26-986-bruxellois-arrives-en-fin-de-droit-depuis-le-debut-de-la-reforme/",
+      "summary": "Depuis le début de la limitation dans le temps des allocations de chômage, 26.986 personnes sont arrivées en fin de droit en Région bruxelloise. Les premiers chiffres disponibles montrent qu’une partie s’est tournée vers les CPAS, tandis que l’accompagnement vers l’emploi se met progressivement en place. Le député Fabian Maingain (lib.res) estime toutefois que les … lire plus",
+      "published_at": "2026-09-17T15:11:08Z",
+      "retrieved_at": "2026-09-18T04:17:04.953095Z",
+      "categories": [
+        "Le zoom de la rédac'",
+        "Mobilité",
+        "Réforme du chômage",
+        "Économie"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
       ],
       "related_items": []
     },
@@ -125,15 +487,15 @@
       "url": "https://spostbelgien.be/erste-aussprache-zum-vennbrand-im-wallonischen-parlament/?utm_source=rss&utm_medium=rss&utm_campaign=erste-aussprache-zum-vennbrand-im-wallonischen-parlament",
       "summary": "Je veux d’abord, moi aussi, remercier l’ensemble des acteurs qui sont intervenus dans des conditions difficiles, sur un terrain complexe, parfois dangereux, avec des moyens importants, mais sous tension. (les… Der Beitrag Erste Aussprache zum Vennbrand im Wallonischen Parlament von Patrick Spies erschien zuerst auf SP Ostbelgien.",
       "published_at": "2026-09-17T09:39:39Z",
-      "retrieved_at": "2026-09-17T10:06:14.639495Z",
+      "retrieved_at": "2026-09-18T04:17:02.434199Z",
       "categories": [
         "Tierschutz",
         "Vennbrand"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 20,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 18,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -144,7 +506,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population"
       ],
       "related_items": []
@@ -171,9 +533,9 @@
         "Belgique"
       ],
       "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 20,
+      "score": 18,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 4,
@@ -183,7 +545,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation",
         "changement, alerte ou échéance"
@@ -191,7 +553,146 @@
       "related_items": []
     },
     {
-      "item_id": "4c32ac80ae27637acb8c1f31",
+      "item_id": "3d292aadb9ff7caa071a0a6e",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven",
+      "url": "https://www.hbvl.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161551915.html",
+      "summary": "De Vlaamse overheid heeft sinds de invoering van het Vlaams opleidingsverlof al voor 34,5 miljoen euro aan subsidies teruggevorderd na inspecties. Dat maakte minister Zuhal Demir (N-VA) bekend in de Commissie Werk.",
+      "published_at": "2026-09-16T21:59:00Z",
+      "retrieved_at": "2026-09-17T04:17:41.127331Z",
+      "categories": [
+        "Genk"
+      ],
+      "first_seen_at": "2026-09-17T04:18:15.531276Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "accountability",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 36 heures",
+        "impact concret pour la population",
+        "contrôle, droits ou responsabilité publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven",
+          "url": "https://www.nieuwsblad.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161560970.html"
+        }
+      ]
+    },
+    {
+      "item_id": "1ee3155b2a45df8367321cfc",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Tombola met btw-bonnetjes moet Belg minder doen frauderen: “De vraag is in welke mate de schaduweconomie hierdoor zal dalen”",
+      "url": "https://www.gva.be/binnenland/tombola-met-btw-bonnetjes-moet-belg-minder-doen-frauderen-de-vraag-is-in-welke-mate-de-schaduweconomie-hierdoor-zal-dalen/161622145.html",
+      "summary": "De Nationale Loterij zal een tombola organiseren waar je met een btw-bonnetje kans maakt op een geldprijs. De bedoeling is om zo, vanaf midden 2027 ten vroegste, de fiscale fraude te verminderen.",
+      "published_at": "2026-09-18T01:00:00Z",
+      "retrieved_at": "2026-09-18T04:17:03.511190Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 4,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": [
+        {
+          "source_id": "hbvl",
+          "source_name": "Het Belang van Limburg",
+          "title": "Tombola met btw-bonnetjes moet Belg minder doen frauderen: “De vraag is in welke mate de schaduweconomie hierdoor zal dalen”",
+          "url": "https://www.hbvl.be/binnenland/tombola-met-btw-bonnetjes-moet-belg-minder-doen-frauderen-de-vraag-is-in-welke-mate-de-schaduweconomie-hierdoor-zal-dalen/161623706.html"
+        },
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Tombola met btw-bonnetjes moet Belg minder doen frauderen: “De vraag is in welke mate de schaduweconomie hierdoor zal dalen”",
+          "url": "https://www.nieuwsblad.be/binnenland/tombola-met-btw-bonnetjes-moet-belg-minder-doen-frauderen-de-vraag-is-in-welke-mate-de-schaduweconomie-hierdoor-zal-dalen/161581314.html"
+        }
+      ]
+    },
+    {
+      "item_id": "877d8ee462c51ad64b6939da",
+      "source_id": "bruzz",
+      "source_name": "BRUZZ",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "bruzz_rss",
+      "endpoint_label": "Flux général",
+      "content_scope": "actualités|presse|terrain|Bruxelles",
+      "language": "nl|fr|en",
+      "title": "Federale overheid moet duizenden werklozen enkele maanden langer uitkering geven",
+      "url": "https://www.bruzz.be/actua/samenleving/federale-overheid-moet-duizenden-werklozen-enkele-maanden-langer-uitkering-geven-2026-09-17",
+      "summary": "Dat is het gevolg van een arrest van het Grondwettelijk Hof over de hervorming van de werkloosheid.",
+      "published_at": "2026-09-17T14:57:02Z",
+      "retrieved_at": "2026-09-18T04:17:04.324906Z",
+      "categories": [
+        "Samenleving"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "d4bc3339b990f3dc6b30273c",
       "source_id": "vrt_nws",
       "source_name": "VRT NWS",
       "source_class": "news_media",
@@ -203,68 +704,29 @@
       "endpoint_label": "Flux VRT NWS",
       "content_scope": "actualités|presse|Belgique",
       "language": "nl",
-      "title": "Europees onderzoek legt grootschalige btw-fraude bloot in België, Frankrijk en Duitsland",
-      "url": "https://vrtnws.be/p.E1XdnyMRB",
-      "summary": "Bij een grootschalig onderzoek naar btw-fraude in Duitsland, Frankrijk en België zijn 2 verdachten opgepakt. Speurders voerden ook 20 huiszoekingen uit. Dat meldt het Europees Openbaar Ministerie (EPPO). Volgens de eerste schattingen loopt de ontdoken belasting op tot 60 miljoen euro.",
-      "published_at": "2026-09-16T13:43:50Z",
-      "retrieved_at": "2026-09-17T04:17:41.788957Z",
+      "title": "Europese Commissie stelt EU Kids Act voor: pas vanaf 15 jaar zelfstandig account op sociale media",
+      "url": "https://vrtnws.be/p.PqXOWJxy6",
+      "summary": "Jongeren onder de 13 jaar mogen géén account aanmaken op sociale media, tussen 13 en 15 jaar mag het onder toezicht van de ouders en vanaf 15 jaar kan het zonder ouderlijk toezicht. Dat is de belangrijkste maatregel uit de EU Kids Act van de Europese Unie. Die is vanmorgen officieel voorgesteld, al waren de meeste voorgestelde maatregelen eerder al gelekt. Vlaams minister van Media Cieltje Van Achter (N-VA) reageert positief op de nieuwe regels.",
+      "published_at": "2026-09-17T09:24:56Z",
+      "retrieved_at": "2026-09-18T04:17:04.615614Z",
       "categories": [],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 20,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
+      "first_seen_at": "2026-09-17T10:06:49.381653Z",
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
       "section_strength": 6,
       "matched_signals": [
-        "citizen_impact",
-        "evidence",
-        "accountability"
+        "accountability",
+        "change_alert",
+        "agenda"
       ],
       "score_reasons": [
         "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "83bf09cae5106b1aa1ff8ede",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "« Je conteste la tentative d’assassinat »: condamné à 17 ans de prison, Grégory Lenoci fait officiellement appel",
-      "url": "https://www.sudinfo.be/id1194746/article/2026-09-17/je-conteste-la-tentative-dassassinat-condamne-17-ans-de-prison-gregory-lenoci",
-      "summary": "Condamné le 20 août dernier à 17 ans de prison pour tentative d’assassinat, Grégory Lenoci avait annoncé son intention de faire appel. Son nouvel avocat confirme ce jeudi que la décision est désormais actée: la condamnation sera contestée en appel.",
-      "published_at": "2026-09-17T06:59:05Z",
-      "retrieved_at": "2026-09-17T10:06:14.622613Z",
-      "categories": [
-        "Namur Actu"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "accountability"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -293,9 +755,9 @@
         "Schaerbeek"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -304,95 +766,48 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
       "related_items": []
     },
     {
-      "item_id": "3d292aadb9ff7caa071a0a6e",
-      "source_id": "hbvl",
-      "source_name": "Het Belang van Limburg",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "hbvl_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven",
-      "url": "https://www.hbvl.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161551915.html",
-      "summary": "De Vlaamse overheid heeft sinds de invoering van het Vlaams opleidingsverlof al voor 34,5 miljoen euro aan subsidies teruggevorderd na inspecties. Dat maakte minister Zuhal Demir (N-VA) bekend in de Commissie Werk.",
-      "published_at": "2026-09-16T21:59:00Z",
-      "retrieved_at": "2026-09-17T04:17:41.127331Z",
+      "item_id": "15e6ebc8b4098cbd5e342603",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "Le MR exige toute la transparence sur l’utilisation des fonds fédéraux destinés à la sécurité et à la prévention à Bruxelles",
+      "url": "https://www.mr.be/le-mr-exige-toute-la-transparence-sur-lutilisation-des-fonds-federaux-destines-a-la-securite-et-a-la-prevention-a-bruxelles/",
+      "summary": "Denis Ducarme a porté ce jeudi en séance plénière de la Chambre l’affaire du financement fédéral de la sécurité bruxelloise. « En 2023, le Ministre-Président Vervoort refusait de justifier des...",
+      "published_at": "2026-09-17T19:22:03Z",
+      "retrieved_at": "2026-09-18T04:16:59.499009Z",
       "categories": [
-        "Genk"
+        "Communiqués"
       ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "cached",
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
       "seen_count": 1,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
       "matched_signals": [
-        "citizen_impact",
-        "accountability",
         "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "contrôle, droits ou responsabilité publique",
-        "agenda institutionnel proche"
-      ],
-      "related_items": [
-        {
-          "source_id": "het_nieuwsblad",
-          "source_name": "Het Nieuwsblad",
-          "title": "Al voor 34,5 miljoen subsidies teruggevorderd na fraude en fouten met opleidingen bij bedrijven",
-          "url": "https://www.nieuwsblad.be/regio/limburg/genk/al-voor-345-miljoen-subsidies-teruggevorderd-na-fraude-en-fouten-met-opleidingen-bij-bedrijven/161560970.html"
-        }
-      ]
-    },
-    {
-      "item_id": "d4bc3339b990f3dc6b30273c",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Europese Commissie stelt EU Kids Act voor: pas vanaf 15 jaar zelfstandig account op sociale media",
-      "url": "https://vrtnws.be/p.PqXOWJxy6",
-      "summary": "Jongeren onder de 13 jaar mogen géén account aanmaken op sociale media, tussen 13 en 15 jaar mag het onder toezicht van de ouders en vanaf 15 jaar kan het zonder ouderlijk toezicht. Dat is de belangrijkste maatregel uit de EU Kids Act van de Europese Unie. Die is vanmorgen officieel voorgesteld, al waren de meeste voorgestelde maatregelen eerder al gelekt.",
-      "published_at": "2026-09-17T09:24:56Z",
-      "retrieved_at": "2026-09-17T10:06:15.721582Z",
-      "categories": [],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "accountability",
-        "change_alert",
-        "agenda"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance",
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 12 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
@@ -421,7 +836,7 @@
       "first_seen_at": "2026-09-17T04:18:15.531276Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -430,7 +845,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -458,9 +873,9 @@
         "Wallonie"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -469,9 +884,163 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "7944bdca4d21f0876bd0287c",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Met 350 schapen te voet van Achel naar Brussel: “Herders zijn de toekomst”",
+      "url": "https://www.hbvl.be/regio/limburg/houthalen-helchteren/met-350-schapen-te-voet-van-achel-naar-brussel-herders-zijn-de-toekomst/161572204.html",
+      "summary": "170 kilometer met 350 schapen: vader en zoon Johan en Toon Schouteden trekken vanaf 28 september te voet met hun kudde van Hamont-Achel naar Brussel. “Herder is een oud beroep, maar ook de toekomst.”",
+      "published_at": "2026-09-17T21:59:00Z",
+      "retrieved_at": "2026-09-18T04:17:03.798371Z",
+      "categories": [
+        "Houthalen-Helchteren"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9855d0b4b2ea649b892d80d9",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Iraanse president welkom in New York voor Algemene Vergadering van VN, Palestijnse president krijgt opnieuw geen visum",
+      "url": "https://vrtnws.be/p.ewPXOK6G9",
+      "summary": "De Iraanse president Pezeshkian en minister van Buitenlandse Zaken Araghchi mogen volgende week de Algemene Vergadering van de Verenigde Naties in New York bijwonen. De Amerikaanse regering heeft hun visa goedgekeurd, ook al is de VS nog steeds in oorlog met Iran. De Palestijnse president Abbas is voor het tweede jaar op rij niet welkom.",
+      "published_at": "2026-09-17T19:38:56Z",
+      "retrieved_at": "2026-09-18T04:17:04.615614Z",
+      "categories": [],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "82e76ff7b36e124f2656f852",
+      "source_id": "la_libre",
+      "source_name": "La Libre Belgique",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "la_libre_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "La Chambre valide la suppression des accises sur le thé et le café",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/17/la-chambre-valide-la-suppression-des-accises-sur-le-the-et-le-cafe-NEGKY2GKQBBHPJOTTDYHKGXNBM/",
+      "summary": "La Chambre a adopté jeudi en séance plénière un deuxième projet de loi du ministre des Finances Jan Jambon portant \"sur la réduction des coûts\". Il a été approuvé par la majorité rejointe par Ecolo-Groen. Les autres groupes de l'opposition se sont abstenus....",
+      "published_at": "2026-09-17T16:53:23Z",
+      "retrieved_at": "2026-09-18T04:17:02.292898Z",
+      "categories": [
+        "Politique belge"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "6dc68bcfad7b84f01ba0d61a",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Précarité hydrique: la Wallonie veut agir plus tôt et mieux mobiliser les aides existantes",
+      "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/17/precarite-hydrique-la-wallonie-veut-agir-plus-tot-et-mieux-mobiliser-les-aides-existantes-N2XMRPVEHRBABPGYDOA5VNK3AE/",
+      "summary": "Selon le Baromètre wallon de la précarité hydrique, près de 8 % des ménages rencontrent des difficultés à assumer leur facture d’eau, soit environ 135.000 foyers....",
+      "published_at": "2026-09-17T15:47:47Z",
+      "retrieved_at": "2026-09-18T04:17:04.563163Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
       ],
       "related_items": []
     },
@@ -497,9 +1066,9 @@
         "Schaarbeek"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -508,7 +1077,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
@@ -540,9 +1109,9 @@
         "déplacement"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -551,214 +1120,83 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
       "related_items": []
     },
     {
-      "item_id": "006ac1567c5bdda048567af0",
-      "source_id": "bx1",
-      "source_name": "BX1",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "bx1_rss",
-      "endpoint_label": "Flux BX1",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "L’ex-chef de cabinet de Rudi Vervoort en tête pour diriger Actiris",
-      "url": "https://bx1.be/categories/economie/lex-chef-de-cabinet-de-rudi-vervoort-en-tete-pour-diriger-actiris/",
-      "summary": "Selon l’Echo, le jury a classé Eric Mercenier, l’ancien chef de cabinet de Rudi Vervoort (PS), en tête de la procédure de recrutement pour diriger Actiris. Depuis la démission de Cristina Amboldi, l’agence bruxelloise pour l’emploi cherche un nouveau directeur. La procédure de recrutement est toujours en cours. 22 candidatures ont été jugées recevables. Après … lire plus",
-      "published_at": "2026-09-17T06:36:43Z",
-      "retrieved_at": "2026-09-17T10:06:16.613509Z",
-      "categories": [
-        "Actiris",
-        "News",
-        "direction",
-        "eric mercenier",
-        "isabelle grippa",
-        "Économie"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "a1c2835fc1fed9677c58991a",
-      "source_id": "sp_dg_party",
-      "source_name": "SP Ostbelgien",
+      "item_id": "00664c0de07c5ff1a1044389",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
       "source_class": "political_party",
-      "institution_level": "communauté",
-      "geography": "Communauté germanophone",
+      "institution_level": "national",
+      "geography": "Belgique",
       "official_status": "political_actor",
       "access_model": "",
-      "endpoint_id": "sp_dg_party_rss",
+      "endpoint_id": "mr_party_rss",
       "endpoint_label": "Flux des actualités",
       "content_scope": "actualités|communiqués|réformes",
-      "language": "de",
-      "title": "Studieren darf keine Frage des Geldbeutels sein",
-      "url": "https://spostbelgien.be/studieren-darf-keine-frage-des-geldbeutels-sein/?utm_source=rss&utm_medium=rss&utm_campaign=studieren-darf-keine-frage-des-geldbeutels-sein",
-      "summary": "Jusos Ostbelgien kritisieren steigende Studiengebühren und fordern eine verlässliche Studien- und Ausbildungsförderung. Studieren wird immer teurer und das können sich längst nicht mehr alle einfach leisten. Steigende Studiengebühren, hohe Mieten… Der Beitrag Studieren darf keine Frage des Geldbeutels sein erschien zuerst auf SP Ostbelgien.",
-      "published_at": "2026-09-16T15:14:27Z",
-      "retrieved_at": "2026-09-17T10:06:14.639495Z",
+      "language": "fr",
+      "title": "Hautes Fagnes: une feuille de route pour organiser la restauration après l’incendie",
+      "url": "https://www.mr.be/hautes-fagnes-une-feuille-de-route-pour-organiser-la-restauration-apres-lincendie/",
+      "summary": "Le comité de restauration des Hautes Fagnes a présenté ce jeudi au Gouvernement wallon sa proposition pour organiser la restauration du site après l’incendie du mois d’août. Élaboré conjointement par...",
+      "published_at": "2026-09-17T19:12:09Z",
+      "retrieved_at": "2026-09-18T04:16:59.499009Z",
       "categories": [
-        "Armutsbekämpfung",
-        "Finanzen",
-        "JUSOS",
-        "Unterrichtswesen und berufliche Ausbildung"
+        "Communiqués"
       ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 17,
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact"
-      ],
+      "section_strength": 8,
+      "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population"
+        "publié depuis moins de 12 heures"
       ],
       "related_items": []
     },
     {
-      "item_id": "f88c740455fd6f203ba2ac4e",
-      "source_id": "chamber",
-      "source_name": "Chambre des représentants",
-      "source_class": "parliament",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "chamber_live",
-      "endpoint_label": "Réunions vidéo planifiées",
-      "content_scope": "agenda|travaux",
-      "language": "fr",
-      "title": "Finances et Budget (Erasmus) Questions au gouvernement",
-      "url": "https://media.dekamer.be/meeting/56-20181-U2002",
-      "summary": "Forum F0A Erasmus · FINANCIEN COMM · PLANNED",
-      "published_at": "2026-09-16T13:00:00Z",
-      "retrieved_at": "2026-09-17T10:06:06.262877Z",
-      "categories": [
-        "agenda",
-        "Chambre"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
+      "item_id": "7572a870dd047182a00545c2",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Ligt Nefertiti dan toch begraven in de graftombe van Toetanchamon? Nieuw onderzoek wijst (opnieuw) op verborgen kamers",
+      "url": "https://vrtnws.be/p.93XpN4eob",
+      "summary": "Onderzoekers hebben opnieuw aanwijzingen gevonden van verborgen kamers in de tombe van Toetanchamon. Al jaren wordt gedacht dat in een verborgen grafkamer in die tombe de legendarische koningin Nefertiti begraven zou liggen. In 2018 ontkende Egypte nog dat er verborgen kamers zijn in de tombe, nieuw onderzoek verandert dat misschien. \"Maar om echte conclusies te trekken is het nog te vroeg\", klinkt het.",
+      "published_at": "2026-09-17T18:34:15Z",
+      "retrieved_at": "2026-09-18T04:17:04.615614Z",
+      "categories": [],
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 17,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 12,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type travaux",
-        "contenu de type agenda",
-        "publié depuis moins de 24 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d46d0bc188e5e58446089c15",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Affaire Patrick Bruel – Karine Viseur a réagi à l’allègement du contrôle judiciaire du chanteur: “un profond sentiment de déséquilibre”",
-      "url": "https://www.dhnet.be/actu/societe/2026/09/16/affaire-patrick-bruel-karine-viseur-a-reagi-a-lallegement-du-controle-judiciaire-du-chanteur-un-profond-sentiment-de-desequilibre-525DCXTYVBFPHOBI2GXD5RBGRI/",
-      "summary": "La cour d’appel de Versailles a rendu son jugement ce mercredi 16 septembre 2026 et confirmé la décision prise par le juge d’instruction le 21 juillet dernier. Patrick Bruel est libre de ses mouvements....",
-      "published_at": "2026-09-16T12:06:52Z",
-      "retrieved_at": "2026-09-17T10:06:14.695268Z",
-      "categories": [
-        "Société"
-      ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 17,
+      "score": 14,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
-      "section_strength": 6,
+      "section_strength": 2,
       "matched_signals": [
-        "public_decision",
-        "accountability"
+        "evidence",
+        "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "11e57f65c34b4fa881eb8035",
-      "source_id": "fps_economy",
-      "source_name": "SPF Économie",
-      "source_class": "public_body",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "economy_atom",
-      "endpoint_label": "Flux des communiqués",
-      "content_scope": "communiqués|analyses",
-      "language": "fr",
-      "title": "Le surendettement survient rarement du jour au lendemain",
-      "url": "https://news.economie.fgov.be/270949-le-surendettement-survient-rarement-du-jour-au-lendemain/",
-      "summary": "Le surendettement résulte rarement d’un événement isolé. Il survient lorsque des situations de vulnérabilité, un tournant dans la vie et un manque d’aide apportée à temps se succèdent. C’est ce qui ressort d’une étude exploratoire commandée par le SPF Economie.",
-      "published_at": "2026-09-16T08:00:00Z",
-      "retrieved_at": "2026-09-17T10:06:06.267084Z",
-      "categories": [],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
-      "matched_signals": [
-        "evidence"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type analyses",
-        "contenu de type communiqués",
-        "publié depuis moins de 36 heures",
-        "chiffres, étude ou évaluation"
+        "publié depuis moins de 12 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -779,14 +1217,14 @@
       "url": "https://www.dhnet.be/conso/argent/2026/09/17/un-carburant-a-088-pour-concurrencer-le-diesel-et-lessence-en-hausse-on-peut-rouler-avec-mais-7MQSNYF7AZEOJJWWTTKZE7H4CM/",
       "summary": "Alors que les prix de l’essence et du diesel ont rarement été aussi élevés, un carburant est beaucoup moins cher mais n’est pas disponible en Belgique....",
       "published_at": "2026-09-17T09:15:23Z",
-      "retrieved_at": "2026-09-17T10:06:14.695268Z",
+      "retrieved_at": "2026-09-18T04:17:03.788846Z",
       "categories": [
         "Argent"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 2,
@@ -795,7 +1233,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
@@ -818,14 +1256,14 @@
       "url": "https://www.dhnet.be/sports/omnisports/2026/09/17/budget-moyen-de-51-000-cotisation-moyenne-a-161-une-enquete-de-ladeps-met-en-lumiere-la-realite-economique-des-clubs-sportifs-francophones-ISPR23APXVFVBIRYLJ4DT4BOKI/",
       "summary": "Les résultats de l’enquête Adeps “Sport, combien tu coûtes?” ont été dévoilés. Ils permettent d’objectiver les difficultés auxquelles sont confrontés les clubs sportifs en Fédération Wallonie-Bruxelles. Voici ce qu’il faut en retenir....",
       "published_at": "2026-09-17T09:08:56Z",
-      "retrieved_at": "2026-09-17T10:06:14.695268Z",
+      "retrieved_at": "2026-09-18T04:17:03.788846Z",
       "categories": [
         "Autres sports"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -834,44 +1272,7 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "85baf0ce66cd7eb40abcf65e",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Onderzoek naar veiligheidsgevoel van queer personen in Brussel: \"Wie er aanwezig is, telt meer dan verlichting of infrastructuur\"",
-      "url": "https://vrtnws.be/p.RayJkWLJd",
-      "summary": "Hoe veilig voelen queer personen zich in de Brusselse openbare ruimte en op het openbaar vervoer? Doctoraatsonderzoekster Charlotte van Vessem vroeg het aan LGBTQI+-personen zelf. Hun ervaringen laten zien dat veiligheid niet alleen draait om verlichting of infrastructuur, maar vooral om welke groepen aanwezig zijn in de openbare ruimte en hoe mensen met elkaar omgaan.",
-      "published_at": "2026-09-17T07:42:00Z",
-      "retrieved_at": "2026-09-17T10:06:15.721582Z",
-      "categories": [],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -897,9 +1298,9 @@
       "retrieved_at": "2026-09-17T10:06:17.106277Z",
       "categories": [],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 16,
+      "score": 14,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 2,
@@ -908,48 +1309,9 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "dbfe8f85b59fcc2b273157d6",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Vaccination infantile dans l’UE: une étude alerte sur un reflux depuis la pandémie de Covid",
-      "url": "https://www.sudinfo.be/id1194729/article/2026-09-17/vaccination-infantile-dans-lue-une-etude-alerte-sur-un-reflux-depuis-la-pandemie",
-      "summary": "Une étude publiée dans The Lancet relève, dans 16 pays de l’UE, un recul récent de plusieurs vaccinations infantiles depuis la pandémie de Covid, avec des baisses marquées contre la méningite B et la poliomyélite.",
-      "published_at": "2026-09-17T05:30:15Z",
-      "retrieved_at": "2026-09-17T10:06:14.622613Z",
-      "categories": [
-        "Santé"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -970,14 +1332,14 @@
       "url": "https://www.bruzz.be/actua/veiligheid/onderzoek-naar-veiligheid-van-queer-personen-extra-verlichting-niet-genoeg-2026-09-17",
       "summary": "Hoe voelen queer personen zich in de Brusselse openbare ruimte en op het openbaar vervoer? Doctoraatsonderzoekster Charlotte Van Vessem vroeg het aan queer personen zelf.",
       "published_at": "2026-09-17T05:00:00Z",
-      "retrieved_at": "2026-09-17T10:06:16.407008Z",
+      "retrieved_at": "2026-09-18T04:17:04.324906Z",
       "categories": [
         "Veiligheid"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -986,7 +1348,7 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
@@ -1009,14 +1371,14 @@
       "url": "https://www.lalibre.be/belgique/2026/09/17/cotisations-dans-les-clubs-quels-sont-les-sports-les-plus-chers-6QONFX3FDNC6VG3ZBVULWGODFM/",
       "summary": "L’Adeps a mené une grande enquête sur le budget des clubs sportifs. La cotisation moyenne s’élève à 161 euros. Mais les variations sont fortes d’un sport à l’autre et d’une province à l’autre....",
       "published_at": "2026-09-17T04:36:13Z",
-      "retrieved_at": "2026-09-17T10:06:13.936648Z",
+      "retrieved_at": "2026-09-18T04:17:02.292898Z",
       "categories": [
         "Belgique"
       ],
       "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 2,
@@ -1025,327 +1387,14 @@
         "evidence"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
       "related_items": []
     },
     {
-      "item_id": "d8c29956bc6958315baae9fc",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
-      "language": "fr",
-      "title": "À Bruxelles, les étudiants déjà dans la rue contre un minerval à près de 1200 euros: “On était déjà à bout avant que la réforme passe” (photos)",
-      "url": "https://www.lavenir.net/actu/2026/09/16/a-bruxelles-les-etudiants-deja-dans-la-rue-contre-un-minerval-a-pres-de-1200-euros-on-etait-deja-a-bout-avant-que-la-reforme-passe-photos-ZOX6S7EZRRERRNUHJHEU7MEVKI/",
-      "summary": "Quelques jours après avoir découvert le montant de leur minerval, des centaines d’étudiants ont défilé ce mercredi dans le centre de Bruxelles. Une hausse qui vient s’ajouter aux loyers, aux transports et à l’alimentation....",
-      "published_at": "2026-09-16T13:02:58Z",
-      "retrieved_at": "2026-09-17T10:06:16.427735Z",
-      "categories": [
-        "Actu"
-      ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "ac72b0869edad9e3d2ca06ee",
-      "source_id": "chamber",
-      "source_name": "Chambre des représentants",
-      "source_class": "parliament",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "chamber_live",
-      "endpoint_label": "Réunions vidéo planifiées",
-      "content_scope": "agenda|travaux",
-      "language": "fr",
-      "title": "Défense nationale (Plénière) Continuation de l'ordre du jour de la réunion du matin",
-      "url": "https://media.dekamer.be/meeting/56-20202-U2013",
-      "summary": "Plénière - Plenaire · DEFENSIE COMM · PLANNED",
-      "published_at": "2026-09-16T12:15:00Z",
-      "retrieved_at": "2026-09-17T10:06:06.262877Z",
-      "categories": [
-        "agenda",
-        "Chambre"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type travaux",
-        "contenu de type agenda",
-        "publié depuis moins de 24 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "14228443882e95178eaae310",
-      "source_id": "walloon_parliament",
-      "source_name": "Parlement de Wallonie",
-      "source_class": "parliament",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "walloon_parliament_current_questions_rss",
-      "endpoint_label": "Flux des questions d'actualité",
-      "content_scope": "questions|travaux",
-      "language": "fr",
-      "title": "Question d'actualité du 16/09/2026 - QA 2 (2026-2027)",
-      "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa2.pdf",
-      "summary": "QA -- Séance plénière",
-      "published_at": "2026-09-16T08:30:11Z",
-      "retrieved_at": "2026-09-17T10:06:08.370663Z",
-      "categories": [],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type questions",
-        "contenu de type travaux",
-        "publié depuis moins de 36 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "23c2adb063bfeae917e0022f",
-      "source_id": "tv_lux",
-      "source_name": "TV Lux",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "tv_lux_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|presse|terrain|politique|économie",
-      "language": "fr",
-      "title": "La SNCB annonce son plan de transport 2026-2029, les usagers de Virton/Florenville restent au statu quo",
-      "url": "https://www.tvlux.be/https://www.tvlux.be/actu/info/mobilite/la-sncb-annonce-son-plan-de-transport-2026-2029-les-usagers-de-virton-florenville-restent-au-statu-quo_52479",
-      "summary": "Dans un communiqué, la SNCB annonce les bonnes nouvelles contenues dans son plan de transport 2026-2029 qui entrera en vigueur en décembre et sera disponible dans le planificateur de voyages à partir du 28 septembre.",
-      "published_at": "2026-09-16T14:47:00Z",
-      "retrieved_at": "2026-09-17T10:06:18.175092Z",
-      "categories": [
-        "info"
-      ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "4650356d6f83973ce0d0fff6",
-      "source_id": "qu4tre",
-      "source_name": "Qu4tre",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "qu4tre_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|presse|terrain|politique|économie",
-      "language": "fr",
-      "title": "SNCB: d'ici 2028, une offre renforcée en province de Liège",
-      "url": "https://www.qu4tre.be/infos/amenagement-du-territoire/sncb-dici-2028-une-offre-renforcee-en-province-de-liege/2016470",
-      "summary": "Le nouveau Plan de transport sera déployé en trois phases entre décembre 2026 et décembre 2028. À terme, la SNCB précise qu’il permettra d'ajouter près de 600 trains supplémentaires par semaine et d’améliorer la desserte ferroviaire dans 178 gares. Dans la province de Liège, plusieurs mesures importantes sont prévues dans le plan de transport 2026-2028 de la SNCB. Elles devraient améliorer la fréquence des trains, les correspondances et les possibilités de déplacements pour les navetteurs, pour les étudiants et pour les voyageurs de loisirs. Dès décembre 2026 · Le service des trains S42 sera…",
-      "published_at": "2026-09-16T14:33:03Z",
-      "retrieved_at": "2026-09-17T10:06:17.801940Z",
-      "categories": [
-        "Aménagement du territoire"
-      ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d702d778f2ba7be23227931e",
-      "source_id": "qu4tre",
-      "source_name": "Qu4tre",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "qu4tre_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|presse|terrain|politique|économie",
-      "language": "fr",
-      "title": "Incendie des Hautes Fagnes: levée de la phase d’urgence provinciale",
-      "url": "https://www.qu4tre.be/infos/divers/incendie-des-hautes-fagnes-levee-de-la-phase-durgence-provinciale/2016448",
-      "summary": "Compte tenu de l’évolution favorable de l’incendie dans les Hautes Fagnes et de l’achèvement des principaux travaux de sécurisation, le Comité de coordination provincial a décidé de lever la phase d’urgence provinciale. La décision de lever la phase d’urgence provinciale au vu de l'évolution de la situation dans les Fagnes marque la fin du dispositif exceptionnel de coordination mis en place au niveau provincial. Celui-ci est désormais remplacé par une coordination opérationnelle entre les disciplines et services concernés, afin de poursuivre le suivi de la situation et d’adapter les moyens…",
-      "published_at": "2026-09-16T12:40:37Z",
-      "retrieved_at": "2026-09-17T10:06:17.801940Z",
-      "categories": [
-        "Divers"
-      ],
-      "first_seen_at": "2026-09-17T04:18:15.531276Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "f8cfdc004aecf27cbf7d1437",
-      "source_id": "de_tijd",
-      "source_name": "De Tijd",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_tijd_rss",
-      "endpoint_label": "Algemeen nieuws",
-      "content_scope": "actualités|presse|économie",
-      "language": "nl",
-      "title": "Beslissingen over bevroren Russische tegoeden illegaal verklaard",
-      "url": "https://www.tijd.be/r/t/1/id/10686086",
-      "summary": "De manier waarop de voorbije jaren in België in honderden dossiers is beslist over de vrijgave (of niet) van de miljarden euro's aan bevroren Russische tegoeden, was illegaal. Dat oordeelt de Raad van State in een nieuw arrest, vernam De Tijd.",
-      "published_at": "2026-09-16T04:03:08Z",
-      "retrieved_at": "2026-09-16T04:17:28.042817Z",
-      "categories": [
-        "Politiek & Economie"
-      ],
-      "first_seen_at": "2026-09-16T04:18:01.379192Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "71e38787149d883ca27475fd",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "La Réserve fédérale a une décision difficile à prendre",
-      "url": "https://www.lecho.be/r/t/1/id/10686054",
-      "summary": "Une hausse des taux directeurs américains traduirait une plus grande préoccupation de la Fed pour l'inflation, tandis qu'un statu quo entamerait sa crédibilité.",
-      "published_at": "2026-09-16T04:02:05Z",
-      "retrieved_at": "2026-09-16T04:17:28.811371Z",
-      "categories": [
-        "Les marchés"
-      ],
-      "first_seen_at": "2026-09-16T04:18:01.379192Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "b6608fbd5f1066fb4bf2b8e6",
+      "item_id": "58c0e419c49f40e68516aa11",
       "source_id": "eu_commission",
       "source_name": "Commission européenne",
       "source_class": "institution",
@@ -1357,18 +1406,18 @@
       "endpoint_label": "Press Corner RSS",
       "content_scope": "communiqués|politique|économie|justice",
       "language": "en",
-      "title": "Commission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1896",
-      "summary": "European Commission Press release Brussels, 17 Sep 2026 Today, the European Commission proposed to mobilise €489 million from the European Union Solidarity Fund (EUSF) to help Portugal, Spain, Italy and Malta recover from severe storms and flooding in January and February 2026.",
-      "published_at": "2026-09-17T09:27:17Z",
-      "retrieved_at": "2026-09-17T10:06:18.541896Z",
+      "title": "Read-out by President von der Leyen following her call with President Zelenskyy",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1899",
+      "summary": "European Commission Read-out Brussels, 17 Sep 2026 I just had a phone call with President Zelenskyy. Russia is relentlessly targeting Kyiv, trying to make daily life impossible for its inhabitants. We stand with...",
+      "published_at": "2026-09-17T17:55:33Z",
+      "retrieved_at": "2026-09-18T04:17:06.365770Z",
       "categories": [
-        "POLICY_AREA=REGIONAL"
+        "POLICY_AREA=HREXTRELS"
       ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -1378,84 +1427,47 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 12 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "ecb4a99a8700d4e6a6f6f061",
-      "source_id": "province_namur",
-      "source_name": "Province de Namur",
-      "source_class": "institution",
-      "institution_level": "province",
-      "geography": "Province de Namur",
-      "official_status": "official_public",
+      "item_id": "00898cb014b755718f867ce2",
+      "source_id": "greenpeace_be",
+      "source_name": "Greenpeace Belgique",
+      "source_class": "civil_society",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "civil_society",
       "access_model": "",
-      "endpoint_id": "province_namur_rss",
+      "endpoint_id": "greenpeace_be_rss",
       "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|terrain|économie",
+      "content_scope": "actualités|environnement|réformes",
       "language": "fr",
-      "title": "À Saint-Marc, le Frizet retrouve la lumière",
-      "url": "https://www.province.namur.be/2026/09/17/a-saint-marc-le-frizet-retrouve-la-lumiere/",
-      "summary": "Remettre un cours d’eau à ciel ouvert pour diminuer le risque d’inondation et lui permettre de retrouver un fonctionnement plus […]",
-      "published_at": "2026-09-17T09:01:43Z",
-      "retrieved_at": "2026-09-17T10:06:18.259083Z",
+      "title": "Greenpeace en action au parlement fédéral: “Notre maison est en feu, agissez”",
+      "url": "https://www.greenpeace.org/belgium/fr/actualites-blog/82448/greenpeace-en-action-au-parlement-federal-notre-maison-est-en-feu-agissez/",
+      "summary": "Ce jeudi 17 septembre, alors que les député·es belges faisaient leur rentrée au parlement fédéral, Greenpeace est passé à l’action. Des activistes sont intervenus à l’extérieur et à l’intérieur du bâtiment pour intimer à nos responsables politiques à sortir du déni et de l’inaction climatiques.",
+      "published_at": "2026-09-17T15:12:17Z",
+      "retrieved_at": "2026-09-18T04:16:59.875735Z",
       "categories": [
         "Actualités",
-        "Cours d'eau",
-        "Supracommunalité"
+        "Campagnes",
+        "Energie"
       ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
+      "first_seen_at": "2026-09-18T04:17:37.768952Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
+      "section_strength": 10,
       "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
-        "contenu de type terrain",
+        "contenu de type réformes",
         "contenu de type actualités",
-        "publié depuis moins de 6 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "1274970121434198260ee5af",
-      "source_id": "bruzz",
-      "source_name": "BRUZZ",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "bruzz_rss",
-      "endpoint_label": "Flux général",
-      "content_scope": "actualités|presse|terrain|Bruxelles",
-      "language": "nl|fr|en",
-      "title": "Schaarbeek is derde gemeente in Brussel die reclame op auto's en vliegreizen wil verbieden",
-      "url": "https://www.bruzz.be/actua/economie/schaarbeek-derde-gemeente-brussel-die-fossiele-reclame-wil-verbieden-2026-09-17",
-      "summary": "De gemeenteraad van Schaarbeek heeft een motie goedgekeurd waarin het Brussels Gewest wordt opgeroepen reclame voor de fossiele industrie in de openbare ruimte te verbieden.",
-      "published_at": "2026-09-17T08:59:03Z",
-      "retrieved_at": "2026-09-17T10:06:16.407008Z",
-      "categories": [
-        "Economie"
-      ],
-      "first_seen_at": "2026-09-17T10:06:49.381653Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
+        "publié depuis moins de 24 heures"
       ],
       "related_items": []
     }
