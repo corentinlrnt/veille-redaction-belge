@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-18T04:17:37.848533Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-19T04:17:04.694929Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **61**
 - Flux en erreur : **2**
-- Éléments conservés : **4078**
+- Éléments conservés : **3820**
 - Sources contributrices : **43**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -18,7 +18,7 @@ Généré le `2026-09-18T04:17:37.848533Z` par `veille-redaction-belge/collector
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
 | `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
-| `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 18 | — |
+| `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
@@ -49,7 +49,7 @@ Généré le `2026-09-18T04:17:37.848533Z` par `veille-redaction-belge/collector
 | `inami` | `inami_news` | `ok` | `html` | 15 | — |
 | `inami` | `inami_press` | `ok` | `html` | 15 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
-| `lavenir` | `lavenir_rss` | `ok` | `rss` | 99 | — |
+| `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
 | `lecho` | `lecho_rss` | `ok` | `rss` | 10 | — |
 | `ligue_droits_humains` | `ldh_wp` | `ok` | `rss` | 9 | — |
@@ -70,6 +70,6 @@ Généré le `2026-09-18T04:17:37.848533Z` par `veille-redaction-belge/collector
 | `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 3 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 2 | — |
 | `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 4 | — |
 | `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 5 | — |
