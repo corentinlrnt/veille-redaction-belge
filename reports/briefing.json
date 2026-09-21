@@ -1,63 +1,140 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-09-20T04:17:35.301591Z",
+  "generated_at": "2026-09-21T04:17:53.105713Z",
   "summary": {
-    "collected_items": 3824,
-    "selected_items": 11,
-    "excluded_items": 2,
+    "collected_items": 3820,
+    "selected_items": 10,
+    "excluded_items": 1,
     "excluded_by_rule": {
-      "actualité étrangère sans angle belge ou effet concret identifié": 2
+      "actualité étrangère sans angle belge ou effet concret identifié": 1
     },
     "minimum_score": 10,
     "minimum_score_by_source_class": {
       "news_media": 14
     },
     "by_section": {
-      "politics": 10,
-      "economy": 1
+      "politics": 9,
+      "justice": 1
     }
   },
   "items": [
     {
-      "item_id": "4d2b648f84d8072b1f19b0f0",
-      "source_id": "mr_party",
-      "source_name": "Mouvement Réformateur",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "mr_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
+      "item_id": "b722371350d76b1f76768ef3",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
       "language": "fr",
-      "title": "Réforme des CISP: consolider un maillon essentiel du parcours vers l’emploi",
-      "url": "https://www.mr.be/reforme-des-cisp-consolider-un-maillon-essentiel-du-parcours-vers-lemploi/",
-      "summary": "Le Gouvernement wallon a approuvé, en première lecture, sur proposition du Ministre de l’Emploi et de la Formation, Pierre-Yves Jeholet, l’avant-projet de décret relatif aux Centres d’insertion socioprofessionnelle (CISP). Le...",
-      "published_at": "2026-09-18T18:44:08Z",
-      "retrieved_at": "2026-09-20T04:16:56.411980Z",
+      "title": "La FWB observe une hausse drastique des élèves à besoins spécifiques: \"Grâce à ça, Chloé a pu rester avec ses amies\"",
+      "url": "https://www.lavenir.net/actu/societe/2026/09/21/la-fwb-observe-une-hausse-drastique-des-eleves-a-besoins-specifiques-grace-a-ca-chloe-a-pu-rester-avec-ses-amies-M65BD7WIS5HOLKI4WRR27KDL34/",
+      "summary": "Le nombre d’élèves bénéficiant d’aménagements raisonnables afin de poursuivre leur scolarité dans l’enseignement ordinaire a plus que doublé avec la création des pôles territoriaux. Cette réforme apparaît donc pertinente, à défaut d'être efficace. Analyse et témoignages....",
+      "published_at": "2026-09-21T04:00:00Z",
+      "retrieved_at": "2026-09-21T04:17:18.374137Z",
       "categories": [
-        "Communiqués"
+        "Société"
       ],
-      "first_seen_at": "2026-09-19T04:17:04.589389Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 24,
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 22,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 14,
+      "section_strength": 6,
       "matched_signals": [
         "public_decision",
-        "citizen_impact"
+        "evidence",
+        "change_alert"
       ],
       "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 36 heures",
+        "publié depuis moins de 6 heures",
         "décision ou réforme publique",
-        "impact concret pour la population"
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "1f4093b71d20c2eeee4ad8b4",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Dementiezorg kost België 7 miljard per jaar: \"Nu investeren om situatie onder controle te houden\"",
+      "url": "https://vrtnws.be/p.0YJpjyYkM",
+      "summary": "De zorg voor patiënten met dementie kost ons land meer dan 7 miljard euro per jaar. Dat blijkt uit een studie van Sciensano, op vraag van Stop Alzheimer. Belangrijke kostenposten zijn medische zorg en langdurig verblijf in woonzorgcentra. Ook mantelzorg heeft een hoge kostprijs, omdat veel mantelzorgers minder werken. Stop Alzheimer roept op deze Wereld Alzheimer Dag op om te investeren in onderzoek, zodat de kosten beheersbaar blijven.",
+      "published_at": "2026-09-21T03:27:28Z",
+      "retrieved_at": "2026-09-21T04:17:17.851646Z",
+      "categories": [],
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 22,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence",
+        "accountability"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e0363653cdbdd6d6d92acbe6",
+      "source_id": "qu4tre",
+      "source_name": "Qu4tre",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "qu4tre_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|presse|terrain|politique|économie",
+      "language": "fr",
+      "title": "Le RFCL Rugby version 2026-2027 peut vraiment croire au maintien en D1",
+      "url": "https://www.qu4tre.be/sports/le-rfcl-rugby-version-2026-2027-peut-vraiment-croire-au-maintien-en-d1/2016547",
+      "summary": "Liège a débuté sa nouvelle saison au sein de l'élite la semaine passée par un lourd revers au Kituro. Pour leur première à domicile, c'est rien de moins que le champion de Belgique que les Sang et Marine accueillaient à Naimette. Liège est à nouveau au devant d’une année très importante au sein de l’élite. La réforme des championnats entrée en vigueur cette saison veut en effet que toutes les séries passent à 8 équipes dès l’an prochain, suite notamment à la création d’une D4 entre la D3 et la Régionale 1. Les deux derniers de D1 seront directement relégués … tandis que le 8eme devra…",
+      "published_at": "2026-09-20T17:27:59Z",
+      "retrieved_at": "2026-09-21T04:17:19.511442Z",
+      "categories": [
+        "Sports"
+      ],
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -78,14 +155,14 @@
       "url": "https://www.sudinfo.be/id1195894/article/2026-09-20/adrien-dolimont-ministre-president-du-gouvernement-wallon-est-notre-invite-de-ce",
       "summary": "Lors des Fêtes de Wallonie, le ministre-président wallon Adrien Dolimont procède un tour d’horizon des dossiers chauds de la rentrée: grève des contrôleurs aériens, flambée des prix de l’énergie, réforme fiscale…",
       "published_at": "2026-09-20T04:00:00Z",
-      "retrieved_at": "2026-09-20T04:16:59.259928Z",
+      "retrieved_at": "2026-09-21T04:17:16.636557Z",
       "categories": [
         "L'actualité de 7Dimanche"
       ],
       "first_seen_at": "2026-09-20T04:17:34.804291Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 20,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -94,14 +171,53 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
       "related_items": []
     },
     {
-      "item_id": "42b05ba57aaba4529130326f",
+      "item_id": "f061406b1288cf699790bce4",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Slechts een op de vier Belgen kent voornaamste doodsoorzaak bij vrouwen",
+      "url": "https://www.gva.be/binnenland/slechts-een-op-de-vier-belgen-kent-voornaamste-doodsoorzaak-bij-vrouwen/161733112.html",
+      "summary": "Hart- en vaatziekten vormen de voornaamste doodsoorzaak bij vrouwen, maar slechts een kwart van de Belgen weet dat. De Belgische Cardiologische Liga roept vrouwen daarom op om vanaf hun vijftigste een volledig cardiovasculair onderzoek te laten uitvoeren.",
+      "published_at": "2026-09-21T00:25:00Z",
+      "retrieved_at": "2026-09-21T04:17:17.508258Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "evidence",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ad5ba5483c6d9949181f5c9b",
       "source_id": "sudinfo",
       "source_name": "Sudinfo",
       "source_class": "news_media",
@@ -113,29 +229,64 @@
       "endpoint_label": "Flux principal",
       "content_scope": "actualités|presse|terrain",
       "language": "fr",
-      "title": "Carburants: les prix vont rester très élevés pendant plusieurs semaines, « je ne vois pas pourquoi cela pourrait fortement baisser »",
-      "url": "https://www.sudinfo.be/id1195892/article/2026-09-20/carburants-les-prix-vont-rester-tres-eleves-pendant-plusieurs-semaines-je-ne",
-      "summary": "Essence à plus de 2 € le litre, diesel proche de 2,50 €: les automobilistes belges vont devoir encore patienter avant de souffler à la pompe. Selon l’économiste Bertrand Candelon, aucune baisse rapide ne se dessine…",
-      "published_at": "2026-09-20T03:55:00Z",
-      "retrieved_at": "2026-09-20T04:16:59.259928Z",
+      "title": "Indexation, TVA, soins de santé, économies...: voici ce que vous prépare Bart De Wever pour la grande bagarre des 10 milliards",
+      "url": "https://www.sudinfo.be/id1196351/article/2026-09-21/indexation-tva-soins-de-sante-economies-voici-ce-que-vous-prepare-bart-de-wever",
+      "summary": "Le gouvernement fédéral entre, ce lundi, dans le vif du sujet: dix milliards d’euros à trouver d’ici 2029. Touchera-t-on à votre voiture, à vos soins de santé ou à votre salaire? Plusieurs pistes sur la table n’épargnent pas le portefeuille des Belges…",
+      "published_at": "2026-09-21T02:07:00Z",
+      "retrieved_at": "2026-09-21T04:17:16.636557Z",
       "categories": [
-        "L'actualité de 7Dimanche"
+        "Politique"
       ],
-      "first_seen_at": "2026-09-20T04:17:34.804291Z",
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 16,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 2,
+      "section_strength": 10,
       "matched_signals": [
-        "citizen_impact",
-        "change_alert"
+        "citizen_impact"
       ],
       "score_reasons": [
         "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "bbc7afcb3404c12d153d468b",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "« Une décision absolument pas facile à prendre »: Egbert Lachaert ne siègera plus au nom du parti Anders, mais en tant qu’indépendant",
+      "url": "https://www.sudinfo.be/id1196342/article/2026-09-20/une-decision-absolument-pas-facile-prendre-egbert-lachaert-ne-siegera-plus-au",
+      "summary": "Egbert Lachaert a annoncé dimanche soir sur Facebook qu’il ne siègera plus au Parlement flamand au nom d’Anders. L’ancien président du parti libéral flamand y défendra désormais les électeurs comme indépendant.",
+      "published_at": "2026-09-20T21:10:41Z",
+      "retrieved_at": "2026-09-21T04:17:16.636557Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique"
       ],
       "related_items": []
     },
@@ -164,284 +315,98 @@
         "Reportages"
       ],
       "first_seen_at": "2026-09-20T04:17:34.804291Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "536b1d2e52a3c2a569118a85",
-      "source_id": "de_tijd",
-      "source_name": "De Tijd",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_tijd_rss",
-      "endpoint_label": "Algemeen nieuws",
-      "content_scope": "actualités|presse|économie",
-      "language": "nl",
-      "title": "Duitsland verlaagt belasting op brandstof en werkt aan prijsplafond",
-      "url": "https://www.tijd.be/r/t/1/id/10686736",
-      "summary": "Duitsland verlaagt vanaf 1 oktober tijdelijk de belasting op brandstof, waardoor benzine en diesel ongeveer 17 cent per liter goedkoper moeten worden. Tegelijk werkt ze aan een maximumprijs naar Belgisch en Luxemburgs voorbeeld.",
-      "published_at": "2026-09-19T09:57:50Z",
-      "retrieved_at": "2026-09-20T04:16:59.897440Z",
-      "categories": [
-        "Politiek & Economie"
-      ],
-      "first_seen_at": "2026-09-20T04:17:34.804291Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "0d1525a26a7a3c9dd77ad2b0",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "L’IA a failli déclencher un conflit entre les États-Unis et la Chine: un rapport des renseignements américains dévoilé!",
-      "url": "https://www.sudinfo.be/id1195874/article/2026-09-20/lia-failli-declencher-un-conflit-entre-les-etats-unis-et-la-chine-un-rapport-des",
-      "summary": "Une erreur commise par une intelligence artificielle a provoqué une véritable alerte au sein de l’armée américaine. Un rapport secret affirmait qu’un navire chinois transportait du matériel destiné à un programme nucléaire. Une opération militaire était sur le point d’être lancée lorsque des responsables ont découvert que l’analyse reposait… sur une erreur de chatbot.",
-      "published_at": "2026-09-19T22:22:57Z",
-      "retrieved_at": "2026-09-20T04:16:59.259928Z",
-      "categories": [
-        "L'actualité de 7Dimanche"
-      ],
-      "first_seen_at": "2026-09-20T04:17:34.804291Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "76b722e1ae63ec5c556c6b1b",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "En vidéo – Grand Baromètre: « A chaque réforme de l’Arizona, le PS prend des points »",
-      "url": "https://www.lesoir.be/771787/article/2026-09-18/en-video-grand-barometre-chaque-reforme-de-larizona-le-ps-prend-des-points",
-      "summary": "Retrouvez les conclusions de nos experts sur cette nouvelle édition du Grand Baromètre.",
-      "published_at": "2026-09-18T17:21:04Z",
-      "retrieved_at": "2026-09-19T04:16:27.899705Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-09-19T04:17:04.589389Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 15,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "section_strength": 2,
       "matched_signals": [
         "public_decision",
-        "evidence"
+        "change_alert"
       ],
       "score_reasons": [
         "publié depuis moins de 36 heures",
         "décision ou réforme publique",
-        "chiffres, étude ou évaluation"
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "816b80dd0d2b9079dd0cc8ab",
-      "source_id": "groen_party",
-      "source_name": "Groen",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "groen_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "nl",
-      "title": "Horch (Groen) wil één interfederale klimaatcel: \"Ons land heeft meer klimaatministers dan blusvliegtuigen\"",
-      "url": "http://www.groen.be/interfederale_klimaatcel",
-      "summary": "\"Klimaatbeleid zit versnipperd, maar stopt niet aan de grens tussen Vlaanderen, Wallonië en Brussel. Groen stelt voor om een interfederale klimaatcel op te richten. Eén cel voor het hele land, onder één duidelijk commando, zodat onze weerbaarheid omhoog gaat.\"",
-      "published_at": "2026-09-19T07:12:00Z",
-      "retrieved_at": "2026-09-20T04:16:54.867331Z",
-      "categories": [],
-      "first_seen_at": "2026-09-20T04:17:34.804291Z",
+      "item_id": "b99d20eeea8085233f15191d",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "UN Private Sector Forum - UN Global Compact",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1912",
+      "summary": "European Commission Speech New York, 20 Sep 2026 Good morning, ladies and gentlemen, and thank you for giving me the floor at such an important event. I arrived in New York yesterday from Prague. This summer w...",
+      "published_at": "2026-09-20T18:13:53Z",
+      "retrieved_at": "2026-09-21T04:17:20.619939Z",
+      "categories": [
+        "POLICY_AREA=DEVEL"
+      ],
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 12,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "489af63c10c616e753ca57f2",
-      "source_id": "federal_press",
-      "source_name": "Presscenter fédéral",
-      "source_class": "institution",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "federal_rss",
-      "endpoint_label": "Flux de tous les communiqués",
-      "content_scope": "communiqués",
-      "language": "fr",
-      "title": "Capacités d'intervention en matière de lutte contre les feux de nature",
-      "url": "https://news.belgium.be/fr/capacites-dintervention-en-matiere-de-lutte-contre-les-feux-de-nature",
-      "summary": "Le Conseil des ministres a pris acte de la note de projet pour un Plan d’action visant à renforcer les capacités d’intervention opérationnelles nationales en matière de lutte contre les feux de nature.",
-      "published_at": "2026-09-19T06:46:49Z",
-      "retrieved_at": "2026-09-20T04:16:53.668652Z",
-      "categories": [],
-      "first_seen_at": "2026-09-20T04:17:34.804291Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 12,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
       "matched_signals": [
         "agenda"
       ],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
+        "publié depuis moins de 12 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "f5a11017e94eac93f803cce5",
-      "source_id": "mr_party",
-      "source_name": "Mouvement Réformateur",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "mr_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Le Test CLÉ (Calculer, Lire, Écrire) en début de 4ème primaire pour consolider les apprentissages de base",
-      "url": "https://www.mr.be/le-test-cle-calculer-lire-ecrire-en-debut-de-4eme-primaire-pour-consolider-les-apprentissages-de-base/",
-      "summary": "Depuis le 15 septembre, le Test CLÉ (Calculer, Lire, Écrire) a fait son entrée dans les écoles primaires. Organisé pour la première fois auprès de tous les élèves de 4ème...",
-      "published_at": "2026-09-18T18:51:47Z",
-      "retrieved_at": "2026-09-20T04:16:56.411980Z",
+      "item_id": "2acd124711420ce39de50141",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Solidarity with Ukraine",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_24_6565",
+      "summary": "European Commission Factsheet Brussels, 20 Sep 2026 Solidarity with Ukraine Solidarity with Ukraine",
+      "published_at": "2026-09-19T22:00:00Z",
+      "retrieved_at": "2026-09-21T04:17:20.619939Z",
       "categories": [
-        "A la Une",
-        "Enseignement"
+        "POLICY_AREA=UKRAINE"
       ],
-      "first_seen_at": "2026-09-19T04:17:04.589389Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 12,
+      "first_seen_at": "2026-09-21T04:17:52.621260Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 11,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [],
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 36 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d32a72b69a3f823ccb43dd70",
-      "source_id": "mr_party",
-      "source_name": "Mouvement Réformateur",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "mr_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Exécution des peines: Victoria Vandeberg demande plus de fermeté",
-      "url": "https://www.mr.be/execution-des-peines-victoria-vandeberg-demande-plus-de-fermete/",
-      "summary": "Mohamed Bakkali admissible à une libération conditionnelle: Victoria Vandeberg interpelle la Ministre de la Justice et demande plus de fermeté dans l’exécution des peines À l’occasion de la rentrée...",
-      "published_at": "2026-09-18T18:48:38Z",
-      "retrieved_at": "2026-09-20T04:16:56.411980Z",
-      "categories": [
-        "Communiqués"
-      ],
-      "first_seen_at": "2026-09-19T04:17:04.589389Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 12,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 36 heures"
+        "publié depuis moins de 36 heures",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     }
