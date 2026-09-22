@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-21T04:17:52.734635Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-22T04:17:26.104817Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **62**
 - Flux en erreur : **1**
-- Éléments conservés : **3820**
+- Éléments conservés : **3878**
 - Sources contributrices : **43**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -16,17 +16,17 @@ Généré le `2026-09-21T04:17:52.734635Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `ok` | `rss` | 10 | — |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 14 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 30 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 223 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 224 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
@@ -51,7 +51,7 @@ Généré le `2026-09-21T04:17:52.734635Z` par `veille-redaction-belge/collector
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
 | `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
-| `lecho` | `lecho_rss` | `ok` | `rss` | 9 | — |
+| `lecho` | `lecho_rss` | `ok` | `rss` | 10 | — |
 | `ligue_droits_humains` | `ldh_wp` | `ok` | `rss` | 9 | — |
 | `medor` | `medor_rss` | `ok` | `rss` | 30 | — |
 | `mr_party` | `mr_party_rss` | `ok` | `rss` | 10 | — |
