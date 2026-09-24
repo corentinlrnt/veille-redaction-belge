@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-23T04:17:56.470273Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-24T04:17:45.978115Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **61**
 - Flux en erreur : **2**
-- Éléments conservés : **3914**
-- Sources contributrices : **44**
+- Éléments conservés : **3911**
+- Sources contributrices : **42**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,19 +16,19 @@ Généré le `2026-09-23T04:17:56.470273Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `ok` | `rss` | 10 | — |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 10 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 32 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 225 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 226 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
-| `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
+| `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
@@ -67,7 +67,7 @@ Généré le `2026-09-23T04:17:56.470273Z` par `veille-redaction-belge/collector
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
-| `tv_lux` | `tv_lux_rss` | `parse_error` | `unknown` | 0 | not well-formed (invalid token): line 83, column 314 |
+| `tv_lux` | `tv_lux_rss` | `parse_error` | `unknown` | 0 | not well-formed (invalid token): line 174, column 314 |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
 | `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 2 | — |
