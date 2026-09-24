@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-09-23T04:27:03.706978Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-24T04:26:09.467086Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **244**
-- Accès en erreur ou bloqués : **42**
+- Accès opérationnels : **245**
+- Accès en erreur ou bloqués : **41**
 - Flux candidats découverts : **97**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -43,7 +43,7 @@ Généré le `2026-09-23T04:27:03.706978Z` par `veille-redaction-belge/0.1.0`.
 | BRF Nachrichten | Flux BRF Nachrichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | BRUGEL | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Brupartners | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Bruxelles Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Bruxelles Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | BRUZZ | Flux général | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | BRUZZ | Recent nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Calendrier | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -117,7 +117,7 @@ Généré le `2026-09-23T04:27:03.706978Z` par `veille-redaction-belge/0.1.0`.
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
-| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `network_error` | — | `html → unknown` | `missing` | 0 |
+| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement wallon | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Greenpeace Belgique | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -281,7 +281,7 @@ Généré le `2026-09-23T04:27:03.706978Z` par `veille-redaction-belge/0.1.0`.
 | VDAB | Nieuws voor de pers | `ok` | 200 | `html → html` | `allowed` | 0 |
 | VEDIA | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vivalis | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Vivant Ostbelgien | Flux des actualités | `network_error` | — | `rss → unknown` | `unknown` | 0 |
+| Vivant Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Vlaams Belang | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vlaams Huurdersplatform | Actualiteit | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vlaamse Milieumaatschappij | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
