@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-09-25T04:26:49.358198Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **247**
-- Accès en erreur ou bloqués : **39**
-- Flux candidats découverts : **97**
+- Accès opérationnels : **248**
+- Accès en erreur ou bloqués : **38**
+- Flux candidats découverts : **96**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -234,7 +234,7 @@ Généré le `2026-09-25T04:26:49.358198Z` par `veille-redaction-belge/0.1.0`.
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -266,7 +266,7 @@ Généré le `2026-09-25T04:26:49.358198Z` par `veille-redaction-belge/0.1.0`.
 | TV Com | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | TV Limburg | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | TV Lux | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 1 |
-| TV Lux | Flux des actualités | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
+| TV Lux | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | TV Oost | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Télé MB | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Télésambre | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
