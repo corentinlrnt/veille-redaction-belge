@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-26T04:17:20.634544Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-27T04:17:28.152239Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **60**
-- Flux en erreur : **3**
-- Éléments conservés : **3651**
+- Flux collectés : **62**
+- Flux en erreur : **1**
+- Éléments conservés : **3664**
 - Sources contributrices : **38**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -23,10 +23,10 @@ Généré le `2026-09-26T04:17:20.634544Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 32 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 29 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 228 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 229 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
@@ -54,9 +54,9 @@ Généré le `2026-09-26T04:17:20.634544Z` par `veille-redaction-belge/collector
 | `lecho` | `lecho_rss` | `ok` | `rss` | 10 | — |
 | `ligue_droits_humains` | `ldh_wp` | `ok` | `rss` | 9 | — |
 | `medor` | `medor_rss` | `ok` | `rss` | 30 | — |
-| `mr_party` | `mr_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
+| `mr_party` | `mr_party_rss` | `ok` | `rss` | 10 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
-| `mutualities_liberal` | `liberal_mutualities_news` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
 | `province_namur` | `province_namur_rss` | `ok` | `rss` | 10 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
