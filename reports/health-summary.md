@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-09-27T04:25:57.827183Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **248**
-- Accès en erreur ou bloqués : **38**
-- Flux candidats découverts : **96**
+- Accès opérationnels : **249**
+- Accès en erreur ou bloqués : **37**
+- Flux candidats découverts : **97**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -135,8 +135,8 @@ Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Institut fédéral des droits humains | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Institut fédéral des droits humains | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Institut fédéral des droits humains | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Institut fédéral des droits humains | Publications | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Institut national d'assurance maladie-invalidité | Communiqués de presse | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurances sociales pour travailleurs indépendants | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -197,7 +197,7 @@ Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
 | Presscenter fédéral | Conseil des ministres | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Presscenter fédéral | Flux de tous les communiqués | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | ProDG | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Province d'Anvers | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Province d'Anvers | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Flandre-Occidentale | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Province de Flandre-Orientale | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Hainaut | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -215,7 +215,7 @@ Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
 | Rassemblement bruxellois pour le droit à l'habitat | Actualités et actions | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Rassemblement bruxellois pour le droit à l'habitat | Analyses et études | `ok` | 200 | `html → html` | `allowed` | 3 |
 | Rassemblement wallon pour le droit à l'habitat | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| RINGtv | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| RINGtv | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | ROBtv | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Accueil RTBF Info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Flux RTBF Info | `ok` | 200 | `rss → rss` | `unknown` | 0 |
@@ -229,12 +229,12 @@ Généré le `2026-09-26T04:25:22.229126Z` par `veille-redaction-belge/0.1.0`.
 | Service public régional de Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Sociaal-Economische Raad van Vlaanderen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Société du Logement de la Région de Bruxelles-Capitale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Société wallonne du Logement | Actualités du logement | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Société wallonne du Logement | Actualités du logement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SP Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
