@@ -1,6 +1,6 @@
 # Couverture déclarée
 
-Généré le `2026-09-27T04:23:42.272176Z` par `veille-redaction-belge/coverage-0.1.0`.
+Généré le `2026-09-28T10:49:55.672434Z` par `veille-redaction-belge/coverage-0.1.0`.
 
 - Sources enregistrées : **221**
 - Points d'accès actifs : **286**
