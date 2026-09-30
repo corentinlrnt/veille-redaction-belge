@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-09-29T10:35:26.254744Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-09-30T10:25:13.952500Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **62**
 - Flux en erreur : **1**
-- Éléments conservés : **3644**
-- Sources contributrices : **39**
+- Éléments conservés : **3669**
+- Sources contributrices : **43**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-09-29T10:35:26.254744Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `ok` | `rss` | 10 | — |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 25 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 14 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
@@ -57,7 +57,7 @@ Généré le `2026-09-29T10:35:26.254744Z` par `veille-redaction-belge/collector
 | `mr_party` | `mr_party_rss` | `ok` | `rss` | 10 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
 | `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
-| `province_namur` | `province_namur_rss` | `ok` | `rss` | 10 | — |
+| `province_namur` | `province_namur_rss` | `ok` | `rss` | 9 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
@@ -70,6 +70,6 @@ Généré le `2026-09-29T10:35:26.254744Z` par `veille-redaction-belge/collector
 | `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 9 | — |
-| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 3 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 3 | — |
+| `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 4 | — |
 | `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |
