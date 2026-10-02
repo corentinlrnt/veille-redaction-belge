@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **241**
-- Accès en erreur ou bloqués : **45**
-- Flux candidats découverts : **81**
+- Accès opérationnels : **246**
+- Accès en erreur ou bloqués : **40**
+- Flux candidats découverts : **101**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -28,7 +28,7 @@ Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
 | Apache | Homepage en artikels | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Apache | Overzicht RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 6 |
 | Arbeitsamt der Deutschsprachigen Gemeinschaft | Portail de l'emploi | `ok` | 200 | `html → html` | `allowed` | 0 |
-| ATV | Regionaal nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| ATV | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité de protection des données | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité des services et marchés financiers | Actualités et mises en garde | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -87,7 +87,7 @@ Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
 | Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour de cassation | Actualités et publications | `ok` | 200 | `html → html` | `missing` | 0 |
-| Cour de justice de l'Union européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Cour de justice de l'Union européenne | Communiqués de presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Cour des comptes | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Cour des comptes | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Cour des comptes européenne | Portail et actualités | `ok` | 200 | `html → html` | `missing` | 1 |
@@ -100,7 +100,7 @@ Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
 | De Standaard | Binnenland | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Tijd | Algemeen nieuws | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Tijd | Home en nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
-| De Tijd | RSS-feeds | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| De Tijd | RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 10 |
 | Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DH Les Sports+ | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -179,13 +179,13 @@ Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
 | Office national de sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Orde van Vlaamse Balies | Nieuws en events | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ostbelgien Statistik | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Parlement de la Communauté germanophone | Termine | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Région de Bruxelles-Capitale | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Parlement de Wallonie | Actualités et travaux | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| Parlement de Wallonie | Flux des questions d'actualité | `network_error` | — | `rss → unknown` | `unknown` | 0 |
-| Parlement de Wallonie | Flux des questions écrites | `network_error` | — | `rss → unknown` | `unknown` | 0 |
-| Parlement de Wallonie | Flux du calendrier | `network_error` | — | `rss → unknown` | `unknown` | 0 |
+| Parlement de Wallonie | Actualités et travaux | `ok` | 200 | `html → html` | `allowed` | 10 |
+| Parlement de Wallonie | Flux des questions d'actualité | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Parlement de Wallonie | Flux des questions écrites | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Parlement de Wallonie | Flux du calendrier | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Parlement européen | Portail du Parlement européen | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Parlement européen | Salle de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Parlement flamand | Réunions et comptes rendus | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
@@ -257,7 +257,7 @@ Généré le `2026-10-01T10:58:08.671211Z` par `veille-redaction-belge/0.1.0`.
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Trends | Home en economisch nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | AI en technologie | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | IA et technologies | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Z | Trends Z francophone | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
