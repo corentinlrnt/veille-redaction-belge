@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-03T09:52:53.842543Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **246**
-- Accès en erreur ou bloqués : **40**
-- Flux candidats découverts : **101**
+- Accès opérationnels : **245**
+- Accès en erreur ou bloqués : **41**
+- Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -31,7 +31,7 @@ Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
 | ATV | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité de protection des données | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Autorité des services et marchés financiers | Actualités et mises en garde | `ok` | 200 | `html → html` | `allowed` | 1 |
+| Autorité des services et marchés financiers | Actualités et mises en garde | `http_error` | 503 | `html → unknown` | `unknown` | 0 |
 | AVOCATS.BE | Communiqués de presse | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
 | AVS | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Banque centrale européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -87,7 +87,7 @@ Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
 | Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour de cassation | Actualités et publications | `ok` | 200 | `html → html` | `missing` | 0 |
-| Cour de justice de l'Union européenne | Communiqués de presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Cour de justice de l'Union européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour des comptes | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Cour des comptes | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Cour des comptes européenne | Portail et actualités | `ok` | 200 | `html → html` | `missing` | 1 |
@@ -169,7 +169,7 @@ Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Médor | Derniers articles | `ok` | 200 | `html → html` | `missing` | 1 |
 | Médor | Flux des derniers articles | `ok` | 200 | `rss → rss` | `missing` | 0 |
-| N-VA | Nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| N-VA | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Nederlandstalige Vrouwenraad | Nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Netwerk tegen Armoede | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | NOOZO | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-10-02T10:30:59.202217Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
