@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-04T10:31:24.526445Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-05T11:21:39.702301Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **61**
-- Flux en erreur : **2**
-- Éléments conservés : **3642**
-- Sources contributrices : **45**
+- Flux collectés : **62**
+- Flux en erreur : **1**
+- Éléments conservés : **3645**
+- Sources contributrices : **43**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -23,7 +23,7 @@ Généré le `2026-10-04T10:31:24.526445Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 230 | — |
@@ -40,7 +40,7 @@ Généré le `2026-10-04T10:31:24.526445Z` par `veille-redaction-belge/collector
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
 | `gva` | `gva_rss` | `ok` | `rss` | 50 | — |
-| `hbvl` | `hbvl_rss` | `network_error` | `unknown` | 0 | Connexion impossible: The read operation timed out |
+| `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
