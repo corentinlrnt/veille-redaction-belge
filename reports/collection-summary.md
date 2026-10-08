@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-07T10:59:26.040546Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-08T11:16:48.938334Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **62**
 - Flux en erreur : **1**
-- Éléments conservés : **3610**
-- Sources contributrices : **43**
+- Éléments conservés : **3591**
+- Sources contributrices : **42**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-10-07T10:59:26.040546Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `ok` | `rss` | 10 | — |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 13 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 2 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
@@ -26,7 +26,7 @@ Généré le `2026-10-07T10:59:26.040546Z` par `veille-redaction-belge/collector
 | `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 230 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 232 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
@@ -41,7 +41,7 @@ Généré le `2026-10-07T10:59:26.040546Z` par `veille-redaction-belge/collector
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
 | `gva` | `gva_rss` | `ok` | `rss` | 50 | — |
 | `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
-| `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
+| `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 49 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
