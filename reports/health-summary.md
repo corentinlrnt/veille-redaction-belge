@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-08T11:22:12.071632Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-09T11:20:23.986091Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **244**
-- Accès en erreur ou bloqués : **42**
-- Flux candidats découverts : **100**
+- Accès opérationnels : **245**
+- Accès en erreur ou bloqués : **41**
+- Flux candidats découverts : **99**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -48,8 +48,8 @@ Généré le `2026-10-08T11:22:12.071632Z` par `veille-redaction-belge/0.1.0`.
 | BRUZZ | Recent nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Calendrier | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| BX1 | Actualités de Bruxelles | `ok` | 200 | `html → html` | `allowed` | 2 |
-| BX1 | Flux BX1 | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| BX1 | Actualités de Bruxelles | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| BX1 | Flux BX1 | `http_error` | 403 | `rss → unknown` | `allowed` | 0 |
 | CAAMI-HZIV | Actualités pour les membres | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canal Zoom | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canopea | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
@@ -62,8 +62,8 @@ Généré le `2026-10-08T11:22:12.071632Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -174,7 +174,7 @@ Généré le `2026-10-08T11:22:12.071632Z` par `veille-redaction-belge/0.1.0`.
 | Netwerk tegen Armoede | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | NOOZO | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Notélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Office de la Naissance et de l'Enfance | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Office de la Naissance et de l'Enfance | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de l'emploi | Espace presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Orde van Vlaamse Balies | Nieuws en events | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -234,8 +234,8 @@ Généré le `2026-10-08T11:22:12.071632Z` par `veille-redaction-belge/0.1.0`.
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| SPF Finances | Actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
-| SPF Finances | Flux des actualités | `network_error` | — | `rss → unknown` | `allowed` | 0 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
+| SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
