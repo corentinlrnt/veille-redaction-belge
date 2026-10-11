@@ -1,18 +1,18 @@
 # Santé des accès
 
-Généré le `2026-10-10T10:36:50.215632Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-11T10:49:41.231312Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **246**
-- Accès en erreur ou bloqués : **40**
-- Flux candidats découverts : **98**
+- Accès opérationnels : **244**
+- Accès en erreur ou bloqués : **42**
+- Flux candidats découverts : **99**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
 | Académie de recherche et d'enseignement supérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Actiris | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
-| Administration de la Fédération Wallonie-Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Administration de la Fédération Wallonie-Bruxelles | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale des médicaments et des produits de santé | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale pour la sécurité de la chaîne alimentaire | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -234,13 +234,13 @@ Généré le `2026-10-10T10:36:50.215632Z` par `veille-redaction-belge/0.1.0`.
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
