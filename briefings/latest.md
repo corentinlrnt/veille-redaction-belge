@@ -1,238 +1,144 @@
-# Veille rédaction belge — 10 octobre 2026
+# Veille rédaction belge — 11 octobre 2026
 
-Générée à **12:31** (heure de Bruxelles) à partir de **3516 éléments collectés**.
+Générée à **12:44** (heure de Bruxelles) à partir de **3542 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
-### [Évaluation des « décret électricité » et « décret gaz »: rapport 2026](https://www.cwape.be/documents-recents/evaluation-des-decret-electricite-et-decret-gaz-rapport-2026)
-
-**Commission wallonne pour l'Énergie** · source publique officielle · 09/10/2026 à 00:46 · score `28`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 36 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Évaluation des « décret électricité » et « décret gaz »: rapport 2026 acso 09-10-2026 Évaluation des « décret électricité » et « décret gaz »: rapport 2026 09-10-2026 La CWaPE a adressé au Gouvernement wallon et au Parlement wallon son rapport d’évaluation annuel des dispositions des décret du 12 avril 2001 relatif à l’organisation du marché régional de l’électricité et décret du 19 décembre 2002 relatif à l’organisation du marché régional du gaz. Ce rapport d’évaluation aborde également le décret du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux…
-
-### [Modification des lois antidiscrimination - Deuxième lecture](https://news.belgium.be/fr/modification-des-lois-antidiscrimination-deuxieme-lecture)
-
-**Presscenter fédéral** · source publique officielle · 09/10/2026 à 15:28 · score `25`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Sur proposition du ministre de l’Égalité des chances Rob Beenders, le Conseil des ministres a approuvé en deuxième lecture un avant-projet de loi portant modification de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie, de la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination et de la loi du 10 mai 2007 tendant à lutter contre les discriminations entre les femmes et les hommes.
-
 ### [Négociations à dix milliards: il n’y a pas que la TVA... Voici d’autres pistes budgétaires qui pourraient faire mal au portefeuille](https://www.sudinfo.be/id1207047/article/2026-10-10/negociations-dix-milliards-il-ny-pas-que-la-tva-voici-dautres-pistes-budgetaires)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 05:55 · score `22`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 05:55 · score `20`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Ce sont les pistes dont on parle, mais aucune décision n’a déjà été prise… Même si certaines semblent plus probables que d’autres (la hausse du prix de la visite chez le médecin, par exemple).
 
-### [Perquisition conjointe à Blandain](https://news.belgium.be/fr/perquisition-conjointe-blandain)
+### [La hausse de la TVA bloque les négociations sur le budget fédéral](https://www.lecho.be/r/t/1/id/10695121)
 
-**Presscenter fédéral** · source publique officielle · 09/10/2026 à 16:52 · score `20`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Hier, la Police fédérale aérienne, la zone de police locale du Tournaisis et le service d'inspection de la Direction générale du Transport aérien (DGTA) — relevant du SPF Mobilité et Transports — ont mené une perquisition conjointe dans des locaux situés à Blandain (Tournai). Cette opération s'inscrivait dans le cadre d'une enquête judiciaire dirigée par le juge d'instruction du tribunal de première instance de Flandre-Occidentale (division de Courtrai). L'enquête porte sur des irrégularités présumées concernant la navigabilité et l'immatriculation d'un hélicoptère, le contournement des…
-
-### [Modifications concernant l'Institut pour l'égalité des femmes et des hommes - Deuxième lecture](https://news.belgium.be/fr/modifications-concernant-linstitut-pour-legalite-des-femmes-et-des-hommes-deuxieme-lecture)
-
-**Presscenter fédéral** · source publique officielle · 09/10/2026 à 15:28 · score `19`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Sur proposition du ministre de l’Égalité des chances Rob Beenders, le Conseil des ministres a approuvé en deuxième lecture un avant-projet de loi visant à mettre la loi du 16 décembre 2002 portant création de l’Institut pour l’égalité des femmes et des hommes (IEFH) en conformité avec la directive (UE) 2024/1499.
-
-### [Un jour, une carte: le détroit d’Ormuz libéré? Le pétrole circule à nouveau, dans un verre de diesel à moitié vide](https://www.rtbf.be/article/un-jour-une-carte-le-detroit-d-ormuz-libere-le-petrole-circule-a-nouveau-dans-un-verre-de-diesel-a-moitie-vide-11797166)
-
-**RTBF Info** · média d'information · 10/10/2026 à 11:08 · score `17`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 12:27 · score `18`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Note éditoriale: Cet article, initialement publié jeudi 8 octobre, avant l’annonce par Donald Trump d’un accord...
+> Extrait fourni par la source : Aucun accord en vue sur le budget fédéral après le kern de ce samedi. Il revient des discussions que le MR reste catégorique sur toute hausse de la TVA.
 
-### [Le trafic des bus et du tram sera normal ce week-end mais perturbé lundi](https://www.qu4tre.be/infos/societe/le-trafic-des-bus-et-du-tram-sera-normal-ce-week-end-mais-perturbe-lundi/2016799)
+### [Pointé du doigt, Georges-Louis Bouchez reste inflexible sur le budget: "M'insulter ou m'attaquer ne change rien"](https://www.dhnet.be/actu/belgique/2026/10/11/pointe-du-doigt-georges-louis-bouchez-reste-inflexible-sur-le-budget-minsulter-ou-mattaquer-ne-change-rien-M74PKO3UCZGTLEX2343WMNQZZY/)
 
-**Qu4tre** · média d'information · 09/10/2026 à 17:43 · score `16`
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 11:34 · score `18`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le président du MR, Georges-Louis Bouchez, continue de s'opposer catégoriquement à une hausse de la TVA et maintient que les nouvelles charges ne doivent représenter qu'un neuvième de l'assainissement total, comme le prévoit l'accord de gouvernement....
+
+### [« Je leur suggère de se doter d’un nouveau dirigeant »: Donald Trump s’en prend à Volodymyr Zelensky et veut un nouveau président en Ukraine!](https://www.sudinfo.be/id1207814/article/2026-10-11/je-leur-suggere-de-se-doter-dun-nouveau-dirigeant-donald-trump-sen-prend)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 07:53 · score `18`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Donald Trump a estimé samedi que l’Ukraine devait se doter d’un « nouveau président » pour conclure un accord avec la Russie, au moment où Washington et Moscou ont annoncé un accord sur le diesel.
+
+### [Topman Microsoft wil ‘noodrem’ op geavanceerde AI-modellen: “Tijd om een stap terug te doen”](https://www.hln.be/tech/topman-microsoft-wil-noodrem-op-geavanceerde-ai-modellen-tijd-om-een-stap-terug-te-doen~ae957dbc/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 11:17 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : De topman van Microsoft heeft gepleit voor meer controle bij het ontwikkelen van kunstmatige intelligentie. Dit weekend zei hij in een bericht op X dat bedrijven krachtige AI-modellen zouden moeten beschouwen als mogelijke interne risico’s. Ze moeten er volgens hem van uitgaan dat zulke AI-modellen “gecompromitteerd” zijn en een soort “noodrem” inbouwen om ze in toom te houden.
+
+### [Bijna helft Oekraïense vluchtelingen in Vlaanderen werkt, in Wallonië ontvangt helft een leefloon](https://www.hbvl.be/binnenland/bijna-helft-oekraense-vluchtelingen-in-vlaanderen-werkt-in-wallonie-ontvangt-helft-een-leefloon/162897990.html)
+
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 10:52 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Bijna de helft van de Oekraïense vluchtelingen in Vlaanderen is aan het werk, in Wallonië ontvangt de helft van de Oekraïense vluchtelingen een leefloon. Dat blijkt uit een analyse van het Nieuwsblad op basis van cijfers van de Kruispuntbank van de Sociale Zekerheid.
+
+### ["L'intuition n'a peut-être pas toujours raison, mais elle a très souvent quelque chose à nous dire", estime le philosophe Simon Brunfaut](https://www.rtbf.be/article/l-intuition-n-a-peut-etre-pas-toujours-raison-mais-elle-a-tres-souvent-quelque-chose-a-nous-dire-estime-le-philosophe-simon-brunfaut-11797576)
+
+**RTBF Info** · média d'information · 11/10/2026 à 10:30 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Il faut bien l’avouer, les travaux de recherche du nouveau prix Nobel de physique nous emmènent sur des terrains pour le...
+
+### [Le kern se termine sans accord budgétaire: il n’y aura pas de “State of Union” mardi](https://www.lalibre.be/belgique/politique-belge/2026/10/10/le-kern-se-termine-sans-accord-budgetaire-il-ny-aura-pas-de-state-of-union-mardi-7LDX7Z7FEZFKPDYHXAFVOY5JYU/)
+
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 18:53 · score `16`
 
 **Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Les bus et le tram circuleront normalement ce week-end. Un accord est intervenu jeudi soir entre la direction de Letec et les syndicats, après le mouvement de grève spontané qui avait fortement perturbé le réseau jeudi. Au terme d'une réunion longue de plusieurs heures, Letec a accepté de suspendre la dénonciation de la convention collective concernant les fins de carrière. Les discussions vont reprendre pour une durée de trois mois afin de tenter d’aboutir à un accord sur les conventions à réviser. Le répit sera toutefois de courte durée: le service sera à nouveau perturbé lundi en raison…
+> Extrait fourni par la source : Les négociations budgétaires de l’Arizona ont tourné court ce samedi soir: les grandes lignes proposées par Bart De Wever se heurtent aux exigences et résistances de tous les partis, tant sur la TVA que sur la sécurité sociale et les économies dans les dépenses publiques. Malgré l’urgence financière et la pression des marchés, aucun compromis ne se dessine pour l’instant....
 
-### [Nouveau tour de vis pour la RTBF: 20 millions d’euros d’économies supplémentaires imposés d’ici 2029](https://www.sudinfo.be/id1206724/article/2026-10-09/nouveau-tour-de-vis-pour-la-rtbf-20-millions-deuros-deconomies-supplementaires)
+### [Trump veut un nouveau président en Ukraine, la Russie applaudit](https://www.lecho.be/r/t/1/id/10695124)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 12:49 · score `16`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 20:42 · score `15`
 
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : La RTBF va devoir se serrer davantage la ceinture. Le gouvernement de la Fédération Wallonie-Bruxelles lui impose un effort supplémentaire d’au moins 20 millions d’euros d’ici 2029. Une décision prise dans le cadre du budget 2027.
+> Extrait fourni par la source : Furieux contre Volodymyr Zelensky, Donald Trump indique qu'il veut un nouveau président en Ukraine. Sur fond de prix de prix du diesel, la Russie a salué cette sortie.
 
-### [Vous n’avez pas reçu votre journal? Voici ce qui se joue vraiment derrière votre boîte aux lettres vide!](https://www.sudinfo.be/id1206708/article/2026-10-09/vous-navez-pas-recu-votre-journal-voici-ce-qui-se-joue-vraiment-derriere-votre)
+### [Votre fiche de pension fait peau neuve: voici ce qui change](https://www.lecho.be/r/t/1/id/10694862)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 12:08 · score `16`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 18:09 · score `15`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : La distribution des journaux vit une révolution. En cause: la reconstruction complète du réseau après bpost. Une transition majeure dont l’avenir dépend du maintien du crédit d’impôt en 2027. Derrière votre journal, livré ou pas à domicile, se cache donc aussi une décision politique!
+> Extrait fourni par la source : En novembre, vous devriez recevoir votre relevé annuel des droits à retraite, le nouveau nom de la fiche de pension. Celle-ci fait peau neuve et vous donnera des informations plus nombreuses et plus claires sur votre pension complémentaire.
 
-### [Tarifs des bus wallons: “Il faut changer le décret pour reprendre la main”, soutient le PS](https://www.lavenir.net/actu/belgique/politique/2026/10/10/tarifs-des-bus-wallons-changer-le-decret-pour-reprendre-la-main-RVWYCAXQ5BEUBC7DUOSCRGB7BE/)
+### [Georges-Louis Bouchez sur le budget fédéral: « La TVA est loin d’être le seul problème »](https://www.lesoir.be/776142/article/2026-10-11/georges-louis-bouchez-sur-le-budget-federal-la-tva-est-loin-detre-le-seul)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 07:00 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Sous prétexte de responsabiliser le groupe LeTEC, “le gouvernement wallon se déresponsabilise politiquement”, dénonce le PS. Qui a une proposition à faire....
-
-### [Budget fédéral: le MR seul contre tous](https://www.lesoir.be/775991/article/2026-10-10/budget-federal-le-mr-seul-contre-tous)
-
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 07:00 · score `15`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 12:32 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : L’objectif du Premier ministre reste de présenter son accord budgétaire à 10 milliards d’euros ce mardi, mais le temps presse. Des réunions sont prévues dès ce samedi.
+> Extrait fourni par la source : La réunion du kern samedi a tourné court et s’est achevée au bout de trois heures, sans accord sur le budget fédéral.
 
-### [Bulletin des Questions et Réponses du 09/10/2026 - QR 3 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QR/qr3.pdf)
+### [Politiebonden dienen stakingsaanzegging in na “eenzijdige wijziging” regels arbeidstijd](https://www.hbvl.be/nieuws/politiebonden-dienen-stakingsaanzegging-in-na-eenzijdige-wijziging-regels-arbeidstijd/162900615.html)
 
-**Parlement de Wallonie** · source publique officielle · 09/10/2026 à 12:47 · score `15`
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 12:22 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 24 heures.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Bulletin des questions et réponses
+> Extrait fourni par la source : De politievakbonden VSOA en NSPV hebben een stakingsaanzegging ingediend. Ze zijn misnoegd omdat minister van Binnenlandse Zaken Bernard Quintin (MR) volgens hen eenzijdig heeft beslist om de regels rond de arbeidstijd aan te passen. Dat heeft Vincent Houssin van VSOA Politie zondag meegedeeld.
+
+Autres publications rapprochées automatiquement : [Gazet van Antwerpen](https://www.gva.be/binnenland/politiebonden-dienen-stakingsaanzegging-in-na-eenzijdige-wijziging-regels-arbeidstijd/162898631.html), [Het Nieuwsblad](https://www.nieuwsblad.be/nieuws/politiebonden-dienen-stakingsaanzegging-in-na-eenzijdige-wijziging-regels-arbeidstijd/162898592.html), [Het Laatste Nieuws](https://www.hln.be/binnenland/politiebonden-dienen-stakingsaanzegging-in-na-eenzijdige-wijziging-regels-arbeidstijd~a7b6d01d0/).
 
 ## Politiques publiques et société — autres pistes
 
-### [Les incendies de forêt en Indonésie prennent des proportions catastrophiques](https://www.greenpeace.org/belgium/fr/stories/82600/les-incendies-de-foret-en-indonesie-prennent-des-proportions-catastrophiques/)
+### [« Nous n’avons jamais vu un ministre s’essuyer les pieds sur la législation »: la colère gronde au sein de la police belge, deux syndicats déposent un préavis de grève](https://www.sudinfo.be/id1207905/article/2026-10-11/nous-navons-jamais-vu-un-ministre-sessuyer-les-pieds-sur-la-legislation-la)
 
-**Greenpeace Belgique** · organisation de la société civile · 09/10/2026 à 09:35 · score `15`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Depuis la fin juillet, de violents incendies font à nouveau rage en Indonésie. Les incendies y constituent un phénomène récurrent, de périodicité annuelle, qui est encore amplifié cette année par un El Niño particulièrement puissant.
-
-### [Accord sur le budget 2027 de la FWB, la RTBF devra économiser 20 millions d’euros de plus](https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593)
-
-**RTBF Info** · média d'information · 10/10/2026 à 07:54 · score `14`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 11:40 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Le déficit de la Fédération Wallonie-Bruxelles devrait passer de 1,7 milliard d’euros prévu pour 2026 à...
+> Extrait fourni par la source : La tension monte au sein de la police belge. Deux syndicats ont déposé un préavis de grève après une décision du ministre de l’Intérieur Bernard Quintin (MR) qu’ils jugent inacceptable.
 
-### [Budget 2027: un déficit qui se réduit et des réinvestissements dans l’école](https://www.mr.be/budget-2027-un-deficit-qui-se-reduit-et-des-reinvestissements-dans-lecole/)
+### [Budget fédéral: toujours 10 milliards à trouver, une coalition à cran, Bouchez dans le viseur et aucun accord en vue pour mardi](https://www.rtbf.be/article/budget-federal-toujours-10-milliards-a-trouver-une-coalition-a-cran-bouchez-dans-le-viseur-et-aucun-accord-en-vue-pour-mardi-11798216)
 
-**Mouvement Réformateur** · acteur politique · 09/10/2026 à 17:32 · score `14`
+**RTBF Info** · média d'information · 11/10/2026 à 11:15 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Les efforts budgétaires portent leurs fruits: les finances de la Fédération Wallonie-Bruxelles s’améliorent et le déficit se réduit, conformément à la trajectoire fixée par le Gouvernement. L’objectif reste de...
+> Extrait fourni par la source : Trois heures de réunion, et pas de compromis. Le comité ministériel restreint (kern), réuni samedi au 16, rue de la...
 
-### [Nieuw voet- en zebrapad moet verkeersveiligheid aan handelszaken verhogen](https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/denderleeuw/nieuw-voet-en-zebrapad-moet-verkeersveiligheid-aan-handelszaken-verhogen/162828750.html)
+### [Un jour, une carte: le détroit d’Ormuz libéré? Le pétrole circule à nouveau, dans un verre de diesel à moitié vide](https://www.rtbf.be/article/un-jour-une-carte-le-detroit-d-ormuz-libere-le-petrole-circule-a-nouveau-dans-un-verre-de-diesel-a-moitie-vide-11797166)
 
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 12:15 · score `14`
+**RTBF Info** · média d'information · 10/10/2026 à 11:08 · score `14`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Op de Steenweg in Denderleeuw werd een nieuwe oversteekplaats voor voetgangers aangelegd ter hoogte van het kruispunt van de N405 en de Opgeëistenstraat. Ook werden er nieuwe voetpaden aangelegd. De ingrepen moeten de verkeersveiligheid en toegankelijkheid in de handelszone verbeteren.
-
-### [Et si vous vous offriez la Cadillac mythique du roi Baudouin? Le cabriolet de légende est mis en vente à Knokke](https://www.lavenir.net/actu/belgique/2026/10/09/et-si-vous-vous-offriez-la-cadillac-mythique-du-roi-baudouin-le-cabriolet-de-legende-est-mis-en-vente-a-knokke-DJD5TPOMUFHSNMGIPH6BSNNRKE/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 12:13 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : Achetée une poignée de francs belges dans les années 70, la mythique Cadillac du roi Baudouin est à vendre ce vendredi 9 octobre 2026 aux enchères du Zoute Grand Prix à Knokke. Avis aux amateurs......
-
-### [Nieuwe kinderopvang opent op kindercampus: alles op één plek van 0 tot 12 jaar](https://www.gva.be/regio/antwerpen/kempen/grobbendonk/nieuwe-kinderopvang-opent-op-kindercampus-alles-op-een-plek-van-0-tot-12-jaar/162821968.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 11:10 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : De kindercampus De Droom in Bouwel (Grobbendonk) breidt vanaf 8 maart volgend jaar uit met een gloednieuwe kinderopvang. Krikkedol, die al een opvang heeft in Herenthout, neemt er deze nieuwe locatie bij. Er zal straks plek zijn voor achttien baby’s en peuters.
-
-### [Budget 2027: le gouvernement MR- Engagés reste sourd aux cris de détresse de la population](https://ecolo.be/actualites/budget-2027-le-gouvernement-mr-engages-reste-sourd-aux-cris-de-detresse-de-la-population/)
-
-**Ecolo** · acteur politique · 09/10/2026 à 16:20 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-### [Vandalisme contre les commerces à Liège: David Clarinval et Eléonore Simonet annoncent des mesures pour les commerçants impactés](https://www.mr.be/vandalisme-contre-les-commerces-a-liege-david-clarinval-et-eleonore-simonet-annoncent-des-mesures-pour-les-commercants-impactes/)
-
-**Mouvement Réformateur** · acteur politique · 09/10/2026 à 15:59 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Le Vice-Premier Ministre et ministre de l’Économie David CLARINVAL et la Ministre des Classes moyennes, des Indépendants et des PME Eléonore SIMONET annoncent des mesures pour venir en aide aux...
-
-### [Notre élu de la semaine: Luc Delvaux](https://www.mr.be/notre-elu-de-la-semaine-luc-delvaux/)
-
-**Mouvement Réformateur** · acteur politique · 09/10/2026 à 15:21 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : À Sprimont, la vie communale se construit autant dans les villages qu’autour des écoles, des commerces et des associations. C’est dans cette commune semi rurale que le Mouvement Réformateur vous...
-
-### [Statement on the International Criminal Court following announcement of US sanctions](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127)
-
-**Commission européenne** · source publique officielle · 09/10/2026 à 14:14 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Statement Brussels, 09 Oct 2026 The European Union has been a constant supporter of the International Criminal Court (ICC). It is deeply regrettable that the United States has announced intent...
-
-### [Joint Statement at the second meeting of the EU-China Trade and Investment Consultations](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2122)
-
-**Commission européenne** · source publique officielle · 09/10/2026 à 11:05 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Statement Beijing, 09 Oct 2026 On 8-9 October 2026, Wang Wentao, Minister of Commerce of China, and Maroš Šefčovič, Commissioner for Trade and Economic Security, Interinstitutional Relations and Transparency, of the European Commission, held the second meeting of the EU-China Trade and Investment Consultations (TIC) in Beijing.
-
-### [Le futur centre de formation des pilotes prend forme à Beauvechain](https://www.mil.be/fr/news/le-futur-centre-de-formation-des-pilotes-prend-forme-a-beauvechain/)
-
-**Défense belge** · source publique officielle · 09/10/2026 à 05:31 · score `10`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : La Belgique poursuit la modernisation de la formation de ses pilotes militaires. À Beauvechain, les infrastructures de la Basic Flight Training Capability (BFTC) réuniront, dès 2028, avions d'entraînement, simulateurs et outils pédagogiques sur un même site. La pose de la première pierre a eu lieu le 6 octobre.
-
-## Justice, droits et contrôle — autres pistes
-
-### [Le conducteur d’une camionnette tente d’écraser un policier lors d’un contrôle](https://www.lalibre.be/belgique/societe/2026/10/09/le-conducteur-dune-camionnette-tente-decraser-un-policier-lors-dun-controle-E3FYXNOUXJHDXHLKD3LTOXA5QQ/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 10:00 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : Le parquet a ouvert une enquête pour tentative de meurtre sur un policier et pour les tirs effectués par les agents....
+> Extrait fourni par la source : Note éditoriale: Cet article, initialement publié jeudi 8 octobre, avant l’annonce par Donald Trump d’un accord...
 
 ## Économie, emploi et consommateurs — autres pistes
 
-### [Le gouvernement fédéral présente son nouveau plan de lutte contre le cancer](https://www.lecho.be/r/t/1/id/10694957)
+### [Twaalf doden na aanval op luchthaven: Saoedi-Arabië ondervindt steeds meer hinder door raketaanvallen Houthi's](https://www.tijd.be/r/t/1/id/10695118)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 10:21 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Frank Vandenbroucke présente un nouveau Plan cancer belge sur dix ans, rapporte Le Soir. Le plan cible huit axes, dont la prévention, le dépistage et l’organisation des soins oncologiques.
-
-### [Trump s'indigne de ne pas avoir été choisi pour le Nobel de la paix](https://www.lecho.be/r/t/1/id/10695105)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 10/10/2026 à 09:45 · score `14`
+**De Tijd** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 07:51 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
 
-> Extrait fourni par la source : Le président américain n'a "jamais entendu parler" de la lauréate du prix Nobel de la Paix, Navi Pillay.
-
-### [Après les années pénibles, le prix des véhicules électriques d'occasion repart à la hausse](https://www.lecho.be/r/t/1/id/10694881)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 09/10/2026 à 12:02 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les voitures électriques d'occasion étaient à la peine en valeur de revente. Aujourd'hui, tout s'inverse avec le prix du carburant. Mais est-ce structurel? Tout le secteur auto s'interroge.
+> Extrait fourni par la source : Op de luchthaven van de Saoedische hoofdstad Riyad zijn zaterdag minstens twaalf doden gevallen na een aanval die vermoedelijk het werk is van de Houthi-rebellen uit Jemen. Doordat de Amerikanen niet te hulp komen, wordt Saoedi-Arabië steeds meer onder vuur genomen, wat vervelend is voor het land, dat zijn economie probeert te diversifiëren richting toerisme en entertainment.
 
 ## Méthode et limites
 
