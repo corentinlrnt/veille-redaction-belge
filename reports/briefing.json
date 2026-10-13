@@ -1,23 +1,21 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-10-12T11:50:15.372845Z",
+  "generated_at": "2026-10-13T11:38:19.873683Z",
   "summary": {
-    "collected_items": 3561,
-    "selected_items": 24,
-    "excluded_items": 3,
+    "collected_items": 3549,
+    "selected_items": 32,
+    "excluded_items": 2,
     "excluded_by_rule": {
-      "actualité étrangère sans angle belge ou effet concret identifié": 1,
-      "agrégat institutionnel sans sujet unique": 1,
-      "marchés financiers au fil de l'eau": 1
+      "agrégat institutionnel sans sujet unique": 2
     },
     "minimum_score": 10,
     "minimum_score_by_source_class": {
       "news_media": 14
     },
     "by_section": {
-      "politics": 19,
-      "economy": 4,
+      "politics": 29,
+      "economy": 2,
       "justice": 1
     }
   },
@@ -44,9 +42,9 @@
         "Mon Argent"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 23,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -56,7 +54,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "changement, alerte ou échéance"
@@ -80,14 +78,14 @@
       "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/georges-louis-bouchez-critique-de-toutes-parts-pour-la-presse-ce-nest-pas-la-bonne-cible-LHQ5N2MB3ZD4PJTMDSDOZHLPXI/",
       "summary": "Le président du MR a fait bloc encore une fois contre la hausse de la TVA. Ce qui a mené, selon certains de ses collègues, à l’échec des négociations budgétaires. Mais la presse n’est pas tout à fait d’accord avec cette analyse....",
       "published_at": "2026-10-12T08:50:50Z",
-      "retrieved_at": "2026-10-12T11:50:08.731329Z",
+      "retrieved_at": "2026-10-13T11:38:14.499484Z",
       "categories": [
         "Politique belge"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 22,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -97,9 +95,125 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "a9ebd2d94bf94ff53f267cd1",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Covid long: le Sénat adopte une résolution pour mieux prendre en charge les malades, « pour l’instant, l’offre de soins n’est pas adaptée »",
+      "url": "https://www.sudinfo.be/id1209475/article/2026-10-13/covid-long-le-senat-adopte-une-resolution-pour-mieux-prendre-en-charge-les",
+      "summary": "Le Sénat doit adopter mardi une résolution de 53 recommandations pour mieux organiser la prise en charge du covid long en Belgique, alors que l’offre de soins reste jugée inadaptée par les associations de patients.",
+      "published_at": "2026-10-13T04:40:46Z",
+      "retrieved_at": "2026-10-13T11:38:14.395827Z",
+      "categories": [
+        "Santé"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9e87dad975d31b36102303f2",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Un peu de répit à la pompe: le prix du diesel va baisser ce mercredi",
+      "url": "https://www.sudinfo.be/id1209536/article/2026-10-13/un-peu-de-repit-la-pompe-le-prix-du-diesel-va-baisser-ce-mercredi",
+      "summary": "Le SPF Économie annonce une baisse du prix maximum du diesel B7 à partir de mercredi.",
+      "published_at": "2026-10-13T07:58:23Z",
+      "retrieved_at": "2026-10-13T11:38:14.395827Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e62c4cbe321e245d66e5b8b2",
+      "source_id": "ps_party",
+      "source_name": "Parti Socialiste",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "ps_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "Budget wallon: avalanche de mauvaises nouvelles pour le pouvoir d’achat des Wallons",
+      "url": "http://www.ps.be/budget_wallon_avalanche_de_mauvaises_nouvelles_pour_le_pouvoir_d_achat_des_wallons",
+      "summary": "Le Gouvernement wallon a présenté ce lundi un budget. Tout ce qui coûte aux Wallonnes et aux Wallons arrive dès 2027. La seule mesure censée les soulager n'arrivera qu'en 2028, et elle se chiffrera entre 4 et 40 euros par mois pour moins de la moitié de la population en âge de travailler! Ce n'est pas du pouvoir d'achat, c'est de l'enfumage. Une chose est sûre, les W allons vont à nouveau déguster.",
+      "published_at": "2026-10-12T14:28:00Z",
+      "retrieved_at": "2026-10-13T11:38:09.695808Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
         "changement, alerte ou échéance"
       ],
       "related_items": []
@@ -117,18 +231,18 @@
       "endpoint_label": "Flux Belgique",
       "content_scope": "actualités|presse|Belgique|terrain",
       "language": "fr",
-      "title": "Allocations familiales, droits de succession, droit d’enregistrement, “Job bonus”…: ce qu’il faut savoir sur le budget wallon",
+      "title": "Allocations familiales, droits de succession, droits d’enregistrement, “Job bonus”…: ce qu’il faut savoir sur le budget wallon",
       "url": "https://www.lavenir.net/actu/belgique/politique/2026/10/12/allocations-familiales-droits-de-succession-droit-denregistrement-job-bonus-ce-quil-faut-savoir-sur-le-budget-wallon-G6MRPPRVNJH7PBCCCOYKSALIQQ/",
       "summary": "On ne touche pas aux allocations familiales: c’est une des informations majeures de l’accord budgétaire wallon. Un budget qui dénote à plusieurs égards et qui se veut un renfort au pouvoir d’achat des citoyens. Surtout s’ils travaillent. Il n’y a pas que des bonnes nouvelles, ceci dit. APE, CISP, etc....",
       "published_at": "2026-10-12T11:08:42Z",
-      "retrieved_at": "2026-10-12T11:50:12.117189Z",
+      "retrieved_at": "2026-10-13T11:38:16.484940Z",
       "categories": [
         "Politique"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 20,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -137,7 +251,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -165,9 +279,9 @@
         "Politique"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 20,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -176,7 +290,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -204,9 +318,9 @@
         "POLICY_AREA=DEFENCE"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 20,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -217,9 +331,208 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "1b5cc2719c996617129b5e93",
+      "source_id": "chamber",
+      "source_name": "Chambre des représentants",
+      "source_class": "parliament",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "chamber_live",
+      "endpoint_label": "Réunions vidéo planifiées",
+      "content_scope": "agenda|travaux",
+      "language": "fr",
+      "title": "Défense nationale - Questions orales",
+      "url": "https://media.dekamer.be/meeting/56-20337-U2109",
+      "summary": "Forum F0B Magritte · DEFENSIE COMM · PLANNED",
+      "published_at": "2026-10-14T08:30:00Z",
+      "retrieved_at": "2026-10-13T11:38:06.794267Z",
+      "categories": [
+        "agenda",
+        "Chambre"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type travaux",
+        "contenu de type agenda",
+        "échéance ou publication future proche",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f373566c9b7c85e3276770a8",
+      "source_id": "chamber",
+      "source_name": "Chambre des représentants",
+      "source_class": "parliament",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "chamber_live",
+      "endpoint_label": "Réunions vidéo planifiées",
+      "content_scope": "agenda|travaux",
+      "language": "fr",
+      "title": "Intérieur - Projets de loi n°s 1650 & 1631",
+      "url": "https://media.dekamer.be/meeting/56-20338-U2110",
+      "summary": "Forum F2B Popelin · BINNENLANDSE ZAKEN COMM · PLANNED",
+      "published_at": "2026-10-14T08:30:00Z",
+      "retrieved_at": "2026-10-13T11:38:06.794267Z",
+      "categories": [
+        "agenda",
+        "Chambre"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type travaux",
+        "contenu de type agenda",
+        "échéance ou publication future proche",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "342a66c86320727b9dacfbdf",
+      "source_id": "chamber",
+      "source_name": "Chambre des représentants",
+      "source_class": "parliament",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "chamber_live",
+      "endpoint_label": "Réunions vidéo planifiées",
+      "content_scope": "agenda|travaux",
+      "language": "fr",
+      "title": "Plénière - Nomination du Bureau définitif, déclaration du gouvernement",
+      "url": "https://media.dekamer.be/meeting/56-20341-P144",
+      "summary": "Plénière - Plenaire · Plénière - Plenum · PLANNED",
+      "published_at": "2026-10-13T12:15:00Z",
+      "retrieved_at": "2026-10-13T11:38:06.794267Z",
+      "categories": [
+        "agenda",
+        "Chambre"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type travaux",
+        "contenu de type agenda",
+        "échéance ou publication future proche",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "d9af3e911e707c184da12157",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Hoeveelheid restafval in Vlaanderen daalt tot 123 kilogram per persoon, laagste cijfer sinds begin metingen",
+      "url": "https://vrtnws.be/p.ZWy35R17W",
+      "summary": "De gemiddelde hoeveelheid restafval is vorig jaar gedaald tot 123,4 kilogram per persoon. Dat blijkt uit nieuwe afvalcijfers van afvalstoffenmaatschappij OVAM, meldt Vlaams minister van Omgeving Jo Brouns (CD&V). Het is het laagste cijfer sinds het begin van de metingen.",
+      "published_at": "2026-10-13T10:29:08Z",
+      "retrieved_at": "2026-10-13T11:38:16.436126Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "evidence",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9b006d4442e543b3cd2bdd8f",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Bonne nouvelle à la pompe en Belgique: le prix du diesel baisse de plus de 6 centimes ce mercredi (infographies)",
+      "url": "https://www.lavenir.net/actu/conso/2026/10/13/bonne-nouvelle-a-la-pompe-en-belgique-le-prix-du-diesel-baisse-de-plus-de-6-centimes-ce-mercredi-infographies-F2MVJRQ655ERFGUHP4VGAXVFYQ/",
+      "summary": "Le prix maximum du diesel B7 diminue ce mercredi 14 octobre 2026 en Belgique. Le litre passe de 2,4920 à 2,4280 euros. Les tarifs de l’essence restent, eux, inchangés. Le mazout de chauffage devient également moins cher....",
+      "published_at": "2026-10-13T07:14:49Z",
+      "retrieved_at": "2026-10-13T11:38:16.484940Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -245,9 +558,9 @@
         "Politique"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -256,9 +569,49 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9a26f7831a96432126f7de84",
+      "source_id": "rwlp",
+      "source_name": "Réseau wallon de lutte contre la pauvreté",
+      "source_class": "civil_society",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "rwlp_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|pauvreté|réformes",
+      "language": "fr",
+      "title": "Ce 12 octobre 2026, le RWLP était l’invité du Grand Bazar pour Radio Revers!",
+      "url": "https://rwlp.be/ce-12-octobre-2026-le-rwlp-etait-linvite-du-grand-bazar-pour-radio-revers/",
+      "summary": "Ce 12 octobre 2026, le Réseau Wallon de Lutte contre la Pauvreté était l’invité de l’émission « le Grand Bazar » aux côtés de la maison médicale Saint-Léonard pour parler de la Journée Mondiale de Lutte contre la Pauvreté qui a lieu le 15 octobre 2026 à Namur. Pour rappel, le programme complet de la Journée Mondiale de Lutte contre la Pauvreté, est disponible ici. Pour vous inscrire à des activités qui se déroulent lors de cette journée, envoyez un mail à bureau@rwlp.be ou téléphonez au 081/31.21.17 Ecoutez l’émission dans son intégralité ici ou ci-dessous",
+      "published_at": "2026-10-12T07:18:05Z",
+      "retrieved_at": "2026-10-13T11:38:12.561643Z",
+      "categories": [
+        "Presse"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type actualités",
+        "publié depuis moins de 36 heures",
+        "changement, alerte ou échéance"
       ],
       "related_items": []
     },
@@ -279,14 +632,14 @@
       "url": "https://www.lalibre.be/belgique/societe/2026/10/12/en-belgique-le-nombre-de-beneficiaires-du-cpas-depasse-le-nombre-de-chomeurs-MJGOKGX7IRB2LARZFH5YOURXH4/",
       "summary": "Sous l'effet de la réforme du gouvernement De Wever limitant les allocations de chômage à deux ans, le nombre de bénéficiaires du CPAS dépasse désormais celui des chômeurs indemnisés en Belgique....",
       "published_at": "2026-10-12T06:22:27Z",
-      "retrieved_at": "2026-10-12T11:50:08.731329Z",
+      "retrieved_at": "2026-10-13T11:38:14.499484Z",
       "categories": [
         "Société"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -295,9 +648,86 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f2e1005b70da043e4eca4689",
+      "source_id": "lecho",
+      "source_name": "L'Echo",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lecho_rss",
+      "endpoint_label": "Flux actualité",
+      "content_scope": "actualités|presse|économie|Belgique",
+      "language": "fr",
+      "title": "Le FMI met en garde contre la hausse des taux obligataires et les risques liés à l’IA",
+      "url": "https://www.lecho.be/r/t/1/id/10695373",
+      "summary": "Selon le rapport du FMI sur la stabilité financière mondiale, les marchés financiers sous-estiment encore les risques d’un coup d’arrêt des investissements dans l’IA, d’une remontée des taux obligataires et d’une vague de cyberattaques.",
+      "published_at": "2026-10-13T10:21:01Z",
+      "retrieved_at": "2026-10-13T11:38:16.031190Z",
+      "categories": [
+        "Les marchés"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 2,
+      "matched_signals": [
+        "evidence",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "75b3f793e701aeda112d8655",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "La famille de la police en deuil: le MR rend hommage au policier décédé à Jette",
+      "url": "https://www.mr.be/la-famille-de-la-police-en-deuil-le-mr-rend-hommage-au-policier-decede-a-jette/",
+      "summary": "Un policier de la Brigade Anti-Agression (BAA) de Bruxelles a tragiquement perdu la vie dans la nuit du lundi 12 au mardi 13 octobre, lors d’une intervention à Jette visant...",
+      "published_at": "2026-10-13T10:10:10Z",
+      "retrieved_at": "2026-10-13T11:38:11.142509Z",
+      "categories": [
+        "A la Une",
+        "Sécurité"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures"
       ],
       "related_items": []
     },
@@ -323,9 +753,9 @@
         "Enseignement"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -334,9 +764,204 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f8aedc17d22f411dea10ecdc",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Speech by Commissioner Hoekstra at the Annual meeting of the Heads of the Contact Committee of the Supreme Audit Institutions of the European Union",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2151",
+      "summary": "European Commission Speech Paris, 13 Oct 2026 Ladies and Gentlemen, Thank you for welcoming me during a complicated time. Let me also thank you for your efforts, Amélie, and the efforts of many in the room...",
+      "published_at": "2026-10-13T10:52:36Z",
+      "retrieved_at": "2026-10-13T11:38:18.431608Z",
+      "categories": [
+        "POLICY_AREA=CLIMACTION"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "accountability",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "contrôle, droits ou responsabilité publique",
+        "agenda institutionnel proche",
+        "discours ou déclaration institutionnelle sans décision explicite"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ad23603fb8f12a0c2d96c421",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Hongaars parlement draait omstreden anti-lgbtq+-wet van Orbán terug",
+      "url": "https://www.hln.be/buitenland/hongaars-parlement-draait-omstreden-anti-lgbtq-wet-van-orban-terug~a27543da/",
+      "summary": "Het Hongaarse parlement heeft enkele omstreden anti-lgbtq+-maatregelen uit een wet van oud-premier Viktor Orbán teruggedraaid. Daardoor is het niet langer verboden om bijvoorbeeld koppels van gelijk geslacht te tonen in films, televisieseries en boeken als die ook beschikbaar zijn voor kinderen.",
+      "published_at": "2026-10-13T09:58:00Z",
+      "retrieved_at": "2026-10-13T11:38:14.541417Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": [
+        {
+          "source_id": "de_morgen",
+          "source_name": "De Morgen",
+          "title": "Na jaren internationale kritiek: Hongaars parlement draait omstreden anti-lgbtq+-wet van Orbán terug",
+          "url": "https://www.demorgen.be/nieuws/na-jaren-internationale-kritiek-hongaars-parlement-draait-omstreden-anti-lgbtq-wet-van-orban-terug~b30dc109/"
+        }
+      ]
+    },
+    {
+      "item_id": "6f0a0cb29f396ee3e8feca65",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Parlement Hongarije draait omstreden anti-LGBTQIA+-wet Orbán terug: kinderen mogen weer homokoppels in media zien",
+      "url": "https://vrtnws.be/p.YbymRo8pn",
+      "summary": "In Hongarije heeft het parlement een omstreden anti-LGBTQIA+-wet van oud-premier Viktor Orbán teruggedraaid. Het is daardoor niet langer verboden om bijvoorbeeld koppels van gelijk geslacht te tonen in films, televisieseries en boeken als die ook beschikbaar zijn voor kinderen.",
+      "published_at": "2026-10-13T09:54:11Z",
+      "retrieved_at": "2026-10-13T11:38:16.436126Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "865f6f62e253c6d51f262052",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Job quality is a priority in the EU, according to annual Commission report",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2147",
+      "summary": "European Commission Press release Brussels, 13 Oct 2026 The quality of jobs in the EU has improved over the past decade, according to the 2026 European Employment and Social Outlook, published today.",
+      "published_at": "2026-10-13T09:07:40Z",
+      "retrieved_at": "2026-10-13T11:38:18.431608Z",
+      "categories": [
+        "POLICY_AREA=ESAI"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "d553ff4bd17e0bff528fd704",
+      "source_id": "tv_lux",
+      "source_name": "TV Lux",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "tv_lux_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|presse|terrain|politique|économie",
+      "language": "fr",
+      "title": "Bastogne: 300.000 € de plus pour l'assainissement des anciennes casernes Heintz",
+      "url": "https://www.tvlux.be/https://www.tvlux.be/actu/info/economie/bastogne-300-000-de-plus-pour-l-assainissement-des-anciennes-casernes-heintz_52755",
+      "summary": "Alors que les travaux de démolition des anciennes casernes sont en cours, le Ministre wallon en charge du Territoire, François Desquesnes (Les Engagés) vient de marquer son accord sur l'attribution du marché d'assainissement pour un montant de près de 300.000 €.",
+      "published_at": "2026-10-13T08:49:00Z",
+      "retrieved_at": "2026-10-13T11:38:18.404258Z",
+      "categories": [
+        "info"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
       ],
       "related_items": []
     },
@@ -357,12 +982,12 @@
       "url": "https://news.belgium.be/fr/controle-transfrontalier-euregioprotectcrossover-la-douane-participe-une-vaste-operation-dans",
       "summary": "Le vendredi 9 octobre 2026, la Douane belge a participé à une importante opération de contrôle transfrontalière organisée dans le cadre de la coopération NeBeDeAgPol (Pays-Bas, Belgique, Allemagne). Les contrôles ont été menés simultanément dans plusieurs zones de l'Euregio Meuse-Rhin avec le soutien des services de police et des autorités douanières des trois pays.",
       "published_at": "2026-10-12T10:53:48Z",
-      "retrieved_at": "2026-10-12T11:50:01.902895Z",
+      "retrieved_at": "2026-10-13T11:38:07.354207Z",
       "categories": [],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -372,7 +997,7 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
@@ -394,14 +1019,14 @@
       "url": "https://www.lavenir.net/actu/societe/sante/2026/10/12/le-conseil-de-la-sante-recommande-une-dose-de-rappel-covid-19-pour-les-groupes-a-risque-S3ADLDD6WRFJTC3WVXWISNGWCM/",
       "summary": "Une dose de rappel contre le Covid-19 est recommandée aux personnes à risque et aux professionnels de la santé pour la saison 2026-2027, a annoncé le Conseil supérieur de la Santé (CSS) dans un avis publié lundi. L'arrivée de l'automne marque en effet le retour de plusieurs virus respiratoires....",
       "published_at": "2026-10-12T09:26:44Z",
-      "retrieved_at": "2026-10-12T11:50:12.117189Z",
+      "retrieved_at": "2026-10-13T11:38:16.484940Z",
       "categories": [
         "Santé"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -410,7 +1035,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "contrôle, droits ou responsabilité publique",
         "changement, alerte ou échéance"
       ],
@@ -431,528 +1056,209 @@
       "language": "fr",
       "title": "Lancement de la vignette et baisse de la taxe de circulation: la Wallonie révolutionne sa fiscalité automobile",
       "url": "https://www.lalibre.be/belgique/mobilite/2026/10/12/lancement-de-la-vignette-et-baisse-sur-la-taxe-de-circulation-la-wallonie-revolutionne-sa-fiscalite-automobile-JZ6XB2WYZNEKPE3KLYEHMNIY7Q/",
-      "summary": "La vignette automobile entre en piste au 1er mai 2027. Le gouvernement wallon prévoit des ristournes et avantages pour certaines catégories de voitures et de Wallons. Voici les gagnant et les perdants....",
+      "summary": "La vignette automobile entre en piste au 1er mai 2027. Le gouvernement wallon prévoit des ristournes et avantages pour certaines catégories de voitures et de Wallons. Voici les gagnants et les perdants....",
       "published_at": "2026-10-12T08:44:59Z",
-      "retrieved_at": "2026-10-12T11:50:08.731329Z",
+      "retrieved_at": "2026-10-13T11:38:14.499484Z",
       "categories": [
         "Mobilité"
       ],
       "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "45f0f30026e63746ae537145",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Mauvaise nouvelle pour les Belges: le prix de l’essence repart à la hausse ce mardi!",
-      "url": "https://www.sudinfo.be/id1209049/article/2026-10-12/mauvaise-nouvelle-pour-les-belges-le-prix-de-lessence-repart-la-hausse-ce-mardi",
-      "summary": "Le SPF Economie annonce une nouvelle hausse du prix maximal de l’essence en Belgique, mardi, alors que le gasoil de chauffage diminue de 3,8 centimes par litre.",
-      "published_at": "2026-10-12T07:54:20Z",
-      "retrieved_at": "2026-10-12T11:50:09.262249Z",
-      "categories": [
-        "Conso"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "79757d7fad34d8e6e6db165c",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Le prix de l’essence repart à la hausse, proche de son record, celui du gasoil recule",
-      "url": "https://www.rtbf.be/article/le-prix-de-l-essence-repart-a-la-hausse-proche-de-son-record-celui-du-gasoil-recule-11798725",
-      "summary": "Le prix maximal pour l’essence 95 (E10) grimpera de 4 centimes d’euro par litre, pour atteindre 2,105 euros le litre....",
-      "published_at": "2026-10-12T09:09:53Z",
-      "retrieved_at": "2026-10-12T11:50:11.646753Z",
-      "categories": [],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": [
-        {
-          "source_id": "la_libre",
-          "source_name": "La Libre Belgique",
-          "title": "Le prix de l'essence repart à la hausse et avoisine son record, le prix du gasoil recule",
-          "url": "https://www.lalibre.be/economie/conjoncture/2026/10/12/le-prix-de-lessence-repart-a-la-hausse-et-avoisinne-son-record-le-prix-du-gasoil-recule-FFC4TKWY3BBERCPLL25WY6F7RM/"
-        }
-      ]
-    },
-    {
-      "item_id": "8ee9fadedd3ad8efbffca45d",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Une première en Belgique: le nombre de personnes au CPAS dépasse désormais le nombre de chômeurs",
-      "url": "https://www.sudinfo.be/id1209017/article/2026-10-12/une-premiere-en-belgique-le-nombre-de-personnes-au-cpas-depasse-desormais-le",
-      "summary": "En août, la Belgique recensait 185.500 chômeurs contre plus de 200.000 bénéficiaires du revenu d’intégration, selon les statistiques des administrations. La hausse s’explique par la suppression progressive des allocations de chômage au-delà de deux ans.",
-      "published_at": "2026-10-12T06:10:09Z",
-      "retrieved_at": "2026-10-12T11:50:09.262249Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "5c3d72b27151d658d3cf885b",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "Pas de budget, pas de discours: mais où va l'Arizona?",
-      "url": "https://www.lecho.be/r/t/1/id/10695184",
-      "summary": "Le Premier ministre n'a pas pu décrocher à temps un accord budgétaire. Vu les positions, on se demande comment un compromis est encore possible. Les politologues Dave Sinardet et Jean Faniel analysent la situation. Reste-t-il une marge de manœuvre? Le gouvernement est-il au bord de la chute?",
-      "published_at": "2026-10-12T10:47:53Z",
-      "retrieved_at": "2026-10-12T11:50:11.451237Z",
-      "categories": [
-        "Dossiers"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "8c4fd4a9a318bfc6b0b07e64",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
-      "language": "fr",
-      "title": "Le gouvernement wallon présente son accord budgétaire ce matin",
-      "url": "https://www.lavenir.net/actu/belgique/politique/2026/10/12/le-gouvernement-wallon-presente-son-accord-budgetaire-ce-matin-W3SOB4ANHNGF3DJ2JTW6YTTYOY/",
-      "summary": "La Région wallonne a bouclé ses travaux budgétaires ce week-end. Ambiance a priori plus sereine qu’au fédéral....",
-      "published_at": "2026-10-12T06:28:41Z",
-      "retrieved_at": "2026-10-12T11:50:12.117189Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "aa556c179bd1c661c1f8ba72",
-      "source_id": "fps_finance",
-      "source_name": "SPF Finances",
-      "source_class": "public_body",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "finance_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués",
-      "language": "fr",
-      "title": "Pillar 2 - future modification de la date limite d’introduction de la déclaration relative à l’impôt national complémentaire",
-      "url": "https://finances.belgium.be/fr/Actualites/pillar2-future-modification-date-limite-introduction-declaration-impot-national-complementaire",
-      "summary": "La loi du 19 décembre 2023 (concernant l’introduction d’un impôt minimum pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure) impose l’obligation d’introduire chaque année une déclaration relative à l’impôt national complémentaire et fixe actuellement la date limite d’introduction de cette déclaration au dernier jour du 11 e mois suivant la clôture de l’année fiscale. Dans l’ actualité du 28 septembre 2026, nous avons annoncé un report pour l’introduction de ces déclarations. Une modification de la date limite légale actuelle d’introduction de la…",
-      "published_at": "2026-10-11T22:00:00Z",
-      "retrieved_at": "2026-10-12T11:50:01.204481Z",
-      "categories": [],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3b54a47e4843f3649303bff4",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "La hausse de la TVA bloque les négociations sur le budget fédéral",
-      "url": "https://www.lecho.be/r/t/1/id/10695121",
-      "summary": "Aucun accord en vue sur le budget fédéral après le kern de ce samedi. Il revient des discussions que le MR reste catégorique sur toute hausse de la TVA.",
-      "published_at": "2026-10-11T10:27:28Z",
-      "retrieved_at": "2026-10-11T10:44:16.051045Z",
-      "categories": [
-        "Economie & Politique"
-      ],
-      "first_seen_at": "2026-10-11T10:44:18.742414Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "public_decision",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "aea02c01bc13726eafe196ec",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Pointé du doigt, Georges-Louis Bouchez reste inflexible sur le budget: \"M'insulter ou m'attaquer ne change rien\"",
-      "url": "https://www.dhnet.be/actu/belgique/2026/10/11/pointe-du-doigt-georges-louis-bouchez-reste-inflexible-sur-le-budget-minsulter-ou-mattaquer-ne-change-rien-M74PKO3UCZGTLEX2343WMNQZZY/",
-      "summary": "Le président du MR, Georges-Louis Bouchez, continue de s'opposer catégoriquement à une hausse de la TVA et maintient que les nouvelles charges ne doivent représenter qu'un neuvième de l'assainissement total, comme le prévoit l'accord de gouvernement....",
-      "published_at": "2026-10-11T09:34:10Z",
-      "retrieved_at": "2026-10-12T11:50:09.787107Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-10-11T10:44:18.742414Z",
       "observation_status": "existing",
       "seen_count": 2,
-      "score": 15,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
+      "section_strength": 4,
       "matched_signals": [
-        "public_decision",
+        "citizen_impact",
         "change_alert"
       ],
       "score_reasons": [
         "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
+        "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "866878f8c33f91fe72b5a406",
-      "source_id": "de_tijd",
-      "source_name": "De Tijd",
-      "source_class": "news_media",
+      "item_id": "3c41a611bb03902dd60aa29f",
+      "source_id": "mr_party",
+      "source_name": "Mouvement Réformateur",
+      "source_class": "political_party",
       "institution_level": "national",
       "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_tijd_rss",
-      "endpoint_label": "Algemeen nieuws",
-      "content_scope": "actualités|presse|économie",
-      "language": "nl",
-      "title": "Nobelprijs Economie voor Amerikanen die blinde vlek in keynesianisme opvulden",
-      "url": "https://www.tijd.be/r/t/1/id/10695211",
-      "summary": "De Amerikanen Robert Hall en Michael Woodford winnen dit jaar de Nobelprijs Economie voor een beter inzicht in hoe beleidsmakers een economie in de greep van hoge werkloosheid of inflatie kunnen stabiliseren. Ze vulden daarmee een blinde vlek op in het recept van John Maynard Keynes.",
-      "published_at": "2026-10-12T10:30:35Z",
-      "retrieved_at": "2026-10-12T11:50:10.487447Z",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "mr_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "La Wallonie se réveille: travail récompensé, infrastructures rénovées, moins de mandataires et responsabilité renforcée",
+      "url": "https://www.mr.be/la-wallonie-se-reveille-travail-recompense-infrastructures-renovees-moins-de-mandataires-et-responsabilite-renforcee/",
+      "summary": "Après trois mois de travail, le gouvernement wallon concrétise une ambition que nous portons: récompenser le travail, soutenir l’initiative, moderniser les pouvoirs publics et protéger ceux qui en ont...",
+      "published_at": "2026-10-12T13:14:37Z",
+      "retrieved_at": "2026-10-13T11:38:11.142509Z",
       "categories": [
-        "Politiek & Economie"
+        "A la Une",
+        "Économie & Fiscalité"
       ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 10,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "b71ae4547e4c478f7425aaef",
-      "source_id": "de_tijd",
-      "source_name": "De Tijd",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_tijd_rss",
-      "endpoint_label": "Algemeen nieuws",
-      "content_scope": "actualités|presse|économie",
-      "language": "nl",
-      "title": "Glucksmann verdedigt kleuren van ‘socialistisch en democratisch links’ in Franse presidentsrace van 2027",
-      "url": "https://www.tijd.be/r/t/1/id/10695224",
-      "summary": "In Frankrijk vestigt ‘sociaaldemocratisch links’ zijn presidentiële hoop op Raphaël Glucksmann. Na de vlotte zege bij de voorverkiezing begint voor de leider van Place publique het zware werk: het progressieve electoraat voor zich winnen in een klimaat waarin de radicaal-linkse stokebrand Jean-Luc Mélenchon gevoelige snaren raakt.",
-      "published_at": "2026-10-12T10:07:20Z",
-      "retrieved_at": "2026-10-12T11:50:10.487447Z",
-      "categories": [
-        "Politiek & Economie"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "2fa8947bfef39f3058e3806e",
-      "source_id": "de_tijd",
-      "source_name": "De Tijd",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "de_tijd_rss",
-      "endpoint_label": "Algemeen nieuws",
-      "content_scope": "actualités|presse|économie",
-      "language": "nl",
-      "title": "Hof van Cassatie levert munitie voor strengere straffen bij belastingontwijking",
-      "url": "https://www.tijd.be/r/t/1/id/10695210",
-      "summary": "Een recent arrest van het Hof van Cassatie stelt dat belastingontwijking - waarbij binnen de contouren van de fiscale wet gebleven wordt - toch als onwettig gekwalificeerd kan worden, met mogelijk zwaardere sancties tot gevolg. Fiscaal advocaten vrezen dat de scheiding tussen belastingontwijking en belastingontduiking hiermee verder vervaagt.",
-      "published_at": "2026-10-12T09:52:08Z",
-      "retrieved_at": "2026-10-12T11:50:10.487447Z",
-      "categories": [
-        "Netto"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "649330513f862c94c69c4168",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "EU Week of Regions and Cities convenes 5,000 participants to discuss the future of cohesion policy",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2133",
-      "summary": "European Commission Press release Brussels, 12 Oct 2026 The 24th European Week of Regions and Cities opens today in Brussels, bringing together nearly 5,000 participants from across Europe under the motto 'Strong Regions, Strong Europe'.",
-      "published_at": "2026-10-12T07:51:04Z",
-      "retrieved_at": "2026-10-12T11:50:14.543053Z",
-      "categories": [
-        "POLICY_AREA=REGIONAL"
-      ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
-      ],
+      "section_strength": 8,
+      "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
+        "publié depuis moins de 24 heures"
       ],
       "related_items": []
     },
     {
-      "item_id": "46f12e2f2868267bc4852f8a",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Read-out by President von der Leyen following her call with President Zelenskyy",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_2131",
-      "summary": "European Commission Read-out Brussels, 11 Oct 2026 Good call with President Zelenskyy. Fully supported the call of President Zelenskyy for a ceasefire that would protect global food supplies and energy infrastru...",
-      "published_at": "2026-10-11T15:26:32Z",
-      "retrieved_at": "2026-10-12T11:50:14.543053Z",
+      "item_id": "97b26c52d3cb3528a7ea8e53",
+      "source_id": "ecolo_party",
+      "source_name": "Ecolo",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "ecolo_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "fr",
+      "title": "Budget wallon: une fois l’écran de fumée dissipé, les citoyens et les citoyennes resteront sans horizon mais passeront à la caisse",
+      "url": "https://ecolo.be/actualites/budget-wallon-une-fois-lecran-de-fumee-dissipe-les-citoyens-et-les-citoyennes-resteront-sans-horizon-mais-passeront-a-la-caisse/",
+      "summary": "",
+      "published_at": "2026-10-12T12:15:33Z",
+      "retrieved_at": "2026-10-13T11:38:10.547112Z",
       "categories": [
-        "POLICY_AREA=HREXTRELS"
+        "Actualité",
+        "À la une"
       ],
-      "first_seen_at": "2026-10-12T11:50:14.880871Z",
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 13,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ff48de6e7ddbe13d6e10f34d",
+      "source_id": "groen_party",
+      "source_name": "Groen",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "groen_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "nl",
+      "title": "Groen zwaar ontgoocheld: \"Bijna 3.000 hittedoden, maar Vlaams Parlement wil niet weten waarom\"",
+      "url": "http://www.groen.be/vlaams-parlement-weigert-klimaatcommissie",
+      "summary": "Bijna 3.000 hittedoden, 60.000 mensen op straat, en toch weigert de meerderheid te leren uit deze zomer. Wie niet wil leren uit de rampen van vandaag, laat Vlaanderen onvoorbereid achter voor die van morgen.",
+      "published_at": "2026-10-12T12:15:00Z",
+      "retrieved_at": "2026-10-13T11:38:10.369432Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 13,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f64f6215dc2603e850077f27",
+      "source_id": "rwlp",
+      "source_name": "Réseau wallon de lutte contre la pauvreté",
+      "source_class": "civil_society",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "rwlp_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|pauvreté|réformes",
+      "language": "fr",
+      "title": "Le RWLP était l’invité du JT de Télésambre ce lundi 12 octobre!",
+      "url": "https://rwlp.be/le-rwlp-etait-linvite-du-jt-de-telesambre-ce-lundi-12-octobre/",
+      "summary": "Ce 12 octobre 2026, Gaëlle Peeters, animatrice thématique politique au Réseau Wallon de Lutte contre la Pauvreté, était l’invitée du JT de Télésambre pour parler de la Journée mondiale de lutte contre la pauvreté, qui a lieu le 15 octobre à Namur pour la Wallonie. À cette occasion, Gaëlle Peeters y a rappelé le thème de cette année: « Démontons la méritocratie! Y’a d’l’argent! ». Ce thème a été choisi par le RWLP, car la méritocratie est l’angle de vue choisi par nos politiques et nos gouvernements pour justifier la perte de droits de toute une partie de la population. Elle explique que…",
+      "published_at": "2026-10-12T08:20:47Z",
+      "retrieved_at": "2026-10-13T11:38:12.561643Z",
+      "categories": [
+        "Uncategorized"
+      ],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
       "observation_status": "new",
       "seen_count": 1,
       "score": 12,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
+      "section_strength": 10,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type actualités",
+        "publié depuis moins de 36 heures"
       ],
+      "related_items": []
+    },
+    {
+      "item_id": "ce2a70f23bfdad2d6b64d3d6",
+      "source_id": "de_lijn",
+      "source_name": "De Lijn",
+      "source_class": "public_company",
+      "institution_level": "région",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "de_lijn_press_rss",
+      "endpoint_label": "Flux presse",
+      "content_scope": "communiqués|mobilité",
+      "language": "nl",
+      "title": "Files, parkeerstress en omleidingen? De Lijn daagt Vlamingen uit om het anders aan te pakken",
+      "url": "https://delijn.prezly.com/files-parkeerstress-en-omleidingen-de-lijn-daagt-vlamingen-uit-om-het-anders-aan-te-pakken",
+      "summary": "",
+      "published_at": "2026-10-13T10:03:00Z",
+      "retrieved_at": "2026-10-13T11:38:08.477116Z",
+      "categories": [],
+      "first_seen_at": "2026-10-13T11:38:19.547002Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 11,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
-        "agenda institutionnel proche"
+        "publié depuis moins de 6 heures"
       ],
       "related_items": []
     }

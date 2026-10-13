@@ -1,6 +1,6 @@
-# Veille rédaction belge — 12 octobre 2026
+# Veille rédaction belge — 13 octobre 2026
 
-Générée à **13:50** (heure de Bruxelles) à partir de **3561 éléments collectés**.
+Générée à **13:38** (heure de Bruxelles) à partir de **3549 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
@@ -8,203 +8,263 @@ Générée à **13:50** (heure de Bruxelles) à partir de **3561 éléments coll
 
 ### [Les 4 impacts du budget wallon sur votre portefeuille](https://www.lecho.be/r/t/1/id/10695231)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 12:56 · score `23`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 12:56 · score `20`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Mise en place d'un job bonus, réforme des droits de succession remaniée, baisse de la taxe de cirulation... Le budget wallon touche directement au portefeuille des contribuables.
 
 ### [Georges-Louis Bouchez critiqué de toutes parts: pour la presse, ce n’est pas la bonne cible](https://www.lalibre.be/belgique/politique-belge/2026/10/12/georges-louis-bouchez-critique-de-toutes-parts-pour-la-presse-ce-nest-pas-la-bonne-cible-LHQ5N2MB3ZD4PJTMDSDOZHLPXI/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:50 · score `22`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:50 · score `19`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Le président du MR a fait bloc encore une fois contre la hausse de la TVA. Ce qui a mené, selon certains de ses collègues, à l’échec des négociations budgétaires. Mais la presse n’est pas tout à fait d’accord avec cette analyse....
 
-### [Allocations familiales, droits de succession, droit d’enregistrement, “Job bonus”…: ce qu’il faut savoir sur le budget wallon](https://www.lavenir.net/actu/belgique/politique/2026/10/12/allocations-familiales-droits-de-succession-droit-denregistrement-job-bonus-ce-quil-faut-savoir-sur-le-budget-wallon-G6MRPPRVNJH7PBCCCOYKSALIQQ/)
+### [Covid long: le Sénat adopte une résolution pour mieux prendre en charge les malades, « pour l’instant, l’offre de soins n’est pas adaptée »](https://www.sudinfo.be/id1209475/article/2026-10-13/covid-long-le-senat-adopte-une-resolution-pour-mieux-prendre-en-charge-les)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 13:08 · score `20`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 13/10/2026 à 06:40 · score `18`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : Le Sénat doit adopter mardi une résolution de 53 recommandations pour mieux organiser la prise en charge du covid long en Belgique, alors que l’offre de soins reste jugée inadaptée par les associations de patients.
+
+### [Un peu de répit à la pompe: le prix du diesel va baisser ce mercredi](https://www.sudinfo.be/id1209536/article/2026-10-13/un-peu-de-repit-la-pompe-le-prix-du-diesel-va-baisser-ce-mercredi)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 13/10/2026 à 09:58 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le SPF Économie annonce une baisse du prix maximum du diesel B7 à partir de mercredi.
+
+### [Budget wallon: avalanche de mauvaises nouvelles pour le pouvoir d’achat des Wallons](http://www.ps.be/budget_wallon_avalanche_de_mauvaises_nouvelles_pour_le_pouvoir_d_achat_des_wallons)
+
+**Parti Socialiste** · acteur politique · 12/10/2026 à 16:28 · score `17`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le Gouvernement wallon a présenté ce lundi un budget. Tout ce qui coûte aux Wallonnes et aux Wallons arrive dès 2027. La seule mesure censée les soulager n'arrivera qu'en 2028, et elle se chiffrera entre 4 et 40 euros par mois pour moins de la moitié de la population en âge de travailler! Ce n'est pas du pouvoir d'achat, c'est de l'enfumage. Une chose est sûre, les W allons vont à nouveau déguster.
+
+### [Allocations familiales, droits de succession, droits d’enregistrement, “Job bonus”…: ce qu’il faut savoir sur le budget wallon](https://www.lavenir.net/actu/belgique/politique/2026/10/12/allocations-familiales-droits-de-succession-droit-denregistrement-job-bonus-ce-quil-faut-savoir-sur-le-budget-wallon-G6MRPPRVNJH7PBCCCOYKSALIQQ/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 13:08 · score `17`
+
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : On ne touche pas aux allocations familiales: c’est une des informations majeures de l’accord budgétaire wallon. Un budget qui dénote à plusieurs égards et qui se veut un renfort au pouvoir d’achat des citoyens. Surtout s’ils travaillent. Il n’y a pas que des bonnes nouvelles, ceci dit. APE, CISP, etc....
 
 ### [Budget wallon: fin des provinces en 2031, 256 échevins en moins, allocations familiales, indexation, taxe de circulation, bonus job de 500 euros, voici les principales annonces](https://www.sudinfo.be/id1209085/article/2026-10-12/budget-wallon-fin-des-provinces-en-2031-256-echevins-en-moins-allocations)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 11:00 · score `20`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 11:00 · score `17`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : Le gouvernement wallon a présenté, lundi matin, les grandes lignes de l’accord budgétaire conclu ce week-end, au terme de plusieurs semaines de discussions.
 
 ### [Commission welcomes adoption of €115 million ‘AGILE' programme for rapid defence innovation](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2132)
 
-**Commission européenne** · source publique officielle · 12/10/2026 à 09:44 · score `20`
+**Commission européenne** · source publique officielle · 12/10/2026 à 09:44 · score `17`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; décision ou réforme publique ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; décision ou réforme publique ; agenda institutionnel proche.
 
 > Extrait fourni par la source : European Commission Press release Brussels, 12 Oct 2026 The European Commission welcomes the adoption of the Regulation establishing Programme for agile and rapid defence innovation (AGILE) which will bring disruptive defence technology from the lab to the field at record speed. The new €115 million funding tool will provide dedicated support to small and medium sized enterprises (SMEs), including start-ups and scale ups to develop innovative defence solutions and support their uptake.
 
+### [Défense nationale - Questions orales](https://media.dekamer.be/meeting/56-20337-U2109)
+
+**Chambre des représentants** · source publique officielle · 14/10/2026 à 10:30 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Forum F0B Magritte · DEFENSIE COMM · PLANNED
+
+### [Intérieur - Projets de loi n°s 1650 & 1631](https://media.dekamer.be/meeting/56-20338-U2110)
+
+**Chambre des représentants** · source publique officielle · 14/10/2026 à 10:30 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Forum F2B Popelin · BINNENLANDSE ZAKEN COMM · PLANNED
+
+### [Plénière - Nomination du Bureau définitif, déclaration du gouvernement](https://media.dekamer.be/meeting/56-20341-P144)
+
+**Chambre des représentants** · source publique officielle · 13/10/2026 à 14:15 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Plénière - Plenaire · Plénière - Plenum · PLANNED
+
+### [Hoeveelheid restafval in Vlaanderen daalt tot 123 kilogram per persoon, laagste cijfer sinds begin metingen](https://vrtnws.be/p.ZWy35R17W)
+
+**VRT NWS** · média d'information · 13/10/2026 à 12:29 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : De gemiddelde hoeveelheid restafval is vorig jaar gedaald tot 123,4 kilogram per persoon. Dat blijkt uit nieuwe afvalcijfers van afvalstoffenmaatschappij OVAM, meldt Vlaams minister van Omgeving Jo Brouns (CD&V). Het is het laagste cijfer sinds het begin van de metingen.
+
+## Politiques publiques et société — autres pistes
+
+### [Bonne nouvelle à la pompe en Belgique: le prix du diesel baisse de plus de 6 centimes ce mercredi (infographies)](https://www.lavenir.net/actu/conso/2026/10/13/bonne-nouvelle-a-la-pompe-en-belgique-le-prix-du-diesel-baisse-de-plus-de-6-centimes-ce-mercredi-infographies-F2MVJRQ655ERFGUHP4VGAXVFYQ/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 13/10/2026 à 09:14 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le prix maximum du diesel B7 diminue ce mercredi 14 octobre 2026 en Belgique. Le litre passe de 2,4920 à 2,4280 euros. Les tarifs de l’essence restent, eux, inchangés. Le mazout de chauffage devient également moins cher....
+
 ### [Prime pour les salariés, allocations familiales… voici les mesures budgétaires du gouvernement wallon](https://www.lesoir.be/776267/article/2026-10-12/prime-pour-les-salaries-allocations-familiales-voici-les-mesures-budgetaires-du)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:22 · score `19`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:22 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : Le gouvernement wallon a dévoilé ce lundi les détails de son accord budgétaire, avec le cap d’un retour à l’équilibre en 2029.
 
+### [Ce 12 octobre 2026, le RWLP était l’invité du Grand Bazar pour Radio Revers!](https://rwlp.be/ce-12-octobre-2026-le-rwlp-etait-linvite-du-grand-bazar-pour-radio-revers/)
+
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 12/10/2026 à 09:18 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Ce 12 octobre 2026, le Réseau Wallon de Lutte contre la Pauvreté était l’invité de l’émission « le Grand Bazar » aux côtés de la maison médicale Saint-Léonard pour parler de la Journée Mondiale de Lutte contre la Pauvreté qui a lieu le 15 octobre 2026 à Namur. Pour rappel, le programme complet de la Journée Mondiale de Lutte contre la Pauvreté, est disponible ici. Pour vous inscrire à des activités qui se déroulent lors de cette journée, envoyez un mail à bureau@rwlp.be ou téléphonez au 081/31.21.17 Ecoutez l’émission dans son intégralité ici ou ci-dessous
+
 ### [En Belgique, le nombre de bénéficiaires du CPAS dépasse le nombre de chômeurs](https://www.lalibre.be/belgique/societe/2026/10/12/en-belgique-le-nombre-de-beneficiaires-du-cpas-depasse-le-nombre-de-chomeurs-MJGOKGX7IRB2LARZFH5YOURXH4/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 08:22 · score `19`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 08:22 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : Sous l'effet de la réforme du gouvernement De Wever limitant les allocations de chômage à deux ans, le nombre de bénéficiaires du CPAS dépasse désormais celui des chômeurs indemnisés en Belgique....
 
+### [La famille de la police en deuil: le MR rend hommage au policier décédé à Jette](https://www.mr.be/la-famille-de-la-police-en-deuil-le-mr-rend-hommage-au-policier-decede-a-jette/)
+
+**Mouvement Réformateur** · acteur politique · 13/10/2026 à 12:10 · score `15`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures.
+
+> Extrait fourni par la source : Un policier de la Brigade Anti-Agression (BAA) de Bruxelles a tragiquement perdu la vie dans la nuit du lundi 12 au mardi 13 octobre, lors d’une intervention à Jette visant...
+
 ### [Blocage en cours à l’ULB: les étudiants dénoncent la « casse sociale » de l’Arizona](https://www.lesoir.be/776277/article/2026-10-12/blocage-en-cours-lulb-les-etudiants-denoncent-la-casse-sociale-de-larizona)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:58 · score `18`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:58 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Les étudiants mobilisés dénoncent la hausse du minerval, le décret Paysage et les mesures gouvernementales qu’ils qualifient de « casse sociale ».
 
+### [Speech by Commissioner Hoekstra at the Annual meeting of the Heads of the Contact Committee of the Supreme Audit Institutions of the European Union](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2151)
+
+**Commission européenne** · source publique officielle · 13/10/2026 à 12:52 · score `14`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche ; discours ou déclaration institutionnelle sans décision explicite.
+
+> Extrait fourni par la source : European Commission Speech Paris, 13 Oct 2026 Ladies and Gentlemen, Thank you for welcoming me during a complicated time. Let me also thank you for your efforts, Amélie, and the efforts of many in the room...
+
+### [Hongaars parlement draait omstreden anti-lgbtq+-wet van Orbán terug](https://www.hln.be/buitenland/hongaars-parlement-draait-omstreden-anti-lgbtq-wet-van-orban-terug~a27543da/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 13/10/2026 à 11:58 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Het Hongaarse parlement heeft enkele omstreden anti-lgbtq+-maatregelen uit een wet van oud-premier Viktor Orbán teruggedraaid. Daardoor is het niet langer verboden om bijvoorbeeld koppels van gelijk geslacht te tonen in films, televisieseries en boeken als die ook beschikbaar zijn voor kinderen.
+
+Autres publications rapprochées automatiquement : [De Morgen](https://www.demorgen.be/nieuws/na-jaren-internationale-kritiek-hongaars-parlement-draait-omstreden-anti-lgbtq-wet-van-orban-terug~b30dc109/).
+
+### [Parlement Hongarije draait omstreden anti-LGBTQIA+-wet Orbán terug: kinderen mogen weer homokoppels in media zien](https://vrtnws.be/p.YbymRo8pn)
+
+**VRT NWS** · média d'information · 13/10/2026 à 11:54 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : In Hongarije heeft het parlement een omstreden anti-LGBTQIA+-wet van oud-premier Viktor Orbán teruggedraaid. Het is daardoor niet langer verboden om bijvoorbeeld koppels van gelijk geslacht te tonen in films, televisieseries en boeken als die ook beschikbaar zijn voor kinderen.
+
+### [Job quality is a priority in the EU, according to annual Commission report](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2147)
+
+**Commission européenne** · source publique officielle · 13/10/2026 à 11:07 · score `14`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 13 Oct 2026 The quality of jobs in the EU has improved over the past decade, according to the 2026 European Employment and Social Outlook, published today.
+
+### [Bastogne: 300.000 € de plus pour l'assainissement des anciennes casernes Heintz](https://www.tvlux.be/https://www.tvlux.be/actu/info/economie/bastogne-300-000-de-plus-pour-l-assainissement-des-anciennes-casernes-heintz_52755)
+
+**TV Lux** · média d'information · 13/10/2026 à 10:49 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Alors que les travaux de démolition des anciennes casernes sont en cours, le Ministre wallon en charge du Territoire, François Desquesnes (Les Engagés) vient de marquer son accord sur l'attribution du marché d'assainissement pour un montant de près de 300.000 €.
+
 ### [Contrôle transfrontalier EuregioProtectCrossover: la Douane participe à une vaste opération dans l'Euregio Meuse-Rhin](https://news.belgium.be/fr/controle-transfrontalier-euregioprotectcrossover-la-douane-participe-une-vaste-operation-dans)
 
-**Presscenter fédéral** · source publique officielle · 12/10/2026 à 12:53 · score `17`
+**Presscenter fédéral** · source publique officielle · 12/10/2026 à 12:53 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Le vendredi 9 octobre 2026, la Douane belge a participé à une importante opération de contrôle transfrontalière organisée dans le cadre de la coopération NeBeDeAgPol (Pays-Bas, Belgique, Allemagne). Les contrôles ont été menés simultanément dans plusieurs zones de l'Euregio Meuse-Rhin avec le soutien des services de police et des autorités douanières des trois pays.
 
 ### [Le Conseil de la Santé recommande une dose de rappel Covid-19 pour les groupes à risque](https://www.lavenir.net/actu/societe/sante/2026/10/12/le-conseil-de-la-sante-recommande-une-dose-de-rappel-covid-19-pour-les-groupes-a-risque-S3ADLDD6WRFJTC3WVXWISNGWCM/)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 11:26 · score `17`
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 11:26 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Une dose de rappel contre le Covid-19 est recommandée aux personnes à risque et aux professionnels de la santé pour la saison 2026-2027, a annoncé le Conseil supérieur de la Santé (CSS) dans un avis publié lundi. L'arrivée de l'automne marque en effet le retour de plusieurs virus respiratoires....
 
 ### [Lancement de la vignette et baisse de la taxe de circulation: la Wallonie révolutionne sa fiscalité automobile](https://www.lalibre.be/belgique/mobilite/2026/10/12/lancement-de-la-vignette-et-baisse-sur-la-taxe-de-circulation-la-wallonie-revolutionne-sa-fiscalite-automobile-JZ6XB2WYZNEKPE3KLYEHMNIY7Q/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:44 · score `17`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 10:44 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : La vignette automobile entre en piste au 1er mai 2027. Le gouvernement wallon prévoit des ristournes et avantages pour certaines catégories de voitures et de Wallons. Voici les gagnant et les perdants....
+> Extrait fourni par la source : La vignette automobile entre en piste au 1er mai 2027. Le gouvernement wallon prévoit des ristournes et avantages pour certaines catégories de voitures et de Wallons. Voici les gagnants et les perdants....
 
-### [Mauvaise nouvelle pour les Belges: le prix de l’essence repart à la hausse ce mardi!](https://www.sudinfo.be/id1209049/article/2026-10-12/mauvaise-nouvelle-pour-les-belges-le-prix-de-lessence-repart-la-hausse-ce-mardi)
+### [La Wallonie se réveille: travail récompensé, infrastructures rénovées, moins de mandataires et responsabilité renforcée](https://www.mr.be/la-wallonie-se-reveille-travail-recompense-infrastructures-renovees-moins-de-mandataires-et-responsabilite-renforcee/)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 09:54 · score `17`
+**Mouvement Réformateur** · acteur politique · 12/10/2026 à 15:14 · score `13`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
 
-> Extrait fourni par la source : Le SPF Economie annonce une nouvelle hausse du prix maximal de l’essence en Belgique, mardi, alors que le gasoil de chauffage diminue de 3,8 centimes par litre.
+> Extrait fourni par la source : Après trois mois de travail, le gouvernement wallon concrétise une ambition que nous portons: récompenser le travail, soutenir l’initiative, moderniser les pouvoirs publics et protéger ceux qui en ont...
 
-## Politiques publiques et société — autres pistes
+### [Budget wallon: une fois l’écran de fumée dissipé, les citoyens et les citoyennes resteront sans horizon mais passeront à la caisse](https://ecolo.be/actualites/budget-wallon-une-fois-lecran-de-fumee-dissipe-les-citoyens-et-les-citoyennes-resteront-sans-horizon-mais-passeront-a-la-caisse/)
 
-### [Une première en Belgique: le nombre de personnes au CPAS dépasse désormais le nombre de chômeurs](https://www.sudinfo.be/id1209017/article/2026-10-12/une-premiere-en-belgique-le-nombre-de-personnes-au-cpas-depasse-desormais-le)
+**Ecolo** · acteur politique · 12/10/2026 à 14:15 · score `13`
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 08:10 · score `16`
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+### [Groen zwaar ontgoocheld: "Bijna 3.000 hittedoden, maar Vlaams Parlement wil niet weten waarom"](http://www.groen.be/vlaams-parlement-weigert-klimaatcommissie)
 
-> Extrait fourni par la source : En août, la Belgique recensait 185.500 chômeurs contre plus de 200.000 bénéficiaires du revenu d’intégration, selon les statistiques des administrations. La hausse s’explique par la suppression progressive des allocations de chômage au-delà de deux ans.
+**Groen** · acteur politique · 12/10/2026 à 14:15 · score `13`
 
-### [Pas de budget, pas de discours: mais où va l'Arizona?](https://www.lecho.be/r/t/1/id/10695184)
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 12:47 · score `15`
+> Extrait fourni par la source : Bijna 3.000 hittedoden, 60.000 mensen op straat, en toch weigert de meerderheid te leren uit deze zomer. Wie niet wil leren uit de rampen van vandaag, laat Vlaanderen onvoorbereid achter voor die van morgen.
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+### [Le RWLP était l’invité du JT de Télésambre ce lundi 12 octobre!](https://rwlp.be/le-rwlp-etait-linvite-du-jt-de-telesambre-ce-lundi-12-octobre/)
 
-> Extrait fourni par la source : Le Premier ministre n'a pas pu décrocher à temps un accord budgétaire. Vu les positions, on se demande comment un compromis est encore possible. Les politologues Dave Sinardet et Jean Faniel analysent la situation. Reste-t-il une marge de manœuvre? Le gouvernement est-il au bord de la chute?
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 12/10/2026 à 10:20 · score `12`
 
-### [Le gouvernement wallon présente son accord budgétaire ce matin](https://www.lavenir.net/actu/belgique/politique/2026/10/12/le-gouvernement-wallon-presente-son-accord-budgetaire-ce-matin-W3SOB4ANHNGF3DJ2JTW6YTTYOY/)
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 08:28 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : La Région wallonne a bouclé ses travaux budgétaires ce week-end. Ambiance a priori plus sereine qu’au fédéral....
-
-### [Pillar 2 - future modification de la date limite d’introduction de la déclaration relative à l’impôt national complémentaire](https://finances.belgium.be/fr/Actualites/pillar2-future-modification-date-limite-introduction-declaration-impot-national-complementaire)
-
-**SPF Finances** · source publique officielle · 12/10/2026 à 00:00 · score `15`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 24 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : La loi du 19 décembre 2023 (concernant l’introduction d’un impôt minimum pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure) impose l’obligation d’introduire chaque année une déclaration relative à l’impôt national complémentaire et fixe actuellement la date limite d’introduction de cette déclaration au dernier jour du 11 e mois suivant la clôture de l’année fiscale. Dans l’ actualité du 28 septembre 2026, nous avons annoncé un report pour l’introduction de ces déclarations. Une modification de la date limite légale actuelle d’introduction de la…
-
-### [La hausse de la TVA bloque les négociations sur le budget fédéral](https://www.lecho.be/r/t/1/id/10695121)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 12:27 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Aucun accord en vue sur le budget fédéral après le kern de ce samedi. Il revient des discussions que le MR reste catégorique sur toute hausse de la TVA.
-
-### [Pointé du doigt, Georges-Louis Bouchez reste inflexible sur le budget: "M'insulter ou m'attaquer ne change rien"](https://www.dhnet.be/actu/belgique/2026/10/11/pointe-du-doigt-georges-louis-bouchez-reste-inflexible-sur-le-budget-minsulter-ou-mattaquer-ne-change-rien-M74PKO3UCZGTLEX2343WMNQZZY/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 11/10/2026 à 11:34 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Le président du MR, Georges-Louis Bouchez, continue de s'opposer catégoriquement à une hausse de la TVA et maintient que les nouvelles charges ne doivent représenter qu'un neuvième de l'assainissement total, comme le prévoit l'accord de gouvernement....
-
-### [EU Week of Regions and Cities convenes 5,000 participants to discuss the future of cohesion policy](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2133)
-
-**Commission européenne** · source publique officielle · 12/10/2026 à 09:51 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 12 Oct 2026 The 24th European Week of Regions and Cities opens today in Brussels, bringing together nearly 5,000 participants from across Europe under the motto 'Strong Regions, Strong Europe'.
-
-### [Read-out by President von der Leyen following her call with President Zelenskyy](https://ec.europa.eu/commission/presscorner/detail/en/read_26_2131)
-
-**Commission européenne** · source publique officielle · 11/10/2026 à 17:26 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Read-out Brussels, 11 Oct 2026 Good call with President Zelenskyy. Fully supported the call of President Zelenskyy for a ceasefire that would protect global food supplies and energy infrastru...
+> Extrait fourni par la source : Ce 12 octobre 2026, Gaëlle Peeters, animatrice thématique politique au Réseau Wallon de Lutte contre la Pauvreté, était l’invitée du JT de Télésambre pour parler de la Journée mondiale de lutte contre la pauvreté, qui a lieu le 15 octobre à Namur pour la Wallonie. À cette occasion, Gaëlle Peeters y a rappelé le thème de cette année: « Démontons la méritocratie! Y’a d’l’argent! ». Ce thème a été choisi par le RWLP, car la méritocratie est l’angle de vue choisi par nos politiques et nos gouvernements pour justifier la perte de droits de toute une partie de la population. Elle explique que…
 
 ## Justice, droits et contrôle — autres pistes
 
-### [Hof van Cassatie levert munitie voor strengere straffen bij belastingontwijking](https://www.tijd.be/r/t/1/id/10695210)
+### [Le FMI met en garde contre la hausse des taux obligataires et les risques liés à l’IA](https://www.lecho.be/r/t/1/id/10695373)
 
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 11:52 · score `14`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 13/10/2026 à 12:21 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Een recent arrest van het Hof van Cassatie stelt dat belastingontwijking - waarbij binnen de contouren van de fiscale wet gebleven wordt - toch als onwettig gekwalificeerd kan worden, met mogelijk zwaardere sancties tot gevolg. Fiscaal advocaten vrezen dat de scheiding tussen belastingontwijking en belastingontduiking hiermee verder vervaagt.
+> Extrait fourni par la source : Selon le rapport du FMI sur la stabilité financière mondiale, les marchés financiers sous-estiment encore les risques d’un coup d’arrêt des investissements dans l’IA, d’une remontée des taux obligataires et d’une vague de cyberattaques.
 
 ## Économie, emploi et consommateurs — autres pistes
 
-### [Le prix de l’essence repart à la hausse, proche de son record, celui du gasoil recule](https://www.rtbf.be/article/le-prix-de-l-essence-repart-a-la-hausse-proche-de-son-record-celui-du-gasoil-recule-11798725)
+### [Files, parkeerstress en omleidingen? De Lijn daagt Vlamingen uit om het anders aan te pakken](https://delijn.prezly.com/files-parkeerstress-en-omleidingen-de-lijn-daagt-vlamingen-uit-om-het-anders-aan-te-pakken)
 
-**RTBF Info** · média d'information · 12/10/2026 à 11:09 · score `16`
+**De Lijn** · source publique officielle · 13/10/2026 à 12:03 · score `11`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Le prix maximal pour l’essence 95 (E10) grimpera de 4 centimes d’euro par litre, pour atteindre 2,105 euros le litre....
-
-Autres publications rapprochées automatiquement : [La Libre Belgique](https://www.lalibre.be/economie/conjoncture/2026/10/12/le-prix-de-lessence-repart-a-la-hausse-et-avoisinne-son-record-le-prix-du-gasoil-recule-FFC4TKWY3BBERCPLL25WY6F7RM/).
-
-### [Nobelprijs Economie voor Amerikanen die blinde vlek in keynesianisme opvulden](https://www.tijd.be/r/t/1/id/10695211)
-
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 12:30 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : De Amerikanen Robert Hall en Michael Woodford winnen dit jaar de Nobelprijs Economie voor een beter inzicht in hoe beleidsmakers een economie in de greep van hoge werkloosheid of inflatie kunnen stabiliseren. Ze vulden daarmee een blinde vlek op in het recept van John Maynard Keynes.
-
-### [Glucksmann verdedigt kleuren van ‘socialistisch en democratisch links’ in Franse presidentsrace van 2027](https://www.tijd.be/r/t/1/id/10695224)
-
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 12/10/2026 à 12:07 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : In Frankrijk vestigt ‘sociaaldemocratisch links’ zijn presidentiële hoop op Raphaël Glucksmann. Na de vlotte zege bij de voorverkiezing begint voor de leider van Place publique het zware werk: het progressieve electoraat voor zich winnen in een klimaat waarin de radicaal-linkse stokebrand Jean-Luc Mélenchon gevoelige snaren raakt.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
 
 ## Méthode et limites
 
