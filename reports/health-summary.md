@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **245**
-- Accès en erreur ou bloqués : **41**
-- Flux candidats découverts : **99**
+- Accès opérationnels : **246**
+- Accès en erreur ou bloqués : **40**
+- Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -28,7 +28,7 @@ Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
 | Apache | Homepage en artikels | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Apache | Overzicht RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 6 |
 | Arbeitsamt der Deutschsprachigen Gemeinschaft | Portail de l'emploi | `ok` | 200 | `html → html` | `allowed` | 0 |
-| ATV | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| ATV | Regionaal nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité de protection des données | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité des services et marchés financiers | Actualités et mises en garde | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -84,7 +84,7 @@ Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
 | Conseil supérieur de l'audiovisuel | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 4 |
 | Conseil supérieur de l'audiovisuel | Flux des communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Conseil supérieur de la Justice | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `unknown` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour de cassation | Actualités et publications | `ok` | 200 | `html → html` | `missing` | 0 |
 | Cour de justice de l'Union européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -110,7 +110,7 @@ Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| FGTB | Presse | `http_error` | 418 | `html → unknown` | `allowed` | 0 |
+| FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Focus & WTV | Focus en WTV RSS | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
 | Focus & WTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
@@ -257,7 +257,7 @@ Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
+| Trends | Home en economisch nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Trends Data News | AI en technologie | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | IA et technologies | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Z | Trends Z francophone | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
@@ -290,7 +290,7 @@ Généré le `2026-10-12T11:55:38.476514Z` par `veille-redaction-belge/0.1.0`.
 | Voka | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vooruit | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | VRT NWS | Flux VRT NWS | `ok` | 200 | `atom → atom` | `allowed` | 0 |
-| VRT NWS | VRT NWS | `ok` | 200 | `html → html` | `allowed` | 0 |
+| VRT NWS | VRT NWS | `ok` | 200 | `html → html` | `allowed` | 1 |
 | VTM NIEUWS | VTM NIEUWS | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Wallonie Entreprendre | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Wallonie-Bruxelles Enseignement | Actualités | `blocked_by_robots` | — | `html → unknown` | `disallowed` | 0 |
