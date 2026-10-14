@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **246**
-- Accès en erreur ou bloqués : **40**
+- Accès opérationnels : **241**
+- Accès en erreur ou bloqués : **45**
 - Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -84,7 +84,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | Conseil supérieur de l'audiovisuel | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 4 |
 | Conseil supérieur de l'audiovisuel | Flux des communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Conseil supérieur de la Justice | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `unknown` | 0 |
+| Conseil économique social et environnemental de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour constitutionnelle | Communiqués sur les arrêts | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour de cassation | Actualités et publications | `ok` | 200 | `html → html` | `missing` | 0 |
 | Cour de justice de l'Union européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -158,7 +158,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | Le Vif | Accueil et actualités | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Ligue des droits humains | Flux des publications | `http_error` | 503 | `rss → unknown` | `unknown` | 0 |
 | Ligue des familles | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Matélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Ministère public | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -177,7 +177,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | Office de la Naissance et de l'Enfance | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de l'emploi | Espace presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Orde van Vlaamse Balies | Nieuws en events | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Orde van Vlaamse Balies | Nieuws en events | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Ostbelgien Statistik | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -219,7 +219,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | ROBtv | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Accueil RTBF Info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Flux RTBF Info | `ok` | 200 | `rss → rss` | `unknown` | 0 |
-| RTL info | RTL info | `ok` | 200 | `html → html` | `allowed` | 0 |
+| RTL info | RTL info | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
 | RTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Réseau wallon de lutte contre la pauvreté | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
@@ -257,7 +257,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Trends | Home en economisch nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | AI en technologie | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | IA et technologies | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Z | Trends Z francophone | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
@@ -266,7 +266,7 @@ Généré le `2026-10-13T11:45:25.557715Z` par `veille-redaction-belge/0.1.0`.
 | TV Com | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | TV Limburg | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | TV Lux | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 1 |
-| TV Lux | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| TV Lux | Flux des actualités | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
 | TV Oost | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Télé MB | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Télésambre | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
