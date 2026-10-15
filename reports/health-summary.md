@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-15T09:09:27.985211Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **241**
-- Accès en erreur ou bloqués : **45**
+- Accès opérationnels : **242**
+- Accès en erreur ou bloqués : **44**
 - Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -28,7 +28,7 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | Apache | Homepage en artikels | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Apache | Overzicht RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 6 |
 | Arbeitsamt der Deutschsprachigen Gemeinschaft | Portail de l'emploi | `ok` | 200 | `html → html` | `allowed` | 0 |
-| ATV | Regionaal nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| ATV | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité de protection des données | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité des services et marchés financiers | Actualités et mises en garde | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -50,7 +50,7 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | Bureau fédéral du Plan | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | BX1 | Actualités de Bruxelles | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | BX1 | Flux BX1 | `http_error` | 403 | `rss → unknown` | `allowed` | 0 |
-| CAAMI-HZIV | Actualités pour les membres | `ok` | 200 | `html → html` | `allowed` | 0 |
+| CAAMI-HZIV | Actualités pour les membres | `http_error` | 503 | `html → unknown` | `allowed` | 0 |
 | Canal Zoom | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canopea | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -105,7 +105,7 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | DH Les Sports+ | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Défense belge | Flux des actualités | `http_error` | 404 | `rss → unknown` | `allowed` | 0 |
 | Défenseur des droits de l'enfant | Actualités et publications | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -158,13 +158,13 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | Le Vif | Accueil et actualités | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Ligue des droits humains | Flux des publications | `http_error` | 503 | `rss → unknown` | `unknown` | 0 |
+| Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Ligue des familles | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Matélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Ministère public | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ministère public | Statistiques | `ok` | 200 | `html → html` | `missing` | 0 |
 | Moustique | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Mouvement Réformateur | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Mouvement Réformateur | Flux des actualités | `ok` | 200 | `rss → atom` | `allowed` | 0 |
 | Myria | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Médor | Derniers articles | `ok` | 200 | `html → html` | `missing` | 1 |
@@ -177,7 +177,7 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | Office de la Naissance et de l'Enfance | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de l'emploi | Espace presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Office national de sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Orde van Vlaamse Balies | Nieuws en events | `network_error` | — | `html → unknown` | `allowed` | 0 |
+| Orde van Vlaamse Balies | Nieuws en events | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ostbelgien Statistik | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Communauté germanophone | Termine | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Parlement de la Fédération Wallonie-Bruxelles | Agenda | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -219,7 +219,7 @@ Généré le `2026-10-14T09:31:26.682327Z` par `veille-redaction-belge/0.1.0`.
 | ROBtv | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Accueil RTBF Info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTBF Info | Flux RTBF Info | `ok` | 200 | `rss → rss` | `unknown` | 0 |
-| RTL info | RTL info | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
+| RTL info | RTL info | `ok` | 200 | `html → html` | `allowed` | 0 |
 | RTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Réseau wallon de lutte contre la pauvreté | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
