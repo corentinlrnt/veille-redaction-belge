@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-15T09:03:37.761020Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-16T08:56:06.834084Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **60**
-- Flux en erreur : **3**
-- Éléments conservés : **3682**
-- Sources contributrices : **44**
+- Flux collectés : **61**
+- Flux en erreur : **2**
+- Éléments conservés : **3692**
+- Sources contributrices : **42**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-10-15T09:03:37.761020Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 1 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
@@ -26,7 +26,7 @@ Généré le `2026-10-15T09:03:37.761020Z` par `veille-redaction-belge/collector
 | `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 49 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `http_error` | `unknown` | 0 | HTTP 404: Not Found |
+| `defence` | `defence_rss` | `ok` | `rss` | 235 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
@@ -60,14 +60,14 @@ Généré le `2026-10-15T09:03:37.761020Z` par `veille-redaction-belge/collector
 | `province_namur` | `province_namur_rss` | `ok` | `rss` | 9 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
-| `rbdh` | `rbdh_news` | `ok` | `rss` | 10 | — |
+| `rbdh` | `rbdh_news` | `ok` | `rss` | 9 | — |
 | `rtbf_info` | `rtbf_info_rss` | `ok` | `rss` | 20 | — |
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
 | `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
-| `tv_lux` | `tv_lux_rss` | `parse_error` | `unknown` | 0 | not well-formed (invalid token): line 135, column 311 |
+| `tv_lux` | `tv_lux_rss` | `parse_error` | `unknown` | 0 | not well-formed (invalid token): line 213, column 311 |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
 | `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 1 | — |
