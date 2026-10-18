@@ -1,6 +1,6 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-17T08:28:08.465246Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-18T08:46:55.748130Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **61**
@@ -23,7 +23,7 @@ Généré le `2026-10-17T08:28:08.465246Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 30 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 49 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 235 | — |
@@ -56,7 +56,7 @@ Généré le `2026-10-17T08:28:08.465246Z` par `veille-redaction-belge/collector
 | `medor` | `medor_rss` | `ok` | `rss` | 30 | — |
 | `mr_party` | `mr_party_rss` | `ok` | `atom` | 15 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
-| `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
+| `mutualities_liberal` | `liberal_mutualities_news` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
 | `province_namur` | `province_namur_rss` | `ok` | `rss` | 9 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
@@ -67,7 +67,7 @@ Généré le `2026-10-17T08:28:08.465246Z` par `veille-redaction-belge/collector
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
-| `tv_lux` | `tv_lux_rss` | `parse_error` | `unknown` | 0 | not well-formed (invalid token): line 317, column 311 |
+| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
 | `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 1 | — |
