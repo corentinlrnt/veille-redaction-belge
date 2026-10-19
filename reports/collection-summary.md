@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-18T08:46:55.748130Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-19T09:47:36.310209Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **61**
-- Flux en erreur : **2**
-- Éléments conservés : **3629**
-- Sources contributrices : **43**
+- Flux collectés : **62**
+- Flux en erreur : **1**
+- Éléments conservés : **3672**
+- Sources contributrices : **42**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,14 +16,14 @@ Généré le `2026-10-18T08:46:55.748130Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 7 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 26 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 49 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 235 | — |
@@ -56,7 +56,7 @@ Généré le `2026-10-18T08:46:55.748130Z` par `veille-redaction-belge/collector
 | `medor` | `medor_rss` | `ok` | `rss` | 30 | — |
 | `mr_party` | `mr_party_rss` | `ok` | `atom` | 15 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
-| `mutualities_liberal` | `liberal_mutualities_news` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
 | `province_namur` | `province_namur_rss` | `ok` | `rss` | 9 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
