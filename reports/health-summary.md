@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-22T09:24:51.048044Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-23T09:20:31.758033Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **221**
-- Accès en erreur ou bloqués : **65**
-- Flux candidats découverts : **78**
+- Accès opérationnels : **226**
+- Accès en erreur ou bloqués : **60**
+- Flux candidats découverts : **79**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -16,7 +16,7 @@ Généré le `2026-10-22T09:24:51.048044Z` par `veille-redaction-belge/0.1.0`.
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale des médicaments et des produits de santé | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale pour la sécurité de la chaîne alimentaire | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Agence pour une Vie de Qualité | Actualités | `http_error` | 404 | `html → unknown` | `missing` | 0 |
+| Agence pour une Vie de Qualité | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Agence wallonne de l'Air et du Climat | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Agentschap Innoveren en Ondernemen | Nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Alliance nationale des mutualités chrétiennes | Actualités MC | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
@@ -159,13 +159,13 @@ Généré le `2026-10-22T09:24:51.048044Z` par `veille-redaction-belge/0.1.0`.
 | Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Ligue des familles | Communiqués de presse | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Ligue des familles | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Matélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Ministère public | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ministère public | Statistiques | `ok` | 200 | `html → html` | `missing` | 0 |
 | Moustique | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Mouvement Réformateur | Flux des actualités | `ok` | 200 | `rss → atom` | `allowed` | 0 |
-| Myria | Actualités | `http_error` | 503 | `html → unknown` | `unknown` | 0 |
+| Myria | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Médor | Derniers articles | `ok` | 200 | `html → html` | `missing` | 1 |
 | Médor | Flux des derniers articles | `ok` | 200 | `rss → rss` | `missing` | 0 |
@@ -200,7 +200,7 @@ Généré le `2026-10-22T09:24:51.048044Z` par `veille-redaction-belge/0.1.0`.
 | Province d'Anvers | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Province de Flandre-Occidentale | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Province de Flandre-Orientale | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Province de Hainaut | Actualités et administration provinciales | `http_error` | 503 | `html → unknown` | `unknown` | 0 |
+| Province de Hainaut | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Limbourg | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Liège | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Province de Luxembourg | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
@@ -234,8 +234,8 @@ Généré le `2026-10-22T09:24:51.048044Z` par `veille-redaction-belge/0.1.0`.
 | SPF Affaires étrangères | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Chancellerie du Premier Ministre | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | SPF Emploi Travail et Concertation sociale | Actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| SPF Finances | Actualités | `http_error` | 503 | `html → unknown` | `unknown` | 0 |
-| SPF Finances | Flux des actualités | `http_error` | 503 | `rss → unknown` | `unknown` | 0 |
+| SPF Finances | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
+| SPF Finances | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | SPF Intérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
