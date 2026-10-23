@@ -1,276 +1,286 @@
-# Veille rédaction belge — 22 octobre 2026
+# Veille rédaction belge — 23 octobre 2026
 
-Générée à **11:19** (heure de Bruxelles) à partir de **3357 éléments collectés**.
+Générée à **11:15** (heure de Bruxelles) à partir de **3249 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
+### [Révision du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne et l'accès à ceux-ci: traductions](https://www.cwape.be/documents-recents/revision-du-reglement-technique-pour-la-gestion-des-reseaux-de-distribution-0)
+
+**Commission wallonne pour l'Énergie** · source publique officielle · 23/10/2026 à 00:00 · score `28`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 12 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Révision du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne et l'accès à ceux-ci: traductions acso 23-10-2026 Révision du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne et l'accès à ceux-ci: traductions 23-10-2026 Le Comité de direction de la CWaPE a approuvé le 8 octobre 2026 les traductions en néerlandais et en allemand du nouveau RTDE. La révision du RTDE dans les trois langues nationales a été envoyée dans la foulée au SPF Justice en vue de leur publication au Moniteur belge. Contenu lié…
+
+### [Narcotrafic: Boris Dilliès lance une riposte régionale pour reprendre le contrôle des quartiers les plus touchés.](https://www.mr.be/actu/actualites-2/narcotrafic-boris-dillies-lance-une-riposte-regionale-pour-reprendre-le-controle-des-quartiers-les-plus-touches-2061)
+
+**Mouvement Réformateur** · acteur politique · 22/10/2026 à 17:22 · score `24`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Le Ministre-Président de la Région de Bruxelles-Capitale, Boris Dilliès, a signé un arrêté de police qui instaure un cadre intégré de lutte contre le narcotrafic et les violences liées. Il remplace le...
+
+### [Le refus du remboursement du Mounjaro risque de créer une "médecine à deux vitesses" s’inquiète l’association belge pour l’étude de l’obésité](https://www.rtbf.be/article/le-refus-du-remboursement-du-mounjaro-risque-de-creer-une-medecine-a-deux-vitesses-s-inquiete-l-association-belge-pour-l-etude-de-l-obesite-11804780)
+
+**RTBF Info** · média d'information · 23/10/2026 à 10:26 · score `23`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Le ministre de la Santé publique Franck Vandenbroucke (Vooruit) a annoncé sa décision mercredi, estimant qu'un...
+
+### [Hippodrome de Wallonie: un nouveau modèle pour ouvrir une nouvelle phase de développement de la filière hippique](https://www.mr.be/actu/actualites-2/hippodrome-de-wallonie-un-nouveau-modele-pour-ouvrir-une-nouvelle-phase-de-developpement-de-la-filiere-hippique-2064)
+
+**Mouvement Réformateur** · acteur politique · 22/10/2026 à 18:38 · score `23`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le Gouvernement wallon a marqué son accord sur la cession de la participation majoritaire détenue par la Région dans l’Hippodrome de Wallonie, à Ghlin. Cette décision doit permettre d’ouvrir une nouve...
+
+### [Nu al 63 jaar cel op de teller: drugsbaas Omar ‘Patje Haemers’ Govers vestigt nieuw record na nieuwe veroordeling](https://www.hln.be/antwerpen/nu-al-63-jaar-cel-op-de-teller-drugsbaas-omar-patje-haemers-govers-vestigt-nieuw-record-na-nieuwe-veroordeling~a29dbc9e/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 10:06 · score `22`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : De rechtbank heeft vanmorgen nog maar eens 12 jaar celstraf opgelegd aan Omar Govers, bijgenaamd ‘Patje Haemers’, uit Merksem. De drugscrimineel, die intussen al 63 jaar cel op zijn teller heeft staan, schakelde vanuit Dubai de broers B. uit Hoboken in om drugs- en geldtransporten uit te voeren. Omar Govers zal het een zorg wezen: de man werd onlangs vrijgelaten uit de gevangenis in Dubai. België probeert hem tevergeefs uitgeleverd te krijgen.
+
+### [Opaline Meunier acquittée en appel dans son procès contre Laurent Louis: “Je suis très heureuse de cette issue judiciaire”](https://www.dhnet.be/regions/mons/borinage/2026/10/23/opaline-meunier-acquittee-en-appel-dans-son-proces-contre-laurent-louis-4FBPLLXRBVBGFDIGENPDOTHNU4/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 09:26 · score `19`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : La cour d’appel du Hainaut a acquitté, vendredi, Opaline Meunier, poursuivie pour des propos tenus sur les réseaux sociaux à l’encontre de l’ancien député fédéral Laurent Louis. La Montoise avait bénéficié d’une suspension du prononcé de la condamnation en première instance. Son avocat, Me Mayence, se réjouit de cette décision....
+
+### [Ook Griekenland verbiedt sociale media onder 15](https://www.hln.be/buitenland/ook-griekenland-verbiedt-sociale-media-onder-15~ad40c7c5/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 11:10 · score `18`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Het Griekse parlement heeft in de nacht van donderdag op vrijdag een wet aangenomen die vanaf 1 januari 2027 de toegang tot sociale media verbiedt voor jongeren onder de 15 jaar. De maatregel werd ook al in een aantal andere landen ingevoerd.
+
+### [Einde aan bijna 170 jaar oude traditie: New York verbiedt paardenkoetsen in Central Park](https://vrtnws.be/p.0YpOKDZAm)
+
+**VRT NWS** · média d'information · 23/10/2026 à 08:40 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : De gemeenteraad van New York heeft een verbod goedgekeurd voor ritjes met paardenkoetsen in Central Park. Dat moet ingaan vanaf 1 juni 2028. Over een verbod wordt al jarenlang gediscussieerd. Een dodelijk ongeluk in juni bracht de stemming in een stroomversnelling. Maar de koetsiers zijn het er niet mee eens.
+
+### [Geen oppompverbod meer in West-Vlaanderen, behalve op 4 kwetsbare plekken](https://vrtnws.be/p.w70RalLko)
+
+**VRT NWS** · média d'information · 23/10/2026 à 06:29 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Het oppompverbod in West-Vlaanderen wordt vanaf vandaag grotendeels stopgezet. Dat heeft waarnemend gouverneur Koen Surdiacourt beslist. De recente regen heeft ervoor gezorgd dat de situatie minder kritiek is, en dat de verzilting voor een stuk is afgenomen. Toch blijft het verbod nog van kracht op 4 kwetsbare plekken.
+
 ### [Panneaux solaires et pompes à chaleur: nombreux manquements constatés](https://news.economie.fgov.be/273085-panneaux-solaires-et-pompes-a-chaleur-nombreux-manquements-constates/)
 
-**SPF Économie** · source publique officielle · 22/10/2026 à 09:00 · score `20`
+**SPF Économie** · source publique officielle · 22/10/2026 à 09:00 · score `17`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation.
 
 > Extrait fourni par la source : Une vaste enquête du SPF Economie met en lumière des manquements fréquents dans le secteur des panneaux solaires et des pompes à chaleur. Sur les 145 entreprises contrôlées, 133 présentaient au moins une infraction.
 
-### [La réforme des pensions devrait (enfin) améliorer la durabilité de notre système de retraite](https://www.lecho.be/r/t/1/id/10696572)
+### [Le prix du mazout de chauffage à nouveau annoncé à la hausse en Belgique ce samedi](https://www.lavenir.net/actu/conso/2026/10/23/le-prix-du-mazout-de-chauffage-annonce-a-la-hausse-en-belgique-ce-samedi-ENXSNF2KF5HK3KKBVZX5PVKLR4/)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 06:02 · score `19`
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 09:47 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : La récente réforme des pensions n'a pas encore permis à notre pays d'améliorer sa position dans le Global Pension Index 2026. La soutenabilité de notre système reste préoccupante.
+> Extrait fourni par la source : Du changement est annoncé dans le prix de certains produits pétroliers ce samedi 24 octobre 2026 en Belgique....
 
-### [Provinces, communes, intercommunales: Jacqueline Galant veut simplifier la Wallonie](https://www.mr.be/actu/actualites-2/jacqueline-galant-dans-la-province-c-est-la-legislature-de-tous-les-changements-2058)
+### [Zes op de tien Vlaamse gemeenten hebben geen plan bij cyberaanval: bijna 1.900 digitale kwetsbaarheden](https://www.hln.be/binnenland/zes-op-de-tien-vlaamse-gemeenten-hebben-geen-plan-bij-cyberaanval-bijna-1-900-digitale-kwetsbaarheden~a89c519b/)
 
-**Mouvement Réformateur** · acteur politique · 21/10/2026 à 14:57 · score `19`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Réforme des provinces, rationalisation des structures publiques, fusion des communes et économies au bénéfice des citoyens: dans un entretien accordé à La Province, Jacqueline Galant, ministre wallo...
-
-### [Ruim 9 op 10 installateurs van zonnepanelen en warmtepompen lopen tegen de lamp bij controle](https://www.tijd.be/r/t/1/id/10696721)
-
-**De Tijd** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 10:32 · score `17`
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 09:24 · score `16`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
 
-> Extrait fourni par la source : Bij een grootschalig onderzoek van de Economische Inspectie bleken ruim negen op de tien gecontroleerde installateurs van zonnepanelen en warmtepompen niet in orde te zijn met de wettelijke verplichtingen in de sector. De controleactie kwam er na verschillende klachten tegen installateurs.
+> Extrait fourni par la source : Zes op de tien lokale besturen in Vlaanderen hebben geen plan om te kunnen blijven functioneren in het geval van een cyberaanval op hun IT-infrastructuur. Dat schrijft ‘De Tijd’ vrijdag op basis van een rapport van Audit Vlaanderen.
 
-### [De nombreux installateurs de panneaux solaires en infraction sur leurs obligations légales](https://www.dhnet.be/actu/belgique/2026/10/22/de-nombreux-installateurs-de-panneaux-solaires-en-infraction-sur-leurs-obligations-legales-OOUEDPAQJRCHDHOU2NIOUGKDJQ/)
+## Politiques publiques et société — autres pistes
 
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 10:09 · score `17`
+### [Zes op tien Vlaamse gemeenten hebben geen plan bij cyberaanval](https://www.gva.be/binnenland/zes-op-tien-vlaamse-gemeenten-hebben-geen-plan-bij-cyberaanval/163493774.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 08:45 · score `16`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
 
-> Extrait fourni par la source : Plus de 90% des installateurs de panneaux solaires et de pompes à chaleur se trouvent en infraction par rapport à au moins une de leurs principales obligations légales, ressort-il jeudi des résultats d'une campagne de contrôle réalisée par le SPF Économie....
+> Extrait fourni par la source : Zes op de tien lokale besturen in Vlaanderen hebben geen plan om te kunnen blijven functioneren in het geval van een cyberaanval op hun IT-infrastructuur. Dat schrijft De Tijd op basis van een rapport van Audit Vlaanderen.
 
-### [Celtic Uprise réunit plus de 2.000 militaires en Allemagne](https://www.mil.be/fr/news/celtic-uprise-reunit-plus-de-2000-militaires-en-allemagne/)
+Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/binnenland/zes-op-tien-vlaamse-gemeenten-hebben-geen-plan-bij-cyberaanval/163497881.html).
 
-**Défense belge** · source publique officielle · 22/10/2026 à 08:01 · score `17`
+### [Waar is de dinner party gebleven? ‘Nodig mensen uit, zelfs al ben je geen perfecte kok’](https://www.bruzz.be/actua/samenleving/waar-de-dinner-party-gebleven-nodig-mensen-uit-zelfs-al-ben-je-geen-perfecte-kok-2026-10-23)
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation.
+**BRUZZ** · média d'information · 23/10/2026 à 07:00 · score `16`
 
-> Extrait fourni par la source : Pendant trois semaines, le camp d'entraînement de Bergen-Hohne, en Allemagne, a servi de cadre à Celtic Uprise, le premier exercice d'envergure de la 7e Brigade depuis sa création en février 2026. Au cœur de l'exercice: l'évaluation opérationnelle du Bataillon de Chasseurs Ardennais, l'évaluation de l'état-major du Bataillon 1er/3e Lanciers et la poursuite de la montée en puissance opérationnelle de la 7e Brigade elle-même.
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
 
-### [Recrutement d'un Conseiller tarifaire et analyste financier (m/f/x)](https://www.cwape.be/documents-recents/recrutement-dun-conseiller-tarifaire-et-analyste-financier-mfx)
-
-**Commission wallonne pour l'Énergie** · source publique officielle · 21/10/2026 à 22:44 · score `17`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Recrutement d'un Conseiller tarifaire et analyste financier (m/f/x) acso 21-10-2026 Recrutement d'un Conseiller tarifaire et analyste financier (m/f/x) 21-10-2026 En vue de renforcer son équipe, la CWaPE recrute un Conseiller tarifaire et analyste financier (m/f/x). Les candidatures (CV et lettre de motivation) peuvent être envoyées jusqu'au 30 octobre 2026 inclus à Marie-Pierre Mondy via l'adresse office.hainaut.namur@randstad.be. Consultez l'annonce détaillant la fonction et le profil recherché:…
-
-### [OPROEP. Minister Vandenbroucke houdt terugbetaling obesitasmedicijn Mounjaro tegen](https://www.hbvl.be/gezondheid/oproep.-minister-vandenbroucke-houdt-terugbetaling-obesitasmedicijn-mounjaro-tegen/163373215.html)
-
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 21/10/2026 à 05:17 · score `17`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
-
-> Extrait fourni par la source : Minister van Volksgezondheid Frank Vandenbroucke (Vooruit) heeft beslist om het populaire obesitasmiddel Mounjaro niet terug te betalen. Dat schrijven De Tijd en L'Echo woensdag. Eerder had Vandenbroucke al dezelfde keuze gemaakt voor het obesitasmiddel Wegovy.
+> Extrait fourni par la source : Thuis dineren met vrienden: we doen het volgens onderzoek steeds minder en het bezorgt ons ook meer stress. Onnodig, zeggen ervaren thuiskoks. “Hou het simpel en zet je vrienden aan het werk.”
 
 ### [Plénière - Questions, projets de loi et proposition de résolution, votes](https://media.dekamer.be/meeting/56-20396-P146)
 
 **Chambre des représentants** · source publique officielle · 22/10/2026 à 14:15 · score `16`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
 > Extrait fourni par la source : Plénière - Plenaire · Plénière - Plenum · PLANNED
 
-### [Prudence sur les routes après le passage à l'heure d'hiver: les accidents graves en hausse de 73% en soirée!](https://www.qu4tre.be/infos/mobilite/prudence-sur-les-routes-apres-le-passage-a-lheure-dhiver-les-accidents-graves-en-hausse-de-73-en-soiree/2016927)
+### [Een echte sterrenhemel of de verbeelding van Van Gogh? Wetenschappers werpen nieuw licht op befaamd schilderij 'De Sterrennacht'](https://www.hbvl.be/opmerkelijk/een-echte-sterrenhemel-of-de-verbeelding-van-van-gogh-wetenschappers-werpen-nieuw-licht-op-befaamd-schilderij-de-sterrennacht/163487224.html)
 
-**Qu4tre** · média d'information · 22/10/2026 à 10:57 · score `16`
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 23/10/2026 à 06:00 · score `15`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Le nombre d'accidents graves avec un piéton augmente de 73% à l'heure de pointe du soir après le passage à l'heure d'hiver, révèle jeudi une nouvelle analyse de l'institut Vias. La hausse est notamment considérable en Wallonie. D'octobre à novembre, le nombre d'accidents corporels impliquant des piétons augmente de 39% pendant l'heure de pointe du soir, soit entre 16h00 et 18h59, et les accidents graves augmentent de 73%. Sur 1.000 accidents en octobre, Vias a recensé 109 piétons tués ou grièvement blessés, ainsi que 136 tués ou blessés graves pour 1.000 accidents en novembre, entre 2016 et…
+> Extrait fourni par la source : Het bekende schilderij ‘De Sterrennacht’ zou wel eens een weerspiegeling van de werkelijkheid kunnen zijn, eerder dan de pure fantasie van Vincent van Gogh. Volgens nieuw wetenschappelijk onderzoek is het schilderij gebaseerd op een echte ochtendhemel.
 
-Autres publications rapprochées automatiquement : [DH Les Sports+](https://www.dhnet.be/actu/belgique/2026/10/22/prudence-sur-les-routes-apres-le-passage-a-lheure-dhiver-les-accidents-graves-en-hausse-de-73-en-soiree-MT2OF6LOVJHO5E6XY4BAO7T5M4/).
+### [Tempête: fermeture de la Foire ce vendredi](https://www.qu4tre.be/infos/tempete-fermeture-de-la-foire-ce-vendredi/2017055)
 
-### [Staf Aerts: “Minister Francken moet dezelfde terughoudendheid tonen als de Kamer”](http://www.groen.be/staf_aerts_groen)
-
-**Groen** · acteur politique · 22/10/2026 à 10:22 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures.
-
-> Extrait fourni par la source : "We mogen toch van een minister van Defensie verwachten dat hij zich aansluit bij het Belgische buitenlands beleid?"
-
-### [Temps partiel après 50 ans: la Belgique dans le top 3 européen chez les hommes](https://www.lalibre.be/economie/emploi/2026/10/22/temps-partiel-apres-50-ans-la-belgique-dans-le-top-3-europeen-chez-les-hommes-WM4PSRWTDNE4BK2JPIT3SXZMNQ/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 07:18 · score `16`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Près de 20% des hommes âgés de plus de 50 ans travaillent à temps partiel en Belgique, selon une analyse du spécialiste RH Acerta publiée jeudi, sur base de données de l'office européen de statistiques Eurostat. Leur proportion a augmenté d'un tiers en cinq ans, atteignant un record....
-
-## Politiques publiques et société — autres pistes
-
-### [Frank Vandenbroucke a jeté un froid sur les attentes à propos d'un accord: "Je ne pense pas qu'il soit judicieux de finaliser cela en une nuit"](https://www.dhnet.be/actu/belgique/2026/10/21/frank-vandenbroucke-a-jete-un-froid-sur-les-attentes-a-propos-dun-accord-je-ne-pense-pas-quil-soit-judicieux-de-finaliser-cela-en-une-nuit-SLRGWK4AGVBWVAF2QWPBMV772U/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 21/10/2026 à 20:07 · score `16`
+**Qu4tre** · média d'information · 22/10/2026 à 16:19 · score `15`
 
 **Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Le vice-Premier ministre Vooruit Frank Vandenbroucke a tempéré les attentes mercredi soir à l'ouverture d'un nouveau comité restreint (kern) consacré au budget....
+> Extrait fourni par la source : La foire de Liège sera fermée ce vendredi 23 octobre en raison des vents forts annoncés avec l’arrivée de la tempête Austen. Le champ de foire étant installé au cœur du parc d’Avroy, il est directement concerné par la décision de la Ville de Liège de fermer préventivement l’ensemble de ses parcs et cimetières dès vendredi midi jusque samedi matin. Les forains ont été prévenus. Cette mesure fait suite à l’alerte jaune pour vent fort émise par l’Institut Royal Météorologique (IRM) pour l’ensemble du pays.
 
-### [Justice - Questions orales](https://media.dekamer.be/meeting/56-20380-U2147)
+### [Hondenkweker in Oostmalle verliest erkenning: "Ernstige inbreuken tegen dierenwelzijn"](https://vrtnws.be/p.xZY6avRK0)
 
-**Chambre des représentants** · source publique officielle · 21/10/2026 à 14:30 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Forum F2B Popelin · JUSTITIE-JUSTICE COMM · PLANNED
-
-### [Relations extérieures - Questions orales](https://media.dekamer.be/meeting/56-20378-U2145)
-
-**Chambre des représentants** · source publique officielle · 21/10/2026 à 14:15 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Forum F4A Mercator · BUITENLANDSE BETR COMM · PLANNED
-
-### [Pas op in de avondspits: na overgang naar wintertijd vallen er veel meer gewonden onder voetgangers](https://vrtnws.be/p.E1dkDL1pj)
-
-**VRT NWS** · média d'information · 22/10/2026 à 07:09 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Het aantal ernstige ongevallen met voetgangers stijgt met 73 procent na de overgang naar wintertijd. Dat blijkt uit een nieuwe statistische analyse van het verkeersinstituut Vias. Vooral de avondspits is een risicomoment.
-
-### [Passage à l'heure d'hiver: les accidents graves en hausse de 73% en soirée suite à ce changement](https://www.lalibre.be/belgique/mobilite/2026/10/22/passage-a-lheure-dhiver-les-accidents-graves-en-hausse-de-73-en-soiree-suite-a-ce-changement-JBFIZKVBMNANXIJR2DLI4ZNCCI/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 07:06 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Le nombre d'accidents graves avec un piéton augmente de 73% à l'heure de pointe du soir après le passage à l'heure d'hiver, révèle jeudi une nouvelle analyse de l'institut Vias. La hausse est notamment considérable en Wallonie, où ces accidents dans ce créneau horaire augmentent de 104%....
-
-### [Europees Octrooibureau ziet “sterke positie van het Belgische onderzoek” met Imec en KU Leuven in Europese top zes](https://www.hbvl.be/binnenland/europees-octrooibureau-ziet-sterke-positie-van-het-belgische-onderzoek-met-imec-en-ku-leuven-in-europese-top-zes/163432221.html)
-
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 06:29 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Imec en de KU Leuven staan op de vijfde en zesde plaats in een Europese ranglijst van octrooiaanvragen door publieke onderzoeksinstellingen. Bij de Europese universiteiten voert de KU Leuven de lijst zelfs aan, blijkt uit een nieuw dashboard van het Europees Octrooibureau (EOB).
-
-### [Gemiddelde prijs woonzorgcentrum stijgt minder snel dan inflatie](https://www.standaard.be/binnenland/gemiddelde-prijs-woonzorgcentrum-stijgt-minder-snel-dan-inflatie/163378306.html)
-
-**De Standaard** · média d'information · article possiblement réservé aux abonnés · 21/10/2026 à 11:38 · score `15`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Voor een verblijf in een woonzorgcentrum betaal je nu gemiddeld 76,69 euro per dag. Dat is 2,91 procent meer dan in 2025, terwijl de inflatie met 3,77 procent toenam. Ouderen houden zo meer over, zegt Vlaams minister van Welzijn Caroline Gennez.
-
-Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/binnenland/gemiddelde-prijs-voor-woonzorgcentrum-stijgt-nog-wel-maar-minder-snel-dan-inflatie/163373498.html).
-
-### [GSK: des milliards d’avantages fiscaux et quelles garanties pour les travailleurs](http://www.ps.be/gsk_des_milliards_d_avantages_fiscaux_et_quelles_garanties_pour_les_travailleurs)
-
-**Parti Socialiste** · acteur politique · 21/10/2026 à 09:52 · score `15`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Plus de 1 200 emplois menacés chez GSK. Derrière ce chiffre, il y a des familles dans l’inquiétude, des projets suspendus et des années d’engagement. Alors que la multinationale réalise d’importants bénéfices et bénéficie d’aides publiques, les travailleurs sont en droit de demander des comptes. Le PS demande des auditions à la Chambre pour entendre la direction de la multinationale et les syndicats.
-
-### [Word je echt minder creatief als je ouder wordt? Nieuwe studie ontkracht de mythe](https://www.hbvl.be/natuur-en-wetenschap/word-je-echt-minder-creatief-als-je-ouder-wordt-nieuwe-studie-ontkracht-de-mythe/163429115.html)
-
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 03:00 · score `14`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Worden mensen minder creatief naarmate ze ouder worden? Uit nieuw onderzoek blijkt dat dat een misvatting is. “Volwassenen verliezen hun creativiteit niet, maar wel het zelfvertrouwen om die te gebruiken.”
-
-### [Bionear: le laboratoire mobile en exercice dans la capitale](https://www.mil.be/fr/news/bionear-le-laboratoire-mobile-en-exercice-dans-la-capitale/)
-
-**Défense belge** · source publique officielle · 21/10/2026 à 06:27 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Le 14 octobre, les Laboratoires de la Défense (DLD) ont déployé le laboratoire mobile Bionear à l’hôpital universitaire Saint-Pierre, à Bruxelles à l’occasion d’un scénario simulant une suspicion d’Ebola. L’exercice a permis de tester des (nouvelles) procédures d’analyse sur le terrain et de renforcer la coopération avec les partenaires civils.
-
-### [Mobilisations de la jeunesse: Le Gouvernement renforce le dialogue avec les jeunes et leur participation aux décisions publiques](https://www.mr.be/actu/actualites-2/mobilisations-de-la-jeunesse-le-gouvernement-renforce-le-dialogue-avec-les-jeunes-et-leur-participation-aux-decisions-publiques-2059)
-
-**Mouvement Réformateur** · acteur politique · 21/10/2026 à 17:02 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Face aux mobilisations observées ces dernières années en Fédération Wallonie-Bruxelles, les ministres de la Jeunesse et de l’Education réaffirment leur volonté d’écoute et de dialogue avec les jeunes....
-
-### [Devenir pompier volontaire en province de Namur: une première étape avec notre École du feu](https://www.province.namur.be/2026/10/21/devenir-pompier-volontaire-en-province-de-namur-une-premiere-etape-avec-notre-ecole-du-feu/)
-
-**Province de Namur** · source publique officielle · 21/10/2026 à 16:06 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : La Zone de secours NAGE prépare un recrutement de pompiers volontaires début 2027 pour ses postes d’Andenne, Gembloux et Éghezée. […]
-
-### [Slam – Journée mondiale de lutte contre la pauvreté 2026 – par Manza Abdeslam](https://rwlp.be/slam-journee-mondiale-de-lutte-contre-la-pauvrete-2026-par-manza-abdeslam/)
-
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 21/10/2026 à 01:13 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : Journée mondiale de lutte contre la pauvreté 2026 - Slam par Manza Abdeslam Nous partageons un slam de Manza Abdeslam, animateur pédagogique du Défenseur des...
-
-### [Commission greenlights Germany's final payment request for €6 billion under NextGenerationEU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2224)
-
-**Commission européenne** · source publique officielle · 21/10/2026 à 10:09 · score `11`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 21 Oct 2026 Today, the European Commission positively assessed Germany's fourth and final payment request worth €6 billion under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU.
-
-### [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223)
-
-**Commission européenne** · source publique officielle · 21/10/2026 à 09:37 · score `11`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 21 Oct 2026 Today, the European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams.
-
-### [Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206)
-
-**Commission européenne** · source publique officielle · 21/10/2026 à 00:00 · score `11`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 21 Oct 2026 The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on a targeted amendment to strengthen the Market Stability Reserve (MSR) of the EU's Emissions Trading System (EU ETS).
-
-## Justice, droits et contrôle — autres pistes
-
-### [Parkeerautomaat defect? Dan hoef je niet op zoek te gaan naar een andere, zegt Hof van Cassatie](https://vrtnws.be/p.mRJeXq7w9)
-
-**VRT NWS** · média d'information · 21/10/2026 à 14:01 · score `16`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Wie parkeert op een betalende parkeerplaats en vaststelt dat de parkeerautomaat defect is, hoeft niet op zoek te gaan naar een andere werkende automaat. Het volstaat dan om je blauwe parkeerschijf te leggen. Dat heeft het Hof van Cassatie beslist in een arrest waarover De Tijd bericht.
-
-### [Anwalt von Paolo Falzone beantragt Berufung](https://brf.be/national/2119093/)
-
-**BRF Nachrichten** · média d'information · 21/10/2026 à 08:15 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : Der wegen mehrfachen Mordes im Zusammenhang mit dem Drama beim Karneval von Strépy-Bracquegnies zu 27 Jahren Haft verurteilte Paolo Falzone, wird das Urteil anfechten. Nach Angaben seines Anwalts hat er beim Kassationshof Berufung eingelegt. Am Mittwochvormittag prüft das höchste Gericht die Argumente der Verteidigung. Dabei geht es nicht um eine neue Bewertung der Taten, sondern […]
-
-## Économie, emploi et consommateurs — autres pistes
-
-### [Malgré sa croissance, eBay va supprimer 1.000 emplois](https://www.lecho.be/r/t/1/id/10696666)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 07:47 · score `14`
+**VRT NWS** · média d'information · 23/10/2026 à 07:38 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Après avoir renoué avec la croissance en 2025, eBay s’apprête à supprimer 1.000 emplois, soit 9% de ses effectifs. Une décision que la plateforme américaine présente comme nécessaire pour préserver sa position solide.
+> Extrait fourni par la source : Een professionele hondenkweker in Oostmalle verliest zijn erkenning omdat er ernstige inbreuken werden vastgesteld tegen het dierenwelzijn. Dat heeft Vlaams minister van Dierenwelzijn Ben Weyts (N-VA) beslist. De honden hadden niet genoeg rustplaatsen en werden niet goed verzorgd. "Dierenwelzijn is geen detail dat je kan verwaarlozen", zegt Weyts.
 
-### [Osezcomparer.be: économisez des centaines d'euros par an](https://news.economie.fgov.be/273554-osezcomparer-be-economisez-des-centaines-d-euros-par-an/)
+### [Celtic Uprise réunit plus de 2.000 militaires en Allemagne](https://www.mil.be/fr/news/celtic-uprise-reunit-plus-de-2000-militaires-en-allemagne/)
 
-**SPF Économie** · source publique officielle · 21/10/2026 à 00:05 · score `14`
+**Défense belge** · source publique officielle · 22/10/2026 à 08:01 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 36 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation.
 
-> Extrait fourni par la source : Des centaines de milliers de ménages paient trop cher leurs contrats d'énergie, de télécoms et d'assurance. Avec « Osez comparer », le SPF Economie et ses partenaires, l’IBPT, la CREG et la FSMA, encouragent les consommateurs à comparer leurs contrats.
+> Extrait fourni par la source : Pendant trois semaines, le camp d'entraînement de Bergen-Hohne, en Allemagne, a servi de cadre à Celtic Uprise, le premier exercice d'envergure de la 7e Brigade depuis sa création en février 2026. Au cœur de l'exercice: l'évaluation opérationnelle du Bataillon de Chasseurs Ardennais, l'évaluation de l'état-major du Bataillon 1er/3e Lanciers et la poursuite de la montée en puissance opérationnelle de la 7e Brigade elle-même.
+
+### [Bulletin des Questions et Réponses du 23/10/2026 - QR 4 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QR/qr4.pdf)
+
+**Parlement de Wallonie** · source publique officielle · 23/10/2026 à 11:15 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; nouvel élément d'un flux sans date fournie.
+
+> Extrait fourni par la source : Bulletin des questions et réponses
+
+### [La Belgique et la Turquie renforcent leur coopération sur la sécurité](https://www.mr.be/actu/actualites-2/la-belgique-et-la-turquie-renforcent-leur-cooperation-sur-la-securite-2063)
+
+**Mouvement Réformateur** · acteur politique · 22/10/2026 à 18:17 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
+
+> Extrait fourni par la source : Face à des réseaux criminels qui opèrent de plus en plus à l’échelle internationale, les services de police turcs et belges continuer à renforcer leur coordination. Le Ministre Quintin a rencontré cet...
+
+### [Traces de nos militances le 15 octobre 2026 autour de la journée mondiale de lutte contre la pauvreté!](https://rwlp.be/traces_15oct26/)
+
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 22/10/2026 à 14:06 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 24 heures.
+
+> Extrait fourni par la source : Photos Radio Et dans la presse? Nous souhaitons partager avec vous les mémoires de nos militances partagées ce 15 octobre 2026, où que vous ayez...
+
+### [Staf Aerts: “Minister Francken moet dezelfde terughoudendheid tonen als de Kamer”](http://www.groen.be/staf_aerts_groen)
+
+**Groen** · acteur politique · 22/10/2026 à 10:22 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures.
+
+> Extrait fourni par la source : "We mogen toch van een minister van Defensie verwachten dat hij zich aansluit bij het Belgische buitenlands beleid?"
+
+### [Comment recevoir tous les e-mails de Greenpeace Belgique?](https://www.greenpeace.org/belgium/fr/actualites-blog/82746/comment-recevoir-tous-les-e-mails-de-greenpeace-belgique/)
+
+**Greenpeace Belgique** · organisation de la société civile · 22/10/2026 à 15:24 · score `12`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 24 heures.
+
+> Extrait fourni par la source : Vous souhaitez rester au courant de nos campagnes, de nos actions et de nos victoires? Pour ne manquer aucun de nos e-mails, suivez les quelques étapes ci-dessous pour vous…
+
+### [Commissioner Tzitzikostas delivers a Keynote Speech at Excellence Centre Jean Monnet](https://ec.europa.eu/commission/presscorner/detail/el/speech_26_2227)
+
+**Commission européenne** · source publique officielle · 22/10/2026 à 00:00 · score `12`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; impact concret pour la population ; agenda institutionnel proche ; discours ou déclaration institutionnelle sans décision explicite.
+
+> Extrait fourni par la source : European Commission Ομιλία Brussels, 22 Oct 2026 Κύριε Πρύτανη, Αγαπητέ κύριε Βαλινάκη, Κυρίες και κύριοι, Σας ευχαριστώ για την πρόσκληση σε μια βραδιά που, πριν από οτιδήποτε άλλο, είναι η δική σας βραδι...
+
+### [Commission welcomes commitments of Coca-Cola, Nestlé, and Danone to modify recycling claims on plastic bottles](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2238)
+
+**Commission européenne** · source publique officielle · 22/10/2026 à 11:10 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 22 Oct 2026 Following a dialogue with the European Commission and the Consumer Protection Cooperation (CPC) network, Coca-Cola, Nestlé, and Danone have committed to change recycling claims advertised on their plastic bottles.
+
+### [Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Lam Tô Lâm's visit to the European Commission and the European Council](https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2234)
+
+**Commission européenne** · source publique officielle · 22/10/2026 à 10:42 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Joint press release Brussels, 22 Oct 2026 On 22 October 2026, General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm visited the European Union and held talks in Brussels with European Commission President Ursula von der Leyen and European Council President António Costa on bilateral cooperation, regional security and global challenges.
+
+### [Groen wil niet terug naar de rijkswacht: “Een motie van wantrouwen tegen onze politiemensen”](http://www.groen.be/groen_wil_niet_terug_naar_de_rijkswacht)
+
+**Groen** · acteur politique · 22/10/2026 à 10:35 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures.
+
+> Extrait fourni par la source : "Wat we nodig hebben, is een justitie die misdrijven effectief bestraft, een versterking van de jeugdhulp en perspectief voor jongeren in sociaal-economisch kwetsbare wijken."
+
+## Justice, droits et contrôle — autres pistes
+
+### [Ruim 9 op 10 installateurs van zonnepanelen en warmtepompen lopen tegen de lamp bij controle](https://www.tijd.be/r/t/1/id/10696721)
+
+**De Tijd** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 10:32 · score `14`
+
+**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Bij een grootschalig onderzoek van de Economische Inspectie bleken ruim negen op de tien gecontroleerde installateurs van zonnepanelen en warmtepompen niet in orde te zijn met de wettelijke verplichtingen in de sector. De controleactie kwam er na verschillende klachten tegen installateurs.
+
+## Économie, emploi et consommateurs — autres pistes
+
+### [La réforme des pensions devrait (enfin) améliorer la durabilité de notre système de retraite](https://www.lecho.be/r/t/1/id/10696572)
+
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 06:02 · score `16`
+
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : La récente réforme des pensions n'a pas encore permis à notre pays d'améliorer sa position dans le Global Pension Index 2026. La soutenabilité de notre système reste préoccupante.
+
+### [De nombreux installateurs de panneaux solaires en infraction sur leurs obligations légales](https://www.dhnet.be/actu/belgique/2026/10/22/de-nombreux-installateurs-de-panneaux-solaires-en-infraction-sur-leurs-obligations-legales-OOUEDPAQJRCHDHOU2NIOUGKDJQ/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 22/10/2026 à 10:09 · score `14`
+
+**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Plus de 90% des installateurs de panneaux solaires et de pompes à chaleur se trouvent en infraction par rapport à au moins une de leurs principales obligations légales, ressort-il jeudi des résultats d'une campagne de contrôle réalisée par le SPF Économie....
+
+### [Les évolutions récentes de l’économie bruxelloise dans l’Aperçu conjoncturel d’octobre](https://ibsa.brussels/node/3589)
+
+**Institut Bruxellois de Statistique et d'Analyse** · source publique officielle · 23/10/2026 à 11:15 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type statistiques ; contenu de type actualités ; nouvel élément d'un flux sans date fournie.
+
+> Extrait fourni par la source : En deux pages, l’Aperçu Conjoncturel fait le point sur la situation économique de la Région de Bruxelles-Capitale et sur son évolution récente. Les
+
+### [Laat studenten niet vallen in het midden van het academiejaar](https://nieuws.gezinsbond.be/laat-studenten-niet-midden-in-het-academiejaar-vallen)
+
+**Gezinsbond** · organisation de la société civile · 23/10/2026 à 08:00 · score `12`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
+
+### [ECB Consumer Expectations Survey results – September 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html)
+
+**Banque centrale européenne** · source publique officielle · 23/10/2026 à 10:00 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
 
 ## Méthode et limites
 
