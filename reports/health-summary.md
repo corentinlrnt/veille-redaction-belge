@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-10-23T09:20:31.758033Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-24T08:52:38.170310Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **226**
-- Accès en erreur ou bloqués : **60**
+- Accès opérationnels : **225**
+- Accès en erreur ou bloqués : **61**
 - Flux candidats découverts : **79**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -62,8 +62,8 @@ Généré le `2026-10-23T09:20:31.758033Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -104,8 +104,8 @@ Généré le `2026-10-23T09:20:31.758033Z` par `veille-redaction-belge/0.1.0`.
 | Departement Zorg | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DH Les Sports+ | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
+| Défense belge | Actualités | `ok` | 200 | `html → html` | `unknown` | 1 |
+| Défense belge | Flux des actualités | `http_error` | 502 | `rss → unknown` | `unknown` | 0 |
 | Défenseur des droits de l'enfant | Actualités et publications | `ok` | 200 | `html → html` | `allowed` | 0 |
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -165,7 +165,7 @@ Généré le `2026-10-23T09:20:31.758033Z` par `veille-redaction-belge/0.1.0`.
 | Ministère public | Statistiques | `ok` | 200 | `html → html` | `missing` | 0 |
 | Moustique | Accueil et actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Mouvement Réformateur | Flux des actualités | `ok` | 200 | `rss → atom` | `allowed` | 0 |
-| Myria | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Myria | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Médiateur fédéral | Pour la presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Médor | Derniers articles | `ok` | 200 | `html → html` | `missing` | 1 |
 | Médor | Flux des derniers articles | `ok` | 200 | `rss → rss` | `missing` | 0 |
