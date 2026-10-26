@@ -1,34 +1,54 @@
-# Veille rédaction belge — 25 octobre 2026
+# Veille rédaction belge — 26 octobre 2026
 
-Générée à **10:42** (heure de Bruxelles) à partir de **3132 éléments collectés**.
+Générée à **11:56** (heure de Bruxelles) à partir de **3060 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
-### [En cinq ans, les remboursements de soins dentaires ont flambé de 50%](https://www.lecho.be/r/t/1/id/10697060)
+### [Lutte contre la pauvreté: un trou wallon dans la raquette belge](https://www.lavenir.net/actu/belgique/politique/2026/10/26/lutte-contre-la-pauvrete-un-trou-wallon-dans-la-raquette-belge-7ET2N5R3TBFGZOM6ZRSAOP5PUY/)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 24/10/2026 à 06:02 · score `16`
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 26/10/2026 à 08:00 · score `15`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Les remboursements des soins dentaires bondissent depuis 2021, selon l'Inami. L'inflation, la hausse des tarifs et l'intervention majorée pèsent lourd, mais aussi l'abus de certains actes.
+> Extrait fourni par la source : La Wallonie fait exception dans le paysage politique: sa stratégie anti-pauvreté n’est pas ancrée dans un décret. Écolo propose d’y remédier....
 
-### [Bayern München grijpt drastisch in na fysieke instorting Vincent Kompany: “Voor één keer beslist hij niet zelf wanneer hij weer werkt”](https://www.hln.be/voetbal/bayern-munchen-grijpt-drastisch-in-na-fysieke-instorting-vincent-kompany-voor-een-keer-beslist-hij-niet-zelf-wanneer-hij-weer-werkt~a03d1df7/)
+### [La Flandre va se doter de "minimumdoelen" pour son enseignement secondaire](https://www.lalibre.be/belgique/enseignement/2026/10/26/la-flandre-va-se-doter-de-minimumdoelen-pour-son-enseignement-secondaire-OKDA5O7FPRFTVFY7GBAQMGI5RE/)
 
-**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 24/10/2026 à 08:57 · score `15`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 26/10/2026 à 07:08 · score `15`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Vincent Kompany (40) is momenteel de muren aan het oplopen, daar in zijn ziekenhuiskamer in München. Hij mag zondag op doktersadvies immers niet plaatsnemen in de dugout in Freiburg. Een oververmoeide Kompany betaalt de prijs voor zijn jarenlange roofbouw op zijn lichaam. Een achtergrondverhaal: hoe een dodelijke cocktail van slaapgebrek, een waanzinnige werkethiek en koppigheid tot een onvermijdelijke instorting leidden.
+> Extrait fourni par la source : Le gouvernement flamand a donné son accord à l'élaboration par la ministre de l'Éducation, Zuhal Demir (N-VA), de nouveaux objectifs minimaux ("minimumdoelen") pour l'enseignement secondaire....
 
-### [Brand in Kortrijkse loods onder controle: synthetisch drugslab ontdekt, regenwater best niet gebruiken](https://vrtnws.be/p.3BwYB7YBP)
+### [Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2256)
 
-**VRT NWS** · média d'information · 24/10/2026 à 09:16 · score `14`
+**Commission européenne** · source publique officielle · 26/10/2026 à 11:41 · score `14`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : De brand in een loods in de Ten Houtedreef in Kortrijk is onder controle. De brandweer bleef de hele nacht ter plaatse, omdat de brand nog kon opflakkeren. 2 brandweermensen zijn daarbij lichtgewond geraakt. 12 gezinnen moesten de nacht ergens anders doorbrengen. Uit onderzoek blijkt dat er in de loods een synthetisch drugslab was.
+> Extrait fourni par la source : European Commission Press release Brussels, 26 Oct 2026 Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED), a flagship initiative of the Pact for the Mediterranean.
+
+### [EU citizens think innovative foods can be useful but want more information, new Eurobarometer shows](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2231)
+
+**Commission européenne** · source publique officielle · 26/10/2026 à 00:00 · score `13`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 12 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 26 Oct 2026 Today, the European Commission published the results of a new Special Eurobarometer on food innovation, offering an EU-wide overview of how Europeans view innovative foods, ingredients and crops.
+
+### [Survey on the Access to Finance of Enterprises: lending conditions tightened](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html)
+
+**Banque centrale européenne** · source publique officielle · 26/10/2026 à 10:00 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
+
+### [Frank Elderson: Taking action for nature – investing in economic resilience and prosperity](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html)
+
+**Banque centrale européenne** · source publique officielle · 26/10/2026 à 06:00 · score `11`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
 
 ## Méthode et limites
 
