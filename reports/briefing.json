@@ -1,26 +1,184 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-10-26T10:56:16.454547Z",
+  "generated_at": "2026-10-27T10:20:46.736471Z",
   "summary": {
-    "collected_items": 3060,
-    "selected_items": 6,
-    "excluded_items": 1,
+    "collected_items": 3029,
+    "selected_items": 15,
+    "excluded_items": 2,
     "excluded_by_rule": {
-      "marchés financiers au fil de l'eau": 1
+      "agrégat institutionnel sans sujet unique": 1,
+      "sport loisir ou culture sans enjeu collectif": 1
     },
     "minimum_score": 10,
     "minimum_score_by_source_class": {
       "news_media": 14
     },
     "by_section": {
-      "politics": 4,
-      "economy": 2
+      "politics": 8,
+      "economy": 6,
+      "justice": 1
     }
   },
   "items": [
     {
-      "item_id": "88e6b057ab994b23ad57a664",
+      "item_id": "84b4649436ab3c14598bf539",
+      "source_id": "fps_mobility",
+      "source_name": "SPF Mobilité et Transports",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "mobility_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués",
+      "language": "fr",
+      "title": "Les Belges parcourent 6 milliards de kilomètres à pied par an",
+      "url": "http://mobilit.belgium.be/fr/news/les-belges-parcourent-6-milliards-de-kilometres-pied-par",
+      "summary": "La marche est omniprésente dans le quotidien des Belges mais son importance reste largement sous-estimée. C’est l’un des enseignements du nouveau rapport sur la pratique de la marche en Belgique publié par le SPF Mobilité et Transports. Il rassemble les données disponibles sur la marche utilitaire et de loisir et montre notamment que trois quarts des Belges marchent régulièrement. En moyenne, un Belge parcourt plus de 500 kilomètres à pied par an, soit une vingtaine de minutes de marche par jour. Elle représente le deuxième mode de déplacement le plus utilisé derrière la voiture.…",
+      "published_at": "2026-10-27T09:00:30Z",
+      "retrieved_at": "2026-10-27T10:20:35.326277Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "evidence",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "contenu de type actualités",
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "0a0e127dffbac61f9e9c08fc",
+      "source_id": "de_tijd",
+      "source_name": "De Tijd",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "de_tijd_rss",
+      "endpoint_label": "Algemeen nieuws",
+      "content_scope": "actualités|presse|économie",
+      "language": "nl",
+      "title": "CD&V wil af van bevriezing inkomensgarantie ouderen gedurende tien jaar",
+      "url": "https://www.tijd.be/r/t/1/id/10697276",
+      "summary": "Door een kronkel in de wet kan de inkomensgarantie waarvan kwetsbare ouderen met een laag pensioen genieten gedurende tien jaar niet verhoogd worden, ook al is hun spaargeld intussen opgeleefd. Met een wetsvoorstel wil CD&V af van die vaste termijn.",
+      "published_at": "2026-10-27T07:51:58Z",
+      "retrieved_at": "2026-10-27T10:20:42.559082Z",
+      "categories": [
+        "Netto"
+      ],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "84ed374e89721fbae8a74889",
+      "source_id": "rwlp",
+      "source_name": "Réseau wallon de lutte contre la pauvreté",
+      "source_class": "civil_society",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "rwlp_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|pauvreté|réformes",
+      "language": "fr",
+      "title": "Dans la presse – Journée Mondiale de Lutte contre la Pauvreté 2026!",
+      "url": "https://rwlp.be/dans-la-presse-journee-mondiale-de-lutte-contre-la-pauvrete-2026/",
+      "summary": "Notre mobilisation de jeudi 15 octobre 2026 n’est pas passée inaperçue dans les médias! Vous avez donné de la voix ce jour-là et vous avez partagé vos expériences et vos photos en ligne – d’autres média étaient également là. L’asbl Télévision Du Monde (TDM) est également venue le 15 octobre à Namur, et nous fait retour de leur rencontre avec les acteurs de la pièce de théâtre qui s’est donnée au Centre Culturel de Namur « C’est arrivé près de chez vous » sur le logement. Cette capsule a été publié sur leurs réseaux numériques dans la série « C’est ici que ça se passe »:…",
+      "published_at": "2026-10-26T15:39:12Z",
+      "retrieved_at": "2026-10-27T10:20:40.795481Z",
+      "categories": [
+        "Presse"
+      ],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 10,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "32bb255c0f74dd6cbb2f8dbd",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Nouveau record: le prix maximal du diesel passera mercredi à 2,51 euros le litre",
+      "url": "https://www.rtbf.be/article/nouveau-record-le-prix-maximal-du-diesel-passera-mercredi-a-2-51-euros-le-litre-11806507",
+      "summary": "Le précédent record remontait à un peu plus d’un mois. Le 22 septembre, le prix maximal du diesel avait atteint...",
+      "published_at": "2026-10-27T08:58:39Z",
+      "retrieved_at": "2026-10-27T10:20:43.516853Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "62ab16740f5abf7732eacf14",
       "source_id": "lavenir",
       "source_name": "L'Avenir",
       "source_class": "news_media",
@@ -32,15 +190,54 @@
       "endpoint_label": "Flux Belgique",
       "content_scope": "actualités|presse|Belgique|terrain",
       "language": "fr",
-      "title": "Lutte contre la pauvreté: un trou wallon dans la raquette belge",
-      "url": "https://www.lavenir.net/actu/belgique/politique/2026/10/26/lutte-contre-la-pauvrete-un-trou-wallon-dans-la-raquette-belge-7ET2N5R3TBFGZOM6ZRSAOP5PUY/",
-      "summary": "La Wallonie fait exception dans le paysage politique: sa stratégie anti-pauvreté n’est pas ancrée dans un décret. Écolo propose d’y remédier....",
-      "published_at": "2026-10-26T07:00:00Z",
-      "retrieved_at": "2026-10-26T10:56:13.746520Z",
+      "title": "Nouveau record à la pompe pour le diesel où le litre atteint 2,51€, le prix de l'essence continue de baisser (infographies)",
+      "url": "https://www.lavenir.net/actu/conso/2026/10/27/nouveau-record-a-la-pompe-pour-le-diesel-ou-le-litre-atteint-251-le-prix-de-lessence-continue-de-baisser-infographies-UV6NZLBUAJGTDNY7RDUZO4QJNQ/",
+      "summary": "Mauvaise nouvelle pour les automobilistes: le prix maximum du diesel va atteindre un nouveau record en Belgique ce mercredi 28 octobre 2026. Le litre de B7 passe à 2,510€, soit une hausse de 6,6 centimes. Le prix de l'essence continue de diminuer légèrement....",
+      "published_at": "2026-10-27T08:16:44Z",
+      "retrieved_at": "2026-10-27T10:20:43.577100Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ef7d24f34ceddc3988e1dece",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Les 27 pays de l'Union européenne s'entendent sur la réforme de la PAC",
+      "url": "https://www.lavenir.net/actu/belgique/politique/2026/10/27/les-27-pays-de-lunion-europeenne-sentendent-sur-la-reforme-de-la-pac-J6DGFZUAPJECPDVBLBACFI22XI/",
+      "summary": "Les ministres européens de l'Agriculture ont conclu lundi un accord sur la future Politique agricole commune (PAC)....",
+      "published_at": "2026-10-27T06:33:30Z",
+      "retrieved_at": "2026-10-27T10:20:43.577100Z",
       "categories": [
         "Politique"
       ],
-      "first_seen_at": "2026-10-26T10:56:16.065112Z",
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
       "observation_status": "new",
       "seen_count": 1,
       "score": 15,
@@ -54,10 +251,89 @@
         "publié depuis moins de 6 heures",
         "décision ou réforme publique"
       ],
+      "related_items": [
+        {
+          "source_id": "dhnet",
+          "source_name": "DH Les Sports+",
+          "title": "Les 27 pays de l'Union européenne s'entendent sur la réforme de la PAC",
+          "url": "https://www.dhnet.be/actu/monde/2026/10/27/les-27-pays-de-lunion-europeenne-sentendent-sur-la-reforme-de-la-pac-OSGQT4X7FFBSLILQHL77LDK3KU/"
+        }
+      ]
+    },
+    {
+      "item_id": "0ccd0f440d1b12c9b7a0e1ba",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Postkantoor centrum Leuven weer vrijgegeven na controle wit poeder in brief",
+      "url": "https://vrtnws.be/p.M9my1XpVZ",
+      "summary": "Het postkantoor in de Jan Stasstraat in Leuven is weer vrijgegeven na onderzoek van wit poeder in een brief, het bleek onschuldig. Het kantoor is morgen opnieuw open. Het kantoor werd deze namiddag ontruimd, omdat er een brief met wit poeder was ontdekt. Dat meldde HLN. De Bpost-medewerker die de brief heeft aangeraakt, werd uit voorzorg in quarantaine geplaatst.",
+      "published_at": "2026-10-26T15:28:16Z",
+      "retrieved_at": "2026-10-27T10:20:44.126854Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 4,
+      "matched_signals": [
+        "evidence",
+        "accountability"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique"
+      ],
       "related_items": []
     },
     {
-      "item_id": "bda37282b4ea3f5293c01d8e",
+      "item_id": "e2e5ccc1562f40b782f83816",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Vincent Kompany belde hem voor het gala nog vanuit het ziekenhuis: waarom het geen toeval is dat Ballon d’Or Harry Kane z’n coach uitgebreid bedankte",
+      "url": "https://www.hln.be/voetbal/vincent-kompany-belde-hem-voor-het-gala-nog-vanuit-het-ziekenhuis-waarom-het-geen-toeval-is-dat-ballon-dor-harry-kane-zn-coach-uitgebreid-bedankte~a13f5612/",
+      "summary": "“Onder jou ben ik gegroeid als speler, persoon en leider.” Harry Kane (33) haalde in zijn Ballon d’Or-speech al snel Vincent Kompany (40) aan, zijn coach bij Bayern die buiten strijd is nadat hij in elkaar was gezakt. “Ik hoop dat deze prijs jou een beetje energie geeft.” Wat hun goeie band extra onderstreept: Kompany belde Kane voor het gala zelfs nog op vanuit het ziekenhuis om hem moed in te spreken.",
+      "published_at": "2026-10-27T08:49:00Z",
+      "retrieved_at": "2026-10-27T10:20:41.436907Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c04242dbb93201a39b3090d0",
       "source_id": "la_libre",
       "source_name": "La Libre Belgique",
       "source_class": "news_media",
@@ -69,27 +345,62 @@
       "endpoint_label": "Flux Belgique",
       "content_scope": "actualités|presse|Belgique",
       "language": "fr",
-      "title": "La Flandre va se doter de \"minimumdoelen\" pour son enseignement secondaire",
-      "url": "https://www.lalibre.be/belgique/enseignement/2026/10/26/la-flandre-va-se-doter-de-minimumdoelen-pour-son-enseignement-secondaire-OKDA5O7FPRFTVFY7GBAQMGI5RE/",
-      "summary": "Le gouvernement flamand a donné son accord à l'élaboration par la ministre de l'Éducation, Zuhal Demir (N-VA), de nouveaux objectifs minimaux (\"minimumdoelen\") pour l'enseignement secondaire....",
-      "published_at": "2026-10-26T06:08:34Z",
-      "retrieved_at": "2026-10-26T10:56:11.888768Z",
+      "title": "La course contre la montre est lancée pour le gouvernement Arizona",
+      "url": "https://www.lalibre.be/belgique/2026/10/27/la-course-contre-la-montre-est-lancee-pour-le-gouvernement-arizona-OTIGLSUWOBFUDJXU7TUSED6HUE/",
+      "summary": "Si elle veut avoir un budget pour l’année prochaine, la majorité fédérale est condamnée à boucler un accord d’ici à la fin de la semaine....",
+      "published_at": "2026-10-27T05:06:40Z",
+      "retrieved_at": "2026-10-27T10:20:42.217162Z",
       "categories": [
-        "Enseignement"
+        "Belgique"
       ],
-      "first_seen_at": "2026-10-26T10:56:16.065112Z",
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 15,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 8,
+      "section_strength": 6,
       "matched_signals": [
         "public_decision"
       ],
       "score_reasons": [
         "publié depuis moins de 6 heures",
         "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c1b8fd72501d86095d4570c3",
+      "source_id": "inami",
+      "source_name": "Institut national d'assurance maladie-invalidité",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "inami_press",
+      "endpoint_label": "Communiqués de presse",
+      "content_scope": "communiqués|statistiques",
+      "language": "fr",
+      "title": "Retourauxsoinsinfirmiersadomicile.be - Ou comment raviver la flamme de 1.200 infirmiers et aides-soignants",
+      "url": "https://www.inami.fgov.be/fr/presse/retourauxsoinsinfirmiersadomicile-be-ou-comment-raviver-la-flamme-de-1-200-infirmiers-et-aides-soignants",
+      "summary": "",
+      "published_at": "2026-10-26T23:00:00Z",
+      "retrieved_at": "2026-10-27T10:20:35.239839Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type statistiques",
+        "contenu de type communiqués",
+        "publié depuis moins de 12 heures"
       ],
       "related_items": []
     },
@@ -110,14 +421,14 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2256",
       "summary": "European Commission Press release Brussels, 26 Oct 2026 Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean. The platform is a key component of the Trans-Mediterranean Renewable Energy and Clean Tech Cooperation Initiative (T-MED), a flagship initiative of the Pact for the Mediterranean.",
       "published_at": "2026-10-26T10:41:12Z",
-      "retrieved_at": "2026-10-26T10:56:15.247299Z",
+      "retrieved_at": "2026-10-27T10:20:46.074648Z",
       "categories": [
         "POLICY_AREA=MED"
       ],
       "first_seen_at": "2026-10-26T10:56:16.065112Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 12,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -127,7 +438,80 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "cf7f226af8a775bf19704000",
+      "source_id": "stib",
+      "source_name": "STIB",
+      "source_class": "public_company",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "stib_press_rss",
+      "endpoint_label": "Flux presse",
+      "content_scope": "communiqués|mobilité",
+      "language": "fr",
+      "title": "La STIB facilite l’accès aux cimetières pour la Toussaint",
+      "url": "https://stib.prezly.com/la-stib-facilite-lacces-aux-cimetieres-pour-la-toussaint-4a5ayf",
+      "summary": "",
+      "published_at": "2026-10-27T09:43:00Z",
+      "retrieved_at": "2026-10-27T10:20:36.327294Z",
+      "categories": [],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 11,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "60d713c9e251f22e9187ca35",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "An outside-in perspective on the future of the European Commission's civil service",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2253",
+      "summary": "European Commission Press release Brussels, 26 Oct 2026 Today, the High-Level group chaired by Catherine Day shared the results of their reflections on the Large-Scale Review with President von der Leyen and Commissioner Serafin.",
+      "published_at": "2026-10-26T09:55:56Z",
+      "retrieved_at": "2026-10-27T10:20:46.074648Z",
+      "categories": [
+        "POLICY_AREA=HRADMIN"
+      ],
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 11,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 36 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
@@ -149,14 +533,14 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2231",
       "summary": "European Commission Press release Brussels, 26 Oct 2026 Today, the European Commission published the results of a new Special Eurobarometer on food innovation, offering an EU-wide overview of how Europeans view innovative foods, ingredients and crops.",
       "published_at": "2026-10-25T23:00:00Z",
-      "retrieved_at": "2026-10-26T10:56:15.247299Z",
+      "retrieved_at": "2026-10-27T10:20:46.074648Z",
       "categories": [
         "POLICY_AREA=RESINSC"
       ],
       "first_seen_at": "2026-10-26T10:56:16.065112Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 13,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 11,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -166,13 +550,13 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "e68b407e57b5d54078981fce",
+      "item_id": "d1af0e9e9c8b89b7bcd71956",
       "source_id": "ecb",
       "source_name": "Banque centrale européenne",
       "source_class": "regulator",
@@ -184,56 +568,23 @@
       "endpoint_label": "Communiqués de presse RSS",
       "content_scope": "politique_monétaire|inflation|banques|économie",
       "language": "en",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "title": "October 2026 euro area bank lending survey",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
       "summary": "",
-      "published_at": "2026-10-26T09:00:00Z",
-      "retrieved_at": "2026-10-26T10:56:15.354136Z",
+      "published_at": "2026-10-27T00:00:00Z",
+      "retrieved_at": "2026-10-27T10:20:46.143579Z",
       "categories": [],
-      "first_seen_at": "2026-10-26T10:56:16.065112Z",
+      "first_seen_at": "2026-10-27T10:20:46.239433Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 11,
+      "score": 10,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 6,
       "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
-        "publié depuis moins de 6 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "7a20fc27f00392604bfefeff",
-      "source_id": "ecb",
-      "source_name": "Banque centrale européenne",
-      "source_class": "regulator",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "ecb_press_rss",
-      "endpoint_label": "Communiqués de presse RSS",
-      "content_scope": "politique_monétaire|inflation|banques|économie",
-      "language": "en",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "summary": "",
-      "published_at": "2026-10-26T05:00:00Z",
-      "retrieved_at": "2026-10-26T10:56:15.354136Z",
-      "categories": [],
-      "first_seen_at": "2026-10-26T10:56:16.065112Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 11,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "publié depuis moins de 6 heures"
+        "publié depuis moins de 12 heures"
       ],
       "related_items": []
     }
