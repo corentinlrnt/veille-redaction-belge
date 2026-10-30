@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-10-29T11:25:10.589268Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-10-30T11:17:12.432309Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **59**
 - Flux en erreur : **4**
 - Éléments conservés : **2942**
-- Sources contributrices : **38**
+- Sources contributrices : **36**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -26,9 +26,9 @@ Généré le `2026-10-29T11:25:10.589268Z` par `veille-redaction-belge/collector
 | `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 241 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 242 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
-| `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
+| `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
 | `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
 | `federal_press` | `federal_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
