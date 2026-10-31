@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-10-30T11:23:22.806868Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-10-31T10:55:53.579269Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
 - Accès opérationnels : **227**
 - Accès en erreur ou bloqués : **59**
-- Flux candidats découverts : **79**
+- Flux candidats découverts : **78**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -16,7 +16,7 @@ Généré le `2026-10-30T11:23:22.806868Z` par `veille-redaction-belge/0.1.0`.
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale des médicaments et des produits de santé | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Agence fédérale pour la sécurité de la chaîne alimentaire | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Agence pour une Vie de Qualité | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Agence pour une Vie de Qualité | Actualités | `http_error` | 404 | `html → unknown` | `missing` | 0 |
 | Agence wallonne de l'Air et du Climat | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Agentschap Innoveren en Ondernemen | Nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Alliance nationale des mutualités chrétiennes | Actualités MC | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
@@ -170,7 +170,7 @@ Généré le `2026-10-30T11:23:22.806868Z` par `veille-redaction-belge/0.1.0`.
 | Médor | Derniers articles | `ok` | 200 | `html → html` | `missing` | 1 |
 | Médor | Flux des derniers articles | `ok` | 200 | `rss → rss` | `missing` | 0 |
 | N-VA | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
-| Nederlandstalige Vrouwenraad | Nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
+| Nederlandstalige Vrouwenraad | Nieuws | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Netwerk tegen Armoede | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | NOOZO | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Notélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -203,7 +203,7 @@ Généré le `2026-10-30T11:23:22.806868Z` par `veille-redaction-belge/0.1.0`.
 | Province de Hainaut | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Limbourg | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Liège | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
-| Province de Luxembourg | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Province de Luxembourg | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Namur | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Province de Namur | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Province du Brabant flamand | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
