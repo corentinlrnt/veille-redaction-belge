@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-02T13:19:40.976939Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-03T12:43:08.260928Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **59**
 - Flux en erreur : **4**
-- Éléments conservés : **2949**
-- Sources contributrices : **38**
+- Éléments conservés : **2973**
+- Sources contributrices : **37**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-11-02T13:19:40.976939Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 9 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 13 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 19 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
