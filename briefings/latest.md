@@ -1,290 +1,280 @@
-# Veille rédaction belge — 4 novembre 2026
+# Veille rédaction belge — 5 novembre 2026
 
-Générée à **13:53** (heure de Bruxelles) à partir de **2984 éléments collectés**.
+Générée à **14:01** (heure de Bruxelles) à partir de **2967 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
-### [« Hausse du minerval et gratuité scolaire: neuf organisations saisissent la Cour constitutionnelle »](https://rwlp.be/hausse-du-minerval-et-gratuite-scolaire-neuf-organisations-saisissent-la-cour-constitutionnelle/)
+### [Le RWLP faisait parti de la chaîne humaine ce 4 novembre 2026!](https://rwlp.be/le-rwlp-faisait-parti-de-la-chaine-humaine-ce-4-novembre-2026/)
 
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 03/11/2026 à 08:22 · score `22`
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 05/11/2026 à 08:29 · score `22`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Ce mardi 3 novembre 2026, neuf organisations, parmi lesquelles le Réseau wallon de lutte contre la pauvreté, la Fédération des étudiant(e)s francophones (FEF), la Ligue des familles et plusieurs associations de parents et de défense des droits humains, ont saisi la Cour constitutionnelle. Elles entendent ainsi contester la hausse du minerval et défendre le principe de gratuité scolaire, comme elles l’annoncent dans un communiqué conjoint. Ensemble, les signataires demandent l’annulation des dispositions du « décret-programme 2 » du 5 juin 2026, qui restreignent temporairement la gratuité…
+> Extrait fourni par la source : Ce mardi 4 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté, aux côtés de nombreuses associations et citoyen·nes, s’est mobilisé contre le projet de texte relatif aux visites domiciliaires. À travers des chaînes humaines organisées à Bruxelles, Namur, Hotton et Liège, les participant·es ont appelé les démocrates au gouvernement à s’opposer à son adoption. Cette mobilisation avait lieu à la veille du vote prévu le 5 novembre 2026, au cours duquel les député·es ont été appelé·es à se prononcer sur une loi visant à criminaliser l’accueil et la protection solidaires de personnes en…
 
-### [Mobilité - Questions orales](https://media.dekamer.be/meeting/56-20413-U2161)
+### [Reprise des centrales nucléaires: la population paiera le prix fort](https://ecolo.be/actualites/reprise-des-centrales-nucleaires-la-population-paiera-le-prix-fort/)
 
-**Chambre des représentants** · source publique officielle · 04/11/2026 à 10:14 · score `19`
+**Ecolo** · acteur politique · 05/11/2026 à 10:44 · score `19`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; impact concret pour la population.
 
-> Extrait fourni par la source : Forum F4B Petit · MOBILITEIT COMM · PLANNED
+### [Colloque transfrontalier: quatre enjeux industriels ancrés dans la transition énergétique en Wallonie et Hauts-de-France](https://www.cwape.be/documents-recents/colloque-transfrontalier-quatre-enjeux-industriels-ancres-dans-la-transition)
 
-Autres publications rapprochées automatiquement : [Chambre des représentants](https://media.dekamer.be/meeting/56-20404-U2152).
+**Commission wallonne pour l'Énergie** · source publique officielle · 05/11/2026 à 10:08 · score `19`
 
-### [Santé & Egalité des chances - Projet de loi n° 1698](https://media.dekamer.be/meeting/56-20414-U2162)
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 6 heures.
 
-**Chambre des représentants** · source publique officielle · 04/11/2026 à 10:14 · score `19`
+> Extrait fourni par la source : Colloque transfrontalier: quatre enjeux industriels ancrés dans la transition énergétique en Wallonie et Hauts-de-France acso 05-11-2026 Colloque transfrontalier: quatre enjeux industriels ancrés dans la transition énergétique en Wallonie et Hauts-de-France 05-11-2026 La CWaPE organise le jeudi 19 novembre 2026, à Mons, un colloque sur les thématiques de la capture et du stockage de CO2 (CCS), de l’ hydrogène blanc, du biométhane et du gaz de mine. Ce colloque est mis sur pied en partenariat avec Pôlénergie, association française qui accompagne les entreprises et les territoires des…
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+### [Jusqu’à 20 000 enfants pourraient être concernés chaque année en Belgique par des soins palliatifs pédiatriques](https://www.lalibre.be/belgique/societe/2026/11/05/jusqua-20-000-enfants-pourraient-etre-concernes-chaque-annee-en-belgique-par-des-soins-palliatifs-pediatriques-DAFETUYLEVCJZKFPH7RL3DSVOY/)
 
-> Extrait fourni par la source : Forum F0A Erasmus · SANTE COMM · PLANNED
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 06:38 · score `19`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Ces soins destinés aux petits patients atteints de maladies graves susceptibles d’entraîner un décès prématuré devraient s’envisager dès le diagnostic, selon une étude du KCE....
+
+### [Le prix global du caddie de courses a encore légèrement baissé en octobre: quels sont les produits moins chers? (infographies)](https://www.lavenir.net/actu/conso/2026/11/04/le-prix-global-du-caddie-de-courses-a-encore-legerement-baisse-en-octobre-quels-sont-les-produits-moins-chers-infographies-HTPKRGYCGNDATIH3W3IJI2RQJU/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 14:56 · score `19`
+
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : En octobre 2026, l’inflation en Belgique est passée de 4,69 % à 5,26 % par rapport à septembre. Mais qu’en est-il pour les produits alimentaires en particulier? On fait le point sur l’évolution de notre panier de courses....
+
+### [Prix des carburants en Belgique: le mazout de chauffage baisse fortement, une économie de 71€ pour 1.000 litres (infographie)](https://www.dhnet.be/actu/sante/2026/11/05/prix-des-carburants-en-belgique-le-mazout-de-chauffage-baisse-fortement-une-economie-de-71-pour-1000-litres-infographie-FTG5J6ZHJ5CYDK56HH6K7ABYME/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 09:49 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Bonne nouvelle pour les ménages qui se chauffent au mazout. Ce vendredi 6 novembre 2026, le prix maximum du gasoil de chauffage diminue de plus de 7 centimes par litre. À la pompe, en revanche, aucun changement pour l'essence et le diesel....
+
+### [Plénière - Questions, propositions de résolution et projets de loi, votes](https://media.dekamer.be/meeting/56-20432-P147)
+
+**Chambre des représentants** · source publique officielle · 05/11/2026 à 14:15 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Plénière - Plenaire · Plénière - Plenum · PLANNED
+
+### [Taxe poubelle en province de Namur: 10 € en plus par habitant](https://www.lavenir.net/regions/namur/namur/2026/11/05/taxe-poubelle-en-province-de-namur-10-en-plus-par-habitant-7YHT4DU2O5BFLKSPV6TF4F3QPA/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 06:00 · score `16`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Toutes les communes namuroises sont en train de revoir à la hausse leur "taxe poubelle". Différents facteurs, dont l’inflation, ont poussé l’intercommunale BEP à rééquilibrer ses budgets. Explications....
+
+### [“No ICE in Belgium”: over heel het land acties tegen goedkeuring wet op woonstbetredingen](https://www.standaard.be/binnenland/no-ice-in-belgium-over-heel-het-land-acties-tegen-goedkeuring-wet-op-woonstbetredingen/164074866.html)
+
+**De Standaard** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 23:59 · score `16`
+
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : In vijftig steden en gemeenten vonden woensdagavond acties plaats tegen de wet op woonstbetredingen. Volgens critici uit het middenveld en juristen zet de wet fundamentele rechten op losse schroeven: “Iedereen gaf een negatief advies en toch wordt de wet goedgekeurd. Totaal onbegrijpelijk.”
+
+### [Justice - Questions orales](https://media.dekamer.be/meeting/56-20422-U2170)
+
+**Chambre des représentants** · source publique officielle · 04/11/2026 à 14:15 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 24 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Forum F0B Magritte · JUSTITIE-JUSTICE COMM · PLANNED
+
+### [Santé & Egalité des chances - Questions orales](https://media.dekamer.be/meeting/56-20421-U2169)
+
+**Chambre des représentants** · source publique officielle · 04/11/2026 à 13:59 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 36 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Plénière - Plenaire · SANTE COMM · PLANNED
 
 ### [Question d'actualité du 04/11/2026 - QA 5 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa5.pdf)
 
-**Parlement de Wallonie** · source publique officielle · 04/11/2026 à 09:30 · score `19`
+**Parlement de Wallonie** · source publique officielle · 04/11/2026 à 09:30 · score `16`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 36 heures ; agenda institutionnel proche.
 
 > Extrait fourni par la source : QA -- Séance plénière
 
-### [Marché de l'électricité: statistiques relatives au 2e trimestres 2026](https://www.cwape.be/documents-recents/marche-de-lelectricite-statistiques-relatives-au-2e-trimestres-2026)
+## Politiques publiques et société — autres pistes
 
-**Commission wallonne pour l'Énergie** · source publique officielle · 03/11/2026 à 17:02 · score `19`
+### [Bouw vrijetijdscentrum start na archeologisch onderzoek op Molenvelden: “Eerste graafwerken op de site”](https://www.gva.be/regio/antwerpen/kempen/lille/bouw-vrijetijdscentrum-start-na-archeologisch-onderzoek-op-molenvelden-eerste-graafwerken-op-de-site/164120265.html)
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 24 heures.
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 11:08 · score `15`
 
-> Extrait fourni par la source : Marché de l'électricité: statistiques relatives au 2e trimestres 2026 Valerie 03-11-2026 Marché de l'électricité: statistiques relatives au 2e trimestres 2026 03-11-2026 Les statistiques provisoires relatives à la situation du marché wallon de l'électricité du 2e trimestre 2026 sont disponibles. Accéder à l'ensemble des Statistiques sur le marché de l'énergie
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-### [Constitution - Propositions prioritaires](https://media.dekamer.be/meeting/56-20416-U2164)
+> Extrait fourni par la source : Op de Molenvelden in Gierle (Lille) starten op 10 november graafwerken. Die zijn nodig voor het verplichte archeologische onderzoek dat voorafgaat aan de bouw van een nieuw vrijetijdscentrum.
 
-**Chambre des représentants** · source publique officielle · 04/11/2026 à 13:29 · score `18`
+### [Un échevin MR condamné pour violences sur des policiers: le gouvernement wallon peut-il le démettre de ses fonctions?](https://www.lalibre.be/belgique/politique-belge/2026/11/04/un-echevin-mr-condamne-pour-violences-sur-des-policiers-le-gouvernement-wallon-peut-il-le-demettre-de-ses-fonctions-TAAKUQCZKJF7BE3ZXQBS56LDTA/)
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 15:09 · score `15`
 
-> Extrait fourni par la source : Forum F4B Petit · CONSTITUTION - GRONDWET COMM · STARTED
+**Signal éditorial :** publié depuis moins de 24 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : La condamnation de l'élu courcellois relance la question de son avenir politique. Le ministre wallon des Pouvoirs locaux attend désormais l'analyse de son administration avant de se prononcer....
 
 ### [Plan Grand Froid: l'Espace Belvaux à nouveau mis à disposition pour accueillir les sans-abri](https://www.qu4tre.be/infos/societe/plan-grand-froid-lespace-belvaux-a-nouveau-mis-a-disposition-pour-accueillir-les-sans-abri/2017528)
 
-**Qu4tre** · média d'information · 04/11/2026 à 11:39 · score `18`
+**Qu4tre** · média d'information · 04/11/2026 à 11:39 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Le gouvernement fédéral a décidé d'à nouveau mettre à disposition deux de ses bâtiments administratifs pour accueillir des personnes sans abri durant l'hiver, annonce la ministre en charge de la gestion immobilière de l'Etat, Vanessa Matz (Engagés) Comme l'année passée déjà où il avait été mis à disposition du CPAS de Liège, l'Espace Belvaux, à Liège, sera à nouveau mis à disposition d'associations venant en aide aux personnes sans-abri. Le bâtiment sera mis à disposition pour toute la durée du plan hivernal, soit de novembre à mars. A Bruxelles, dans le quartier Nord, c'est le bâtiment WTC4…
 
-### [Commission strengthens Europe's position as the world's leading tourism destination](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2281)
+### [Politie mag slot openbreken om mensen zonder papieren te arresteren die gevaar vormen: parlement stemt over omstreden wet](https://vrtnws.be/p.BlYa8LXw9)
 
-**Commission européenne** · source publique officielle · 04/11/2026 à 00:00 · score `18`
+**VRT NWS** · média d'information · 05/11/2026 à 12:44 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population ; agenda institutionnel proche.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : European Commission Press release Brussels, 04 Nov 2026 The European Commission today presented a new EU Sustainable Tourism Strategy, to increase the sector's competitiveness, sustainability and resilience.
+> Extrait fourni par la source : Deze namiddag stemt het parlement over de omstreden wet rond woonstbetredingen. De politie zal door die wet een privéwoning kunnen binnengaan om mensen zonder geldige papieren te arresteren. Er gelden verschillende voorwaarden, maar critici vinden die niet duidelijk genoeg. Wat staat er in de wet zelf?
 
-### [Factsheet - EU Sustainable Tourism Strategy](https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2283)
+### [Mercuriale 2026](https://www.province.namur.be/2026/11/05/mercuriale-2026/)
 
-**Commission européenne** · source publique officielle · 04/11/2026 à 00:00 · score `18`
+**Province de Namur** · source publique officielle · 05/11/2026 à 12:31 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type terrain ; contenu de type actualités ; publié depuis moins de 6 heures.
 
-> Extrait fourni par la source : European Commission Factsheet Brussels, 04 Nov 2026 Factsheet - EU Sustainable Tourism Strategy Factsheet - EU Sustainable Tourism Strategy
+> Extrait fourni par la source : Ce vendredi 6 novembre, le Gouverneur de la Province de Namur, Denis Mathen, prononcera, devant le Conseil Provincial, son traditionnel […]
 
-### [Questions and answers on the EU Sustainable Tourism Strategy](https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2282)
+### [Questions and Answers on the 2027 fishing opportunities in the Atlantic, Kattegat and Skagerrak](https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2354)
 
-**Commission européenne** · source publique officielle · 04/11/2026 à 00:00 · score `18`
+**Commission européenne** · source publique officielle · 05/11/2026 à 11:28 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : European Commission Questions and answers Brussels, 04 Nov 2026 Tourism is mainly a Member State responsibility. Why is a European strategy needed?
+> Extrait fourni par la source : European Commission Questions and answers Brussels, 05 Nov 2026 Why is the Commission proposing fishing opportunities for EU-managed fish stocks in the Atlantic and Skagerrak-Kattegat? Fishing opportunities, known as Total...
+
+### [Commission proposes 2027 fishing opportunities for fish stocks in the Atlantic, Kattegat and Skagerrak](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2353)
+
+**Commission européenne** · source publique officielle · 05/11/2026 à 10:47 · score `14`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 05 Nov 2026 Today, the European Commission adopted its proposal for the 2027 fishing opportunities for 11 fish stocks managed by the EU in the Atlantic, Kattegat and Skagerrak.
+
+### [European Innovation Council launches €1.8 billion in funding for 2027](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2352)
+
+**Commission européenne** · source publique officielle · 05/11/2026 à 10:45 · score `14`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 05 Nov 2026 The European Commission has adopted the 2027 European Innovation Council (EIC) Work Programme, unlocking €1.8 billion to support Europe's most promising deep tech entrepreneurs and researchers.
+
+### [Les visites domiciliaires à l'ordre du jour de la séance plénière de la Chambre: "Un texte contraire au respect de la vie privée et familiale"](https://www.dhnet.be/actu/belgique/2026/11/05/les-visites-domiciliaires-a-lordre-du-jour-de-la-seance-pleniere-de-la-chambre-un-texte-contraire-au-respect-de-la-vie-privee-et-familiale-POXE2MTRHVEEVFY27XOW5LQAD4/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 07:14 · score `14`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Le projet de loi de la ministre de l'Asile Anneleen Van Bossuyt (N-VA), visant à autoriser l'Office des étrangers à pénétrer un domicile en vue de l'arrestation de personnes étrangères sous le coup d'un ordre de quitter le territoire est soumis jeudi au vote de la séance plénière de la Chambre....
 
 ### [Joost Eggermont (59) wil als nieuw gemeenteraadslid werk maken van mobiliteit](https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/waregem/joost-eggermont-59-wil-als-nieuw-gemeenteraadslid-werk-maken-van-mobiliteit/164059764.html)
 
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 13:00 · score `17`
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 13:00 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Joost Eggermont (59) legde dinsdag de eed af als nieuw gemeenteraadslid voor N-VA in Waregem.
 
 ### [Europese Commissie zet bescherming Zoniënwoud en Kalmthoutse Heide op de helling](http://www.groen.be/bescherming_zonienwoud_op_helling)
 
-**Groen** · acteur politique · 04/11/2026 à 12:13 · score `17`
+**Groen** · acteur politique · 04/11/2026 à 12:13 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures ; agenda institutionnel proche.
 
 > Extrait fourni par la source : Wanneer de regen met bakken uit de lucht valt, zijn het de natte natuurgebieden die het water opvangen als een spons. Wie die natuur afbreekt, betaalt dat straks met ondergelopen kelders en snikhete zomers.
 
-## Politiques publiques et société — autres pistes
-
-### [Greenpeace solidaire avec les pompiers](https://www.greenpeace.org/belgium/fr/actualites-blog/82890/greenpeace-solidaire-avec-les-pompiers/)
-
-**Greenpeace Belgique** · organisation de la société civile · 03/11/2026 à 15:43 · score `17`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 24 heures ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Des forêts ravagées par les flammes, des inondations de plus en plus fréquentes: nos services d’urgence sont constamment en première ligne face à la crise climatique. Aujourd’hui, nous étions à Bruxelles aux côtés de pompier·ères de toute l’Europe. Ce sont eux qui nous protègent; ils méritent un vrai soutien, suffisamment de moyens et une politique climatique efficace.
-
-### [L’Arizona en crise: ce qu’il faut retenir de la première journée de consultations royales](https://www.lavenir.net/actu/belgique/politique/2026/11/03/larizona-en-crise-ce-quil-faut-retenir-de-la-premiere-journee-de-consultations-royales-4WY3KUCZ3VH2LGGJW6CM6QGONE/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 19:54 · score `16`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les présidents des partis centristes, Yvan Verougstraete (Les Engagés) et Sammy Mahdi (cd&v) ont été reçus par le roi Philippe. Appels à trouver un accord, critiques de l’opposition et échéance nucléaire ce mercredi... Retour sur une journée décisive pour l’Arizona....
-
-### [Herbstkongress 2026: SP Ostbelgien setzt auf Austausch und junge Stimmen](https://spostbelgien.be/herbstkongress-2026-sp-ostbelgien-setzt-auf-austausch-und-junge-stimmen/?utm_source=rss&utm_medium=rss&utm_campaign=herbstkongress-2026-sp-ostbelgien-setzt-auf-austausch-und-junge-stimmen)
-
-**SP Ostbelgien** · acteur politique · 03/11/2026 à 08:54 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 36 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : Am vergangenen Samstagvormittag fand in der Wirtschaft der Patronage in Kelmis der Herbstkongress der SP Ostbelgien statt. Vor vollem Saal richtete die Partei in diesem Jahr den Blick nach innen:… Der Beitrag Herbstkongress 2026: SP Ostbelgien setzt auf Austausch und junge Stimmen erschien zuerst auf SP Ostbelgien.
-
-### [Belgian Bullets willen na conflict federatie zelf bobslee aankopen voor olympische droom: “Onafhankelijk naar wereldtop”](https://www.hln.be/meer-sport/belgian-bullets-willen-na-conflict-federatie-zelf-bobslee-aankopen-voor-olympische-droom-onafhankelijk-naar-wereldtop~a22d6802/)
-
-**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 13:14 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : De Belgian Bullets krijgen inzage in de boekhouding van de Belgische Federatie voor Bob- en Sleesporten, zo is beslist op de eerste zitting van de aangespannen rechtszaak. De bobsleevrouwen jagen hun olympische droom voortaan ook op eigen kracht na. Omdat ze de dure huurprijs van de monobob van de federatie niet willen betalen, zetten ze een crowdfunding op om een eigen bobslee aan te kopen.
-
 ### [20e Journée de l’Artisan: 800 artisans et des métiers étonnants à découvrir](https://news.economie.fgov.be/273411-20e-journee-de-l-artisan-800-artisans-et-des-metiers-etonnants-a-decouvrir/)
 
-**SPF Économie** · source publique officielle · 04/11/2026 à 09:00 · score `15`
+**SPF Économie** · source publique officielle · 04/11/2026 à 09:00 · score `12`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 6 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 36 heures.
 
 > Extrait fourni par la source : Le dimanche 15 novembre 2026, plus de 800 artisans ouvriront gratuitement les portes de leur atelier partout en Belgique. Des métiers ancestraux aux activités plus insolites et innovantes, cette 20e édition invite le public à découvrir un artisanat belge vivant, créatif et en constante évolution.
 
-### [Plus de 700.000 signatures contre CNews: une pétition, et après?](https://www.rtbf.be/article/plus-de-700-000-signatures-contre-cnews-une-petition-et-apres-11809824)
+### [Tentatives de confusion et sites non officiels pour les demandes de numéros EORI](https://finances.belgium.be/fr/Actualites/tentatives-confusion-demandes-numeros-eori)
 
-**RTBF Info** · média d'information · 03/11/2026 à 19:45 · score `15`
+**SPF Finances** · source publique officielle · 05/11/2026 à 00:00 · score `10`
 
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 24 heures.
 
-> Extrait fourni par la source : Si le chiffre est impressionnant, il ne présume aucunement d’une décision de l’Assemblée nationale française contre...
-
-### [Na jaar verhoogd toezicht boekt woonzorgcentrum Schelderust vooruitgang, maar nog niet alle problemen zijn opgelost](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/wetteren/na-jaar-verhoogd-toezicht-boekt-woonzorgcentrum-schelderust-vooruitgang-maar-nog-niet-alle-problemen-zijn-opgelost/164005708.html)
-
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 12:17 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : “De meeste tekorten zijn weggewerkt”, zegt schepen van Zorg Eline Pardaen (Samen voor Wetteren) over het woonzorgcentrum Schelderust in de Wegvoeringsstraat dat een jaar onder verhoogd toezicht staat. Al blijven er nog verschillende werkpunten rond hitte en de toediening van medicatie.
-
-### [Étudiants, parents et familles devant la justice pour contester la hausse du minerval et faire respecter la gratuité scolaire](https://www.lavenir.net/actu/belgique/2026/11/03/etudiants-parents-et-familles-devant-la-justice-pour-contester-la-hausse-du-minerval-et-faire-respecter-la-gratuite-scolaire-P7KSSINSU5A2NEZ4ZQG6XQ6AD4/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 10:53 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Une dizaine d’organisations représentant les étudiants, les parents et les familles en Belgique francophone saisissent la Cour constitutionnelle pour contester la réforme du minerval et faire respecter la gratuité scolaire, annoncent-elles ce mardi 3 novembre 2026....
-
-### [Certificat médical: bientôt, vous ne pourrez plus aller chez n'importe quel médecin pour obtenir un arrêt de travail, "on risque de semer le chaos"](https://www.dhnet.be/actu/sante/2026/11/04/certificat-medical-bientot-vous-ne-pourrez-plus-aller-chez-nimporte-quel-medecin-pour-obtenir-un-arret-de-travail-on-risque-de-semer-le-chaos-N3DLQITHKBHSJAO5BTIZK6544Q/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 13:12 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Réserver la délivrance des certificats d'incapacité de travail aux patients dont le généraliste gère le dossier médical global (DMG) risque de compliquer la vie de nombreux malades. Le Dr Cuvelier, du Groupement belge des omnipraticiens (GBO), dénonce une réforme trop rigide, qui ne tient pas suffisamment compte des réalités du terrain....
-
-### [Conner Rousseau entame la deuxième journée de consultations: "J'ai dit au roi que nous voulons un accord"](https://www.lavenir.net/actu/belgique/politique/2026/11/04/larizona-en-crise-le-roi-philippe-a-entame-sa-deuxieme-journee-de-consultations-avec-conner-rousseau-EC5FMT65WVAEZE6LSDNE3JWCTI/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 10:52 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Le roi Philippe a entamé, ce mercredi 4 novembre 2026 sur le coup de 10h30, sa deuxième journée de consultations des présidents des partis de la coalition Arizona....
-
-### [Formation continue en Wallonie: une vaste réforme approuvée en commission, voici ce qui va changer pour les travailleurs](https://www.lalibre.be/belgique/politique-belge/2026/11/03/la-reforme-de-la-formation-continue-a-son-tour-adoptee-en-commission-du-parlement-wallon-clone-JCTFIXYWCRALFLCCV62Y5RPEFM/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 20:58 · score `14`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : En Wallonie, quatre mécanismes de formation continue seraient remplacés par deux dispositifs gérés par le FOREM. L'opposition dénonce des restrictions dans le choix des formations....
-
-### [« Un café-débat sur le pouvoir d’achat et la lutte contre la pauvreté ce mardi à Florennes »](https://rwlp.be/un-cafe-debat-sur-le-pouvoir-dachat-et-la-lutte-contre-la-pauvrete-ce-mardi-a-florennes/)
-
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 03/11/2026 à 08:42 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : La Fédération PS de Dinant-Philippeville organise ce mardi 3 novembre à 19h à la salle Saint-Pierre de Florennes un café-débat intitulé « Pouvoir d’achat. Pouvoir de vivre?». A cette occasion, Christine Mahy, secrétaire générale et politique du Réseau Wallon de Lutte contre la Pauvreté, prendra parole aux côtés de Jean-Marc Delizée, ancien secrétaire d’État à la lutte contre la pauvreté et Philippe Defeyt, économiste. La participation à cette soirée se fait sur inscription: Par téléphone au 0493/03.97.83 Ou par mail à federation@ps-dinant-philippeville.be. Informations Pratiques: Quand? Ce…
+> Extrait fourni par la source : Nous attirons l’attention de nos utilisateurs et de nos partenaires sur les pratiques du site internet eori-numero.be. Une usurpation visuelle des codes étatiques Ce site utilise des logos, des images et une charte graphique imitant de manière trompeuse les armoiries et les visuels officiels de la Belgique. Cette mise en page prête volontairement à confusion, laissant croire à tort qu'il s'agit d'une plateforme gouvernementale ou d'un service public. Des certifications mensongères La plateforme affiche des mentions telles que "Certifié" ou "Qualité approuvée". Nous tenons à préciser que ces…
 
 ## Justice, droits et contrôle — autres pistes
 
+### [Leeft Mars dan toch? Sluimerend vulkanisme ontdekt](https://www.hln.be/wetenschap/leeft-mars-dan-toch-sluimerend-vulkanisme-ontdekt~aa520fd5/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 13:28 · score `15`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Onder het oppervlak van Mars zit mogelijk sluimerende vulkanische activiteit verborgen. Dat blijkt uit een nieuw onderzoek, zo laat het Europees Ruimteagentschap (ESA) in een persbericht weten. De bevindingen, gepubliceerd in het wetenschappelijke tijdschrift ‘Science Advances’, wijzen erop dat Mars geologisch gezien van binnen zeker niet dood is, maar slechts slaapt.
+
+### [Après avoir survécu à un hold-up, un employé de banque tombe dans un soupirail: 13 ans plus tard, la justice lui donne raison face à son assureur](https://www.dhnet.be/actu/faits/2026/11/05/apres-avoir-survecu-a-un-hold-up-un-employe-de-banque-tombe-dans-un-soupirail-13-ans-plus-tard-la-justice-lui-donne-raison-face-a-son-assureur-3Z7NL4J7HFAV5KRVTGSXUJ4J7A/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 09:06 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Treize ans après, la justice rend son jugement. Une décision avantageuse en matière d’accidents du travail....
+
+### [Cérémonie annuelle d'hommage aux défunts](https://www.ccrek.be/fr/actualites/ceremonie-annuelle-d-hommage-aux-defunts-1)
+
+**Cour des comptes** · source publique officielle · 05/11/2026 à 01:00 · score `14`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type rapports ; contenu de type actualités ; publié depuis moins de 24 heures.
+
 ### [Costa-dossier terug naar hof van beroep in Antwerpen: 42 beklaagden krijgen nieuw proces](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/costa-dossier-terug-naar-hof-van-beroep-in-antwerpen-42-beklaagden-krijgen-nieuw-proces/164066843.html)
 
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 12:02 · score `17`
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 12:02 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : In het hof van beroep in Antwerpen vindt dinsdag 15 december de inleidingszitting plaats voor het grote drugsdossier Costa. Dat bevestigden woensdag verschillende advocaten in het dossier. In totaal zullen 42 beklaagden in Antwerpen een nieuw proces krijgen. Dat is er een minder, omdat het federaal parket door een vergetelheid geen beroep aantekende tegen Tom Bastiaanse, ‘de kleine Escobar van Kasterlee’.
 
-### [Carrefour Tessenderlo start koelafdeling weer op 1 dag na cyberaanval: "Schade tegen eind deze week pas weggewerkt"](https://vrtnws.be/p.OvkOyZ1aq)
-
-**VRT NWS** · média d'information · 03/11/2026 à 09:28 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : In Tessenderlo-Ham stelt het personeel van de lokale Carrefour alles in het werk om de koelafdeling zo snel mogelijk weer operationeel te krijgen, 1 dag na de cyberaanval. Hackers namen de controle over van koelkasten en diepvriezen in heel wat supermarkten in ons land en lieten die warme in plaats van koude lucht blazen. "Vanmiddag komen de eerste nieuwe leveringen, maar het zal nog de hele week duren voor alles is aangevuld", klinkt het.
-
 ## Économie, emploi et consommateurs — autres pistes
 
-### [Vroegste pensioendatum en bedrag aanvullend pensioen staan weer op Mypension.be](https://vrtnws.be/p.43pVykAw5)
+### [Projet éolien citoyen à Geer: entre sympathisants et opposants](https://www.qu4tre.be/infos/amenagement-du-territoire/projet-eolien-citoyen-a-geer-entre-sympathisants-et-opposants/2017535)
 
-**VRT NWS** · média d'information · 04/11/2026 à 10:23 · score `16`
+**Qu4tre** · média d'information · 04/11/2026 à 15:46 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 24 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : Vanaf vandaag kan je op mypension.be je vroegste pensioendatum consulteren. Wie een aanvullend pensioen opbouwt, kan ook het toekomstige nettobedrag van zijn of haar aanvullend pensioen zien. Om het bedrag van je wettelijk pensioen te kennen, moet je nog geduld oefenen tot de 2e helft van volgend jaar. Als je dit jaar al met pensioen kan, is het bedrag van je wettelijk pensioen wel al bekend.
+> Extrait fourni par la source : Un projet éolien citoyen pourrait s’implanter sur les communes de Geer et de Braives. C’est la coopérative Hesb’Energie qui porte le projet. Alors que l’enquête publique se termine demain, un collectif de riverains se mobilise et s’y oppose fermement. Un nouveau projet éolien citoyen pourrait s’implanter en Hesbaye. La coopérative HesbEnergie envisage d’ériger 7 mats, 5 sur la commune de Geer et 2 sur celle de Braives. Ce parc éolien viendrait donc compléter ceux déjà en activité. "C'est un projet de sept éoliennes qui s'articule entre Geer et Braives, et juste à la frontière de Hannut. Et…
 
-### [mypension.be: quelle est votre date de pension la plus proche? Quel est le futur montant de votre pension complémentaire? Ces infos sont à nouveau disponibles sur le site](https://www.rtbf.be/article/mypension-be-quelle-est-votre-date-de-pension-la-plus-proche-quel-est-le-futur-montant-de-votre-pension-complementaire-ces-infos-sont-a-nouveau-disponibles-sur-le-site-11810373)
+### [La Ville de Bruxelles attribue une nouvelle fois la concession du casino à Napoleon Games](https://www.lecho.be/r/t/1/id/10698711)
 
-**RTBF Info** · média d'information · 04/11/2026 à 10:21 · score `16`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 13:41 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : mypension.be est le fruit d’une collaboration entre les 3 institutions de pension, à savoir Sigedis, l’INASTI et le...
+> Extrait fourni par la source : La Ville de Bruxelles a réattribué la concession du Casino de Bruxelles à la SA ECK, qui exploite Napoleon Games. Les offres ont été réanalysées en tenant compte de l’arrêt du Conseil d’État qui avait suspendu la décision de juillet.
 
-### [Dette, déficit, inflation: la Belgique peut-elle faire ce qu’elle veut avec son budget?](https://www.rtbf.be/article/dette-deficit-inflation-la-belgique-peut-elle-faire-ce-qu-elle-veut-avec-son-budget-11809696)
+### [Ruim 13.000 sociale huurders wonen te groot, maar deel van hen weigert kleiner te gaan wonen](https://www.tijd.be/r/t/1/id/10698557)
 
-**RTBF Info** · média d'information · 03/11/2026 à 17:19 · score `16`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : L’inflation est la hausse moyenne des prix des biens et des services dans une économie. Elle est passée de 4,69% en...
-
-### [Ahold Delhaize, BMW, Solvay, Vonovia, l'inflation en zone euro... Ce qu'il faut suivre ce mercredi 4 novembre](https://www.lecho.be/r/t/1/id/10698334)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 12:42 · score `15`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
-
-> Extrait fourni par la source : Entre Ahold Delhaize, BMW et Solvay, une nouvelle fournée de résultats attend les investisseurs. Côté indicateurs, les investisseurs attendent les données mensuels de l'enquête ADP, des indices PMI des services et l'inflation en zone euro d'octobre. Décision sur les taux en Suède.
-
-### [Voiture électrique: le remboursement des recharges à domicile va fortement augmenter en 2027](https://www.lecho.be/r/t/1/id/10598654)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 04/11/2026 à 13:14 · score `14`
+**De Tijd** · média d'information · article possiblement réservé aux abonnés · 05/11/2026 à 13:08 · score `14`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
 
-> Extrait fourni par la source : Les salariés qui rechargent leur voiture de société électrique à domicile peuvent bénéficier d'un remboursement sur la base du tarif forfaitaire d'électricité de la Creg.
+> Extrait fourni par la source : Ruim 13.000 sociale woningen in Vlaanderen zijn te ruim voor het aantal bewoners dat ze hebben. Toch weigert zeker een zesde van hen kleiner te gaan wonen, ook al moeten ze daardoor meer huur betalen.
 
-### [Le Goncourt 2026 attribué à Philippe Jaenada pour "L'Inconnue du quai de Javel"](https://www.lecho.be/r/t/1/id/10698343)
+### [Isabel Schnabel: Navigating stormy waters: reflections on monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 13:30 · score `14`
+**Banque centrale européenne** · source publique officielle · 05/11/2026 à 09:00 · score `11`
 
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
 
-> Extrait fourni par la source : Le prix Goncourt 2026 a été décerné à Philippe Jaenada pour "L’Inconnue du quai de Javel". Le livre suit l’enquête de l’auteur sur l’assassinat d’une jeune Bretonne à la fin des années 1950.
+### [Piero Cipollone: Shaping the future of money](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html)
 
-### [België heeft laagste tewerkstelling bij niet-EU-burgers, discriminatie verklaart niet alles](https://www.hbvl.be/economie/belgie-heeft-laagste-tewerkstelling-bij-niet-eu-burgers-discriminatie-verklaart-niet-alles/164005135.html)
+**Banque centrale européenne** · source publique officielle · 05/11/2026 à 08:30 · score `11`
 
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 11:10 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
-
-> Extrait fourni par la source : België heeft van alle EU-landen waarvoor cijfers beschikbaar zijn de laagste werkzaamheidsgraad bij mensen met een nationaliteit van buiten de EU. Slechts 51,6 procent van de 20- tot 64-jarigen in die groep werkt, tegenover gemiddeld 65 procent in de EU. Toch ligt de geschatte etnische achterstelling bij sollicitaties in België niet hoger dan in veel andere Europese landen. Dat blijkt uit een analyse van het Gentse onderzoeksconsortium UGent@Work, waarover Knack bericht.
-
-### [Accalmie à la pompe: le prix de l'essence en baisse](https://www.dhnet.be/actu/economie/2026/11/03/accalmie-a-la-pompe-le-prix-de-lessence-en-baisse-CEYGIBEIWNBJDI6JOGNIFZQVIQ/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 03/11/2026 à 09:57 · score `14`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Les prix maxima de l'essence seront en baisse à la pompe à partir de mercredi, a annoncé mardi le SPF Economie....
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
 
 ## Méthode et limites
 
