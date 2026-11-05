@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-11-04T12:59:40.454831Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-05T13:10:30.127969Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **224**
-- Accès en erreur ou bloqués : **62**
+- Accès opérationnels : **226**
+- Accès en erreur ou bloqués : **60**
 - Flux candidats découverts : **79**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -62,8 +62,8 @@ Généré le `2026-11-04T12:59:40.454831Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 202 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -135,7 +135,7 @@ Généré le `2026-11-04T12:59:40.454831Z` par `veille-redaction-belge/0.1.0`.
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Institut fédéral des droits humains | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Institut fédéral des droits humains | Actualités | `ok` | 200 | `html → html` | `unknown` | 0 |
 | Institut fédéral des droits humains | Publications | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Institut national d'assurance maladie-invalidité | Communiqués de presse | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-11-04T12:59:40.454831Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
@@ -257,7 +257,7 @@ Généré le `2026-11-04T12:59:40.454831Z` par `veille-redaction-belge/0.1.0`.
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `unknown` | 0 |
+| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | AI en technologie | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | IA et technologies | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Z | Trends Z francophone | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
