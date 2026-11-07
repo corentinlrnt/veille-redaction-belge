@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-06T12:49:42.921538Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-07T11:37:35.008914Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **59**
-- Flux en erreur : **4**
-- Éléments conservés : **2979**
-- Sources contributrices : **36**
+- Flux collectés : **62**
+- Flux en erreur : **1**
+- Éléments conservés : **3046**
+- Sources contributrices : **39**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -23,7 +23,7 @@ Généré le `2026-11-06T12:49:42.921538Z` par `veille-redaction-belge/collector
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 26 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 244 | — |
@@ -31,7 +31,7 @@ Généré le `2026-11-06T12:49:42.921538Z` par `veille-redaction-belge/collector
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
 | `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
-| `federal_press` | `federal_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
 | `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
@@ -50,7 +50,7 @@ Généré le `2026-11-06T12:49:42.921538Z` par `veille-redaction-belge/collector
 | `inami` | `inami_press` | `ok` | `html` | 15 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
 | `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
-| `le_soir` | `le_soir_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
 | `lecho` | `lecho_rss` | `ok` | `rss` | 10 | — |
 | `ligue_droits_humains` | `ldh_wp` | `ok` | `rss` | 9 | — |
 | `medor` | `medor_rss` | `ok` | `rss` | 30 | — |
@@ -65,7 +65,7 @@ Généré le `2026-11-06T12:49:42.921538Z` par `veille-redaction-belge/collector
 | `rwlp` | `rwlp_rss` | `ok` | `rss` | 10 | — |
 | `sp_dg_party` | `sp_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
-| `sudinfo` | `sudinfo_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
+| `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
 | `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
