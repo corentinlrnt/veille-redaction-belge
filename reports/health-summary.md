@@ -1,12 +1,12 @@
 # Santé des accès
 
-Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-08T11:56:22.098009Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **240**
-- Accès en erreur ou bloqués : **46**
-- Flux candidats découverts : **99**
+- Accès opérationnels : **239**
+- Accès en erreur ou bloqués : **47**
+- Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
@@ -50,7 +50,7 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | Bureau fédéral du Plan | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | BX1 | Actualités de Bruxelles | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | BX1 | Flux BX1 | `http_error` | 403 | `rss → unknown` | `allowed` | 0 |
-| CAAMI-HZIV | Actualités pour les membres | `ok` | 200 | `html → html` | `allowed` | 0 |
+| CAAMI-HZIV | Actualités pour les membres | `http_error` | 503 | `html → unknown` | `unknown` | 0 |
 | Canal Zoom | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Canopea | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -90,7 +90,7 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | Cour de justice de l'Union européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Cour des comptes | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Cour des comptes | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Cour des comptes européenne | Portail et actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Cour des comptes européenne | Portail et actualités | `ok` | 200 | `html → html` | `missing` | 1 |
 | CSC | Actualités et communiqués | `ok` | 200 | `html → html` | `allowed` | 0 |
 | CSP Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Lijn | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -131,7 +131,7 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | hub.brussels | Flux des actualités | `ok` | 200 | `rss → rss` | `unknown` | 0 |
 | hub.brussels | Presse | `ok` | 200 | `html → html` | `unknown` | 1 |
 | Humo | Home en actualiteit | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Institut belge des services postaux et des télécommunications | Informations consommateurs | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Institut belge des services postaux et des télécommunications | Informations consommateurs | `http_error` | 503 | `html → unknown` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -198,7 +198,7 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | Presscenter fédéral | Flux de tous les communiqués | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | ProDG | Aktuelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Province d'Anvers | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
-| Province de Flandre-Occidentale | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
+| Province de Flandre-Occidentale | Actualités et administration provinciales | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Province de Flandre-Orientale | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Hainaut | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Province de Limbourg | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -223,9 +223,9 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | RTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Région de Bruxelles-Capitale | Dernières nouvelles | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Réseau wallon de lutte contre la pauvreté | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Sciensano | Coin presse | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Sciensano | Coin presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Service fédéral des Pensions | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Service public de Wallonie | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Service public de Wallonie | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Service public régional de Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Sociaal-Economische Raad van Vlaanderen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Société du Logement de la Région de Bruxelles-Capitale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -276,7 +276,7 @@ Généré le `2026-11-07T11:44:04.722699Z` par `veille-redaction-belge/0.1.0`.
 | Union nationale des Mutualités Libérales | Actualités | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Union nationale des mutualités neutres | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Union nationale des mutualités socialistes Solidaris | Actualités Solidaris Wallonie | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Union nationale des mutualités socialistes Solidaris | Nieuws Solidaris Vlaanderen | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| Union nationale des mutualités socialistes Solidaris | Nieuws Solidaris Vlaanderen | `ok` | 200 | `html → html` | `allowed` | 0 |
 | UNIZO | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | VDAB | Nieuws voor de pers | `ok` | 200 | `html → html` | `allowed` | 0 |
 | VEDIA | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
