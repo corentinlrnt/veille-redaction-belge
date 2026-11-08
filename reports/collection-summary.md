@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-07T11:37:35.008914Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-08T11:50:09.585529Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **62**
-- Flux en erreur : **1**
-- Éléments conservés : **3046**
+- Flux collectés : **61**
+- Flux en erreur : **2**
+- Éléments conservés : **3091**
 - Sources contributrices : **39**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -17,13 +17,13 @@ Généré le `2026-11-07T11:37:35.008914Z` par `veille-redaction-belge/collector
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
 | `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
-| `cire` | `cire_press` | `ok` | `rss` | 8 | — |
+| `cire` | `cire_press` | `network_error` | `unknown` | 0 | Connexion impossible: _ssl.c:994: The handshake operation timed out |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 26 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 244 | — |
