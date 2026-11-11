@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-11-10T13:28:32.008072Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **242**
-- Accès en erreur ou bloqués : **44**
+- Accès opérationnels : **241**
+- Accès en erreur ou bloqués : **45**
 - Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -131,11 +131,11 @@ Généré le `2026-11-10T13:28:32.008072Z` par `veille-redaction-belge/0.1.0`.
 | hub.brussels | Flux des actualités | `ok` | 200 | `rss → rss` | `unknown` | 0 |
 | hub.brussels | Presse | `ok` | 200 | `html → html` | `unknown` | 1 |
 | Humo | Home en actualiteit | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Institut belge des services postaux et des télécommunications | Informations consommateurs | `http_error` | 503 | `html → unknown` | `allowed` | 0 |
+| Institut belge des services postaux et des télécommunications | Informations consommateurs | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Institut fédéral des droits humains | Actualités | `ok` | 200 | `html → html` | `unknown` | 0 |
+| Institut fédéral des droits humains | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Institut fédéral des droits humains | Publications | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Institut national d'assurance maladie-invalidité | Communiqués de presse | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-11-10T13:28:32.008072Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
