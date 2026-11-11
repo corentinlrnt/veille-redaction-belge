@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-11-10T13:23:05.210819Z",
+  "generated_at": "2026-11-11T12:35:10.217861Z",
   "summary": {
-    "collected_items": 3250,
-    "selected_items": 35,
-    "excluded_items": 2,
+    "collected_items": 3297,
+    "selected_items": 34,
+    "excluded_items": 3,
     "excluded_by_rule": {
+      "actualité étrangère sans angle belge ou effet concret identifié": 1,
       "agrégat institutionnel sans sujet unique": 2
     },
     "minimum_score": 10,
@@ -14,50 +15,50 @@
       "news_media": 14
     },
     "by_section": {
-      "politics": 25,
-      "economy": 8,
-      "justice": 2
+      "politics": 29,
+      "justice": 2,
+      "economy": 3
     }
   },
   "items": [
     {
-      "item_id": "25f119384ad7b6dd84a6425e",
-      "source_id": "federal_press",
-      "source_name": "Presscenter fédéral",
-      "source_class": "institution",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "federal_rss",
-      "endpoint_label": "Flux de tous les communiqués",
-      "content_scope": "communiqués",
+      "item_id": "f0ea9c5fff3378e82004112d",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
       "language": "fr",
-      "title": "Neuf Belges sur dix sont favorables à l’égalité de genre, mais leurs opinions divergent quant à l’interprétation concrète donnée à ce concept",
-      "url": "https://news.belgium.be/fr/neuf-belges-sur-dix-sont-favorables-legalite-de-genre-mais-leurs-opinions-divergent-quant",
-      "summary": "Une première analyse de l’enquête #YouToo? 2.0 menée par l’Institut pour l’égalité des femmes et des hommes révèle que neuf Belges sur dix estiment que les femmes et les hommes doivent bénéficier de l’égalité des chances et avoir droit à un salaire égal pour un travail égal et qu’il faut lutter contre la discrimination. Les opinions divergent beaucoup plus en ce qui concerne l’interprétation concrète de l’égalité de genre, notamment la répartition des tâches ménagères, mais aussi la notion de féminisme.",
-      "published_at": "2026-11-09T08:21:47Z",
-      "retrieved_at": "2026-11-10T13:22:54.566998Z",
-      "categories": [],
-      "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 24,
+      "title": "Retirer de l’argent liquide pourrait bientôt devenir plus facile en Belgique: voici ce qui se prépare!",
+      "url": "https://www.sudinfo.be/id1224034/article/2026-11-10/retirer-de-largent-liquide-pourrait-bientot-devenir-plus-facile-en-belgique",
+      "summary": "L’accès aux distributeurs de billets pourrait bientôt être mieux encadré en Belgique. La commission de l’Économie de la Chambre a approuvé ce mardi, en première lecture, un projet de loi visant notamment à imposer de nouvelles obligations aux banques en matière d’accessibilité, de sécurité et de fonctionnement des distributeurs. Un premier accord contraignant est envisagé pour la période 2027-2032.",
+      "published_at": "2026-11-10T18:06:49Z",
+      "retrieved_at": "2026-11-11T12:34:56.297186Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 8,
+      "section_strength": 10,
       "matched_signals": [
+        "public_decision",
         "citizen_impact",
-        "evidence",
-        "accountability"
+        "agenda"
       ],
       "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 36 heures",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
         "impact concret pour la population",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique"
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -78,14 +79,14 @@
       "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/10/reforme-du-chomage-les-moyens-prevus-largement-insuffisants-le-gouvernement-arizona-doit-allonger-210-millions-deuros-de-plus-pour-aider-les-cpas-F2H4JESJEZEJXGI74ZRQBI5I6I/",
       "summary": "Les 300 millions d'euros prévus pour aider les CPAS face à la réforme du chômage sont largement insuffisants, ressort-il du deuxième ajustement budgétaire 2026 examiné en commission des Finances de la Chambre. Quelque 210 millions d'euros supplémentaires sont nécessaires....",
       "published_at": "2026-11-10T12:46:45Z",
-      "retrieved_at": "2026-11-10T13:23:03.135606Z",
+      "retrieved_at": "2026-11-11T12:34:58.364470Z",
       "categories": [
         "Politique"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 22,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -95,10 +96,54 @@
         "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "e2ccdab6aa11b6beee774c5f",
+      "source_id": "ligue_droits_humains",
+      "source_name": "Ligue des droits humains",
+      "source_class": "civil_society",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "ldh_wp",
+      "endpoint_label": "Flux des publications",
+      "content_scope": "actualités|communiqués|droits|justice",
+      "language": "fr",
+      "title": "Avis de la LDH et de la LVM sur le projet de loi des visites domiciliaires",
+      "url": "https://www.liguedh.be/migration/avis-de-la-ldh-et-de-la-lvm-sur-le-projet-de-loi-des-visites-domiciliaires/",
+      "summary": "L’article Avis de la LDH et de la LVM sur le projet de loi des visites domiciliaires est apparu en premier sur La Ligue des Droits Humains.",
+      "published_at": "2026-11-10T15:11:43Z",
+      "retrieved_at": "2026-11-11T12:34:54.308528Z",
+      "categories": [
+        "AVIS",
+        "Droits des personnes migrantes",
+        "Visite domicilaire",
+        "ligue des droits humains",
+        "projet de loi"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 8,
+      "matched_signals": [
+        "accountability"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type droits",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
@@ -119,14 +164,14 @@
       "url": "https://www.lavenir.net/actu/belgique/2026/11/10/le-gouvernement-doit-allonger-210-millions-deuros-supplementaires-pour-aider-les-cpas-face-a-la-reforme-du-chomage-en-belgique-UZBV6OREB5HQFPTDRFGJDY56EM/",
       "summary": "Il ressort du 2e ajustement budgétaire 2026 examiné en commission des Finances de la Chambre que les 300 millions d’euros prévus pour aider les CPAS face à la réforme du chômage sont largement insuffisants. 210 millions d’euros supplémentaires sont nécessaires....",
       "published_at": "2026-11-10T09:50:19Z",
-      "retrieved_at": "2026-11-10T13:23:03.135606Z",
+      "retrieved_at": "2026-11-11T12:34:58.364470Z",
       "categories": [
         "Belgique"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 22,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -136,7 +181,7 @@
         "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "agenda institutionnel proche"
@@ -160,14 +205,14 @@
       "url": "https://www.lalibre.be/dernieres-depeches/2026/11/10/reforme-du-chomage-le-gouvernement-doit-allonger-210-millions-deuros-pour-aider-les-cpas-RGNOEAQCLFHNPAM7TJTPLGTINE/",
       "summary": "Les 300 millions d'euros prévus pour aider les CPAS face à la réforme du chômage sont largement insuffisants, ressort-il du deuxième ajustement budgétaire 2026 examiné en commission des Finances de la Chambre. Quelque 210 millions d'euros supplémentaires sont nécessaires....",
       "published_at": "2026-11-10T09:44:07Z",
-      "retrieved_at": "2026-11-10T13:23:00.396230Z",
+      "retrieved_at": "2026-11-11T12:34:55.730523Z",
       "categories": [
         "Politique belge"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 22,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -177,7 +222,7 @@
         "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "agenda institutionnel proche"
@@ -185,39 +230,232 @@
       "related_items": []
     },
     {
-      "item_id": "aedb5cb476e2cc4ef544e377",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
+      "item_id": "8277660c2610916177852743",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
       "source_class": "news_media",
       "institution_level": "national",
       "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Réforme du chômage: le budget prévu pour les CPAS « considérablement sous-estimé »",
-      "url": "https://www.lesoir.be/781988/article/2026-11-10/reforme-du-chomage-le-budget-prevu-pour-les-cpas-considerablement-sous-estime",
-      "summary": "Le deuxième ajustement budgétaire 2026 révèle que les 300 millions prévus pour les CPAS face à la réforme du chômage ne suffiront pas. Le gouvernement doit encore dégager 210 millions d’euros pour combler le déficit.",
-      "published_at": "2026-11-10T09:45:59Z",
-      "retrieved_at": "2026-11-10T13:22:59.964706Z",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Wit-Gele Kruis krijgt in beroep wel vergunning voor nieuwe hoofdzetel: “Heel tevreden met deze beslissing”",
+      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/wit-gele-kruis-krijgt-in-beroep-wel-vergunning-voor-nieuwe-hoofdzetel-heel-tevreden-met-deze-beslissing/163067651.html",
+      "summary": "Het Wit-Gele Kruis mag een nieuwe hoofdzetel bouwen op zijn site in de Brugse binnenstad. Dat heeft de bestendige deputatie beslist na een eerdere weigering door de stad Brugge.",
+      "published_at": "2026-11-11T11:45:00Z",
+      "retrieved_at": "2026-11-11T12:34:56.681497Z",
       "categories": [
-        "Politique"
+        "Brugge"
       ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 20,
+      "score": 18,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 8,
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "accountability"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "6c69e04ae9ec154a2e0679d2",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Minister Beenders: “Telenet moet papieren facturen blijven aanbieden”",
+      "url": "https://www.gva.be/binnenland/minister-beenders-telenet-moet-papieren-facturen-blijven-aanbieden/164389064.html",
+      "summary": "Minister van Consumentenzaken Rob Beenders (Vooruit) eist dat Telenet zijn communicatie bijstuurt, over het feit dat klanten vanaf 1 december enkel nog aanrekeningen per mail ontvangen. “Wie liever een papieren factuur ontvangt, moet die mogelijkheid behouden, en Telenet moet dat ook zo communiceren.”",
+      "published_at": "2026-11-11T09:39:00Z",
+      "retrieved_at": "2026-11-11T12:34:57.524653Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "d4955843a35b89570eed4cee",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Telenet wil facturen digitaliseren, maar minister grijpt in: “Klanten niet richting uitgang duwen”",
+      "url": "https://www.hbvl.be/binnenland/telenet-wil-facturen-digitaliseren-maar-minister-grijpt-in-klanten-niet-richting-uitgang-duwen/164390169.html",
+      "summary": "Minister van Consumentenzaken Rob Beenders (Vooruit) eist dat Telenet zijn communicatie bijstuurt, over het feit dat klanten vanaf 1 december enkel nog aanrekeningen per mail ontvangen. “Wie liever een papieren factuur ontvangt, moet die mogelijkheid behouden, en Telenet moet dat ook zo communiceren.”",
+      "published_at": "2026-11-11T09:39:00Z",
+      "retrieved_at": "2026-11-11T12:34:57.449437Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "2f268b7ce236deba38d09f3a",
+      "source_id": "vrt_nws",
+      "source_name": "VRT NWS",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Flandre|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "vrt_nws_rss",
+      "endpoint_label": "Flux VRT NWS",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Sint-Maartensvuur in Tielt-Winge lokt veel volk ondanks regen: \"Sfeer in de tent maken we zelf\"",
+      "url": "https://vrtnws.be/p.JN4YGeDlW",
+      "summary": "In Tielt-Winge is gisteravond het traditionele Sint-Maartensvuur, bekend als \"Sint Mette Vie\", georganiseerd. Hoewel de aanhoudende regen het grote vuur wat temperde, lieten de duizenden bezoekers het feest niet bederven. Met een indrukwekkend boerenpaard, verlichte trommelaars en een nieuw betaalsysteem na de Payconiq-fraude van vorig jaar werd het traditionele event opnieuw een succes.",
+      "published_at": "2026-11-11T09:35:02Z",
+      "retrieved_at": "2026-11-11T12:34:57.903866Z",
+      "categories": [],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "justice",
+      "section_label": "Justice, droits et contrôle",
+      "section_strength": 4,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "c6b26547fc62720963b8428e",
+      "source_id": "lecho",
+      "source_name": "L'Echo",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lecho_rss",
+      "endpoint_label": "Flux actualité",
+      "content_scope": "actualités|presse|économie|Belgique",
+      "language": "fr",
+      "title": "À quelques jours de son IPO, les actions d'Anthropic en passe d'être revues à la hausse",
+      "url": "https://www.lecho.be/r/t/1/id/10699354",
+      "summary": "Les banques qui encadrent l'IPO d'Anthropic envisagent de relever le prix de ses actions. Portée par l'engouement des investisseurs, sa valorisation pourrait atteindre 1.500 milliards de dollars, selon une information dévoilée ce mercredi par le Financial Times.",
+      "published_at": "2026-11-11T07:31:37Z",
+      "retrieved_at": "2026-11-11T12:34:57.899886Z",
+      "categories": [
+        "Les marchés"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "033726ef51bada271c6d414d",
+      "source_id": "la_libre",
+      "source_name": "La Libre Belgique",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "la_libre_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "La réforme du chômage coûte 208 millions de plus que prévu à l’État: \"C’est digne de l’étudiant le plus foireux de l’auditoire\"",
+      "url": "https://www.lalibre.be/belgique/2026/11/10/la-reforme-du-chomage-coute-208-millions-de-plus-que-prevu-a-letat-cest-digne-de-letudiant-le-plus-foireux-de-lauditoire-EMI6YZFNIZFYHFU6DP6AHQOEEE/",
+      "summary": "La sous-estimation du nombre de personnes exclues du chômage qui se tournent vers les CPAS est l’une des causes majeures du dérapage de 500 millions du budget 2026 de l’État fédéral....",
+      "published_at": "2026-11-10T15:55:12Z",
+      "retrieved_at": "2026-11-11T12:34:55.730523Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
       "matched_signals": [
         "public_decision",
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -246,9 +484,9 @@
         "Chambre"
       ],
       "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 19,
+      "score": 17,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 12,
@@ -259,13 +497,130 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type travaux",
         "contenu de type agenda",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "f54687925e0ed394c483b4a8",
+      "item_id": "aedb5cb476e2cc4ef544e377",
+      "source_id": "le_soir",
+      "source_name": "Le Soir",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "le_soir_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Réforme du chômage: le budget prévu pour les CPAS « considérablement sous-estimé »",
+      "url": "https://www.lesoir.be/781988/article/2026-11-10/reforme-du-chomage-le-budget-prevu-pour-les-cpas-considerablement-sous-estime",
+      "summary": "Le deuxième ajustement budgétaire 2026 révèle que les 300 millions prévus pour les CPAS face à la réforme du chômage ne suffiront pas. Le gouvernement doit encore dégager 210 millions d’euros pour combler le déficit.",
+      "published_at": "2026-11-10T09:45:59Z",
+      "retrieved_at": "2026-11-10T13:22:59.964706Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-11-10T13:23:04.743270Z",
+      "observation_status": "cached",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 36 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "0e719862f278664a8ee19a92",
+      "source_id": "lecho",
+      "source_name": "L'Echo",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lecho_rss",
+      "endpoint_label": "Flux actualité",
+      "content_scope": "actualités|presse|économie|Belgique",
+      "language": "fr",
+      "title": "Quel avenir pour les aidants proches? Frank Vandenbroucke a répondu",
+      "url": "https://www.lecho.be/r/t/1/id/10699364",
+      "summary": "Les aidants proches émargeant au chômage perdront leurs droits temporaires en mars prochain. Ni statut ni allocation dédiée ne sont prévus pour eux; le ministre Frank Vandenbroucke a été clair en commission des Affaires sociales.",
+      "published_at": "2026-11-11T11:11:08Z",
+      "retrieved_at": "2026-11-11T12:34:57.899886Z",
+      "categories": [
+        "Economie & Politique"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 10,
+      "matched_signals": [
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "24c915eb0af1ea1d6b83a916",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Après une période de baisse, le prix du gaz repart à la hausse en Europe!",
+      "url": "https://www.sudinfo.be/id1224144/article/2026-11-11/apres-une-periode-de-baisse-le-prix-du-gaz-repart-la-hausse-en-europe",
+      "summary": "L’incertitude liée au Moyen-Orient fait repartir les prix du gaz à la hausse en Europe, alors que les stocks restent inférieurs aux niveaux habituels et que les livraisons de GNL accusent du retard.",
+      "published_at": "2026-11-11T09:07:43Z",
+      "retrieved_at": "2026-11-11T12:34:56.297186Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9b4de64235379c3e90219597",
       "source_id": "chamber",
       "source_name": "Chambre des représentants",
       "source_class": "parliament",
@@ -277,22 +632,22 @@
       "endpoint_label": "Réunions vidéo planifiées",
       "content_scope": "agenda|travaux",
       "language": "fr",
-      "title": "Santé & Egalité des chances - Projets de loi n°s 1771 & 1737",
-      "url": "https://media.dekamer.be/meeting/56-20445-U2182",
-      "summary": "Forum F4B Petit · SANTE COMM · FINISHED",
-      "published_at": "2026-11-10T11:58:38Z",
+      "title": "Relations extérieures - Audition: Les droits de l'enfant à la croisée des chemins: l’évolution des crises humanitaires",
+      "url": "https://media.dekamer.be/meeting/56-20451-U2188",
+      "summary": "Forum F0A Erasmus · BUITENLANDSE BETR COMM · STARTED",
+      "published_at": "2026-11-10T13:13:59Z",
       "retrieved_at": "2026-11-10T13:22:54.125676Z",
       "categories": [
         "agenda",
         "Chambre"
       ],
       "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 14,
+      "section_strength": 10,
       "matched_signals": [
         "agenda"
       ],
@@ -300,10 +655,58 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type travaux",
         "contenu de type agenda",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
+    },
+    {
+      "item_id": "0fd9439d7e3e7ab2cedd9e91",
+      "source_id": "chamber",
+      "source_name": "Chambre des représentants",
+      "source_class": "parliament",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "chamber_live",
+      "endpoint_label": "Réunions vidéo planifiées",
+      "content_scope": "agenda|travaux",
+      "language": "fr",
+      "title": "Intérieur - Audition: Les fusillades à Bruxelles et le trafic de drogues",
+      "url": "https://media.dekamer.be/meeting/56-20447-U2184",
+      "summary": "Forum F2A Yourcenar · BINNENLANDSE ZAKEN COMM · STARTED",
+      "published_at": "2026-11-10T13:04:34Z",
+      "retrieved_at": "2026-11-10T13:22:54.125676Z",
+      "categories": [
+        "agenda",
+        "Chambre"
+      ],
+      "first_seen_at": "2026-11-09T13:44:58.157386Z",
+      "observation_status": "cached",
+      "seen_count": 2,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type travaux",
+        "contenu de type agenda",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": [
+        {
+          "source_id": "chamber",
+          "source_name": "Chambre des représentants",
+          "title": "Intérieur - Ordre des travaux + Audition: Les fusillades à Bruxelles et le trafic de drogues",
+          "url": "https://media.dekamer.be/meeting/56-20438-U2175"
+        }
+      ]
     },
     {
       "item_id": "a567fdc9a508bf66441b0ca7",
@@ -322,14 +725,14 @@
       "url": "https://www.bruzz.be/actua/politiek/federale-regering-trekt-210-miljoen-extra-uit-voor-ocmws-na-hervorming-werkloosheid-2026-11-10",
       "summary": "De federale regering maakt dit jaar 210 miljoen euro extra vrij om de OCMW's te compenseren voor de gevolgen van de werkloosheidshervorming.",
       "published_at": "2026-11-10T11:46:12Z",
-      "retrieved_at": "2026-11-10T13:23:02.513711Z",
+      "retrieved_at": "2026-11-11T12:34:58.397308Z",
       "categories": [
         "Politiek"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -338,7 +741,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -364,9 +767,9 @@
       "retrieved_at": "2026-11-10T13:23:02.332767Z",
       "categories": [],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -375,7 +778,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -403,9 +806,9 @@
         "Belgique"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -414,50 +817,9 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "5fd4eccd35f9c7b045e16a8d",
-      "source_id": "chamber",
-      "source_name": "Chambre des représentants",
-      "source_class": "parliament",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "chamber_live",
-      "endpoint_label": "Réunions vidéo planifiées",
-      "content_scope": "agenda|travaux",
-      "language": "fr",
-      "title": "Energie, Environnement et Climat - Audition: Plan stratégique et budget d’Hedera pour l’année 2027",
-      "url": "https://media.dekamer.be/meeting/56-20436-U2173",
-      "summary": "Forum F0A Erasmus · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · PLANNED",
-      "published_at": "2026-11-10T09:00:00Z",
-      "retrieved_at": "2026-11-09T13:44:43.873883Z",
-      "categories": [
-        "agenda",
-        "Chambre"
-      ],
-      "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 19,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 16,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type travaux",
-        "contenu de type agenda",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -478,14 +840,14 @@
       "url": "https://www.bruzz.be/actua/opinie/werkloosheid-de-hervorming-zal-iedereen-raken-2026-11-10",
       "summary": "“Zullen we volgend jaar wel genoeg centen hebben om te doen wat we moeten doen? Om de straten schoon te houden, de wijken veilig, om scholen en zwembaden open te houden?\"",
       "published_at": "2026-11-10T05:30:39Z",
-      "retrieved_at": "2026-11-10T13:23:02.513711Z",
+      "retrieved_at": "2026-11-11T12:34:58.397308Z",
       "categories": [
         "Opinie"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -494,62 +856,14 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
       "related_items": []
     },
     {
-      "item_id": "054fece289ecdb4079e0f33b",
-      "source_id": "la_libre",
-      "source_name": "La Libre Belgique",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "la_libre_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Un kot coûte en moyenne 600 euros par mois en Belgique",
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/10/un-kot-coute-en-moyenne-600-euros-par-mois-en-belgique-2PS6YBK2UVEEJJTUXOSUYTCJTU/",
-      "summary": "Le loyer mensuel moyen d'un kot en Belgique a atteint la barre de 600 euros, dont 105 euros de charge en moyenne, cette année académique, soit une hausse de 1,7% ou 10 euros par rapport à l'année dernière, révèle mardi l'étude Kotkompas du gestionnaire de logements étudiants Diggit StudentLife et de l'expert immobilier indépendant Stadim....",
-      "published_at": "2026-11-09T23:34:05Z",
-      "retrieved_at": "2026-11-10T13:23:00.396230Z",
-      "categories": [
-        "Société"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": [
-        {
-          "source_id": "lavenir",
-          "source_name": "L'Avenir",
-          "title": "Un kot coûte en moyenne 600 euros par mois en Belgique, dont une centaine d’euros de charges",
-          "url": "https://www.lavenir.net/actu/belgique/2026/11/10/un-kot-coute-en-moyenne-600-euros-par-mois-en-belgique-dont-une-centaine-deuros-de-charges-72YMU6PY35DGHFQS6S3E36Q2PM/"
-        }
-      ]
-    },
-    {
-      "item_id": "651fb58ebe7f6dd5c72e0260",
+      "item_id": "42b1d67b82ed4e2db5674ee8",
       "source_id": "bruzz",
       "source_name": "BRUZZ",
       "source_class": "news_media",
@@ -561,29 +875,144 @@
       "endpoint_label": "Flux général",
       "content_scope": "actualités|presse|terrain|Bruxelles",
       "language": "nl|fr|en",
-      "title": "Wettelijk kader voor maximaal 24.000 deelfietsen krijgt groen licht",
-      "url": "https://www.bruzz.be/actua/mobiliteit/wettelijk-kader-voor-maximaal-24000-deelfietsen-krijgt-groen-licht-2026-11-10",
-      "summary": "De commissie Mobiliteit van het Brussels Parlement heeft het nieuwe wettelijke kader voor deelfietsen goedgekeurd. Dat maakt de weg vrij voor een goedkeuring door het hele parlement.",
-      "published_at": "2026-11-10T13:03:26Z",
-      "retrieved_at": "2026-11-10T13:23:02.513711Z",
+      "title": "Ingenieur kritisch: 'Datacentra in Brussel zijn belangrijk, maar tegen welke prijs?'",
+      "url": "https://www.bruzz.be/actua/opinie/ingenieur-kritisch-datacentra-brussel-zijn-belangrijk-maar-tegen-welke-prijs-2026-11-11",
+      "summary": "Datacenters in een dichtbebouwd gewest zoals Brussel verdienen een grondige evaluatie. Dat zegt Steve Tumson, ingenieur en expert in verantwoord digitaal gebruik.",
+      "published_at": "2026-11-11T05:30:57Z",
+      "retrieved_at": "2026-11-11T12:34:58.397308Z",
       "categories": [
-        "Mobiliteit"
+        "Opinie"
       ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 17,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 10,
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9b297658fbc8e9f92c4e9a08",
+      "source_id": "hbvl",
+      "source_name": "Het Belang van Limburg",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hbvl_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Telenet duwt klanten naar digitale factuur: wie weigert, mag abonnement kosteloos stopzetten",
+      "url": "https://www.hbvl.be/binnenland/telenet-duwt-klanten-naar-digitale-factuur-wie-weigert-mag-abonnement-kosteloos-stopzetten/164382767.html",
+      "summary": "Telenet stuurt vanaf 1 december geen papieren ‘aanrekeningen’ of facturen meer op naar klanten, enkel nog via mail. Voor wie dat niet ziet zitten, wenkt de uitgang: “Bent u niet akkoord? Dan kan je kosteloos je abonnement opzeggen”, schrijft het telecombedrijf.",
+      "published_at": "2026-11-11T02:00:00Z",
+      "retrieved_at": "2026-11-11T12:34:57.449437Z",
+      "categories": [
+        "Binnenland"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8b341f97f09b0f463e632fe5",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Attendu ce mardi soir, le vote sur la réforme des médias de proximité est reporté",
+      "url": "https://www.dhnet.be/actu/belgique/2026/11/10/attendu-ce-mardi-soir-le-vote-sur-la-reforme-des-medias-de-proximite-est-reporte-QBHEMHAJ4ZGZXMRN5HDEE5TTNQ/",
+      "summary": "Attendu théoriquement ce mardi soir en commission du parlement, le vote sur la réforme des médias de proximité (ex-télés locales) est reporté sine die....",
+      "published_at": "2026-11-10T18:37:39Z",
+      "retrieved_at": "2026-11-11T12:34:56.309204Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
       "matched_signals": [
         "public_decision",
         "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
         "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9efd0e1619414dc7e8efa38c",
+      "source_id": "de_tijd",
+      "source_name": "De Tijd",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "de_tijd_rss",
+      "endpoint_label": "Algemeen nieuws",
+      "content_scope": "actualités|presse|économie",
+      "language": "nl",
+      "title": "De afschaffing van de Waalse provincies: PS spreekt van chantage",
+      "url": "https://www.tijd.be/r/t/1/id/10699371",
+      "summary": "Zonder de steun van de Franstalige socialisten kan de Waalse regering een kruis maken over haar plannen om de provincies af te schaffen. Omdat de financiële steun voor de gemeenten afhankelijk is gemaakt van die hervorming, hoopt de regering de PS mee te krijgen, schrijft François-Xavier Lefèvre, journalist van L'Echo.",
+      "published_at": "2026-11-11T10:14:46Z",
+      "retrieved_at": "2026-11-11T12:34:57.296557Z",
+      "categories": [
+        "Dossiers"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
       ],
       "related_items": []
     },
@@ -607,9 +1036,9 @@
       "retrieved_at": "2026-11-10T13:23:01.037386Z",
       "categories": [],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 2,
@@ -618,7 +1047,7 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "contrôle, droits ou responsabilité publique"
       ],
@@ -646,9 +1075,9 @@
         "Santé"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -657,46 +1086,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d23d69683d511bcbf692fd2c",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Bonne nouvelle à la pompe: le plein d’essence coûtera moins cher dès ce mercredi",
-      "url": "https://www.sudinfo.be/id1223806/article/2026-11-10/bonne-nouvelle-la-pompe-le-plein-dessence-coutera-moins-cher-des-ce-mercredi",
-      "summary": "Le SPF Économie annonce une baisse du prix maximum de l’essence et du mazout de chauffage dès ce mercredi, en raison de l’évolution des cotations pétrolières sur les marchés internationaux.",
-      "published_at": "2026-11-10T09:00:27Z",
-      "retrieved_at": "2026-11-10T13:23:00.593244Z",
-      "categories": [
-        "Conso"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
@@ -719,14 +1109,14 @@
       "url": "https://www.lavenir.net/actu/belgique/2026/11/10/augmentation-de-20-du-recours-a-des-somniferes-et-calmants-chez-les-enfants-et-adolescents-C2QM5ZZUTVARFDIOUV6HZJCOHE/",
       "summary": "Le nombre d’enfants, d’adolescents et de jeunes adultes Belges qui ont recours à des somnifères ou des calmants a augmenté de plus de 20 % en cinq ans, rapporte le quotidien De Tijd ce mardi 10 novembre, citant un rapport de l’institut de santé Sciensano....",
       "published_at": "2026-11-10T08:10:29Z",
-      "retrieved_at": "2026-11-10T13:23:03.135606Z",
+      "retrieved_at": "2026-11-11T12:34:58.364470Z",
       "categories": [
         "Belgique"
       ],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -735,7 +1125,7 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
       ],
@@ -758,12 +1148,12 @@
       "url": "https://news.belgium.be/fr/permis-obtenu-pour-la-partie-est-de-mediapark-un-nouveau-parc-urbain",
       "summary": "Un quartier résidentiel, médiatique, créatif et animé va voir le jour autour des nouveaux sièges de la VRT et de la RTBF, situés boulevard Reyers. Un nouvel espace où il fera bon vivre, travailler et se détendre. Beliris, l'expert fédéral en construction publique pour Bruxelles, chargé de l’aménagement des espaces publics du Mediapark, a obtenu le permis d’urbanisme pour l’aménagement de la partie Est du site qui accueillera un nouveau parc. Ce projet est développé en étroite collaboration avec la SAU (société d'aménagement urbain), Bruxelles Environnement, Bruxelles Mobilité, la commune de…",
       "published_at": "2026-11-10T07:58:01Z",
-      "retrieved_at": "2026-11-10T13:22:54.566998Z",
+      "retrieved_at": "2026-11-11T12:34:49.855030Z",
       "categories": [],
       "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -773,624 +1163,199 @@
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "3e6774a58ff26b17dad0e29f",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Budget fédéral: le ministre David Clarinval « persuadé » que les négociateurs parviendront au meilleur équilibre possible (vidéo)",
-      "url": "https://www.sudinfo.be/id1223789/article/2026-11-10/budget-federal-le-ministre-david-clarinval-persuade-que-les-negociateurs",
-      "summary": "David Clarinval s’est dit mardi convaincu que les négociateurs fédéraux trouveront un accord sur le budget, dans le respect des limites fixées par l’accord de gouvernement.",
-      "published_at": "2026-11-10T08:05:08Z",
-      "retrieved_at": "2026-11-10T13:23:00.593244Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 12,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": [
-        {
-          "source_id": "la_libre",
-          "source_name": "La Libre Belgique",
-          "title": "Budget fédéral: Clarinval \"persuadé\" que les négociateurs parviendront au meilleur équilibre possible",
-          "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/10/budget-federal-clarinval-persuade-que-les-negociateurs-parviendront-au-meilleur-equilibre-possible-BLUL3EJOTVEBHMDTGLJDXPWNYA/"
-        }
-      ]
-    },
-    {
-      "item_id": "1817ac2fb8ca9903df1d96b8",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "L’entreprise chimique Vynova Belgium va déposer le bilan, 600 emplois menacés",
-      "url": "https://www.lecho.be/r/t/1/id/10699259",
-      "summary": "L’entreprise chimique Vynova à Tessenderlo-Ham demande la faillite. Plus de 600 travailleurs risquent de perdre leur emploi. En cause: la flambée du coût de l'énergie.",
-      "published_at": "2026-11-10T11:35:07Z",
-      "retrieved_at": "2026-11-10T13:23:02.526784Z",
-      "categories": [
-        "Entreprises"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 14,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "fd9ddc57bdbc86e72387ffeb",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Budget fédéral: Clarinval se justifie après son rendez-vous avec De Wever et Georges-Louis Bouchez",
-      "url": "https://www.lesoir.be/781956/article/2026-11-10/budget-federal-clarinval-se-justifie-apres-son-rendez-vous-avec-de-wever-et",
-      "summary": "David Clarinval a affirmé mardi sur Bel RTL que les négociateurs fédéraux trouveront un accord sur le budget, à condition de respecter les limites fixées par l’accord de gouvernement.",
-      "published_at": "2026-11-10T07:59:45Z",
-      "retrieved_at": "2026-11-10T13:22:59.964706Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "0fe744397afcf307a11e8f76",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Parket onderzoekt 2 meldingen van zedenfeiten in woonzorgcentrum in Lommel",
-      "url": "https://vrtnws.be/p.mRJKe5poN",
-      "summary": "Twee bewoners van woonzorgcentrum Ploegdries in Lommel zijn mogelijk slachtoffer geworden van grensoverschrijdend gedrag. Dat schrijft het Belang van Limburg en het nieuws wordt bevestigd. Het parket is een onderzoek gestart naar 2 klachten over mogelijke zedenfeiten. Het departement Zorg is op de hoogte gebracht.",
-      "published_at": "2026-11-10T07:06:34Z",
-      "retrieved_at": "2026-11-10T13:23:02.255871Z",
-      "categories": [],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 12 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "e7bdf0f0c0bad5e1d7716721",
-      "source_id": "la_libre",
-      "source_name": "La Libre Belgique",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "la_libre_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Le recours aux somnifères a augmenté de 20% chez les enfants et les jeunes",
-      "url": "https://www.lalibre.be/belgique/societe/2026/11/10/le-recours-aux-somniferes-a-augmente-de-20-chez-les-enfants-et-les-jeunes-5BYQRUCFZZERZJTOGRBW5KWZOE/",
-      "summary": "Le nombre d'enfants, d'adolescents et de jeunes adultes belges qui ont recours à des somnifères ou des calmants a augmenté de plus de 20% en cinq ans, rapporte le quotidien De Tijd mardi citant un rapport de l'institut de santé Sciensano....",
-      "published_at": "2026-11-10T07:02:58Z",
-      "retrieved_at": "2026-11-10T13:23:00.396230Z",
-      "categories": [
-        "Société"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "evidence",
-        "accountability"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 12 heures",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "a5c35b54bb398989a662499d",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Augmentation de 26 % en 6 ans, Bruxelles au plus haut: voici combien coûte un kot en moyenne en Belgique",
-      "url": "https://www.dhnet.be/actu/belgique/2026/11/10/augmentation-de-26-en-6-ans-bruxelles-au-plus-haut-voici-combien-coute-un-kot-en-moyenne-en-belgique-VYIWOMJZG5DVXHYYLWOSTRKG74/",
-      "summary": "Le prix des kots a augmenté par rapport à l’année dernière. La Wallonie fait baisser la moyenne alors que Bruxelles l’augmente....",
-      "published_at": "2026-11-10T06:00:40Z",
-      "retrieved_at": "2026-11-10T13:23:00.920567Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 12 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "79a4e2b52d3fc7eb2c93df4d",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "Pourquoi une hausse du Smic ne sauvera pas l’économie française",
-      "url": "https://www.lecho.be/r/t/1/id/10699077",
-      "summary": "Un relèvement du salaire minimum ne résoudra pas les problèmes structurels de l’économie française. Il faudrait, au contraire, baisser les charges sur le travail en augmentant la TVA et la cotisation sociale généralisée.",
-      "published_at": "2026-11-09T10:58:29Z",
-      "retrieved_at": "2026-11-09T13:44:54.881278Z",
-      "categories": [
-        "Economie & Politique"
-      ],
-      "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 10,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
         "publié depuis moins de 36 heures",
-        "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
       "related_items": []
     },
     {
-      "item_id": "55d0ed5e6244761acb00639c",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
+      "item_id": "8132a38cdd3174f927e1040b",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
       "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Prix de l’énergie: les prix du pétrole sont en baisse, surfant sur l'espoir d'une fin de conflit entre les USA et l'Iran",
-      "url": "https://www.rtbf.be/article/prix-de-l-energie-les-prix-du-petrole-sont-en-baisse-surfant-sur-l-espoir-d-une-fin-de-conflit-entre-les-usa-et-l-iran-11812924",
-      "summary": "Les nouvelles attaques au Moyen-Orient continuent toutefois d’alimenter l’incertitude, même si le président...",
-      "published_at": "2026-11-09T09:04:50Z",
-      "retrieved_at": "2026-11-09T13:44:54.819430Z",
-      "categories": [],
-      "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "cached",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Bringing the current MFF to a successful close: agreement on the final Annual Budget *",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2385",
+      "summary": "European Commission Press release Brussels, 11 Nov 2026 The Commission welcomes the agreement reached last evening between the European Parliament and the Council of the European Union on the annual EU budget 2027.",
+      "published_at": "2026-11-10T23:00:00Z",
+      "retrieved_at": "2026-11-11T12:35:00.231364Z",
+      "categories": [
+        "POLICY_AREA=BUDFINPROG"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
       "seen_count": 1,
-      "score": 15,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
+      "score": 13,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
       "section_strength": 8,
       "matched_signals": [
-        "citizen_impact",
-        "change_alert"
+        "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "f30edb9c4821027f762f75d4",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "L'UZ Brussel suspend tous les soins urgents et ambulatoires en raison d'un problème de réseau",
-      "url": "https://www.lecho.be/r/t/1/id/10699276",
-      "summary": "En raison d'une panne de réseaux d'origine inconnue ce mardi midi, l'hôpital universitaire de Bruxelles a dû suspendre plusieurs de ses services.",
-      "published_at": "2026-11-10T13:03:07Z",
-      "retrieved_at": "2026-11-10T13:23:02.526784Z",
+      "item_id": "7d03430c8649143e6c6c91e4",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Questions and answers on the agreement on the EU Annual Budget 2027",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2386",
+      "summary": "European Commission Questions and answers Brussels, 11 Nov 2026 Full overview of the Annual Budget 2027: In the Annual Budget 2027 the following amounts will be allocated to the various EU priorities (in commitments): €53.8...",
+      "published_at": "2026-11-10T23:00:00Z",
+      "retrieved_at": "2026-11-11T12:35:00.231364Z",
       "categories": [
-        "Economie & Politique"
+        "POLICY_AREA=BUDFINPROG"
       ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
+      "score": 13,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
       "section_strength": 8,
       "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "8d8a4e65e8a45e8182b3bacd",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2391",
-      "summary": "European Commission Press release Brussels, 10 Nov 2026 One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.",
-      "published_at": "2026-11-10T09:16:42Z",
-      "retrieved_at": "2026-11-10T13:23:04.740571Z",
-      "categories": [
-        "POLICY_AREA=MED"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
         "agenda"
       ],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 24 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "e051877ad0ef759b6fe53bb2",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
+      "item_id": "b0ceb1506a8b6cae2ee089d3",
+      "source_id": "defence",
+      "source_name": "Défense belge",
       "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390",
-      "summary": "European Commission Statement Abu Dhabi, 10 Nov 2026 Ahead of the upcoming trilateral discussions with Russia, representatives of the European partners, Ukraine and the United States met to continue their close co...",
-      "published_at": "2026-11-10T09:12:37Z",
-      "retrieved_at": "2026-11-10T13:23:04.740571Z",
-      "categories": [
-        "POLICY_AREA=HREXTRELS"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "483846223b2739891b0518c9",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Commission greenlights Luxembourg's final payment request for €59 million under NextGenerationEU",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2388",
-      "summary": "European Commission Press release Brussels, 10 Nov 2026 Today, the European Commission positively assessed Luxembourg's fourth and final payment request for €59 million under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU.",
-      "published_at": "2026-11-10T09:07:46Z",
-      "retrieved_at": "2026-11-10T13:23:04.740571Z",
-      "categories": [
-        "POLICY_AREA=RECOVERY"
-      ],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": [
-        {
-          "source_id": "eu_commission",
-          "source_name": "Commission européenne",
-          "title": "Commission greenlights Estonia's final payment request for €190.6 million under NextGenerationEU",
-          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2387"
-        }
-      ]
-    },
-    {
-      "item_id": "d543e244397cd8ce9fb144e9",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Archeologisch onderzoek van start voor bouw nieuw vrijetijdscentrum in Gierle",
-      "url": "https://vrtnws.be/p.dLRKYbByY",
-      "summary": "In Gierle (Lille) starten vandaag de graafwerken voor het archeologisch onderzoek dat nodig is voor de bouw van een nieuw vrijetijdscentrum op de site Molenvelden. De bouw van het centrum zelf zal ten vroegste eind volgend jaar starten. In het vrijetijdscentrum komt onder meer een polyvalente zaal voor activiteiten tot 400 zitplaatsen. De bouw kost 4 miljoen euro.",
-      "published_at": "2026-11-10T04:48:55Z",
-      "retrieved_at": "2026-11-10T13:23:02.255871Z",
-      "categories": [],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 2,
-      "matched_signals": [
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 12 heures",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "91aface69c8c07ba4eaf3a44",
-      "source_id": "fps_finance",
-      "source_name": "SPF Finances",
-      "source_class": "public_body",
       "institution_level": "fédéral",
-      "geography": "Belgique",
+      "geography": "Belgique|international",
       "official_status": "official_public",
       "access_model": "",
-      "endpoint_id": "finance_rss",
+      "endpoint_id": "defence_rss",
       "endpoint_label": "Flux des actualités",
       "content_scope": "actualités|communiqués",
       "language": "fr",
-      "title": "Autorisations Produits énergétiques et électricité - Procédure électronique à partir du 1er décembre 2026",
-      "url": "https://finances.belgium.be/fr/Actualites/autorisations-produits-energetiques-electricite-procedure-electronique",
-      "summary": "À partir du 1 er décembre 2026, vous demandez et gérez vos autorisations « Produits énergétiques et électricité » de manière électronique via MyMinfin/KIS-SIC: « Gestion et demande de vos autorisations en matière de douanes et d’accises (KIS-SIC) ». Cela s’applique aux nouvelles demandes ainsi qu’aux demandes de modification ou de révocation d’une autorisation existante. Vous trouverez plus d'informations sur la page: Autorisations Produits énergétiques et électricité.",
-      "published_at": "2026-11-09T23:00:00Z",
-      "retrieved_at": "2026-11-10T13:22:54.183882Z",
+      "title": "Blue Dome et la 51e Escadrille: une nouvelle défense antiaérienne pour la Belgique",
+      "url": "https://www.mil.be/fr/news/blue-dome-et-la-51e-escadrille-une-nouvelle-defense-antiaerienne-pour-la-belgique/",
+      "summary": "Blue Dome est la nouvelle architecture belge de défense antiaérienne à courte et moyenne portée. La Défense a présenté cette future capacité le 9 novembre 2026, à l’École Royale Militaire, tout en annonçant la réactivation de la 51e Escadrille. Les premiers systèmes seront progressivement livrés et mis en service à partir de 2027.",
+      "published_at": "2026-11-11T02:00:20Z",
+      "retrieved_at": "2026-11-11T12:34:49.605015Z",
       "categories": [],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "change_alert"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "contenu de type actualités",
-        "publié depuis moins de 24 heures",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "924eeffc0df3865f3204abd4",
-      "source_id": "vrt_nws",
-      "source_name": "VRT NWS",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Flandre|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "vrt_nws_rss",
-      "endpoint_label": "Flux VRT NWS",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "nl",
-      "title": "Verdachte krijgt nieuw proces na veroordeling tot 14 jaar cel voor brandstichting aan woning van politieman in Zaventem",
-      "url": "https://vrtnws.be/p.43pRL8aAo",
-      "summary": "Het Hof van Cassatie heeft de veroordeling verbroken van een veertiger die 14 jaar cel kreeg nadat hij brand had gesticht aan de woning van een politieman in Zaventem. De man krijgt nu een nieuw proces voor het hof van beroep in Mons.",
-      "published_at": "2026-11-09T11:27:22Z",
-      "retrieved_at": "2026-11-09T13:44:54.194884Z",
-      "categories": [],
-      "first_seen_at": "2026-11-09T13:44:58.157386Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "justice",
-      "section_label": "Justice, droits et contrôle",
-      "section_strength": 4,
-      "matched_signals": [
-        "accountability",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "8e229e4a5d96cea39a786b8c",
-      "source_id": "federal_press",
-      "source_name": "Presscenter fédéral",
-      "source_class": "institution",
-      "institution_level": "fédéral",
-      "geography": "Belgique",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "federal_rss",
-      "endpoint_label": "Flux de tous les communiqués",
-      "content_scope": "communiqués",
-      "language": "fr",
-      "title": "Résultats de l'adjudication de certificats de Trésorerie du 10 novembre 2026",
-      "url": "https://news.belgium.be/fr/resultats-de-ladjudication-de-certificats-de-tresorerie-du-10-novembre-2026",
-      "summary": "L'Agence fédérale de la Dette communique qu'elle a accepté les offres à l'adjudication de certificats de Trésorerie de ce jour pour un montant total de EUR 2.817 milliards. Ce montant est réparti sur les lignes de la façon suivante:",
-      "published_at": "2026-11-10T11:03:48Z",
-      "retrieved_at": "2026-11-10T13:22:54.566998Z",
-      "categories": [],
-      "first_seen_at": "2026-11-10T13:23:04.743270Z",
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
       "observation_status": "new",
       "seen_count": 1,
       "score": 12,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 4,
+      "section_strength": 6,
       "matched_signals": [],
       "score_reasons": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures"
+        "contenu de type actualités",
+        "publié depuis moins de 12 heures"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "6767d2fe355a6baa36d39576",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Commission strengthens consumer protection laws, making them fit for the digital age",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407",
+      "summary": "European Commission Press release Brussels, 11 Nov 2026 Today, the European Commission presented its Proposal for a Digital Fairness Act (DFA) - a major update of the EU consumer protection rules to ensure that consumers in the EU enjoy the same high level of protection online as they do offline.",
+      "published_at": "2026-11-10T23:00:00Z",
+      "retrieved_at": "2026-11-11T12:35:00.231364Z",
+      "categories": [
+        "POLICY_AREA=CONSUMPOL,DIGAG"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 12,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "3cb55952f3c06fbf7c878647",
+      "source_id": "greenpeace_be",
+      "source_name": "Greenpeace Belgique",
+      "source_class": "civil_society",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "civil_society",
+      "access_model": "",
+      "endpoint_id": "greenpeace_be_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|environnement|réformes",
+      "language": "fr",
+      "title": "Action: des rochers contre le chalutage de fond et pour une réelle protection en mer du Nord",
+      "url": "https://www.greenpeace.org/belgium/fr/actualites-blog/82948/action-rochers-mer-du-nord-chalutage-fond/",
+      "summary": "Imaginez que des bulldozers commencent à raser la forêt de Soignes. Ce serait totalement insensé d’autoriser une telle destruction dans une nature protégée, n’est-ce pas? C’est exactement ce qui…",
+      "published_at": "2026-11-10T13:27:19Z",
+      "retrieved_at": "2026-11-11T12:34:53.735567Z",
+      "categories": [
+        "Actualités",
+        "Océans",
+        "À la une"
+      ],
+      "first_seen_at": "2026-11-11T12:35:09.928050Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 12,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type actualités",
+        "publié depuis moins de 24 heures"
       ],
       "related_items": []
     }
