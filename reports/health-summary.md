@@ -1,16 +1,16 @@
 # Santé des accès
 
-Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-12T13:46:27.118957Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **241**
-- Accès en erreur ou bloqués : **45**
+- Accès opérationnels : **240**
+- Accès en erreur ou bloqués : **46**
 - Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
-| Académie de recherche et d'enseignement supérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Académie de recherche et d'enseignement supérieur | Actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Actiris | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Administration de la Fédération Wallonie-Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -43,7 +43,7 @@ Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 | BRF Nachrichten | Flux BRF Nachrichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | BRUGEL | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Brupartners | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Bruxelles Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Bruxelles Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | BRUZZ | Flux général | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | BRUZZ | Recent nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Bureau fédéral du Plan | Calendrier | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -56,12 +56,12 @@ Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 | CD&V | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Centre fédéral d'expertise des soins de santé | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | CGSLB-Syndicat libéral | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Chambre des représentants | Agenda de la séance plénière | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
-| Chambre des représentants | Agenda des commissions | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
+| Chambre des représentants | Agenda de la séance plénière | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Chambre des représentants | Agenda des commissions | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Chambre des représentants | Réunions vidéo planifiées | `ok` | 200 | `chamber_live → json` | `unknown` | 0 |
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Collège des cours et tribunaux | Publications | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
+| Collège des cours et tribunaux | Publications | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -73,7 +73,7 @@ Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 | Conseil central de surveillance pénitentiaire | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Conseil central de surveillance pénitentiaire | Avis | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Conseil central de surveillance pénitentiaire | Publications | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Conseil d'État | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
+| Conseil d'État | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Conseil de l'Union européenne | Calendrier des réunions | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Conseil de l'Union européenne | Communiqués de presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Conseil de l'Union européenne | Portail du Conseil de l'Union européenne | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
@@ -106,7 +106,7 @@ Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 | DH Les Sports+ | Flux actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Défense belge | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Défense belge | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Défenseur des droits de l'enfant | Actualités et publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Défenseur des droits de l'enfant | Actualités et publications | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | DéFI | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ecolo | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Ecolo Ostbelgien | Aktuelles | `network_error` | — | `html → unknown` | `unknown` | 0 |
@@ -116,8 +116,8 @@ Généré le `2026-11-11T12:42:57.929105Z` par `veille-redaction-belge/0.1.0`.
 | Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
-| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
+| Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement wallon | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Greenpeace Belgique | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
