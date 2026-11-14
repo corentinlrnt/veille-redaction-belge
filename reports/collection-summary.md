@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-13T12:57:31.954846Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-14T12:00:50.422964Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **62**
-- Flux en erreur : **1**
-- Éléments conservés : **3344**
-- Sources contributrices : **37**
+- Flux collectés : **61**
+- Flux en erreur : **2**
+- Éléments conservés : **3339**
+- Sources contributrices : **36**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ Généré le `2026-11-13T12:57:31.954846Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 1 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
@@ -30,7 +30,7 @@ Généré le `2026-11-13T12:57:31.954846Z` par `veille-redaction-belge/collector
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
-| `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
+| `eu_commission` | `eu_commission_press_rss` | `network_error` | `unknown` | 0 | Connexion impossible: The read operation timed out |
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
@@ -67,9 +67,9 @@ Généré le `2026-11-13T12:57:31.954846Z` par `veille-redaction-belge/collector
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
-| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
+| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 23 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 13 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 12 | — |
 | `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 5 | — |
 | `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |
