@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-14T12:00:50.422964Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-15T12:38:02.361157Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **61**
-- Flux en erreur : **2**
-- Éléments conservés : **3339**
+- Flux collectés : **56**
+- Flux en erreur : **7**
+- Éléments conservés : **3347**
 - Sources contributrices : **36**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -18,24 +18,24 @@ Généré le `2026-11-14T12:00:50.422964Z` par `veille-redaction-belge/collector
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
 | `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
-| `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
+| `court_of_audit` | `court_audit_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 23 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 49 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
 | `defence` | `defence_rss` | `ok` | `rss` | 247 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 14 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
-| `eu_commission` | `eu_commission_press_rss` | `network_error` | `unknown` | 0 | Connexion impossible: The read operation timed out |
-| `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
+| `eu_commission` | `eu_commission_press_rss` | `ok` | `rss` | 10 | — |
+| `federal_press` | `federal_rss` | `unsupported` | `html` | 0 | Format reçu: html |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
-| `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
-| `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
+| `fps_finance` | `finance_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
+| `fps_mobility` | `mobility_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
@@ -46,8 +46,8 @@ Généré le `2026-11-14T12:00:50.422964Z` par `veille-redaction-belge/collector
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_publications_rss` | `ok` | `rss` | 10 | — |
-| `inami` | `inami_news` | `ok` | `html` | 15 | — |
-| `inami` | `inami_press` | `ok` | `html` | 15 | — |
+| `inami` | `inami_news` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `inami` | `inami_press` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
 | `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
