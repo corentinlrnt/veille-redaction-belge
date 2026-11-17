@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-16T13:29:18.648419Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-17T14:14:31.886816Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **62**
 - Flux en erreur : **1**
-- Éléments conservés : **3427**
-- Sources contributrices : **39**
+- Éléments conservés : **3379**
+- Sources contributrices : **38**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,17 +16,17 @@ Généré le `2026-11-16T13:29:18.648419Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 7 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 26 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 28 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 49 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 247 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 248 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
@@ -57,7 +57,7 @@ Généré le `2026-11-16T13:29:18.648419Z` par `veille-redaction-belge/collector
 | `mr_party` | `mr_party_rss` | `ok` | `atom` | 15 | — |
 | `mutualities_free` | `free_mutualities_news` | `ok` | `html` | 1 | — |
 | `mutualities_liberal` | `liberal_mutualities_news` | `ok` | `html` | 1 | — |
-| `province_namur` | `province_namur_rss` | `ok` | `rss` | 9 | — |
+| `province_namur` | `province_namur_rss` | `ok` | `rss` | 10 | — |
 | `ps_party` | `ps_party_rss` | `ok` | `rss` | 20 | — |
 | `qu4tre` | `qu4tre_rss` | `ok` | `rss` | 30 | — |
 | `rbdh` | `rbdh_news` | `ok` | `rss` | 9 | — |
@@ -67,9 +67,9 @@ Généré le `2026-11-16T13:29:18.648419Z` par `veille-redaction-belge/collector
 | `stib` | `stib_press_rss` | `ok` | `rss` | 10 | — |
 | `sudinfo` | `sudinfo_rss` | `ok` | `rss` | 50 | — |
 | `tec` | `tec_press_rss` | `ok` | `rss` | 0 | — |
-| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 23 | — |
+| `tv_lux` | `tv_lux_rss` | `ok` | `rss` | 24 | — |
 | `vivant_dg_party` | `vivant_dg_party_rss` | `ok` | `rss` | 10 | — |
 | `vrt_nws` | `vrt_nws_rss` | `ok` | `atom` | 50 | — |
-| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 12 | — |
+| `walloon_parliament` | `walloon_parliament_calendar_rss` | `ok` | `rss` | 8 | — |
 | `walloon_parliament` | `walloon_parliament_current_questions_rss` | `ok` | `rss` | 5 | — |
 | `walloon_parliament` | `walloon_parliament_written_questions_rss` | `ok` | `rss` | 6 | — |
