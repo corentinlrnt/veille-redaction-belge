@@ -1,304 +1,304 @@
-# Veille rédaction belge — 18 novembre 2026
+# Veille rédaction belge — 19 novembre 2026
 
-Générée à **14:45** (heure de Bruxelles) à partir de **3446 éléments collectés**.
+Générée à **15:15** (heure de Bruxelles) à partir de **3498 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
+### [Prix alimentaires: le répit pourrait être de courte durée](https://news.economie.fgov.be/274732-prix-alimentaires-le-repit-pourrait-etre-de-courte-duree/)
+
+**SPF Économie** · source publique officielle · 19/11/2026 à 09:00 · score `23`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Après la baisse des prix des matières premières alimentaires en 2025, les tensions géopolitiques et climatiques pourraient entraîner de nouvelles hausses en 2026. Parallèlement, la rentabilité reste très contrastée au sein de la chaîne alimentaire.
+
+### [Indexation des salaires: les fonctionnaires de nouveau dans le viseur de l’Arizona, les syndicats menacent déjà d’un recours](https://www.dhnet.be/actu/belgique/2026/11/19/indexation-des-salaires-les-fonctionnaires-de-nouveau-dans-le-viseur-de-larizona-les-syndicats-menacent-deja-dun-recours-3ABNUE3IYVGXFL3Z5PWFGKME7A/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 08:27 · score `21`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Sur la table des négociateurs figurent plusieurs mesures relatives à une réforme de l’indexation des salaires. Un point en particulier pourrait faire consensus, sauf chez Vooruit: l’harmonisation de l’indexation des fonctionnaires et des employés du secteur privé. Cela fait déjà débat....
+
 ### [Mobilité - Audition: Le plan de transport de la SNCB](https://media.dekamer.be/meeting/56-20470-U2204)
 
-**Chambre des représentants** · source publique officielle · 18/11/2026 à 10:14 · score `24`
+**Chambre des représentants** · source publique officielle · 18/11/2026 à 10:14 · score `21`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; impact concret pour la population ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 36 heures ; impact concret pour la population ; agenda institutionnel proche.
 
 > Extrait fourni par la source : Forum F0B Magritte · MOBILITEIT COMM · PLANNED
 
 ### [Réforme du chômage: près de 10.000 Bruxellois de plus pourraient basculer au CPAS d'ici juin 2027](https://www.lalibre.be/belgique/politique-belge/2026/11/18/reforme-du-chomage-pres-de-10000-bruxellois-de-plus-pourraient-basculer-au-cpas-dici-juin-2027-DFZLUUSRBREATFY6G6HSCQ6UWA/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 13:45 · score `23`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 13:45 · score `20`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Le nombre de bénéficiaires du RIS a déjà plus que doublé en Région bruxelloise depuis janvier 2025. Le ministre de l'Emploi Laurent Hublet s'attend à une nouvelle hausse importante dans les prochains mois, alors qu'Actiris ne recevra pas de moyens supplémentaires....
 
+### [Près de 20.000 familles belges sont dans le même cas que Magali: l’impact de la réforme du 1er janvier sera énorme pour elles, « le tarif pourrait atteindre 32 € de l’heure »](https://www.sudinfo.be/id1228244/article/2026-11-19/pres-de-20000-familles-belges-sont-dans-le-meme-cas-que-magali-limpact-de-la)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 11:17 · score `19`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : En Flandre, près de 20 000 familles devront réduire leurs heures d’aide-ménagère en raison d’une nouvelle limitation des titres-services. Une décision qui inquiète les ménages concernés et les professionnels du secteur, qui redoutent notamment une augmentation du travail au noir.
+
+### [L'Union belge des prestataires de soins appelle à une réforme globale du statut BIM: "Répartir plus équitablement l'effort de solidarité"](https://www.lavenir.net/actu/belgique/2026/11/19/lunion-belge-des-prestataires-de-soins-appelle-a-une-reforme-globale-du-statut-bim-repartir-plus-equitablement-leffort-de-solidarite-5635VSXWWBFMPNGJG7NQGDM4PY/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 09:28 · score `19`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : L'Union belge de prestataires de soins (UBPS-BUG) appelle les autorités à se concerter rapidement sur le statut de bénéficiaire de l'intervention majorée (BIM)....
+
+### [Forem, chèques ALE, sanctions: ce qui va changer pour les chômeurs wallons dès janvier 2027](https://www.lavenir.net/actu/belgique/politique/2026/11/18/forem-cheques-ale-sanctions-ce-qui-va-changer-pour-les-chomeurs-wallons-des-janvier-2027-ZGD3KYHSZJEI5NTUQ3FYVXLZXU/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 18:39 · score `19`
+
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; impact concret pour la population.
+
+> Extrait fourni par la source : C’est une réforme “XXL”: le décret “Parcours vers l’emploi” était soumis au vote ce mercredi au Parlement wallon. La nouvelle approche de l’accompagnement des demandeurs d’emploi entre en vigueur en janvier 2027. L’opposition, d’accord sur l’intention mais contre une “approche punitive”, entre autres, annonçait qu’elle ne soutiendrait pas la réforme....
+
 ### [Sécurité nucléaire - Audition: Présentation du rapport annuel 2025 de la Commission des installations nucléaires](https://media.dekamer.be/meeting/56-20473-U2207)
 
-**Chambre des représentants** · source publique officielle · 18/11/2026 à 12:31 · score `22`
+**Chambre des représentants** · source publique officielle · 18/11/2026 à 12:31 · score `19`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 36 heures ; chiffres, étude ou évaluation ; agenda institutionnel proche.
 
 > Extrait fourni par la source : Forum F0A Erasmus · SECURITE NUCLEAIRE COMM · FINISHED
 
 ### [L’IA bouscule la facturation à l’heure chez EY Belgique](https://www.lecho.be/r/t/1/id/10705984)
 
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 12:13 · score `22`
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 12:13 · score `19`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : L’IA bouleverse le modèle économique des cabinets d’audit et de conseils. Chez EY, tarifs horaires, prix fixes et facturation à la valeur ajoutée coexistent désormais. Et ce alors que le chiffre d’affaires de l’exercice 2025-2026 est en recul.
 
-### [Réforme des APE: « puisque la majorité refuse de prendre le temps d’entendre les acteurs concernés… », l’opposition demande l’avis du Conseil d’État sur ses amendements!](https://www.sudinfo.be/id1227516/article/2026-11-17/reforme-des-ape-puisque-la-majorite-refuse-de-prendre-le-temps-dentendre-les)
+### [Plénière - Questions, projets de loi et propositions, interpellations, votes](https://media.dekamer.be/meeting/56-20498-P150)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/11/2026 à 15:08 · score `20`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : L’opposition wallonne PS-PTB-Ecolo a demandé mardi en commission que ses amendements sur la réforme des APE soient soumis au Conseil d’État, invoquant la sécurité juridique et le maintien des emplois.
-
-### [Energie, Environnement et Climat - Questions orales](https://media.dekamer.be/meeting/56-20479-U2213)
-
-**Chambre des représentants** · source publique officielle · 18/11/2026 à 14:30 · score `19`
+**Chambre des représentants** · source publique officielle · 19/11/2026 à 14:14 · score `18`
 
 **Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Forum F0A Erasmus · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · STARTED
+> Extrait fourni par la source : Plénière - Plenaire · Plénière - Plenum · STARTED
 
-Autres publications rapprochées automatiquement : [Chambre des représentants](https://media.dekamer.be/meeting/56-20471-U2205).
+### [Commission decides to refer Greece to the Court of Justice of the European Union for the non-implementation of individual aircraft identification in the field of civil aviation](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2427)
+
+**Commission européenne** · source publique officielle · 19/11/2026 à 00:00 · score `18`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 19 Nov 2026 Today, the European Commission decided to refer Greece (INFR(2024)2237) to the Court of Justice of the European Union for failing to implement the required aircraft identification technology, as mandated by Commission Implementing Regulation (EU) 2017/373, which governs air traffic management and navigation services.
+
+### [Commission decides to refer Austria to the Court of Justice of the European Union for incorrectly applying the European arrest warrant](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2372)
+
+**Commission européenne** · source publique officielle · 19/11/2026 à 00:00 · score `18`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique ; agenda institutionnel proche.
+
+> Extrait fourni par la source : European Commission Press release Brussels, 19 Nov 2026 Today, the European Commission decided to refer Austria (INFR(2020)2307) to the Court of Justice of the European Union for failing to comply with the Framework Decision on the European Arrest Warrant (2002/584/JHA).
+
+## Politiques publiques et société — autres pistes
+
+### [Le marché de Noël de l’abbaye de Maredsous rouvrira ce vendredi: “Un lieu de recueillement sera prévu pour rendre hommage aux personnes blessées”](https://www.lavenir.net/regions/namur/2026/11/19/le-marche-de-noel-de-maredsous-rouvrira-ce-vendredi-un-lieu-de-recueillement-sera-prevu-pour-rendre-hommage-aux-victimes-JZFKYSE7IFE3JNFWNHL3DQJICY/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 14:31 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le marché de Noël de l’abbaye de Maredsous, où a eu lieu dimanche dernier une explosion suivie d’un incendie qui ont fait cinq blessés, sera de nouveau ouvert dès ce vendredi à 17h. Décision prise par le père abbé et l’organisateur. L’annonce a été faite ce jeudi 19 novembre 2026....
+
+### [Theo Francken annonce que deux armes spécialisées de la Défense ont été volées: une enquête est ouverte](https://www.sudinfo.be/id1228289/article/2026-11-19/theo-francken-annonce-que-deux-armes-specialisees-de-la-defense-ont-ete-volees)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 12:28 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Une enquête judiciaire a été ouverte après le vol de deux armes spécialisées de la Défense pendant un transport.
+
+### [Mont Blanc-gletsjer geeft na bijna 40 jaar portefeuille prijs en werpt nieuw licht op mysterieuze verdwijning](https://www.hln.be/buitenland/mont-blanc-gletsjer-geeft-na-bijna-40-jaar-portefeuille-prijs-en-werpt-nieuw-licht-op-mysterieuze-verdwijning~a2794ba4/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 14:57 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Een Mexicaans paspoort, enkele vergeelde treinkaartjes en een bankbiljet van 500 Franse frank. Tientallen jaren liggen ze verborgen in het ijs van de Mont Blanc. Tot een gletsjer de portefeuille prijsgeeft van Eugenio Sotomayor Castañeda, een 22-jarige Mexicaan die in januari 1989 spoorloos is verdwenen. Een Franse politieman doet de bijzondere ontdekking en slaagt erin de familie van Eugenio op te sporen. En dan is er nog de aangrijpende timing: amper enkele weken vóór de vondst was zijn toenmalige verloofde Mónica nog naar Europa gereisd, wanhopig op zoek naar antwoorden die al 38 jaar op…
+
+### [OPROEP. Welke impact heeft de pensioenhervorming op jouw pensioen?](https://www.nieuwsblad.be/economie/geld/oproep.-welke-impact-heeft-de-pensioenhervorming-op-jouw-pensioen/164795120.html)
+
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 14:31 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Vanaf 1 januari 2027 gelden er nieuwe pensioenregels. Wat dat concreet betekent, hangt sterk af van uw loopbaan. Voor sommigen verandert er weinig, voor anderen net veel.
+
+### [“Het is deel van mijn privacy”: Max Verstappen keert zijn kar tegen intrede van nieuw snufje in Formule 1](https://www.hln.be/formule-1/het-is-deel-van-mijn-privacy-max-verstappen-keert-zijn-kar-tegen-intrede-van-nieuw-snufje-in-formule-1~ace7eb5a/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 13:53 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : De intrede van Whoop in de Formule 1 beroert de gemoederen. Niet in het minst bij Max Verstappen. Vanaf volgend seizoen zouden kijkers live de hartslag van de coureurs kunnen zien, maar daar is de Nederlander geen fan van. “Ik vind niet dat mensen dat moeten weten van mij.”
+
+### [Groen: "Rapport Europese Rekenkamer is duidelijk: verbied PFAS nu"](http://www.groen.be/europese-rekenkamer-pfas)
+
+**Groen** · acteur politique · 18/11/2026 à 19:34 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Stop met PFAS te vervangen door andere PFAS. Het is tijd voor een totaalverbod en strengere normen. De gezondheid van mensen moet voorgaan op de belangen van de industrie.
 
 ### [Réforme du chômage: 10.000 demandeurs d’emploi bruxellois supplémentaires risquent de passer au CPAS d’ici juin 2027](https://www.lesoir.be/783430/article/2026-11-18/reforme-du-chomage-10000-demandeurs-demploi-bruxellois-supplementaires-risquent)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 11:38 · score `19`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 11:38 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
 
 > Extrait fourni par la source : A Bruxelles, le nombre de demandeurs d’emploi exclus du chômage et basculant vers le revenu d’intégration sociale a fortement augmenté depuis janvier 2025, selon le ministre Laurent Hublet. Près de 10.000 personnes supplémentaires pourraient encore rejoindre les CPAS d’ici juin 2027.
 
 ### [Question d'actualité du 18/11/2026 - QA 6 (2026-2027)](http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa6.pdf)
 
-**Parlement de Wallonie** · source publique officielle · 18/11/2026 à 09:30 · score `19`
+**Parlement de Wallonie** · source publique officielle · 18/11/2026 à 09:30 · score `16`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 6 heures ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type questions ; contenu de type travaux ; publié depuis moins de 36 heures ; agenda institutionnel proche.
 
 > Extrait fourni par la source : QA -- Séance plénière
 
-### [Réforme APE: des emplois menacés dans les crèches, les maisons de repos, les CPAS et les services communaux](https://ecolo.be/actualites/reforme-ape-ecolo-denonce-une-reforme-precipitee-qui-menace-les-emplois-dans-les-creches-les-maisons-de-repos-les-cpas-et-les-services-communaux/)
+### [Na klacht komt discriminatiebeleid van oud-burgemeester Pieter De Crem nu in het vizier van onderzoeksrechter: wat betekent dat?](https://www.gva.be/binnenland/na-klacht-komt-discriminatiebeleid-van-oud-burgemeester-pieter-de-crem-nu-in-het-vizier-van-onderzoeksrechter-wat-betekent-dat/164802840.html)
 
-**Ecolo** · acteur politique · 17/11/2026 à 16:01 · score `19`
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 15:09 · score `15`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; décision ou réforme publique.
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
 
-### [« Une réforme sismique mais nécessaire »: le ministre Pierre-Yves Jeholet défend la réforme des APE](https://www.sudinfo.be/id1227495/article/2026-11-17/une-reforme-sismique-mais-necessaire-le-ministre-pierre-yves-jeholet-defend-la)
+> Extrait fourni par la source : Er breekt een nieuw hoofdstuk aan in het dossier Pieter De Crem. Door een klacht met burgerlijkepartijstelling schaalt het onderzoek naar het discriminerende inschrijvingsbeleid van de Aalterse ex-burgemeester op van een opsporings- naar een gerechtelijk onderzoek, onder leiding van een onderzoeksrechter. Die kan zelfs overgaan tot een huiszoeking.
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 17/11/2026 à 14:27 · score `19`
+Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/aalter/na-klacht-komt-discriminatiebeleid-van-oud-burgemeester-pieter-de-crem-nu-in-het-vizier-van-onderzoeksrechter-wat-betekent-dat/164776076.html).
 
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; agenda institutionnel proche.
+### ["Je suis complètement choquée par ces chiffres": le CD&V dénonce le détournement du régime appliqué aux étudiants jobistes](https://www.lalibre.be/belgique/2026/11/18/un-job-etudiant-a-plus-de-65-ans-en-belgique-cest-possible-CY57IY437JCABP35XLLJJ7V3TQ/)
 
-> Extrait fourni par la source : Le ministre wallon de l’Emploi, Pierre-Yves Jeholet, a défendu mardi en commission une réforme des APE qu’il juge nécessaire, malgré les critiques de l’opposition et du secteur non marchand. Le texte prévoit un démantèlement progressif du dispositif et un transfert des moyens vers d’autres ministres.
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 18:53 · score `15`
 
-### [Réforme APE: en séance, l’opposition demande un report pour éviter “un vote à l’aveugle”](https://www.lavenir.net/actu/belgique/politique/2026/11/17/reforme-ape-en-seance-lopposition-demande-un-report-pour-eviter-un-vote-a-laveugle-OJD5RMVQXRCENOHTRGNQ3VGKY4/)
+**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 17/11/2026 à 10:44 · score `19`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Le courrier de la confédération d’employeurs l’Unipso a fait son petit effet auprès des députés wallons de l’opposition. Ce mardi matin, en commission, ils ont demandé un report du décret chapeau APE (aides à la promotion de l’emploi). Demande rejetée par la majorité MR/Engagés....
+> Extrait fourni par la source : Le CD&V dénonce le recours abusif au statut de travailleur étudiant, moins taxé. La législation en la matière est assez souple. Le gouvernement prévoit de la revoir....
 
 ### [Hoe MR zijn zin kreeg en Vooruit blijft weigeren: wat waren de kantelmomenten van het begrotingsoverleg?](https://vrtnws.be/p.APQewe6R6)
 
-**VRT NWS** · média d'information · 18/11/2026 à 11:49 · score `18`
+**VRT NWS** · média d'information · 18/11/2026 à 11:49 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : De deadline waarop de federale regering een akkoord wil bereiken over de begroting, schuift al maanden op. Halfweg oktober haalt premier Bart De Wever (N-VA) de btw-hervorming van tafel, de kern van de kritiek van MR. Vooruit blijft nu over als enige partij die de begrotingsplannen onverteerbaar vindt. Een overzicht van afgelopen zomer tot nu.
 
-## Politiques publiques et société — autres pistes
-
 ### [Décret « Parcours étudiant »: voici le nouveau calendrier académique 2028-2029](https://www.lesoir.be/783425/article/2026-11-18/decret-parcours-etudiant-voici-le-nouveau-calendrier-academique-2028-2029)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 11:22 · score `18`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 11:22 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
-### [De plus en plus de personnes ont recours à cette technique illégale, face à la pénurie sur le marché locatif: « On trouve au moins un candidat malhonnête pour chaque bien à louer »](https://www.sudinfo.be/id1227779/article/2026-11-18/de-plus-en-plus-de-personnes-ont-recours-cette-technique-illegale-face-la)
+### [Indexation automatique des salaires: quelles sont les pistes de réforme, plus ou moins réalistes?](https://www.rtbf.be/article/indexation-automatique-des-salaires-quelles-sont-les-pistes-de-reforme-plus-ou-moins-realistes-11817912)
 
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 09:30 · score `18`
+**RTBF Info** · média d'information · 19/11/2026 à 14:32 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
 
-> Extrait fourni par la source : Face à la pénurie sur le marché locatif, des candidats falsifient de plus en plus souvent fiches de paie et autres documents pour obtenir un logement, selon plusieurs agences immobilières en Belgique.
+> Extrait fourni par la source : L’accord de gouvernement Arizona conclu au début de l’année 2025 prévoyait un maintien de l’indexation automatique...
 
-### [100 000 offres d’emploi en moins en 2026 à cause de l’IA: de nombreux métiers menacés](https://www.lavenir.net/actu/societe/emploi/2026/11/17/100-000-offres-demploi-en-moins-en-2026-a-cause-de-lia-de-nombreux-metiers-menaces-KSXWRONZE5HM3J5EB7IVMHN5EM/)
+### [Commissioner Roswall's address at the 2nd European Bioeconomy Conference](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2518)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 17/11/2026 à 18:48 · score `18`
+**Commission européenne** · source publique officielle · 19/11/2026 à 11:43 · score `14`
 
-**Signal éditorial :** publié depuis moins de 24 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Le déploiement de l’intelligence artificielle mène à une baisse notable des offres d’emploi dans plusieurs secteurs. C’est ce qui ressort d’une récente étude en France....
+> Extrait fourni par la source : European Commission Speech Brussels, 19 Nov 2026 Ladies and gentlemen, colleagues, friends, It is a huge pleasure to welcome you all to the second European Bioeconomy Conference. Twelve months have passed sinc...
 
-### [Enseignement: le PS appelle Les Engagés à renoncer à la limitation de l’indexation des salaires des enseignants](http://www.ps.be/enseignement_le_ps_appelle_les_engages_renoncer_la_limitation_de_l_indexation_des_salaires_des_enseignants)
+### ["QR le débat": Vers un accord équilibré ou une crise? Revivez notre direct](https://www.rtbf.be/article/qr-le-debat-vers-un-accord-equilibre-ou-une-crise-revivez-notre-direct-11816868)
 
-**Parti Socialiste** · acteur politique · 17/11/2026 à 14:59 · score `18`
+**RTBF Info** · média d'information · 18/11/2026 à 22:57 · score `14`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Selon les informations relayées par l’agence Belga ce jour, Maxime Prévot et les Engagés soutiennent au fédéral l’idée de ne pas procéder à la prochaine indexation du salaire des personnels de l’enseignement ou d’en réduire fortement le montant.
-
-### [La grosse réforme des 70 000 emplois APE entre en scène au Parlement wallon](https://www.lavenir.net/actu/belgique/politique/2026/11/17/la-grosse-reforme-des-70-000-emplois-ape-entre-en-scene-au-parlement-wallon-6E4YJ2D76ZAAHALJJZEUXH2J5I/)
-
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 17/11/2026 à 06:00 · score `18`
-
-**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population.
-
-> Extrait fourni par la source : Le dispositif de soutien à l’emploi “APE” pèse 1,3 milliard dans le budget wallon. Il concerne 70 000 personnes et commencera à disparaître en janvier 2027. Cette réforme qui suscite pas mal d’inquiétudes arrive au Parlement wallon ce mardi....
+> Extrait fourni par la source : Le conseil des ministres retreint (kern) parviendra-t-il à boucler son budget fédéral d’ici le 23 novembre? Dans...
 
 ### [Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven](https://www.hbvl.be/regio/vlaams-brabant/oost-brabant/diest/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164739106.html)
 
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 14:25 · score `17`
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 14:25 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Wie regelmatig bij de apotheek over de vloer komt, kent zijn of haar apotheker vaak beter dan gedacht. Die nabijheid kan ook een belangrijke troef zijn in de strijd tegen COPD. Met Respira! lanceert apothekersvereniging Apotheia vandaag een nieuw lokaal gezondheidsinitiatief in de regio Tienen-Diest. Het doel is duidelijk: mensen met COPD die extra ondersteuning nodig hebben, sneller herkennen en hen beter begeleiden bij hun behandeling.
 
 Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html).
 
-### [Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026](https://www.cwape.be/documents-recents/indicateurs-de-performance-des-fournisseurs-de-gaz-et-delectricite-en-region-0)
-
-**Commission wallonne pour l'Énergie** · source publique officielle · 17/11/2026 à 13:48 · score `16`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type décisions ; contenu de type avis ; publié depuis moins de 36 heures.
-
-> Extrait fourni par la source : Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026 Veronique 17-11-2026 Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026 17-11-2026 Afin de répondre à une des missions qui lui ont été confiées, la CWaPE a développé des indicateurs de performance afin de quantifier de manière transparente, objective et non-discriminatoire…
-
-### [La pédopornographie générée par IA, ce nouveau fléau: “quasi impossible de faire la différence avec une image réelle mais c’est tout aussi atroce”](https://www.dhnet.be/actu/faits/2026/11/18/la-pedopornographie-generee-par-ia-ce-nouveau-fleau-quasi-impossible-de-faire-la-difference-avec-une-image-reelle-mais-cest-tout-aussi-atroce-L4GGUYHIRJHBZC63SMVCSFVCME/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 13:10 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Sur les six premiers mois de 2026, la production d’images pédopornographiques générées via l’intelligence artificielle a déjà quasi doublé par rapport à l’ensemble de l’année précédente....
-
-### [Commission opens Erasmus+ 2027 call with over €5.3 billion for wider opportunities in education, training, youth and sport](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2494)
-
-**Commission européenne** · source publique officielle · 18/11/2026 à 10:31 · score `15`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 18 Nov 2026 Today, the European Commission opens the 2027 Erasmus+ call for proposals with a budget of over €5.3 billion. The call is expected to offer learning mobility experiences in all education sectors for an estimated 1.6 million participants and support over 120,000 organisations.
-
 ### [Le RWLP en manifestation à Namur pour soutenir les services publics!](https://rwlp.be/le-rwlp-en-manifestation-a-namur-pour-soutenir-les-services-publics/)
 
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 18/11/2026 à 08:13 · score `15`
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 18/11/2026 à 08:13 · score `13`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 12 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
 
 > Extrait fourni par la source : Ce mercredi 18 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté était en manifestation, à Namur, en front commun syndical afin de soutenir les services publics! Les services publics sont le patrimoine des populations qui n’en ont pas! Appauvrir les services publics, c’est appauvrir la population! Informations pratiques: Quand? Le mercredi 18 novembre 2026 à 10hOù? Rassemblement devant la gare de Namur et cortège jusqu’au Parlement Wallon avec dissolution à 13h En savoir plus sur la manifestation de ce mercredi 18 novembre 2026: Rtbf La Libre
 
-### [NMBS stelt lege treinen in vroege uurtjes open voor reizigers, tegen 2033 airco in alle treinen](https://www.gva.be/binnenland/nmbs-stelt-lege-treinen-in-vroege-uurtjes-open-voor-reizigers-tegen-2033-airco-in-alle-treinen/164734070.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 13:25 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; changement, alerte ou échéance ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Spoorwegmaatschappij NMBS zal vanaf midden december een reeks treinen die nu nog leeg rondrijden, openstellen voor reizigers. Het is een van de maatregelen waarmee ze het aanbod kan uitbreiden. Dat is gezegd tijdens een hoorzitting over het nieuwe vervoersplan van NMBS in de Kamercommissie Mobiliteit.
-
-Autres publications rapprochées automatiquement : [Het Belang van Limburg](https://www.hbvl.be/binnenland/nmbs-stelt-lege-treinen-in-vroege-uurtjes-open-voor-reizigers-tegen-2033-airco-in-alle-treinen/164735738.html).
-
-### [Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499)
-
-**Commission européenne** · source publique officielle · 18/11/2026 à 12:36 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including outreach to and engagement with third countries.
-
-### [Press point by President von der Leyen together with Commissioners Dombrovskis and Kubilius on an Instrument for Coordinated Support to Ukraine](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2487)
-
-**Commission européenne** · source publique officielle · 18/11/2026 à 09:51 · score `14`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Statement Brussels, 18 Nov 2026 Thank you very much, good morning, We had a very productive European Council in Ireland last week. The support to Ukraine was one of the key topics. Among other...
-
 ### [Ce lundi 23 novembre 2026, le RWLP sera dans les rues de Bruxelles pour la manifestation nationale en front commun syndical!](https://rwlp.be/ce-lundi-23-novembre-2026-le-rwlp-sera-dans-les-rues-de-bruxelles-pour-la-manifestation-nationale-en-front-commun-syndical/)
 
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 18/11/2026 à 08:44 · score `14`
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 18/11/2026 à 08:44 · score `12`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 12 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
 
 > Extrait fourni par la source : Ce lundi 23 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté, aux côtés du monde associatif, des syndicats, des travailleurs.euses, des jeunes, des étudiant.es, des pensionné.es et des citoyen.nes engagé.es, sera dans les rues de Bruxelles pour la manifestation nationale en front commun syndical! Alors que les fins de mois sont toujours plus difficiles, les emplois se fragilisent, les services publics restent sous pression, … Et plutôt que de répondre à ces réalités sociales, le Gouvernement Arizona prend des orientations qui accentuent les inégalités et font peser de nouvelles…
-
-### ["QR le débat": Vers un accord équilibré ou une crise? Votez et commentez](https://www.rtbf.be/article/qr-le-debat-vers-un-accord-equilibre-ou-une-crise-votez-et-commentez-11816868)
-
-**RTBF Info** · média d'information · 17/11/2026 à 16:51 · score `14`
-
-**Signal éditorial :** publié depuis moins de 24 heures ; décision ou réforme publique ; agenda institutionnel proche.
-
-> Extrait fourni par la source : Le conseil des ministres retreint (kern) parviendra-t-il à boucler son budget fédéral d'ici le 23 novembre? Dans les...
-
-### [Etudiants bloqués à Gaza: Le Parlement FWB soutient avec une majorité alternative la résolution d’Ecolo](https://ecolo.be/actualites/etudiants-bloques-a-gaza-le-parlement-fwb-soutient-avec-une-majorite-alternative-la-resolution-decolo/)
-
-**Ecolo** · acteur politique · 17/11/2026 à 14:54 · score `13`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-### [Assemblée consultative des membres: 30 militants au travail pour nourrir le projet libéral](https://www.mr.be/actu/actualites-2/assemblee-consultative-des-membres-30-militants-au-travail-pour-nourrir-le-projet-liberal-2130)
-
-**Mouvement Réformateur** · acteur politique · 17/11/2026 à 15:46 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type communiqués ; publié depuis moins de 24 heures.
-
-> Extrait fourni par la source : Le 12 novembre, l’Assemblée consultative des membres (ACM) 2026-2027 s’est réunie au siège du MR, en présence de Georges-Louis Bouchez. Tirés au sort parmi les membres du parti, ses 30 participants on...
 
 ## Justice, droits et contrôle — autres pistes
 
 ### [Advocaat uit Gingelom in beroep schuldig bevonden aan valsheid in geschrifte, maar vrijgesproken van afpersing](https://vrtnws.be/p.DYM6LAneX)
 
-**VRT NWS** · média d'information · 18/11/2026 à 11:24 · score `18`
+**VRT NWS** · média d'information · 18/11/2026 à 11:24 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Een advocaat uit Gingelom is in beroep veroordeeld tot een werkstraf van 150 uur en een boete van 1.600 euro voor het opstellen van een valse factuur. De factuur was opgesteld voor de installatie van een alcoholslot. In eerste aanleg was de man ook veroordeeld voor afpersing van een garagist, maar het Hof van Beroep heeft hem daarvoor vrijgesproken.
 
 ### [Bekende Limburgse strafpleiter niet meer schuldig aan afpersing, wel aan gebruik van valse factuur](https://www.hbvl.be/regio/limburg/sint-truiden/bekende-limburgse-strafpleiter-niet-meer-schuldig-aan-afpersing-wel-aan-gebruik-van-valse-factuur/164719732.html)
 
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 10:13 · score `18`
+**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 10:13 · score `15`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
 
 > Extrait fourni par la source : Het Antwerps hof van beroep heeft de straf voor advocaat Bert Vanmechelen (47) van 14 maanden cel, waarvan de helft met uitstel, teruggebracht tot een werkstraf van 150 uur. De strafpleiter is woensdag vrijgesproken van afpersing van een garagist, maar is wel schuldig bevonden aan het gebruik van valse stukken.
 
 ## Économie, emploi et consommateurs — autres pistes
 
-### [Focus n°87: Pourquoi les entreprises choisissent-elles de s’installer à Bruxelles?](https://ibsa.brussels/node/3605)
+### [La ville de Libramont-Chevigny augmente les taxes communales](https://www.tvlux.be/https://www.tvlux.be/actu/info/politique/la-ville-de-libramont-chevigny-augmente-les-taxes-communales_53112)
 
-**Institut Bruxellois de Statistique et d'Analyse** · source publique officielle · 18/11/2026 à 14:45 · score `17`
+**TV Lux** · média d'information · 18/11/2026 à 14:49 · score `18`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type statistiques ; contenu de type actualités ; nouvel élément d'un flux sans date fournie ; impact concret pour la population.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; impact concret pour la population ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Proximité des clients, accès à une main-d’œuvre qualifiée, infrastructures de transport, possibilités de financement ou encore environnement
+> Extrait fourni par la source : Lors de sa séance de ce mardi soir, le conseil communal de Libramont-Chevigny a approuvé l'augmentation des taxes communales. L'impôt des personnes physiques passe de 7,5 à 8,5 % et le précompte immobilier passe de 2650 à 2750 centimes additionnels.
 
-### [Mons: surcoût de 60 millions d’euros dans le cadre d’un chantier du Shape](https://www.lesoir.be/783467/article/2026-11-18/mons-surcout-de-60-millions-deuros-dans-le-cadre-dun-chantier-du-shape)
+### [Ce qui était redouté est désormais une réalité pour tous les Wallons: le prix passe de 10,60 à 11,20 €… et ce n’est pas terminé!](https://www.sudinfo.be/id1228314/article/2026-11-19/ce-qui-etait-redoute-est-desormais-une-realite-pour-tous-les-wallons-le-prix)
 
-**Le Soir** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 13:55 · score `16`
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 19/11/2026 à 13:25 · score `17`
 
 **Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : La construction du futur siège de l’Agence de communication et d’information de l’Otan à Casteau (Mons) coûtera près de 60 millions d’euros de plus que prévu, en raison d’inconnues techniques et de la hausse des prix.
+> Extrait fourni par la source : Les titres-services coûteront plus cher en Wallonie dès le 1er janvier 2027. Le prix de base passera de 10,60 à 11,20 euros et la réduction d’impôt régionale sera supprimée. Voici ce qui change pour les utilisateurs et les précautions à prendre avant la fin de l’année.
+
+### [Une propriété de la STIB transformée en logement social](https://stib.prezly.com/une-propriete-de-la-stib-transformee-en-logement-social)
+
+**STIB** · source publique officielle · 19/11/2026 à 14:06 · score `16`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures ; impact concret pour la population.
 
 ### [Nouveau Shape: la facture grimpe à près de 200 millions d’euros pour la Belgique après “une sous-estimation initiale du marché”](https://www.lalibre.be/belgique/politique-belge/2026/11/18/nouveau-shape-la-facture-grimpe-a-pres-de-200-millions-deuros-pour-la-belgique-apres-une-sous-estimation-initiale-du-marche-BASGFE7SR5EPPH2FFR3CBEDRTQ/)
 
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 06:16 · score `16`
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 06:16 · score `14`
 
-**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Notre pays prend en charge la construction de l’Agence de communication et d’information de l’Otan (la NCIA), dont le coût ne fait qu’augmenter....
-
-### [Aerospacelab signe un accord avec le franco-américain Loft Orbital](https://www.lecho.be/r/t/1/id/10705999)
-
-**L'Echo** · média d'information · article possiblement réservé aux abonnés · 18/11/2026 à 11:47 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : La société wallonne Aerospacelab et l'entreprise franco-américaine Loft Orbital ont signé un protocole d'accord pour faciliter l'accès aux plateformes satellitaires haute puissance en Europe.
-
-### [350 travailleurs d'UPS, inquiets pour l'emploi, bloquent le site de Skechers, un client important du groupe](https://www.qu4tre.be/infos/economie/350-travailleurs-dups-inquiets-pour-lemploi-bloquent-le-site-de-skechers-un-client-important-du-groupe/2017739)
-
-**Qu4tre** · média d'information · 18/11/2026 à 11:10 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
-
-> Extrait fourni par la source : 350 travailleurs d'UPS protestaient ce matin devant le centre européen de Skechers à Milmort contre le refus de la direction du groupe américain UPS de poursuivre les discussions sur le maintien de l'emploi. On parle de 525 emplois menacés 350 travailleurs d'UPS sont venus de différents coins du pays pour bloquer le centre logistique européen de Skechers à Milmort. Une manière de protester en front commun CNE-Setca-Synova, contre le refus de la direction du groupe américain de transport et de livraison UPS de poursuivre les discussions sur le maintien de l'emploi. En juin dernier, la filiale…
 
 ## Méthode et limites
 

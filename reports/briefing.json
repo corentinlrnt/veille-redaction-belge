@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "generator": "veille-redaction-belge/briefing-0.1.0",
-  "generated_at": "2026-11-18T13:45:59.967265Z",
+  "generated_at": "2026-11-19T14:15:48.584062Z",
   "summary": {
-    "collected_items": 3446,
+    "collected_items": 3498,
     "selected_items": 36,
-    "excluded_items": 4,
+    "excluded_items": 6,
     "excluded_by_rule": {
-      "actualité étrangère sans angle belge ou effet concret identifié": 1,
+      "actualité étrangère sans angle belge ou effet concret identifié": 3,
       "agrégat institutionnel sans sujet unique": 2,
       "marchés financiers au fil de l'eau": 1
     },
@@ -16,12 +16,93 @@
       "news_media": 14
     },
     "by_section": {
-      "politics": 28,
       "economy": 6,
+      "politics": 28,
       "justice": 2
     }
   },
   "items": [
+    {
+      "item_id": "777bbfee1faf4858968e80f0",
+      "source_id": "fps_economy",
+      "source_name": "SPF Économie",
+      "source_class": "public_body",
+      "institution_level": "fédéral",
+      "geography": "Belgique",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "economy_atom",
+      "endpoint_label": "Flux des communiqués",
+      "content_scope": "communiqués|analyses",
+      "language": "fr",
+      "title": "Prix alimentaires: le répit pourrait être de courte durée",
+      "url": "https://news.economie.fgov.be/274732-prix-alimentaires-le-repit-pourrait-etre-de-courte-duree/",
+      "summary": "Après la baisse des prix des matières premières alimentaires en 2025, les tensions géopolitiques et climatiques pourraient entraîner de nouvelles hausses en 2026. Parallèlement, la rentabilité reste très contrastée au sein de la chaîne alimentaire.",
+      "published_at": "2026-11-19T08:00:00Z",
+      "retrieved_at": "2026-11-19T14:15:31.432606Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 23,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 6,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type analyses",
+        "contenu de type communiqués",
+        "publié depuis moins de 12 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "86a2cfafa698b5105b5153a0",
+      "source_id": "dhnet",
+      "source_name": "DH Les Sports+",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "dhnet_rss",
+      "endpoint_label": "Flux actualités",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "Indexation des salaires: les fonctionnaires de nouveau dans le viseur de l’Arizona, les syndicats menacent déjà d’un recours",
+      "url": "https://www.dhnet.be/actu/belgique/2026/11/19/indexation-des-salaires-les-fonctionnaires-de-nouveau-dans-le-viseur-de-larizona-les-syndicats-menacent-deja-dun-recours-3ABNUE3IYVGXFL3Z5PWFGKME7A/",
+      "summary": "Sur la table des négociateurs figurent plusieurs mesures relatives à une réforme de l’indexation des salaires. Un point en particulier pourrait faire consensus, sauf chez Vooruit: l’harmonisation de l’indexation des fonctionnaires et des employés du secteur privé. Cela fait déjà débat....",
+      "published_at": "2026-11-19T07:27:03Z",
+      "retrieved_at": "2026-11-19T14:15:41.360476Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 21,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
     {
       "item_id": "5976fad4c6082944d0bdf7d7",
       "source_id": "chamber",
@@ -47,7 +128,7 @@
       "first_seen_at": "2026-11-17T14:14:31.823250Z",
       "observation_status": "cached",
       "seen_count": 1,
-      "score": 24,
+      "score": 21,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 14,
@@ -59,7 +140,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type travaux",
         "contenu de type agenda",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "agenda institutionnel proche"
       ],
@@ -82,14 +163,14 @@
       "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/18/reforme-du-chomage-pres-de-10000-bruxellois-de-plus-pourraient-basculer-au-cpas-dici-juin-2027-DFZLUUSRBREATFY6G6HSCQ6UWA/",
       "summary": "Le nombre de bénéficiaires du RIS a déjà plus que doublé en Région bruxelloise depuis janvier 2025. Le ministre de l'Emploi Laurent Hublet s'attend à une nouvelle hausse importante dans les prochains mois, alors qu'Actiris ne recevra pas de moyens supplémentaires....",
       "published_at": "2026-11-18T12:45:08Z",
-      "retrieved_at": "2026-11-18T13:45:56.314496Z",
+      "retrieved_at": "2026-11-19T14:15:41.328705Z",
       "categories": [
         "Politique belge"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 23,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 20,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -99,10 +180,127 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9f6e59b5693a60570fefabc9",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Près de 20.000 familles belges sont dans le même cas que Magali: l’impact de la réforme du 1er janvier sera énorme pour elles, « le tarif pourrait atteindre 32 € de l’heure »",
+      "url": "https://www.sudinfo.be/id1228244/article/2026-11-19/pres-de-20000-familles-belges-sont-dans-le-meme-cas-que-magali-limpact-de-la",
+      "summary": "En Flandre, près de 20 000 familles devront réduire leurs heures d’aide-ménagère en raison d’une nouvelle limitation des titres-services. Une décision qui inquiète les ménages concernés et les professionnels du secteur, qui redoutent notamment une augmentation du travail au noir.",
+      "published_at": "2026-11-19T10:17:25Z",
+      "retrieved_at": "2026-11-19T14:15:41.024629Z",
+      "categories": [
+        "Conso"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "3608f499ffb78ee3cc1ffc3c",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "L'Union belge des prestataires de soins appelle à une réforme globale du statut BIM: \"Répartir plus équitablement l'effort de solidarité\"",
+      "url": "https://www.lavenir.net/actu/belgique/2026/11/19/lunion-belge-des-prestataires-de-soins-appelle-a-une-reforme-globale-du-statut-bim-repartir-plus-equitablement-leffort-de-solidarite-5635VSXWWBFMPNGJG7NQGDM4PY/",
+      "summary": "L'Union belge de prestataires de soins (UBPS-BUG) appelle les autorités à se concerter rapidement sur le statut de bénéficiaire de l'intervention majorée (BIM)....",
+      "published_at": "2026-11-19T08:28:31Z",
+      "retrieved_at": "2026-11-19T14:15:43.386115Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "d47439e2c4435e426061b1d9",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Forem, chèques ALE, sanctions: ce qui va changer pour les chômeurs wallons dès janvier 2027",
+      "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/18/forem-cheques-ale-sanctions-ce-qui-va-changer-pour-les-chomeurs-wallons-des-janvier-2027-ZGD3KYHSZJEI5NTUQ3FYVXLZXU/",
+      "summary": "C’est une réforme “XXL”: le décret “Parcours vers l’emploi” était soumis au vote ce mercredi au Parlement wallon. La nouvelle approche de l’accompagnement des demandeurs d’emploi entre en vigueur en janvier 2027. L’opposition, d’accord sur l’intention mais contre une “approche punitive”, entre autres, annonçait qu’elle ne soutiendrait pas la réforme....",
+      "published_at": "2026-11-18T17:39:10Z",
+      "retrieved_at": "2026-11-19T14:15:43.386115Z",
+      "categories": [
+        "Politique"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 19,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 14,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
       ],
       "related_items": []
     },
@@ -129,9 +327,9 @@
         "Chambre"
       ],
       "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
+      "observation_status": "cached",
       "seen_count": 2,
-      "score": 22,
+      "score": 19,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -143,7 +341,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type travaux",
         "contenu de type agenda",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "chiffres, étude ou évaluation",
         "agenda institutionnel proche"
       ],
@@ -171,9 +369,9 @@
         "Entreprises"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 22,
+      "score": 19,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 4,
@@ -183,7 +381,7 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
@@ -191,48 +389,7 @@
       "related_items": []
     },
     {
-      "item_id": "8c6decad65e06e3610ce58c3",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "Réforme des APE: « puisque la majorité refuse de prendre le temps d’entendre les acteurs concernés… », l’opposition demande l’avis du Conseil d’État sur ses amendements!",
-      "url": "https://www.sudinfo.be/id1227516/article/2026-11-17/reforme-des-ape-puisque-la-majorite-refuse-de-prendre-le-temps-dentendre-les",
-      "summary": "L’opposition wallonne PS-PTB-Ecolo a demandé mardi en commission que ses amendements sur la réforme des APE soient soumis au Conseil d’État, invoquant la sécurité juridique et le maintien des emplois.",
-      "published_at": "2026-11-17T14:08:06Z",
-      "retrieved_at": "2026-11-17T14:14:27.151283Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 20,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "public_decision",
-        "accountability",
-        "agenda"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "747808bb439e937b099c2a69",
+      "item_id": "08c3639bdf5e8f34057e9665",
       "source_id": "chamber",
       "source_name": "Chambre des représentants",
       "source_class": "parliament",
@@ -244,22 +401,22 @@
       "endpoint_label": "Réunions vidéo planifiées",
       "content_scope": "agenda|travaux",
       "language": "fr",
-      "title": "Energie, Environnement et Climat - Questions orales",
-      "url": "https://media.dekamer.be/meeting/56-20479-U2213",
-      "summary": "Forum F0A Erasmus · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · STARTED",
-      "published_at": "2026-11-18T13:30:46Z",
-      "retrieved_at": "2026-11-18T13:45:51.180618Z",
+      "title": "Plénière - Questions, projets de loi et propositions, interpellations, votes",
+      "url": "https://media.dekamer.be/meeting/56-20498-P150",
+      "summary": "Plénière - Plenaire · Plénière - Plenum · STARTED",
+      "published_at": "2026-11-19T13:14:22Z",
+      "retrieved_at": "2026-11-19T14:15:31.804322Z",
       "categories": [
         "agenda",
         "Chambre"
       ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 19,
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 14,
+      "section_strength": 10,
       "matched_signals": [
         "agenda"
       ],
@@ -270,14 +427,435 @@
         "publié depuis moins de 6 heures",
         "agenda institutionnel proche"
       ],
-      "related_items": [
-        {
-          "source_id": "chamber",
-          "source_name": "Chambre des représentants",
-          "title": "Energie, Environnement et Climat - Questions orales",
-          "url": "https://media.dekamer.be/meeting/56-20471-U2205"
-        }
-      ]
+      "related_items": []
+    },
+    {
+      "item_id": "ea9718dc309504bf0dd18094",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Commission decides to refer Greece to the Court of Justice of the European Union for the non-implementation of individual aircraft identification in the field of civil aviation",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2427",
+      "summary": "European Commission Press release Brussels, 19 Nov 2026 Today, the European Commission decided to refer Greece (INFR(2024)2237) to the Court of Justice of the European Union for failing to implement the required aircraft identification technology, as mandated by Commission Implementing Regulation (EU) 2017/373, which governs air traffic management and navigation services.",
+      "published_at": "2026-11-18T23:00:00Z",
+      "retrieved_at": "2026-11-19T14:15:48.157408Z",
+      "categories": [
+        "POLICY_AREA=TRANSPORT"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 8,
+      "matched_signals": [
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "fe1c83d7d7f649c395bfb040",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Commission decides to refer Austria to the Court of Justice of the European Union for incorrectly applying the European arrest warrant",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2372",
+      "summary": "European Commission Press release Brussels, 19 Nov 2026 Today, the European Commission decided to refer Austria (INFR(2020)2307) to the Court of Justice of the European Union for failing to comply with the Framework Decision on the European Arrest Warrant (2002/584/JHA).",
+      "published_at": "2026-11-18T23:00:00Z",
+      "retrieved_at": "2026-11-19T14:15:48.157408Z",
+      "categories": [
+        "POLICY_AREA=JFRC"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision",
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "fe867b0308b65d6603d2735a",
+      "source_id": "tv_lux",
+      "source_name": "TV Lux",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "tv_lux_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|presse|terrain|politique|économie",
+      "language": "fr",
+      "title": "La ville de Libramont-Chevigny augmente les taxes communales",
+      "url": "https://www.tvlux.be/https://www.tvlux.be/actu/info/politique/la-ville-de-libramont-chevigny-augmente-les-taxes-communales_53112",
+      "summary": "Lors de sa séance de ce mardi soir, le conseil communal de Libramont-Chevigny a approuvé l'augmentation des taxes communales. L'impôt des personnes physiques passe de 7,5 à 8,5 % et le précompte immobilier passe de 2650 à 2750 centimes additionnels.",
+      "published_at": "2026-11-18T13:49:00Z",
+      "retrieved_at": "2026-11-19T14:15:45.542536Z",
+      "categories": [
+        "info"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 18,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "public_decision",
+        "citizen_impact",
+        "agenda"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 36 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "593615f855d712a34933d901",
+      "source_id": "lavenir",
+      "source_name": "L'Avenir",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "lavenir_rss",
+      "endpoint_label": "Flux Belgique",
+      "content_scope": "actualités|presse|Belgique|terrain",
+      "language": "fr",
+      "title": "Le marché de Noël de l’abbaye de Maredsous rouvrira ce vendredi: “Un lieu de recueillement sera prévu pour rendre hommage aux personnes blessées”",
+      "url": "https://www.lavenir.net/regions/namur/2026/11/19/le-marche-de-noel-de-maredsous-rouvrira-ce-vendredi-un-lieu-de-recueillement-sera-prevu-pour-rendre-hommage-aux-victimes-JZFKYSE7IFE3JNFWNHL3DQJICY/",
+      "summary": "Le marché de Noël de l’abbaye de Maredsous, où a eu lieu dimanche dernier une explosion suivie d’un incendie qui ont fait cinq blessés, sera de nouveau ouvert dès ce vendredi à 17h. Décision prise par le père abbé et l’organisateur. L’annonce a été faite ce jeudi 19 novembre 2026....",
+      "published_at": "2026-11-19T13:31:10Z",
+      "retrieved_at": "2026-11-19T14:15:43.386115Z",
+      "categories": [
+        "Namur"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "public_decision",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "7172f943308f485135a79daf",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Ce qui était redouté est désormais une réalité pour tous les Wallons: le prix passe de 10,60 à 11,20 €… et ce n’est pas terminé!",
+      "url": "https://www.sudinfo.be/id1228314/article/2026-11-19/ce-qui-etait-redoute-est-desormais-une-realite-pour-tous-les-wallons-le-prix",
+      "summary": "Les titres-services coûteront plus cher en Wallonie dès le 1er janvier 2027. Le prix de base passera de 10,60 à 11,20 euros et la réduction d’impôt régionale sera supprimée. Voici ce qui change pour les utilisateurs et les précautions à prendre avant la fin de l’année.",
+      "published_at": "2026-11-19T12:25:57Z",
+      "retrieved_at": "2026-11-19T14:15:41.024629Z",
+      "categories": [
+        "Mon argent"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "2c14f70d29fdd1e592f56920",
+      "source_id": "sudinfo",
+      "source_name": "Sudinfo",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "sudinfo_rss",
+      "endpoint_label": "Flux principal",
+      "content_scope": "actualités|presse|terrain",
+      "language": "fr",
+      "title": "Theo Francken annonce que deux armes spécialisées de la Défense ont été volées: une enquête est ouverte",
+      "url": "https://www.sudinfo.be/id1228289/article/2026-11-19/theo-francken-annonce-que-deux-armes-specialisees-de-la-defense-ont-ete-volees",
+      "summary": "Une enquête judiciaire a été ouverte après le vol de deux armes spécialisées de la Défense pendant un transport.",
+      "published_at": "2026-11-19T11:28:29Z",
+      "retrieved_at": "2026-11-19T14:15:41.024629Z",
+      "categories": [
+        "Belgique"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 17,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact",
+        "evidence"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "f3c9bb1fefc4b3346b24a6a5",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "Mont Blanc-gletsjer geeft na bijna 40 jaar portefeuille prijs en werpt nieuw licht op mysterieuze verdwijning",
+      "url": "https://www.hln.be/buitenland/mont-blanc-gletsjer-geeft-na-bijna-40-jaar-portefeuille-prijs-en-werpt-nieuw-licht-op-mysterieuze-verdwijning~a2794ba4/",
+      "summary": "Een Mexicaans paspoort, enkele vergeelde treinkaartjes en een bankbiljet van 500 Franse frank. Tientallen jaren liggen ze verborgen in het ijs van de Mont Blanc. Tot een gletsjer de portefeuille prijsgeeft van Eugenio Sotomayor Castañeda, een 22-jarige Mexicaan die in januari 1989 spoorloos is verdwenen. Een Franse politieman doet de bijzondere ontdekking en slaagt erin de familie van Eugenio op te sporen. En dan is er nog de aangrijpende timing: amper enkele weken vóór de vondst was zijn toenmalige verloofde Mónica nog naar Europa gereisd, wanhopig op zoek naar antwoorden die al 38 jaar op…",
+      "published_at": "2026-11-19T13:57:00Z",
+      "retrieved_at": "2026-11-19T14:15:41.736097Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "9de798d07d3ddfd0cbe7202e",
+      "source_id": "het_nieuwsblad",
+      "source_name": "Het Nieuwsblad",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "het_nieuwsblad_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "OPROEP. Welke impact heeft de pensioenhervorming op jouw pensioen?",
+      "url": "https://www.nieuwsblad.be/economie/geld/oproep.-welke-impact-heeft-de-pensioenhervorming-op-jouw-pensioen/164795120.html",
+      "summary": "Vanaf 1 januari 2027 gelden er nieuwe pensioenregels. Wat dat concreet betekent, hangt sterk af van uw loopbaan. Voor sommigen verandert er weinig, voor anderen net veel.",
+      "published_at": "2026-11-19T13:31:11Z",
+      "retrieved_at": "2026-11-19T14:15:41.986809Z",
+      "categories": [
+        "Geld"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 2,
+      "matched_signals": [
+        "citizen_impact",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "163922de4425ddee3597d78a",
+      "source_id": "stib",
+      "source_name": "STIB",
+      "source_class": "public_company",
+      "institution_level": "région",
+      "geography": "Bruxelles",
+      "official_status": "official_public",
+      "access_model": "",
+      "endpoint_id": "stib_press_rss",
+      "endpoint_label": "Flux presse",
+      "content_scope": "communiqués|mobilité",
+      "language": "fr",
+      "title": "Une propriété de la STIB transformée en logement social",
+      "url": "https://stib.prezly.com/une-propriete-de-la-stib-transformee-en-logement-social",
+      "summary": "",
+      "published_at": "2026-11-19T13:06:00Z",
+      "retrieved_at": "2026-11-19T14:15:35.112600Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "economy",
+      "section_label": "Économie, emploi et consommateurs",
+      "section_strength": 4,
+      "matched_signals": [
+        "citizen_impact"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "4ed8aba04956e9e7c2b58dd2",
+      "source_id": "hln",
+      "source_name": "Het Laatste Nieuws",
+      "source_class": "news_media",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "hln_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "nl",
+      "title": "“Het is deel van mijn privacy”: Max Verstappen keert zijn kar tegen intrede van nieuw snufje in Formule 1",
+      "url": "https://www.hln.be/formule-1/het-is-deel-van-mijn-privacy-max-verstappen-keert-zijn-kar-tegen-intrede-van-nieuw-snufje-in-formule-1~ace7eb5a/",
+      "summary": "De intrede van Whoop in de Formule 1 beroert de gemoederen. Niet in het minst bij Max Verstappen. Vanaf volgend seizoen zouden kijkers live de hartslag van de coureurs kunnen zien, maar daar is de Nederlander geen fan van. “Ik vind niet dat mensen dat moeten weten van mij.”",
+      "published_at": "2026-11-19T12:53:00Z",
+      "retrieved_at": "2026-11-19T14:15:41.736097Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 0,
+      "matched_signals": [
+        "accountability",
+        "change_alert"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "contrôle, droits ou responsabilité publique",
+        "changement, alerte ou échéance"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "8a04bb0aca13d645bea4aa37",
+      "source_id": "groen_party",
+      "source_name": "Groen",
+      "source_class": "political_party",
+      "institution_level": "national",
+      "geography": "Belgique",
+      "official_status": "political_actor",
+      "access_model": "",
+      "endpoint_id": "groen_party_rss",
+      "endpoint_label": "Flux des actualités",
+      "content_scope": "actualités|communiqués|réformes",
+      "language": "nl",
+      "title": "Groen: \"Rapport Europese Rekenkamer is duidelijk: verbied PFAS nu\"",
+      "url": "http://www.groen.be/europese-rekenkamer-pfas",
+      "summary": "Stop met PFAS te vervangen door andere PFAS. Het is tijd voor een totaalverbod en strengere normen. De gezondheid van mensen moet voorgaan op de belangen van de industrie.",
+      "published_at": "2026-11-18T18:34:00Z",
+      "retrieved_at": "2026-11-19T14:15:36.658950Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 16,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "evidence"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "chiffres, étude ou évaluation"
+      ],
+      "related_items": []
     },
     {
       "item_id": "039d4a8553e3a2cfebdda200",
@@ -301,9 +879,9 @@
         "Politique"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 19,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -312,7 +890,7 @@
         "citizen_impact"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
@@ -335,12 +913,12 @@
       "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/QA/qa6.pdf",
       "summary": "QA -- Séance plénière",
       "published_at": "2026-11-18T08:30:12Z",
-      "retrieved_at": "2026-11-18T13:45:52.116495Z",
+      "retrieved_at": "2026-11-19T14:15:33.645238Z",
       "categories": [],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 19,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 16,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 8,
@@ -351,131 +929,93 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type questions",
         "contenu de type travaux",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "agenda institutionnel proche"
       ],
       "related_items": []
     },
     {
-      "item_id": "b9716bfef58065acb0b2c79b",
-      "source_id": "ecolo_party",
-      "source_name": "Ecolo",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "ecolo_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Réforme APE: des emplois menacés dans les crèches, les maisons de repos, les CPAS et les services communaux",
-      "url": "https://ecolo.be/actualites/reforme-ape-ecolo-denonce-une-reforme-precipitee-qui-menace-les-emplois-dans-les-creches-les-maisons-de-repos-les-cpas-et-les-services-communaux/",
-      "summary": "",
-      "published_at": "2026-11-17T15:01:56Z",
-      "retrieved_at": "2026-11-18T13:45:53.751979Z",
+      "item_id": "ffdd604164760034bf862505",
+      "source_id": "gva",
+      "source_name": "Gazet van Antwerpen",
+      "source_class": "news_media",
+      "institution_level": "région",
+      "geography": "Flandre",
+      "official_status": "editorial_media",
+      "access_model": "mixed_paywall",
+      "endpoint_id": "gva_rss",
+      "endpoint_label": "Nieuwsfeed",
+      "content_scope": "actualités|presse|terrain",
+      "language": "nl",
+      "title": "Na klacht komt discriminatiebeleid van oud-burgemeester Pieter De Crem nu in het vizier van onderzoeksrechter: wat betekent dat?",
+      "url": "https://www.gva.be/binnenland/na-klacht-komt-discriminatiebeleid-van-oud-burgemeester-pieter-de-crem-nu-in-het-vizier-van-onderzoeksrechter-wat-betekent-dat/164802840.html",
+      "summary": "Er breekt een nieuw hoofdstuk aan in het dossier Pieter De Crem. Door een klacht met burgerlijkepartijstelling schaalt het onderzoek naar het discriminerende inschrijvingsbeleid van de Aalterse ex-burgemeester op van een opsporings- naar een gerechtelijk onderzoek, onder leiding van een onderzoeksrechter. Die kan zelfs overgaan tot een huiszoeking.",
+      "published_at": "2026-11-19T14:09:15Z",
+      "retrieved_at": "2026-11-19T14:15:42.862891Z",
       "categories": [
-        "Actualité",
-        "À la une"
+        "Binnenland"
       ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 19,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 8,
+      "section_strength": 2,
       "matched_signals": [
-        "public_decision"
+        "evidence",
+        "change_alert"
       ],
       "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique"
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
       ],
-      "related_items": []
+      "related_items": [
+        {
+          "source_id": "het_nieuwsblad",
+          "source_name": "Het Nieuwsblad",
+          "title": "Na klacht komt discriminatiebeleid van oud-burgemeester Pieter De Crem nu in het vizier van onderzoeksrechter: wat betekent dat?",
+          "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/aalter/na-klacht-komt-discriminatiebeleid-van-oud-burgemeester-pieter-de-crem-nu-in-het-vizier-van-onderzoeksrechter-wat-betekent-dat/164776076.html"
+        }
+      ]
     },
     {
-      "item_id": "98157284982f3da6780f6535",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
+      "item_id": "f311fa0067f492ce9116b389",
+      "source_id": "la_libre",
+      "source_name": "La Libre Belgique",
       "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie|Bruxelles",
+      "institution_level": "national",
+      "geography": "Belgique",
       "official_status": "editorial_media",
       "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
-      "language": "fr",
-      "title": "« Une réforme sismique mais nécessaire »: le ministre Pierre-Yves Jeholet défend la réforme des APE",
-      "url": "https://www.sudinfo.be/id1227495/article/2026-11-17/une-reforme-sismique-mais-necessaire-le-ministre-pierre-yves-jeholet-defend-la",
-      "summary": "Le ministre wallon de l’Emploi, Pierre-Yves Jeholet, a défendu mardi en commission une réforme des APE qu’il juge nécessaire, malgré les critiques de l’opposition et du secteur non marchand. Le texte prévoit un démantèlement progressif du dispositif et un transfert des moyens vers d’autres ministres.",
-      "published_at": "2026-11-17T13:27:00Z",
-      "retrieved_at": "2026-11-17T14:14:27.151283Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "cached",
-      "seen_count": 1,
-      "score": 19,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 10,
-      "matched_signals": [
-        "public_decision",
-        "citizen_impact",
-        "agenda"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "impact concret pour la population",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "6e3b729436a2a378c8299cf9",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
+      "endpoint_id": "la_libre_rss",
       "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
+      "content_scope": "actualités|presse|Belgique",
       "language": "fr",
-      "title": "Réforme APE: en séance, l’opposition demande un report pour éviter “un vote à l’aveugle”",
-      "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/17/reforme-ape-en-seance-lopposition-demande-un-report-pour-eviter-un-vote-a-laveugle-OJD5RMVQXRCENOHTRGNQ3VGKY4/",
-      "summary": "Le courrier de la confédération d’employeurs l’Unipso a fait son petit effet auprès des députés wallons de l’opposition. Ce mardi matin, en commission, ils ont demandé un report du décret chapeau APE (aides à la promotion de l’emploi). Demande rejetée par la majorité MR/Engagés....",
-      "published_at": "2026-11-17T09:44:05Z",
-      "retrieved_at": "2026-11-18T13:45:57.691102Z",
+      "title": "\"Je suis complètement choquée par ces chiffres\": le CD&V dénonce le détournement du régime appliqué aux étudiants jobistes",
+      "url": "https://www.lalibre.be/belgique/2026/11/18/un-job-etudiant-a-plus-de-65-ans-en-belgique-cest-possible-CY57IY437JCABP35XLLJJ7V3TQ/",
+      "summary": "Le CD&V dénonce le recours abusif au statut de travailleur étudiant, moins taxé. La législation en la matière est assez souple. Le gouvernement prévoit de la revoir....",
+      "published_at": "2026-11-18T17:53:01Z",
+      "retrieved_at": "2026-11-19T14:15:41.328705Z",
       "categories": [
-        "Politique"
+        "Belgique"
       ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 19,
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
-      "section_strength": 10,
+      "section_strength": 2,
       "matched_signals": [
-        "public_decision",
         "citizen_impact",
-        "agenda"
+        "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
+        "publié depuis moins de 24 heures",
         "impact concret pour la population",
-        "agenda institutionnel proche"
+        "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
@@ -499,9 +1039,9 @@
       "retrieved_at": "2026-11-18T13:45:57.374390Z",
       "categories": [],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 6,
@@ -510,7 +1050,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
@@ -536,9 +1076,9 @@
       "retrieved_at": "2026-11-18T13:45:57.374390Z",
       "categories": [],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
@@ -547,7 +1087,7 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "contrôle, droits ou responsabilité publique"
       ],
@@ -575,9 +1115,9 @@
         "Enseignement"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -586,7 +1126,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "changement, alerte ou échéance"
       ],
@@ -614,9 +1154,9 @@
         "Sint-Truiden"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 18,
+      "score": 15,
       "section_id": "justice",
       "section_label": "Justice, droits et contrôle",
       "section_strength": 4,
@@ -625,204 +1165,120 @@
         "accountability"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "contrôle, droits ou responsabilité publique"
       ],
       "related_items": []
     },
     {
-      "item_id": "d43be48589fdce269c8c99e6",
-      "source_id": "sudinfo",
-      "source_name": "Sudinfo",
+      "item_id": "cb785353daaf1d193b52f7d8",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
       "source_class": "news_media",
-      "institution_level": "région",
+      "institution_level": "communauté",
       "geography": "Wallonie|Bruxelles",
       "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "sudinfo_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|terrain",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
       "language": "fr",
-      "title": "De plus en plus de personnes ont recours à cette technique illégale, face à la pénurie sur le marché locatif: « On trouve au moins un candidat malhonnête pour chaque bien à louer »",
-      "url": "https://www.sudinfo.be/id1227779/article/2026-11-18/de-plus-en-plus-de-personnes-ont-recours-cette-technique-illegale-face-la",
-      "summary": "Face à la pénurie sur le marché locatif, des candidats falsifient de plus en plus souvent fiches de paie et autres documents pour obtenir un logement, selon plusieurs agences immobilières en Belgique.",
-      "published_at": "2026-11-18T08:30:04Z",
-      "retrieved_at": "2026-11-18T13:45:56.260797Z",
-      "categories": [
-        "Belgique"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
+      "title": "Indexation automatique des salaires: quelles sont les pistes de réforme, plus ou moins réalistes?",
+      "url": "https://www.rtbf.be/article/indexation-automatique-des-salaires-quelles-sont-les-pistes-de-reforme-plus-ou-moins-realistes-11817912",
+      "summary": "L’accord de gouvernement Arizona conclu au début de l’année 2025 prévoyait un maintien de l’indexation automatique...",
+      "published_at": "2026-11-19T13:32:32Z",
+      "retrieved_at": "2026-11-19T14:15:43.460921Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
       "observation_status": "new",
       "seen_count": 1,
-      "score": 18,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "public_decision"
+      ],
+      "score_reasons": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "179cde096621df0eb38a886f",
+      "source_id": "eu_commission",
+      "source_name": "Commission européenne",
+      "source_class": "institution",
+      "institution_level": "européen",
+      "geography": "Union européenne",
+      "official_status": "official_public",
+      "access_model": "open",
+      "endpoint_id": "eu_commission_press_rss",
+      "endpoint_label": "Press Corner RSS",
+      "content_scope": "communiqués|politique|économie|justice",
+      "language": "en",
+      "title": "Commissioner Roswall's address at the 2nd European Bioeconomy Conference",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2518",
+      "summary": "European Commission Speech Brussels, 19 Nov 2026 Ladies and gentlemen, colleagues, friends, It is a huge pleasure to welcome you all to the second European Bioeconomy Conference. Twelve months have passed sinc...",
+      "published_at": "2026-11-19T10:43:42Z",
+      "retrieved_at": "2026-11-19T14:15:48.157408Z",
+      "categories": [
+        "POLICY_AREA=ENVIRO"
+      ],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
+      "section_id": "politics",
+      "section_label": "Politiques publiques et société",
+      "section_strength": 6,
+      "matched_signals": [
+        "agenda"
+      ],
+      "score_reasons": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "agenda institutionnel proche"
+      ],
+      "related_items": []
+    },
+    {
+      "item_id": "ae2bfd6e9392e5da086ae21a",
+      "source_id": "rtbf_info",
+      "source_name": "RTBF Info",
+      "source_class": "news_media",
+      "institution_level": "communauté",
+      "geography": "Wallonie|Bruxelles",
+      "official_status": "editorial_media",
+      "access_model": "open",
+      "endpoint_id": "rtbf_info_rss",
+      "endpoint_label": "Flux RTBF Info",
+      "content_scope": "actualités|presse|Belgique",
+      "language": "fr",
+      "title": "\"QR le débat\": Vers un accord équilibré ou une crise? Revivez notre direct",
+      "url": "https://www.rtbf.be/article/qr-le-debat-vers-un-accord-equilibre-ou-une-crise-revivez-notre-direct-11816868",
+      "summary": "Le conseil des ministres retreint (kern) parviendra-t-il à boucler son budget fédéral d’ici le 23 novembre? Dans...",
+      "published_at": "2026-11-18T21:57:13Z",
+      "retrieved_at": "2026-11-19T14:15:43.460921Z",
+      "categories": [],
+      "first_seen_at": "2026-11-19T14:15:48.159591Z",
+      "observation_status": "new",
+      "seen_count": 1,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
       "matched_signals": [
-        "citizen_impact",
-        "accountability"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "7503bdd22e72ba2688d46ec5",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
-      "language": "fr",
-      "title": "100 000 offres d’emploi en moins en 2026 à cause de l’IA: de nombreux métiers menacés",
-      "url": "https://www.lavenir.net/actu/societe/emploi/2026/11/17/100-000-offres-demploi-en-moins-en-2026-a-cause-de-lia-de-nombreux-metiers-menaces-KSXWRONZE5HM3J5EB7IVMHN5EM/",
-      "summary": "Le déploiement de l’intelligence artificielle mène à une baisse notable des offres d’emploi dans plusieurs secteurs. C’est ce qui ressort d’une récente étude en France....",
-      "published_at": "2026-11-17T17:48:17Z",
-      "retrieved_at": "2026-11-18T13:45:57.691102Z",
-      "categories": [
-        "Emploi"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "d682e32b71431bf0ca2dee40",
-      "source_id": "ps_party",
-      "source_name": "Parti Socialiste",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "ps_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Enseignement: le PS appelle Les Engagés à renoncer à la limitation de l’indexation des salaires des enseignants",
-      "url": "http://www.ps.be/enseignement_le_ps_appelle_les_engages_renoncer_la_limitation_de_l_indexation_des_salaires_des_enseignants",
-      "summary": "Selon les informations relayées par l’agence Belga ce jour, Maxime Prévot et les Engagés soutiennent au fédéral l’idée de ne pas procéder à la prochaine indexation du salaire des personnels de l’enseignement ou d’en réduire fortement le montant.",
-      "published_at": "2026-11-17T13:59:17Z",
-      "retrieved_at": "2026-11-18T13:45:53.185321Z",
-      "categories": [],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "f0e023f4e56d9b6d0c197b87",
-      "source_id": "lavenir",
-      "source_name": "L'Avenir",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lavenir_rss",
-      "endpoint_label": "Flux Belgique",
-      "content_scope": "actualités|presse|Belgique|terrain",
-      "language": "fr",
-      "title": "La grosse réforme des 70 000 emplois APE entre en scène au Parlement wallon",
-      "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/17/la-grosse-reforme-des-70-000-emplois-ape-entre-en-scene-au-parlement-wallon-6E4YJ2D76ZAAHALJJZEUXH2J5I/",
-      "summary": "Le dispositif de soutien à l’emploi “APE” pèse 1,3 milliard dans le budget wallon. Il concerne 70 000 personnes et commencera à disparaître en janvier 2027. Cette réforme qui suscite pas mal d’inquiétudes arrive au Parlement wallon ce mardi....",
-      "published_at": "2026-11-17T05:00:00Z",
-      "retrieved_at": "2026-11-18T13:45:57.691102Z",
-      "categories": [
-        "Politique"
-      ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 18,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 12,
-      "matched_signals": [
         "public_decision",
-        "citizen_impact"
+        "agenda"
       ],
       "score_reasons": [
-        "publié depuis moins de 36 heures",
+        "publié depuis moins de 24 heures",
         "décision ou réforme publique",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "b608f64744e44058319569fc",
-      "source_id": "ibsa",
-      "source_name": "Institut Bruxellois de Statistique et d'Analyse",
-      "source_class": "statistics",
-      "institution_level": "région",
-      "geography": "Bruxelles",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "ibsa_news_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|statistiques",
-      "language": "fr",
-      "title": "Focus n°87: Pourquoi les entreprises choisissent-elles de s’installer à Bruxelles?",
-      "url": "https://ibsa.brussels/node/3605",
-      "summary": "Proximité des clients, accès à une main-d’œuvre qualifiée, infrastructures de transport, possibilités de financement ou encore environnement",
-      "published_at": null,
-      "retrieved_at": "2026-11-18T13:45:53.799840Z",
-      "categories": [],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 17,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 6,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type statistiques",
-        "contenu de type actualités",
-        "nouvel élément d'un flux sans date fournie",
-        "impact concret pour la population"
+        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -848,9 +1304,9 @@
         "Diest"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
+      "observation_status": "cached",
       "seen_count": 1,
-      "score": 17,
+      "score": 14,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 4,
@@ -859,7 +1315,7 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
       ],
@@ -871,45 +1327,6 @@
           "url": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html"
         }
       ]
-    },
-    {
-      "item_id": "a31f990c9cc98f03f53c2091",
-      "source_id": "le_soir",
-      "source_name": "Le Soir",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "le_soir_rss",
-      "endpoint_label": "Flux principal",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "Mons: surcoût de 60 millions d’euros dans le cadre d’un chantier du Shape",
-      "url": "https://www.lesoir.be/783467/article/2026-11-18/mons-surcout-de-60-millions-deuros-dans-le-cadre-dun-chantier-du-shape",
-      "summary": "La construction du futur siège de l’Agence de communication et d’information de l’Otan à Casteau (Mons) coûtera près de 60 millions d’euros de plus que prévu, en raison d’inconnues techniques et de la hausse des prix.",
-      "published_at": "2026-11-18T12:55:21Z",
-      "retrieved_at": "2026-11-18T13:45:55.715022Z",
-      "categories": [
-        "Société"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 2,
-      "matched_signals": [
-        "citizen_impact",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
     },
     {
       "item_id": "abbe6b3b1849d5a055d91f0c",
@@ -928,14 +1345,14 @@
       "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/18/nouveau-shape-la-facture-grimpe-a-pres-de-200-millions-deuros-pour-la-belgique-apres-une-sous-estimation-initiale-du-marche-BASGFE7SR5EPPH2FFR3CBEDRTQ/",
       "summary": "Notre pays prend en charge la construction de l’Agence de communication et d’information de l’Otan (la NCIA), dont le coût ne fait qu’augmenter....",
       "published_at": "2026-11-18T05:16:32Z",
-      "retrieved_at": "2026-11-18T13:45:56.314496Z",
+      "retrieved_at": "2026-11-19T14:15:41.328705Z",
       "categories": [
         "Politique belge"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 14,
       "section_id": "economy",
       "section_label": "Économie, emploi et consommateurs",
       "section_strength": 4,
@@ -944,122 +1361,9 @@
         "change_alert"
       ],
       "score_reasons": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "6003e0c5741e95033f8f7d83",
-      "source_id": "cwape",
-      "source_name": "Commission wallonne pour l'Énergie",
-      "source_class": "regulator",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "official_public",
-      "access_model": "",
-      "endpoint_id": "cwape_rss",
-      "endpoint_label": "Flux des documents récents",
-      "content_scope": "décisions|avis|publications",
-      "language": "fr",
-      "title": "Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026",
-      "url": "https://www.cwape.be/documents-recents/indicateurs-de-performance-des-fournisseurs-de-gaz-et-delectricite-en-region-0",
-      "summary": "Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026 Veronique 17-11-2026 Indicateurs de performance des fournisseurs de gaz et d'électricité en Région wallonne pour le 2e trimestre 2026 - Leistungsindikatoren der Strom- und Gasversorger für das 2. Quartal 2026 17-11-2026 Afin de répondre à une des missions qui lui ont été confiées, la CWaPE a développé des indicateurs de performance afin de quantifier de manière transparente, objective et non-discriminatoire…",
-      "published_at": "2026-11-17T12:48:38Z",
-      "retrieved_at": "2026-11-18T13:45:52.701171Z",
-      "categories": [],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 16,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type décisions",
-        "contenu de type avis",
-        "publié depuis moins de 36 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "af39c228ddbd48720ca29268",
-      "source_id": "dhnet",
-      "source_name": "DH Les Sports+",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "dhnet_rss",
-      "endpoint_label": "Flux actualités",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "La pédopornographie générée par IA, ce nouveau fléau: “quasi impossible de faire la différence avec une image réelle mais c’est tout aussi atroce”",
-      "url": "https://www.dhnet.be/actu/faits/2026/11/18/la-pedopornographie-generee-par-ia-ce-nouveau-fleau-quasi-impossible-de-faire-la-difference-avec-une-image-reelle-mais-cest-tout-aussi-atroce-L4GGUYHIRJHBZC63SMVCSFVCME/",
-      "summary": "Sur les six premiers mois de 2026, la production d’images pédopornographiques générées via l’intelligence artificielle a déjà quasi doublé par rapport à l’ensemble de l’année précédente....",
-      "published_at": "2026-11-18T12:10:53Z",
-      "retrieved_at": "2026-11-18T13:45:56.541437Z",
-      "categories": [
-        "Faits divers"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 0,
-      "matched_signals": [
-        "evidence",
-        "change_alert"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "changement, alerte ou échéance"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "53d44b18dd0084e10fc385e3",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Commission opens Erasmus+ 2027 call with over €5.3 billion for wider opportunities in education, training, youth and sport",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2494",
-      "summary": "European Commission Press release Brussels, 18 Nov 2026 Today, the European Commission opens the 2027 Erasmus+ call for proposals with a budget of over €5.3 billion. The call is expected to offer learning mobility experiences in all education sectors for an estimated 1.6 million participants and support over 120,000 organisations.",
-      "published_at": "2026-11-18T09:31:44Z",
-      "retrieved_at": "2026-11-18T13:45:59.469283Z",
-      "categories": [
-        "POLICY_AREA=ECMY,SPORT,YOUTH"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 8,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
       ],
       "related_items": []
     },
@@ -1080,14 +1384,14 @@
       "url": "https://rwlp.be/le-rwlp-en-manifestation-a-namur-pour-soutenir-les-services-publics/",
       "summary": "Ce mercredi 18 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté était en manifestation, à Namur, en front commun syndical afin de soutenir les services publics! Les services publics sont le patrimoine des populations qui n’en ont pas! Appauvrir les services publics, c’est appauvrir la population! Informations pratiques: Quand? Le mercredi 18 novembre 2026 à 10hOù? Rassemblement devant la gare de Namur et cortège jusqu’au Parlement Wallon avec dissolution à 13h En savoir plus sur la manifestation de ce mercredi 18 novembre 2026: Rtbf La Libre",
       "published_at": "2026-11-18T07:13:44Z",
-      "retrieved_at": "2026-11-18T13:45:55.582693Z",
+      "retrieved_at": "2026-11-19T14:15:38.971037Z",
       "categories": [
         "Evénements passés"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 15,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 13,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 12,
@@ -1096,205 +1400,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "ca65d8ebc903a6b921085542",
-      "source_id": "gva",
-      "source_name": "Gazet van Antwerpen",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Flandre",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "gva_rss",
-      "endpoint_label": "Nieuwsfeed",
-      "content_scope": "actualités|presse|terrain",
-      "language": "nl",
-      "title": "NMBS stelt lege treinen in vroege uurtjes open voor reizigers, tegen 2033 airco in alle treinen",
-      "url": "https://www.gva.be/binnenland/nmbs-stelt-lege-treinen-in-vroege-uurtjes-open-voor-reizigers-tegen-2033-airco-in-alle-treinen/164734070.html",
-      "summary": "Spoorwegmaatschappij NMBS zal vanaf midden december een reeks treinen die nu nog leeg rondrijden, openstellen voor reizigers. Het is een van de maatregelen waarmee ze het aanbod kan uitbreiden. Dat is gezegd tijdens een hoorzitting over het nieuwe vervoersplan van NMBS in de Kamercommissie Mobiliteit.",
-      "published_at": "2026-11-18T12:25:22Z",
-      "retrieved_at": "2026-11-18T13:45:57.182938Z",
-      "categories": [
-        "Binnenland"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "change_alert",
-        "agenda"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "changement, alerte ou échéance",
-        "agenda institutionnel proche"
-      ],
-      "related_items": [
-        {
-          "source_id": "hbvl",
-          "source_name": "Het Belang van Limburg",
-          "title": "NMBS stelt lege treinen in vroege uurtjes open voor reizigers, tegen 2033 airco in alle treinen",
-          "url": "https://www.hbvl.be/binnenland/nmbs-stelt-lege-treinen-in-vroege-uurtjes-open-voor-reizigers-tegen-2033-airco-in-alle-treinen/164735738.html"
-        }
-      ]
-    },
-    {
-      "item_id": "64ec6d5a005a8d55595e18c4",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
-      "summary": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including outreach to and engagement with third countries.",
-      "published_at": "2026-11-18T11:36:36Z",
-      "retrieved_at": "2026-11-18T13:45:59.469283Z",
-      "categories": [
-        "POLICY_AREA=FINSTAB"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "121fa2bd6492a111e3cb993b",
-      "source_id": "lecho",
-      "source_name": "L'Echo",
-      "source_class": "news_media",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "editorial_media",
-      "access_model": "mixed_paywall",
-      "endpoint_id": "lecho_rss",
-      "endpoint_label": "Flux actualité",
-      "content_scope": "actualités|presse|économie|Belgique",
-      "language": "fr",
-      "title": "Aerospacelab signe un accord avec le franco-américain Loft Orbital",
-      "url": "https://www.lecho.be/r/t/1/id/10705999",
-      "summary": "La société wallonne Aerospacelab et l'entreprise franco-américaine Loft Orbital ont signé un protocole d'accord pour faciliter l'accès aux plateformes satellitaires haute puissance en Europe.",
-      "published_at": "2026-11-18T10:47:09Z",
-      "retrieved_at": "2026-11-18T13:45:57.524406Z",
-      "categories": [
-        "Entreprises"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "28ab43e2e4d7674e92c996bd",
-      "source_id": "qu4tre",
-      "source_name": "Qu4tre",
-      "source_class": "news_media",
-      "institution_level": "région",
-      "geography": "Wallonie",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "qu4tre_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|presse|terrain|politique|économie",
-      "language": "fr",
-      "title": "350 travailleurs d'UPS, inquiets pour l'emploi, bloquent le site de Skechers, un client important du groupe",
-      "url": "https://www.qu4tre.be/infos/economie/350-travailleurs-dups-inquiets-pour-lemploi-bloquent-le-site-de-skechers-un-client-important-du-groupe/2017739",
-      "summary": "350 travailleurs d'UPS protestaient ce matin devant le centre européen de Skechers à Milmort contre le refus de la direction du groupe américain UPS de poursuivre les discussions sur le maintien de l'emploi. On parle de 525 emplois menacés 350 travailleurs d'UPS sont venus de différents coins du pays pour bloquer le centre logistique européen de Skechers à Milmort. Une manière de protester en front commun CNE-Setca-Synova, contre le refus de la direction du groupe américain de transport et de livraison UPS de poursuivre les discussions sur le maintien de l'emploi. En juin dernier, la filiale…",
-      "published_at": "2026-11-18T10:10:40Z",
-      "retrieved_at": "2026-11-18T13:45:58.674604Z",
-      "categories": [
-        "Economie"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "economy",
-      "section_label": "Économie, emploi et consommateurs",
-      "section_strength": 8,
-      "matched_signals": [
-        "citizen_impact"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "1c0da3a62fca25b2e8aa1655",
-      "source_id": "eu_commission",
-      "source_name": "Commission européenne",
-      "source_class": "institution",
-      "institution_level": "européen",
-      "geography": "Union européenne",
-      "official_status": "official_public",
-      "access_model": "open",
-      "endpoint_id": "eu_commission_press_rss",
-      "endpoint_label": "Press Corner RSS",
-      "content_scope": "communiqués|politique|économie|justice",
-      "language": "en",
-      "title": "Press point by President von der Leyen together with Commissioners Dombrovskis and Kubilius on an Instrument for Coordinated Support to Ukraine",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2487",
-      "summary": "European Commission Statement Brussels, 18 Nov 2026 Thank you very much, good morning, We had a very productive European Council in Ireland last week. The support to Ukraine was one of the key topics. Among other...",
-      "published_at": "2026-11-18T08:51:03Z",
-      "retrieved_at": "2026-11-18T13:45:59.469283Z",
-      "categories": [
-        "POLICY_AREA=BUDFINPROG,UKRAINE"
-      ],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [
-        "agenda"
-      ],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
+        "publié depuis moins de 36 heures"
       ],
       "related_items": []
     },
@@ -1315,14 +1421,14 @@
       "url": "https://rwlp.be/ce-lundi-23-novembre-2026-le-rwlp-sera-dans-les-rues-de-bruxelles-pour-la-manifestation-nationale-en-front-commun-syndical/",
       "summary": "Ce lundi 23 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté, aux côtés du monde associatif, des syndicats, des travailleurs.euses, des jeunes, des étudiant.es, des pensionné.es et des citoyen.nes engagé.es, sera dans les rues de Bruxelles pour la manifestation nationale en front commun syndical! Alors que les fins de mois sont toujours plus difficiles, les emplois se fragilisent, les services publics restent sous pression, … Et plutôt que de répondre à ces réalités sociales, le Gouvernement Arizona prend des orientations qui accentuent les inégalités et font peser de nouvelles…",
       "published_at": "2026-11-18T07:44:12Z",
-      "retrieved_at": "2026-11-18T13:45:55.582693Z",
+      "retrieved_at": "2026-11-19T14:15:38.971037Z",
       "categories": [
         "Evénements à venir"
       ],
       "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
+      "observation_status": "existing",
+      "seen_count": 2,
+      "score": 12,
       "section_id": "politics",
       "section_label": "Politiques publiques et société",
       "section_strength": 10,
@@ -1331,117 +1437,7 @@
         "producteur institutionnel ou collectif identifié",
         "contenu de type réformes",
         "contenu de type actualités",
-        "publié depuis moins de 12 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "9f6c6b42dc925e0312ae499e",
-      "source_id": "rtbf_info",
-      "source_name": "RTBF Info",
-      "source_class": "news_media",
-      "institution_level": "communauté",
-      "geography": "Wallonie|Bruxelles",
-      "official_status": "editorial_media",
-      "access_model": "open",
-      "endpoint_id": "rtbf_info_rss",
-      "endpoint_label": "Flux RTBF Info",
-      "content_scope": "actualités|presse|Belgique",
-      "language": "fr",
-      "title": "\"QR le débat\": Vers un accord équilibré ou une crise? Votez et commentez",
-      "url": "https://www.rtbf.be/article/qr-le-debat-vers-un-accord-equilibre-ou-une-crise-votez-et-commentez-11816868",
-      "summary": "Le conseil des ministres retreint (kern) parviendra-t-il à boucler son budget fédéral d'ici le 23 novembre? Dans les...",
-      "published_at": "2026-11-17T15:51:34Z",
-      "retrieved_at": "2026-11-18T13:45:58.292458Z",
-      "categories": [],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 14,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 4,
-      "matched_signals": [
-        "public_decision",
-        "agenda"
-      ],
-      "score_reasons": [
-        "publié depuis moins de 24 heures",
-        "décision ou réforme publique",
-        "agenda institutionnel proche"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "ab103d914aa843c7f7817aec",
-      "source_id": "ecolo_party",
-      "source_name": "Ecolo",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "ecolo_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Etudiants bloqués à Gaza: Le Parlement FWB soutient avec une majorité alternative la résolution d’Ecolo",
-      "url": "https://ecolo.be/actualites/etudiants-bloques-a-gaza-le-parlement-fwb-soutient-avec-une-majorite-alternative-la-resolution-decolo/",
-      "summary": "",
-      "published_at": "2026-11-17T13:54:27Z",
-      "retrieved_at": "2026-11-18T13:45:53.751979Z",
-      "categories": [
-        "Actualité",
-        "À la une"
-      ],
-      "first_seen_at": "2026-11-17T14:14:31.823250Z",
-      "observation_status": "existing",
-      "seen_count": 2,
-      "score": 13,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 10,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures"
-      ],
-      "related_items": []
-    },
-    {
-      "item_id": "00bf2de985b445c4b924e982",
-      "source_id": "mr_party",
-      "source_name": "Mouvement Réformateur",
-      "source_class": "political_party",
-      "institution_level": "national",
-      "geography": "Belgique",
-      "official_status": "political_actor",
-      "access_model": "",
-      "endpoint_id": "mr_party_rss",
-      "endpoint_label": "Flux des actualités",
-      "content_scope": "actualités|communiqués|réformes",
-      "language": "fr",
-      "title": "Assemblée consultative des membres: 30 militants au travail pour nourrir le projet libéral",
-      "url": "https://www.mr.be/actu/actualites-2/assemblee-consultative-des-membres-30-militants-au-travail-pour-nourrir-le-projet-liberal-2130",
-      "summary": "Le 12 novembre, l’Assemblée consultative des membres (ACM) 2026-2027 s’est réunie au siège du MR, en présence de Georges-Louis Bouchez. Tirés au sort parmi les membres du parti, ses 30 participants on...",
-      "published_at": "2026-11-17T14:46:38Z",
-      "retrieved_at": "2026-11-18T13:45:54.175615Z",
-      "categories": [],
-      "first_seen_at": "2026-11-18T13:45:59.663241Z",
-      "observation_status": "new",
-      "seen_count": 1,
-      "score": 12,
-      "section_id": "politics",
-      "section_label": "Politiques publiques et société",
-      "section_strength": 6,
-      "matched_signals": [],
-      "score_reasons": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 24 heures"
+        "publié depuis moins de 36 heures"
       ],
       "related_items": []
     }
