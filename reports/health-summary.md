@@ -1,11 +1,11 @@
 # Santé des accès
 
-Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-20T14:00:27.172287Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **242**
-- Accès en erreur ou bloqués : **44**
+- Accès opérationnels : **241**
+- Accès en erreur ou bloqués : **45**
 - Flux candidats découverts : **100**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
@@ -28,7 +28,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | Apache | Homepage en artikels | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Apache | Overzicht RSS-feeds | `ok` | 200 | `html → html` | `allowed` | 6 |
 | Arbeitsamt der Deutschsprachigen Gemeinschaft | Portail de l'emploi | `ok` | 200 | `html → html` | `allowed` | 0 |
-| ATV | Regionaal nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| ATV | Regionaal nieuws | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Autorité belge de la Concurrence | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité de protection des données | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Autorité des services et marchés financiers | Actualités et mises en garde | `ok` | 200 | `html → html` | `allowed` | 1 |
@@ -91,7 +91,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | Cour des comptes | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Cour des comptes | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Cour des comptes européenne | Portail et actualités | `ok` | 200 | `html → html` | `missing` | 1 |
-| CSC | Actualités et communiqués | `ok` | 200 | `html → html` | `allowed` | 0 |
+| CSC | Actualités et communiqués | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | CSP Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | De Lijn | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | De Lijn | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -135,7 +135,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | Institut Bruxellois de Statistique et d'Analyse | Actualités | `ok` | 200 | `html → html` | `allowed` | 2 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Institut Bruxellois de Statistique et d'Analyse | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Institut fédéral des droits humains | Actualités | `ok` | 200 | `html → html` | `unknown` | 0 |
+| Institut fédéral des droits humains | Actualités | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Institut fédéral des droits humains | Publications | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Institut national d'assurance maladie-invalidité | Communiqués de presse | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
 | Institut national d'assurance maladie-invalidité | Nouvelles | `ok` | 200 | `html_articles → html` | `allowed` | 0 |
@@ -157,7 +157,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | Le Soir | Flux principal | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Le Vif | Accueil et actualités | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Les Engagés | Actualités du parti | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Liga voor Mensenrechten | Mensenrechtennieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Liga voor Mensenrechten | Mensenrechtennieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Ligue des droits humains | Flux des publications | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Ligue des familles | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Matélé | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 2 |
@@ -206,7 +206,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | Province de Luxembourg | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Province de Namur | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Province de Namur | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Province du Brabant flamand | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Province du Brabant flamand | Actualités et administration provinciales | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Province du Brabant wallon | Actualités et administration provinciales | `ok` | 200 | `html → html` | `allowed` | 3 |
 | PTB-PVDA | Actualités PTB | `ok` | 200 | `html → html` | `allowed` | 0 |
 | PTB-PVDA | Nieuws PVDA | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
@@ -257,7 +257,7 @@ Généré le `2026-11-19T14:24:25.467583Z` par `veille-redaction-belge/0.1.0`.
 | TEC | Espace presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | TEC | Flux presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Testachats | Communiqués | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Trends | Home en economisch nieuws | `network_error` | — | `html → unknown` | `unknown` | 0 |
+| Trends | Home en economisch nieuws | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | AI en technologie | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Data News | IA et technologies | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
 | Trends Z | Trends Z francophone | `http_error` | 405 | `html → unknown` | `allowed` | 0 |
