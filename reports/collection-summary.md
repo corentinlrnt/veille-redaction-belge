@@ -1,12 +1,12 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-22T13:12:35.736204Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-23T15:50:26.804903Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
-- Flux collectés : **57**
-- Flux en erreur : **6**
-- Éléments conservés : **3558**
-- Sources contributrices : **41**
+- Flux collectés : **62**
+- Flux en erreur : **1**
+- Éléments conservés : **3563**
+- Sources contributrices : **39**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
 | --- | --- | --- | --- | ---: | --- |
@@ -16,17 +16,17 @@ Généré le `2026-11-22T13:12:35.736204Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 0 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 13 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
-| `court_of_audit` | `court_audit_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
+| `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
 | `csp_dg_party` | `csp_dg_party_rss` | `ok` | `rss` | 20 | — |
 | `cwape` | `cwape_rss` | `ok` | `rss` | 10 | — |
 | `de_lijn` | `de_lijn_press_rss` | `ok` | `rss` | 10 | — |
-| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 25 | — |
+| `de_morgen` | `de_morgen_rss` | `ok` | `rss` | 27 | — |
 | `de_standaard` | `de_standaard_rss` | `ok` | `rss` | 50 | — |
 | `de_tijd` | `de_tijd_rss` | `ok` | `rss` | 10 | — |
-| `defence` | `defence_rss` | `ok` | `rss` | 250 | — |
+| `defence` | `defence_rss` | `ok` | `rss` | 251 | — |
 | `dhnet` | `dhnet_rss` | `ok` | `rss` | 100 | — |
 | `ecb` | `ecb_press_rss` | `ok` | `rss` | 15 | — |
 | `ecolo_party` | `ecolo_party_rss` | `ok` | `rss` | 10 | — |
@@ -34,20 +34,20 @@ Généré le `2026-11-22T13:12:35.736204Z` par `veille-redaction-belge/collector
 | `federal_press` | `federal_rss` | `ok` | `rss` | 10 | — |
 | `focus_wtv` | `focus_wtv_rss` | `ok` | `rss` | 10 | — |
 | `fps_economy` | `economy_atom` | `ok` | `atom` | 20 | — |
-| `fps_finance` | `finance_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
-| `fps_mobility` | `mobility_rss` | `network_error` | `unknown` | 0 | Connexion impossible: [Errno 101] Network is unreachable |
+| `fps_finance` | `finance_rss` | `ok` | `rss` | 10 | — |
+| `fps_mobility` | `mobility_rss` | `ok` | `rss` | 10 | — |
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
-| `gva` | `gva_rss` | `ok` | `rss` | 50 | — |
+| `gva` | `gva_rss` | `ok` | `rss` | 49 | — |
 | `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
 | `hub_brussels` | `hub_brussels_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_news_rss` | `ok` | `rss` | 10 | — |
 | `ibsa` | `ibsa_publications_rss` | `ok` | `rss` | 10 | — |
-| `inami` | `inami_news` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
-| `inami` | `inami_press` | `network_error` | `unknown` | 0 | Connexion impossible: timed out |
+| `inami` | `inami_news` | `ok` | `html` | 15 | — |
+| `inami` | `inami_press` | `ok` | `html` | 15 | — |
 | `la_libre` | `la_libre_rss` | `ok` | `rss` | 100 | — |
 | `lavenir` | `lavenir_rss` | `ok` | `rss` | 100 | — |
 | `le_soir` | `le_soir_rss` | `ok` | `rss` | 10 | — |
