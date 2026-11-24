@@ -1,254 +1,302 @@
-# Veille rédaction belge — 23 novembre 2026
+# Veille rédaction belge — 24 novembre 2026
 
-Générée à **16:50** (heure de Bruxelles) à partir de **3563 éléments collectés**.
+Générée à **16:41** (heure de Bruxelles) à partir de **3566 éléments collectés**.
 
 > Ce document propose des pistes, pas des faits validés pour diffusion. Chaque entrée renvoie à sa source. Le score est déterministe et explicable ; il ne remplace pas le jugement journalistique.
 
 ## À regarder en priorité
 
+### [Défense nationale - Audition: syndicats militaires sur "l'Accord social Défense"](https://media.dekamer.be/meeting/56-20515-U2235)
+
+**Chambre des représentants** · source publique officielle · 25/11/2026 à 10:00 · score `22`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; décision ou réforme publique ; agenda institutionnel proche.
+
+> Extrait fourni par la source : Forum F0A Erasmus · DEFENSIE COMM · PLANNED
+
 ### [Santé & Egalité des chances - Rapport annuel Unia](https://media.dekamer.be/meeting/56-20503-U2223)
 
-**Chambre des représentants** · source publique officielle · 24/11/2026 à 10:00 · score `21`
+**Chambre des représentants** · source publique officielle · 24/11/2026 à 10:00 · score `22`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; chiffres, étude ou évaluation ; agenda institutionnel proche.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; agenda institutionnel proche.
 
 > Extrait fourni par la source : Forum F0B Magritte · SANTE COMM · PLANNED
 
-### [Economie – Questions orales](https://media.dekamer.be/meeting/56-20532-U2252)
+### [L’UE maintient en suspens la procédure pour déficit excessif visant la Belgique malgré l’absence de nouveau budget](https://www.lesoir.be/784648/article/2026-11-24/lue-maintient-en-suspens-la-procedure-pour-deficit-excessif-visant-la-belgique)
 
-**Chambre des représentants** · source publique officielle · 23/11/2026 à 13:59 · score `18`
+**Le Soir** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 16:03 · score `20`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance ; agenda institutionnel proche.
+
+> Extrait fourni par la source : La Commission européenne a décidé mardi de maintenir en suspens la procédure pour déficit excessif visant la Belgique. Elle évaluera son budget dès qu’il lui sera présenté, et réexaminera en tout état de cause sa situation budgétaire au printemps prochain à la lumière des données de 2026.
+
+### [Nouvelle circulaire concernant les marchandises acheminées sous la responsabilité d'un opérateur postal](https://finances.belgium.be/fr/Actualites/nouvelle-circulaire-concernant-les-marchandises-acheminees-sous-la-responsabilite-dun)
+
+**SPF Finances** · source publique officielle · 24/11/2026 à 01:00 · score `20`
+
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 24 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : La nouvelle ' Circulaire 2026/C/98 concernant les marchandises acheminées sous la responsabilité d'un opérateur postal ' a été publiée sur Fisconetplus. Celle-ci entre en vigueur à partir du 24/11/2026 et remplace la 'Circulaire 2022/C/114 concernant les envois postaux'. Avez-vous des questions concernant la nouvelle circulaire 2026/C/98?
+
+### [Energie, Environnement et Climat - Audition: Plan stratégique et budget d’Hedera pour l’année 2027](https://media.dekamer.be/meeting/56-20507-U2227)
+
+**Chambre des représentants** · source publique officielle · 24/11/2026 à 14:00 · score `19`
 
 **Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; publié depuis moins de 6 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : VOD Replay · ECONOMIE COMM · PLANNED
+> Extrait fourni par la source : Forum F0A Erasmus · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · STARTED
 
-Autres publications rapprochées automatiquement : [Chambre des représentants](https://media.dekamer.be/meeting/56-20508-U2228).
+### [I-Police: le PTB demande l'avis de la commission de déontologie](https://www.rtbf.be/article/i-police-le-ptb-demande-l-avis-de-la-commission-de-deontologie-11820318)
 
-### [Energie, Environnement et Climat - Audition: Plan stratégique et budget d’Hedera pour l’année 2027.](https://media.dekamer.be/meeting/56-20507-U2227)
+**RTBF Info** · média d'information · 24/11/2026 à 11:56 · score `19`
 
-**Chambre des représentants** · source publique officielle · 24/11/2026 à 13:59 · score `17`
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type travaux ; contenu de type agenda ; échéance ou publication future proche ; agenda institutionnel proche.
+> Extrait fourni par la source : Le rôle de la ministre Verlinden et de son cabinet de l'époque font notamment l'objet d'une enquête pour détournement...
 
-> Extrait fourni par la source : Forum F0A Erasmus · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · PLANNED
+### [Le prix du mazout continue de baisser, un chiffre plus atteint depuis le 1er septembre (infographies)](https://www.lavenir.net/actu/conso/2026/11/24/le-prix-du-mazout-continue-de-baisser-un-chiffre-plus-atteint-depuis-le-1er-septembre-infographies-TEUZ3GDHHZGO7CHELHHM6MXJT4/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 09:18 · score `19`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le prix du mazout est à nouveau à la baisse, après une très légère augmentation. Voici les nouveaux tarifs en Belgique à partir de ce mercredi 25 novembre 2026....
+
+### ["Ils sont confrontés à des revenus irréguliers": la ministre Simonet veut étendre les flexi-jobs aux indépendants](https://www.lalibre.be/economie/emploi/2026/11/24/ils-sont-confrontes-a-des-revenus-irreguliers-la-ministre-simonet-veut-etendre-les-flexi-jobs-aux-indepedants-JEADZU5KKVDL5JPJCLLECFEGAQ/)
+
+**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 12:06 · score `18`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; contrôle, droits ou responsabilité publique.
+
+> Extrait fourni par la source : Le MR a déposé le sujet sur la table des négociations budgétaire afin de mettre fin "à cette discrimination de facto à l'égard des indépendants"....
+
+### [Hof van assisen oordeelt dat 3 beklaagden schuldig zijn aan roofmoord op Tamara Engels in Sint-Niklaas](https://vrtnws.be/p.JN41noVO8)
+
+**VRT NWS** · média d'information · 24/11/2026 à 16:18 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : De jury van het Gentse hof van assisen heeft Aydin Farhoudi Moghaddam, Claudine Thiebaut en Alexandre Gallo schuldig bevonden aan de roofmoord op Tamara Engels in 2023 in Sint-Niklaas. De feiten vonden plaats op 16 mei 2023 in Sint-Niklaas. Een dag later contacteerde een collega van Tamara Engels de lokale politie, omdat ze niet was komen opdagen op haar werk. De politie vond het lichaam in haar woning in de Schoolstraat en uit het eerste onderzoek van de wetsgeneesheer bleek dat er sporen van wurging waren.
+
+### [La résidence de campagne de Kate et William cambriolée: une importante faille de sécurité pour la famille royale britannique](https://www.dhnet.be/lifestyle/people/2026/11/24/la-residence-de-campagne-de-kate-et-william-cambriolee-une-importante-faille-de-securite-pour-la-famille-royale-britannique-O6TGVIA73VHULBAAOKX2WMXGZE/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 14:16 · score `17`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; chiffres, étude ou évaluation.
+
+> Extrait fourni par la source : Un cambriolage a été commis dans la propriété d'Anmer Hall, dans le Norfolk, où le prince William et Kate Middleton séjournent régulièrement avec leurs trois enfants. Selon le tabloïd britannique The Sun, la police a ouvert une enquête et a arrêté deux personnes....
+
+### [La limitation à 30 km/h étendue à la moitié des rues à Liège](https://www.qu4tre.be/infos/mobilite/la-limitation-a-30-kmh-etendue-a-la-moitie-des-rues-a-liege/2017793)
+
+**Qu4tre** · média d'information · 24/11/2026 à 09:56 · score `17`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Le conseil communal de Liège a approuvé plusieurs mesures en lien avec la mobilité. L'élargissement de la Zone 30, la suppression du stationnement alterné, la multiplication des "shop & drive" en font partie Le conseil communal de Liège a approuvé lundi soir l'élargissement de la zone 30, qui couvrira le centre-ville et s'étendra à plusieurs quartiers voisins. Avec cette extension, environ la moitié des rues du territoire seront limitées à 30 km/h, contre un quart jusqu'ici Le nouveau périmètre s'étend des Guillemins au Thier-à-Liège et comprend notamment Outremeuse, Amercœur et une partie…
+
+### [AZORG Geraardsbergen verzekert even goede zorg nu gespecialiseerde spoeddienst sluit: "Onze artsen blijven aanwezig"](https://vrtnws.be/p.0YpqKo09x)
+
+**VRT NWS** · média d'information · 24/11/2026 à 16:27 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : "Wij blijven voor onze patiënten zorgen en ze kunnen hier nog altijd dag en nacht terecht." Dat zegt hoofdarts Stefaan Gouwy, nu de gespecialiseerde spoeddienst van de campus Geraardsbergen sluit. In de plaats komt er een Eerste Opvang Spoedgevallen (EOS), waar je terechtkunt voor kleine letsels zoals een snijwonde of een verstuiking. Ook de MUG verdwijnt definitief uit Geraardsbergen vanaf volgend jaar.
+
+## Politiques publiques et société — autres pistes
+
+### [I-police: PVDA vraagt advies federale deontologische commissie over positie Verlinden](https://www.bruzz.be/actua/justitie/i-police-pvda-vraagt-advies-federale-deontologische-commissie-over-positie-verlinden-2026-11-24)
+
+**BRUZZ** · média d'information · 24/11/2026 à 12:03 · score `16`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; agenda institutionnel proche.
+
+> Extrait fourni par la source : PVDA vraagt dat de federale deontologische commissie een advies uitbrengt over de rol van minister van Justitie Annelies Verlinden (CD&V) in het i-Police-dossier. "De twijfel blijft hangen."
+
+### [België blijft voorlopig aan Europese begrotingsverplichtingen voldoen](https://www.gva.be/economie/belgie-blijft-voorlopig-aan-europese-begrotingsverplichtingen-voldoen/165042499.html)
+
+**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 16:26 · score `15`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; agenda institutionnel proche.
+
+> Extrait fourni par la source : België blijft voorlopig op de goede weg om aan de verplichtingen te voldoen die werden opgelegd in het kader van de buitensporigtekortprocedure, waarmee het tegen 2029 het begrotingstekort moet terugdringen tot minder dan 3 procent. Dat heeft de Europese Commissie dinsdag gemeld. Een nieuwe analyse volgt in de lente, nadat de regering hopelijk wel een begroting heeft afgeklopt.
+
+Autres publications rapprochées automatiquement : [Het Nieuwsblad](https://www.nieuwsblad.be/nieuws/belgie-blijft-voorlopig-aan-europese-begrotingsverplichtingen-voldoen/165041909.html).
+
+### [Veel chips en weinig fruit als tiener? Risico op chronische darmziektes gaat omhoog](https://www.hln.be/gezondheid/veel-chips-en-weinig-fruit-als-tiener-risico-op-chronische-darmziektes-gaat-omhoog~adee484d/)
+
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 16:17 · score `15`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Tieners die vaak chips, maïschips en andere zoute snacks eten, lopen later 32% meer risico op een chronische darmziekte zoals de ziekte van Crohn of colitis ulcerosa. Voor colitis ulcerosa stijgt dat risico zelfs met 51%. Dat blijkt uit een nieuwe Scandinavische studie in het wetenschappelijke tijdschrift ‘Gut’.
+
+### [Encore une mauvaise nouvelle pour le portefeuille: la vague de froid en Europe fait grimper le prix du gaz, la barre des 90 euros le mégawattheure dépassée](https://www.sudinfo.be/id1230520/article/2026-11-24/encore-une-mauvaise-nouvelle-pour-le-portefeuille-la-vague-de-froid-en-europe)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 09:44 · score `15`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : La vague de froid qui touche une grande partie de l’Europe fait grimper la demande de chauffage, alors que les stocks de gaz restent sous les 69 % et alimentent la hausse des prix.
+
+### [De Wever et son drôle de tempo](https://www.lavenir.net/opinions/2026/11/24/de-wever-et-son-drole-de-tempo-RILKYRSQGVFBNFXIEZRWMX6TDI/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 06:00 · score `15`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Dimanche, Bart De Wever était à Anvers. Il fêtait les 25 ans de son parti, la N-VA. Distillant considérations personnelles, "Nous n’avons pas besoin de pyromanes mais de pompiers", et maximes latines "Imperare sibi maximum imperium est" ("La maîtrise de soi est le plus grand pouvoir"). Son sujet: les négociations budgétaires au point mort. Ainsi, la veille de rendre visite au roi pour faire rapport sur l’état d’enlisement des pourparlers entre les cinq partis de la majorité, le Premier expliquait aux membres de la Nieuw-Vlaamse Alliantie son souhait de poursuivre à la tête du gouvernement…
+
+### [« Je suis d’accord, j’étais la première à me le dire »: Marine réagit à la polémique de sa participation en tant que coach à « The Voice » sur TF1 (vidéo)](https://www.sudinfo.be/id1230714/article/2026-11-24/je-suis-daccord-jetais-la-premiere-me-le-dire-marine-reagit-la-polemique-de-sa)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 16:00 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Alors qu’elle ne compte pas encore deux ans de carrière, Marine va accompagner des talents dans « The Voice » sur TF1.
+
+### [Réforme APE en FWB: entendre les secteurs concernés est une "évidence", mais la majorité rejette l'idée d'auditions parlementaires à ce stade](https://www.lavenir.net/actu/belgique/politique/2026/11/24/reforme-ape-en-fwb-entendre-les-secteurs-concernes-est-une-evidence-mais-la-majorite-rejette-lidee-dauditions-parlementaires-a-ce-stade-SFX5WSN4V5F6DFTF3KLYKDBBBI/)
+
+**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 14:24 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : La majorité Azur a rejeté ce mardi 24 novembre 2026 la proposition émanant de l’opposition d’organiser des auditions des acteurs concernés en Fédération Wallonie-Bruxelles par la réforme des APE. Les secteurs seront cependant consultés, ont toutefois assuré les représentants du MR et des Engagés....
+
+### [Pourra-t-on échapper à de nouvelles élections partielles à Daverdisse?](https://www.tvlux.be/actu/info/politique/pourra-t-on-echapper-a-de-nouvelles-elections-partielles-a-daverdisse_53159)
+
+**TV Lux** · média d'information · 24/11/2026 à 13:08 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Le député-bourgmestre de Neufchâteau, François Huberty va proposer une modification du code de la démocratie locale afin de régler ce cas très particulier, non anticipé par le décret, et auquel fait face la commune de moins de 1400 habitants.
+
+### [Soldes, pré-soldes, offres conjointes: la réforme qui va bouleverser vos habitudes](https://www.sudinfo.be/id1230553/article/2026-11-24/soldes-pre-soldes-offres-conjointes-la-reforme-qui-va-bouleverser-vos-habitudes)
+
+**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 11:00 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+
+> Extrait fourni par la source : Le mot « soldes » pourrait bientôt être autorisé toute l’année, mais avec un mois d’attente maintenu avant les périodes de soldes. Le gouvernement veut revoir les règles et prévoit une réforme qui divise commerçants et consommateurs.
 
 ### [Infano opent kinderdagverblijf in voormalig Roosdaals restaurant en verhuist administratie naar Pamel](https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/roosdaal/infano-opent-kinderdagverblijf-in-voormalig-roosdaals-restaurant-en-verhuist-administratie-naar-pamel/164985273.html)
 
-**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 16:38 · score `17`
+**Het Nieuwsblad** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 16:38 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; impact concret pour la population ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Kinderopvangorganisatie Infano opent een nieuw kinderdagverblijf in het voormalige restaurant De Wingerd in de Poelkveldstraat in Pamel. Het wordt het derde opvanginitiatief van de organisatie in Roosdaal. Ook de administratie verhuist van Ternat naar de nieuwe locatie. Met de uitbreiding wil Infano inspelen op het tekort aan kinderopvang in het Pajottenland.
 
 ### [Verliest Harry straks zijn prinsentitel? Volgens nieuw boek wil William de regels veranderen als hij koning wordt](https://www.hln.be/royalty/verliest-harry-straks-zijn-prinsentitel-volgens-nieuw-boek-wil-william-de-regels-veranderen-als-hij-koning-wordt~aa099cb5/)
 
-**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 16:30 · score `17`
+**Het Laatste Nieuws** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 16:30 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : Prins William (44) zou de titels van prins en prinses willen voorbehouden aan familieleden die officiële taken uitvoeren voor het Britse koningshuis. Dat schrijft royaltyjournalist Tom Sykes in zijn nog te verschijnen boek ‘Dukes of Hazard’, waarover verschillende Britse media berichten. Als William die hervorming na zijn troonsbestijging doorvoert, zou zijn broer Harry (42) zijn prinsentitel verliezen. Ook Harry’s kinderen, prins Archie (7) en prinses Lilibet (5), zouden hun titel kwijtraken.
 
 ### [Le Cercle des Vennes, recréer l'esprit de village en ville](https://www.qu4tre.be/infos/divers/le-cercle-des-vennes-recreer-lesprit-de-village-en-ville/2017789)
 
-**Qu4tre** · média d'information · 23/11/2026 à 15:21 · score `17`
+**Qu4tre** · média d'information · 23/11/2026 à 15:21 · score `14`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique ; changement, alerte ou échéance.
+**Signal éditorial :** publié depuis moins de 36 heures ; décision ou réforme publique ; changement, alerte ou échéance.
 
 > Extrait fourni par la source : À Liège, dans le quartier des Vennes, un collectif de citoyens a décidé de miser sur la convivialité et la solidarité pour recréer du lien entre habitants. Au centre de cette belle aventure se trouve un projet ambitieux situé quai Mativa À Liège, dans le quartier des Vennes, une maison de maître située quai Mativa pourrait bientôt accueillir un nouveau projet. Le Cercle des Vennes souhaite en faire un lieu de vie ouvert à tous, où rencontres, partage et solidarité contribueraient à faire renaître l'esprit de village au cœur de la ville.« Ici, on propose différentes choses. Soit des…
 
-### [Nachtwinkel in Kortrijk dicht na grote controle op drugsaccessoires: "Het was hoog tijd voor een duidelijk signaal"](https://vrtnws.be/p.aDejmVvlw)
+### [Lancement officiel de la coalition pour la restauration de la mer du Nord belge](https://news.belgium.be/fr/lancement-officiel-de-la-coalition-pour-la-restauration-de-la-mer-du-nord-belge)
 
-**VRT NWS** · média d'information · 23/11/2026 à 16:35 · score `16`
+**Presscenter fédéral** · source publique officielle · 24/11/2026 à 15:06 · score `13`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
 
-> Extrait fourni par la source : Nadat uitbaters van dag- en nachtwinkels in Kortrijk en Kuurne vorige maand een waarschuwing kregen, heeft de politie een grote controle gevoerd op tabaksproducten en accessoires waarmee je drugs kunt gebruiken. In totaal kregen 22 winkels bezoek van de politie, de douane en de FOD Volksgezondheid. De diensten namen honderden glazen pijpjes, wegwerpvapes en nicotinezakjes in beslag. In 1 winkel werden zo veel overtredingen vastgesteld dat hij dicht moest.
+> Extrait fourni par la source : Des entreprises, des chercheurs, des associations de défense de la nature et les pouvoirs publics unissent leurs forces au sein de la Coalition pour la restauration de la mer du Nord belge. Grâce à ce réseau, le SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement entend renforcer la coopération en matière de restauration de la nature en mer, améliorer la visibilité des initiatives existantes et favoriser la mise en place de nouveaux projets.
 
-### [Fonds social chauffage: jusqu’à 750 € pour votre mazout cet hiver, à quelles conditions?](https://www.lavenir.net/actu/belgique/2026/11/23/fonds-social-chauffage-jusqua-750-pour-votre-mazout-cet-hiver-a-quelles-conditions-MH4BSDFJZ5HFBHERDTTIEUSBEM/)
+### [Commission sets out key EU policy priorities for 2027 in its European Semester Autumn Package](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2553)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 15:10 · score `16`
+**Commission européenne** · source publique officielle · 24/11/2026 à 00:00 · score `12`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Pour les livraisons du 1er décembre 2026 au 28 février 2027, l’allocation du Fonds social chauffage peut monter jusqu’à 0,50 € par litre de mazout, contre 0,20 € actuellement. Détail qui a son importance: la hausse ne joue qu'à partir de 1.5 € le litre. Qui y a droit, combien espérer et comment la demander: nos réponses et un simulateur pour faire votre calcul....
+> Extrait fourni par la source : European Commission Press release Strasbourg, 24 Nov 2026 The European Commission today adopted the 2027 European Semester Autumn Package, setting out economic, social and employment policy priorities.
 
-### [Nieuwe staatsbon op 1 jaar heeft nettorente van net boven 2 procent](https://vrtnws.be/p.OvkbJMA6o)
+### [Commission imposes provisional import quotas on hybrid passenger vehicles](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2564)
 
-**VRT NWS** · média d'information · 23/11/2026 à 11:38 · score `16`
+**Commission européenne** · source publique officielle · 24/11/2026 à 00:00 · score `12`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; changement, alerte ou échéance.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : De nieuwe 1-jarige staatsbon heeft een nettorendement van 2,065 procent. Dat verneemt onze redactie bij het Federaal Agentschap van de Schuld. Voor de 5-jarige staatsbon is de rente 2,52 procent netto en op 10 jaar is het 2,87 procent. Intekenen op de nieuwe staatsbons kan vanaf woensdag.
+> Extrait fourni par la source : European Commission Press release Brussels, 24 Nov 2026 The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of such vehicles. The measures will enter into force on 1 December and follow an investigation that showed imports of hybrid vehicles into the EU have increased significantly since 2023.
 
-### [Koalicja 26: se préparer à soutenir la paix en Ukraine](https://www.mil.be/fr/news/koalicja-26-se-preparer-a-soutenir-la-paix-en-ukraine/)
+### [Commission calls for joint EU efforts to reduce tax gaps and boost public finances](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2562)
 
-**Défense belge** · source publique officielle · 23/11/2026 à 16:50 · score `15`
+**Commission européenne** · source publique officielle · 24/11/2026 à 00:00 · score `12`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; nouvel élément d'un flux sans date fournie ; décision ou réforme publique.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
 
-> Extrait fourni par la source : Comment déployer rapidement des milliers de militaires de différentes nationalités dans un pays et les amener à travailler ensemble? C'est tout l'enjeu de l’exercice Koalicja 26, organisé en Pologne en ce mois de novembre. Des militaires belges y participent en vue d’une éventuelle mission en Ukraine dans le cadre d’un accord de paix.
-
-### [Blauwe kubus op Bonapartedok spreekt nu al tot de verbeelding (en hij ligt er nog geeneens)](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/blauwe-kubus-op-bonapartedok-spreekt-nu-al-tot-de-verbeelding-en-hij-ligt-er-nog-geeneens/164973694.html)
-
-**Gazet van Antwerpen** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 14:44 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Op het Bonapartedok drijft vanaf eind januari een gigantische blauwe kubus waarin je naar de show Prodigy12 kan gaan zien. Op sociale media wordt het bericht veelvuldig gepromoot en de Antwerpenaar is duidelijk getriggerd: er werden al 10.000 tickets verkocht.
-
-### [L’annonce forte de Bart De Wever: si aucun accord n’est trouvé d’ici le 31 décembre, l’Arizona n’aura plus lieu d’être!](https://www.sudinfo.be/id1230194/article/2026-11-23/lannonce-forte-de-bart-de-wever-si-aucun-accord-nest-trouve-dici-le-31-decembre)
-
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 12:58 · score `15`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Bart De Wever convoque les présidents des partis de la coalition à la rue de la Loi pour vérifier s’ils acceptent un accord sur l’assainissement budgétaire avant le 31 décembre. À défaut, le gouvernement estime ne plus pouvoir fonctionner.
-
-## Politiques publiques et société — autres pistes
-
-### [Crise gouvernementale: Bart De Wever se donne jusqu'au 31 décembre pour trouver un accord sur le budget, revivez notre direct vidéo](https://www.rtbf.be/article/crise-gouvernementale-bart-de-wever-se-donne-jusqu-au-31-decembre-pour-trouver-un-accord-sur-le-budget-revivez-notre-direct-video-11819628)
-
-**RTBF Info** · média d'information · 23/11/2026 à 16:40 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Bart De Wever s'est entretenu avec le Roi dès 11h30 au Palais royal. Le Roi a missioné le Premier ministre à continuer...
-
-### [Négociations budgétaires: Bart De Wever convoque les présidents de parti ce mardi à 16h pour trouver un accord avant la fin de l’année](https://www.sudinfo.be/id1230250/article/2026-11-23/negociations-budgetaires-bart-de-wever-convoque-les-presidents-de-parti-ce-mardi)
-
-**Sudinfo** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 15:05 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Bart De Wever réunit ce mardi à 16h les présidents des partis de la majorité pour tenter de débloquer les négociations budgétaires, toujours en panne malgré plusieurs jours de discussions.
-
-### ["C'est Bruxelles qui y gagne": un accord majeur conclu entre le fédéral et la Région](https://www.lalibre.be/belgique/politique-belge/2026/11/23/cest-bruxelles-qui-y-gagne-un-accord-majeur-conclu-entre-le-federal-et-la-region-LM5DENVAZVG5JJTNOIYAP7JYUU/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 14:28 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : 157 millions d'euros au total sont consacrés à la rénovation des tunnels, ponts et viaducs....
-
-### [Europese Commissie opent onderzoek naar grootste producent Coca-Cola in Europa](https://www.hbvl.be/economie/europese-commissie-opent-onderzoek-naar-grootste-producent-coca-cola-in-europa/164966763.html)
-
-**Het Belang van Limburg** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 12:53 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; chiffres, étude ou évaluation ; agenda institutionnel proche.
-
-> Extrait fourni par la source : De Europese Commissie heeft maandag een formeel onderzoek geopend naar mogelijke inbreuken op de Europese concurrentieregels door Coca-Cola Europacific Partners (CCEP), de grootste producent en bottelaar van Coca-Cola in Europa.
-
-### [Crise politique: Bart De Wever va élargir les négociations aux présidents de parti et, en cas d’échec, démissionnera](https://www.lalibre.be/belgique/politique-belge/2026/11/23/crise-politique-bart-de-wever-va-elargir-les-negociations-aux-presidents-de-parti-et-en-cas-dechec-demissionnera-SRK2JRHO6BE5TFPYHBZAWNMZXU/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 12:52 · score `14`
-
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
-
-> Extrait fourni par la source : Le Premier ministre n’est pas parvenu à un accord ce lundi matin, en kern. Il reste toutefois au “16” et va tenter une dernière tentative pour trouver les fameux 10 milliards d’euros…...
-
-### [Et si le Belge devait aller revoter maintenant, quels partis émergeraient? Voici ce que révèle un sondage](https://www.dhnet.be/actu/belgique/2026/11/23/et-si-le-belge-devait-aller-revoter-maintenant-quels-partis-emergeraient-voici-ce-que-revele-un-sondage-WGF66EGDZFCTTKQF533AUB5P7E/)
-
-**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 08:04 · score `14`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Un nouveau baromètre politique confirme l’érosion du MR et, dans une moindre mesure, des Engagés. Dans l’opposition, le PS et le PTB reprennent des couleurs mais Ecolo peine toujours à amorcer sa remontée....
+> Extrait fourni par la source : European Commission Press release Brussels, 24 Nov 2026 Today, the European Commission published its Mind the Gap 2026 Communication, showing how enhanced tax compliance, improved governance of tax expenditures, better tax collection and more effective tax administration can help Member States protect public finances and create room for the investments Europe urgently needs.
 
 ### [Lancement du Réseau Enfance en Résistance](https://rwlp.be/lancement-du-reseau-enfance-en-resistance/)
 
-**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 23/11/2026 à 07:49 · score `14`
+**Réseau wallon de lutte contre la pauvreté** · organisation de la société civile · 23/11/2026 à 07:49 · score `12`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 12 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type réformes ; contenu de type actualités ; publié depuis moins de 36 heures.
 
 > Extrait fourni par la source : Ce vendredi 20 novembre 2026 a eu lieu le lancement du Réseau Enfance en Résistance à Bruxelles dont le Réseau Wallon de Lutte contre la Pauvreté fait partie. Ce réseau rassemble des organisations actives dans le secteur de l’enfance, des organisations syndicales et des mouvements représentant les familles et les femmes. Ensemble, elles défendent une société qui reconnait pleinement la place de l’enfant, ses besoins et les droits qui doivent lui être garantis. Elles revendiquent des services d’accueil et d’accompagnement de qualité, accessibles à toutes les familles, des moyens suffisants…
 
-### [Sondage LN24/Dedicated: des élections anticipées feraient souffrir le MR](https://www.lalibre.be/belgique/politique-belge/2026/11/23/sondage-ln24dedicated-des-elections-anticipees-feraient-souffrir-le-mr-OIVLWG2S4NCSXJTXKXOA5DMZTY/)
-
-**La Libre Belgique** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 06:38 · score `14`
-
-**Signal éditorial :** publié depuis moins de 12 heures ; chiffres, étude ou évaluation ; changement, alerte ou échéance.
-
-> Extrait fourni par la source : Un nouveau baromètre politique confirme l’érosion du MR et, dans une moindre mesure, des Engagés. Dans l’opposition, le PS et le PTB reprennent des couleurs mais Ecolo peine toujours à amorcer sa remontée....
-
-### [Reconnaître les signaux, prévenir les abus: les nouveaux modules de formation de PortAware](http://mobilit.belgium.be/fr/news/reconnaitre-les-signaux-prevenir-les-abus-les-nouveaux-modules-de-formation-de-portaware)
-
-**SPF Mobilité et Transports** · source publique officielle · 23/11/2026 à 14:27 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; contenu de type actualités ; publié depuis moins de 6 heures.
-
-> Extrait fourni par la source : La lutte contre le crime organisé commence par la vigilance. Les organisations criminelles abusent de plus en plus souvent de la confiance, de la serviabilité ou de la pression du temps pour accéder à des zones sécurisées ou à des informations sensibles. Grâce à ses nouveaux modules de formation, PortAware aide les collaborateurs à reconnaître ces signaux à temps et à agir en toute sécurité.« Ingénierie sociale »: un problème croissantLes personnes qui travaillent dans le port ou à proximité ont souvent accès à des zones sécurisées ou à des informations sensibles. Or, c’est précisément ce…
-
-### [Résultats de l'adjudication OLO du 23 novembre 2026](https://news.belgium.be/fr/resultats-de-ladjudication-olo-du-23-novembre-2026)
-
-**Presscenter fédéral** · source publique officielle · 23/11/2026 à 12:11 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
-
-> Extrait fourni par la source : L'Agence fédérale de la Dette communique qu'elle a accepté les offres à l'adjudication de ce jour pour un montant total de EUR 1.800 milliard. Ce montant est réparti sur les lignes de la façon suivante:
-
-### [Bons d'Etat - émission du 4 décembre 2026 - Coupon](https://news.belgium.be/fr/bons-detat-emission-du-4-decembre-2026-coupon)
-
-**Presscenter fédéral** · source publique officielle · 23/11/2026 à 11:14 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
-
-> Extrait fourni par la source : Les coupons des bons d'État qui seront émis le 4 décembre 2026 prochain sont fixés comme suit:
-
-### [Commission welcomes European Citizens' Panel recommendations on Democratic Resilience](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2552)
-
-**Commission européenne** · source publique officielle · 23/11/2026 à 00:00 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 23 Nov 2026 The European Citizens' Panel on Democratic Resilience concluded yesterday with its third and final session.
-
-### [Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530)
-
-**Commission européenne** · source publique officielle · 23/11/2026 à 00:00 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 23 Nov 2026 The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules by (i) hindering the cross-border trade of carbonated soft drinks and sports drinks; and (ii) denying certain wholesale customers the possibility to negotiate the procurement of these products on a multi-country basis.
-
-### [Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2467)
-
-**Commission européenne** · source publique officielle · 23/11/2026 à 00:00 · score `12`
-
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 24 heures ; agenda institutionnel proche.
-
-> Extrait fourni par la source : European Commission Press release Brussels, 23 Nov 2026 The European Commission has approved, under EU State aid rules, a €1 billion Slovenian measure to cover exceptional costs related to the closure of the Premogovnik Velenje coal mine.
-
 ## Justice, droits et contrôle — autres pistes
 
-### [La justice sort l’artillerie lourde à l’encontre d’un militaire alcoolisé: “Les militaires sont censés rassurer la population”](https://www.lavenir.net/actu/discover/2026/11/23/la-justice-sort-lartillerie-lourde-a-lencontre-dun-militaire-alcoolise-les-militaires-sont-censes-rassurer-la-population-IY2TEXG34JGX5JFVFV2JCPUJHE/)
+### [Nieuw gezamenlijk recyclagepark voor Bocholt en Bree komt langs Hamonterweg in Bocholt](https://vrtnws.be/p.LNW3kpNvV)
 
-**L'Avenir** · média d'information · article possiblement réservé aux abonnés · 23/11/2026 à 14:02 · score `14`
+**VRT NWS** · média d'information · 24/11/2026 à 12:05 · score `16`
 
-**Signal éditorial :** publié depuis moins de 6 heures ; décision ou réforme publique.
+**Signal éditorial :** publié depuis moins de 6 heures ; contrôle, droits ou responsabilité publique ; changement, alerte ou échéance.
 
-> Extrait fourni par la source : En mission en Roumanie, un militaire belge a été arrêté pour conduite en état d’imprégnation alcoolique. L’affaire est arrivée jusqu’au tribunal correctionnel de Neufchâteau, où un jugement a été rendu ce 19 novembre 2026....
+> Extrait fourni par la source : Het gemeenschappelijke recyclagepark voor Bocholt en Bree komt langs de Hamonterweg in Bocholt. In beroep zijn er geen bezwaren ingediend, waardoor de de grond kan worden gekocht en de nodige procedures kunnen opstarten.
 
 ## Économie, emploi et consommateurs — autres pistes
 
+### [Après son IPO record, Anthropic passe déjà sous son prix d'introduction](https://www.lecho.be/r/t/1/id/10706769)
+
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 15:43 · score `15`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population ; agenda institutionnel proche.
+
+> Extrait fourni par la source : L'action Anthropic est tombée sous le prix de son IPO, à 83 dollars, en séance ce mardi, après ses premiers pas jeudi dernier. Le titre est pris en pleine tourmente des valeurs de l'IA.
+
+### [Vague de froid en Europe: les prix du gaz repartent à la hausse et dépassent un seuil symbolique](https://www.dhnet.be/actu/belgique/2026/11/24/vague-de-froid-en-europe-les-prix-du-gaz-repartent-a-la-hausse-et-depassent-un-seuil-symbolique-56APEU4YWZEZHBDEHVZWEPPEOU/)
+
+**DH Les Sports+** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 09:51 · score `15`
+
+**Signal éditorial :** publié depuis moins de 12 heures ; impact concret pour la population ; changement, alerte ou échéance.
+
+> Extrait fourni par la source : Une vague de froid en Europe fait grimper mardi le prix du gaz au-delà de 90 euros le mégawattheure....
+
+### [À Liège, l'effondrement de l'importation de petits colis depuis la Chine se confirme](https://www.lecho.be/r/t/1/id/10706763)
+
+**L'Echo** · média d'information · article possiblement réservé aux abonnés · 24/11/2026 à 15:37 · score `14`
+
+**Signal éditorial :** publié depuis moins de 6 heures ; impact concret pour la population.
+
+> Extrait fourni par la source : La quantité de déclarations en douane de petits colis a été divisée par près de cinq en un an, à l'aéroport de Liège. Un effet de la taxe de 3 euros sur les petits colis qui pousse Liege Airport à se réinventer.
+
 ### [La moitié des Belges souhaite acheter local, mais seuls 7 % le font](https://news.economie.fgov.be/274893-la-moitie-des-belges-souhaite-acheter-local-mais-seuls-7-le-font/)
 
-**SPF Économie** · source publique officielle · 23/11/2026 à 09:00 · score `15`
+**SPF Économie** · source publique officielle · 23/11/2026 à 09:00 · score `13`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 12 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type analyses ; contenu de type communiqués ; publié depuis moins de 36 heures.
 
 > Extrait fourni par la source : Avec la campagne "Achetez consciemment", le SPF Economie souhaite aider les consommateurs à mieux comprendre les étiquettes alimentaires et les encourager à choisir ainsi des produits locaux, y compris au supermarché.
 
-### [Philip R. Lane: Climate change and monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf)
+### [Nieuwe golf e-bussen komt aan in West-Vlaanderen](https://delijn.prezly.com/nieuwe-golf-e-bussen-komt-aan-in-west-vlaanderen)
 
-**Banque centrale européenne** · source publique officielle · 23/11/2026 à 15:30 · score `11`
+**De Lijn** · source publique officielle · 24/11/2026 à 12:57 · score `11`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
 
-### [ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html)
+### [La STIB renforce son réseau pour l’ouverture de Kanal](https://stib.prezly.com/la-stib-renforce-son-reseau-pour-louverture-de-kanal)
 
-**Banque centrale européenne** · source publique officielle · 23/11/2026 à 11:00 · score `11`
+**STIB** · source publique officielle · 24/11/2026 à 12:22 · score `11`
 
-**Signal éditorial :** producteur institutionnel ou collectif identifié ; publié depuis moins de 6 heures.
+**Signal éditorial :** producteur institutionnel ou collectif identifié ; contenu de type communiqués ; publié depuis moins de 6 heures.
 
 ## Méthode et limites
 

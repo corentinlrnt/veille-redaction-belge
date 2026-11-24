@@ -1,11 +1,11 @@
 # Collecte des contenus structurés
 
-Généré le `2026-11-23T15:50:26.804903Z` par `veille-redaction-belge/collector-0.1.0`.
+Généré le `2026-11-24T15:41:02.686980Z` par `veille-redaction-belge/collector-0.1.0`.
 
 - Flux configurés : **63**
 - Flux collectés : **62**
 - Flux en erreur : **1**
-- Éléments conservés : **3563**
+- Éléments conservés : **3566**
 - Sources contributrices : **39**
 
 | Source | Flux | Statut | Format | Éléments | Erreur |
@@ -16,7 +16,7 @@ Généré le `2026-11-23T15:50:26.804903Z` par `veille-redaction-belge/collector
 | `bx1` | `bx1_rss` | `http_error` | `unknown` | 0 | HTTP 403: Forbidden |
 | `cawab` | `cawab_news` | `ok` | `rss` | 10 | — |
 | `cdv_party` | `cdv_party_rss` | `ok` | `rss` | 20 | — |
-| `chamber` | `chamber_live` | `ok` | `json` | 13 | — |
+| `chamber` | `chamber_live` | `ok` | `json` | 22 | — |
 | `cire` | `cire_press` | `ok` | `rss` | 8 | — |
 | `court_of_audit` | `court_audit_rss` | `ok` | `rss` | 20 | — |
 | `csa` | `csa_press_rss` | `ok` | `rss` | 10 | — |
@@ -39,7 +39,7 @@ Généré le `2026-11-23T15:50:26.804903Z` par `veille-redaction-belge/collector
 | `gezinsbond` | `gezinsbond_press` | `ok` | `rss` | 10 | — |
 | `greenpeace_be` | `greenpeace_be_rss` | `ok` | `rss` | 10 | — |
 | `groen_party` | `groen_party_rss` | `ok` | `rss` | 20 | — |
-| `gva` | `gva_rss` | `ok` | `rss` | 49 | — |
+| `gva` | `gva_rss` | `ok` | `rss` | 50 | — |
 | `hbvl` | `hbvl_rss` | `ok` | `rss` | 50 | — |
 | `het_nieuwsblad` | `het_nieuwsblad_rss` | `ok` | `rss` | 50 | — |
 | `hln` | `hln_rss` | `ok` | `rss` | 30 | — |
