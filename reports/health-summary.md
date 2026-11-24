@@ -1,16 +1,16 @@
 # Santé des accès
 
-Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
+Généré le `2026-11-24T15:50:44.463260Z` par `veille-redaction-belge/0.1.0`.
 
 - Accès configurés et actifs : **286**
 - Accès testés : **286**
-- Accès opérationnels : **242**
-- Accès en erreur ou bloqués : **44**
-- Flux candidats découverts : **100**
+- Accès opérationnels : **236**
+- Accès en erreur ou bloqués : **50**
+- Flux candidats découverts : **95**
 
 | Source | Accès | Statut | HTTP | Format attendu → reçu | Robots | Flux trouvés |
 | --- | --- | --- | ---: | --- | --- | ---: |
-| Académie de recherche et d'enseignement supérieur | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Académie de recherche et d'enseignement supérieur | Actualités | `network_error` | — | `html → unknown` | `allowed` | 0 |
 | Actiris | Actualités | `ok` | 200 | `html → html` | `missing` | 0 |
 | Administration de la Fédération Wallonie-Bruxelles | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Administration flamande | Nieuwsberichten | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -36,7 +36,7 @@ Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
 | AVS | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Banque centrale européenne | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 1 |
 | Banque centrale européenne | Communiqués de presse RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| Banque nationale de Belgique | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 3 |
+| Banque nationale de Belgique | Communiqués de presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Bond Beter Leefmilieu | Nieuws | `http_error` | 403 | `html → unknown` | `allowed` | 0 |
 | Boukè | Actualités régionales | `ok` | 200 | `html → html` | `allowed` | 0 |
 | BRF Nachrichten | BRF Nachrichten | `ok` | 200 | `html → html` | `allowed` | 0 |
@@ -62,8 +62,8 @@ Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
 | CIRÉ | Communiqués de presse | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collectif Accessibilité Wallonie Bruxelles | Actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Collège des cours et tribunaux | Publications | `http_error` | 404 | `html → unknown` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Comité permanent de contrôle des services de police | Publications | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Communiqués de presse | `ok` | 202 | `html → html` | `allowed` | 0 |
+| Comité permanent de contrôle des services de police | Publications | `ok` | 202 | `html → html` | `allowed` | 0 |
 | Commission de Régulation de l'Électricité et du Gaz | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Commission européenne | Press Corner RSS | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -113,11 +113,11 @@ Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
 | FGTB | Presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Focus & WTV | Focus en WTV RSS | `parse_error` | 200 | `rss → rss` | `allowed` | 0 |
 | Focus & WTV | Regionaal nieuws | `ok` | 200 | `html → html` | `allowed` | 1 |
-| Fédération des Entreprises de Belgique | Presse | `ok` | 200 | `html → html` | `allowed` | 2 |
+| Fédération des Entreprises de Belgique | Presse | `http_error` | 403 | `html → unknown` | `unknown` | 0 |
 | Gazet van Antwerpen | Nieuwsfeed | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gezinsbond | Persberichten | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Gouvernement de la Fédération Wallonie-Bruxelles | Communiqués de presse | `ok` | 200 | `html → html` | `missing` | 0 |
-| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `ok` | 200 | `html → html` | `missing` | 0 |
+| Gouvernement de la Fédération Wallonie-Bruxelles | Ordres du jour | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Gouvernement flamand | Décisions du gouvernement | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Gouvernement wallon | Communiqués de presse | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Greenpeace Belgique | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
@@ -240,7 +240,7 @@ Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
 | SPF Justice | Nouvelles | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Mobilité et Transports | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
-| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
+| SPF Santé publique Sécurité de la Chaîne alimentaire et Environnement | Actualités | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | SPF Stratégie et Appui | Actualités | `ok` | 200 | `html → html` | `allowed` | 1 |
 | SPF Sécurité sociale | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | SPF Économie | Flux des communiqués | `ok` | 200 | `atom → atom` | `allowed` | 0 |
@@ -283,7 +283,7 @@ Généré le `2026-11-23T15:56:33.586924Z` par `veille-redaction-belge/0.1.0`.
 | Vivalis | Actualités | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vivant Ostbelgien | Flux des actualités | `ok` | 200 | `rss → rss` | `allowed` | 0 |
 | Vlaams Belang | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
-| Vlaams Huurdersplatform | Actualiteit | `ok` | 200 | `html → html` | `allowed` | 0 |
+| Vlaams Huurdersplatform | Actualiteit | `network_error` | — | `html → unknown` | `unknown` | 0 |
 | Vlaamse Milieumaatschappij | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vlaamse Nutsregulator | Nieuws en persoverzicht | `ok` | 200 | `html → html` | `allowed` | 0 |
 | Vluchtelingenwerk Vlaanderen | Nieuws | `ok` | 200 | `html → html` | `allowed` | 0 |
