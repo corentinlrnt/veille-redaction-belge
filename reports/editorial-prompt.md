@@ -148,7 +148,7 @@ Contraintes de contenu :
 {
   "schema_version": 2,
   "generator": "veille-redaction-belge/editorial-packet-0.2.0",
-  "generated_at": "2026-11-26T14:56:31.237775Z",
+  "generated_at": "2026-11-27T14:53:25.979727Z",
   "purpose": "Entrée sourcée pour produire le briefing éditorial; ce paquet n'est pas le courriel final.",
   "canonical_document": "docs/editorial-canvas.md",
   "expected_output_schema": "data/editorial_output_schema.json",
@@ -413,35 +413,33 @@ Contraintes de contenu :
     ]
   },
   "input_summary": {
-    "collected_items": 3528,
-    "recent_items_in_window": 1011,
+    "collected_items": 3535,
+    "recent_items_in_window": 1004,
     "radar_candidates": 36,
-    "editorial_candidates": 163,
-    "primary_source_candidates": 29,
-    "agenda_candidates": 1,
+    "editorial_candidates": 156,
+    "primary_source_candidates": 28,
+    "agenda_candidates": 0,
     "agenda_verification_targets": 2,
-    "radar_exclusions": 4,
+    "radar_exclusions": 5,
     "source_mix": {
       "all_candidates": {
-        "civil_society": 2,
         "institution": 16,
-        "news_media": 118,
-        "parliament": 12,
-        "political_party": 4,
+        "news_media": 119,
+        "parliament": 7,
+        "political_party": 2,
         "public_body": 2,
+        "public_company": 1,
         "regulator": 6,
         "statistics": 3
       },
       "primary_sources": {
-        "civil_society": 2,
         "institution": 16,
         "public_body": 2,
+        "public_company": 1,
         "regulator": 6,
         "statistics": 3
       },
-      "agenda_sources": {
-        "parliament": 1
-      }
+      "agenda_sources": {}
     }
   },
   "input_limitations": [
@@ -475,56 +473,3543 @@ Contraintes de contenu :
     {
       "candidate_id": "candidate-001",
       "source": {
-        "source_id": "walloon_parliament",
-        "publisher": "Parlement de Wallonie",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Commission de l'énergie, du climat et du logement - 01/12/2026 09:30 - Salle 5 du bâtiment Saint-Gilles",
-        "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc65.pdf",
-        "published_at": null,
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Man uit Roeselare krijgt 20 jaar cel voor moord op zijn vrouw met 122 messteken",
+        "url": "https://vrtnws.be/p.lObJWjVRB",
+        "published_at": "2026-11-27T14:50:23Z",
         "source_published_at": null,
         "event_at": null,
         "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": ""
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "Een zestiger uit Roeselare is veroordeeld tot 20 jaar cel voor de moord op zijn vrouw. Bijna 3 jaar geleden stak hij haar meer dan 120 keer met een mes. Het assisenproces tegen de man startte vorige week. De jury vond dat hij de moord op voorhand had gepland. Zijn vrouw wilde die dag bij hem wegtrekken."
       },
-      "radar_selected": true,
+      "radar_selected": false,
       "primary_source_candidate": false,
       "agenda_candidate": false,
       "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
+        "id": "",
+        "label": ""
       },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type agenda",
-        "nouvel élément d'un flux sans date fournie",
-        "impact concret pour la population",
-        "agenda institutionnel proche"
-      ],
+      "radar_signals": [],
       "lexically_related_sources": []
     },
     {
       "candidate_id": "candidate-002",
       "source": {
-        "source_id": "walloon_parliament",
-        "publisher": "Parlement de Wallonie",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Commission de l'économie, de l'emploi et de la formation - 01/12/2026 08:30 - Salle de commission 7",
-        "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc63.pdf",
-        "published_at": null,
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Twee inbraken in Hasselt: werkmateriaal gestolen",
+        "url": "https://www.nieuwsblad.be/regio/limburg/hasselt/twee-inbraken-in-hasselt-werkmateriaal-gestolen/165220232.html",
+        "published_at": "2026-11-27T14:48:45Z",
         "source_published_at": null,
         "event_at": null,
         "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "In Hasselt stelden ze donderdag twee inbraken vast."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-003",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Twee inbraken in Hasselt: werkmateriaal gestolen",
+        "url": "https://www.hbvl.be/regio/limburg/hasselt/twee-inbraken-in-hasselt-werkmateriaal-gestolen/165220160.html",
+        "published_at": "2026-11-27T14:48:44Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "In Hasselt stelden ze donderdag twee inbraken vast."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-004",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Flexi-jobbers en jobstudenten vangen drukte van Black Friday op",
+        "url": "https://www.tijd.be/r/t/1/id/10707317",
+        "published_at": "2026-11-27T14:48:09Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Om de Black Friday-drukte op te vangen, rekenen retailers steeds meer op de hulp van flexibele werkkrachten. Ook in de logistiek en distributie, waar men sinds juli kan flexi-jobben, neemt het aantal flexi-jobbers toe."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-005",
+      "source": {
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Vrouw gewond bij ongeval in Hasselt",
+        "url": "https://www.nieuwsblad.be/regio/limburg/hasselt/vrouw-gewond-bij-ongeval-in-hasselt/165220120.html",
+        "published_at": "2026-11-27T14:47:32Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Een vrouw (26) uit Heusden-Zolder raakte donderdag om 17 uur gewond bij een ongeval op de Maastrichtersteenweg in Hasselt. Het ging om een kop-staartbotsing en ze was lichtgewond."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-006",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Vrouw gewond bij ongeval in Hasselt",
+        "url": "https://www.hbvl.be/regio/limburg/hasselt/vrouw-gewond-bij-ongeval-in-hasselt/165220029.html",
+        "published_at": "2026-11-27T14:47:31Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Een vrouw (26) uit Heusden-Zolder raakte donderdag om 17 uur gewond bij een ongeval op de Maastrichtersteenweg in Hasselt. Het ging om een kop-staartbotsing en ze was lichtgewond."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-007",
+      "source": {
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Kazerne Dossin vond afgelopen jaar 206 nieuwe portretten van gedeporteerden: “Zij krijgen opnieuw een gezicht”",
+        "url": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/mechelen/kazerne-dossin-vond-afgelopen-jaar-206-nieuwe-portretten-van-gedeporteerden-zij-krijgen-opnieuw-een-gezicht/165220257.html",
+        "published_at": "2026-11-27T14:47:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Tijdens de veertiende editie van de jaarlijkse Portrettenceremonie onthulde Kazerne Dossin in Mechelen 206 nieuwe portretten. Het gaat om foto’s van Joden, Roma en Sinti die tijdens de Tweede Wereldoorlog vanuit Mechelen of Drancy gedeporteerd werden. Het gaat om het hoogste aantal nieuwe portretten in vier jaar tijd."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-008",
+      "source": {
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Mobiele crisisteams rukken dagelijks uit voor psychiatrische noodgevallen in de Kempen",
+        "url": "https://vrtnws.be/p.0YplOAMGl",
+        "published_at": "2026-11-27T14:45:25Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "Het voorbije jaar hebben de mobiele crisisteams voor psychiatrische noodgevallen in de Kempen elke dag moeten uitrukken. De gespecialiseerde teams ondersteunen sinds vorig jaar spoeddiensten en huisartsen bij patiënten in een acute psychische crisis, bijvoorbeeld bij ernstige zelfmoordgedachten. Vanaf volgende week kunnen ook politieagenten in de zone Geel-Laakdal-Meerhout hun hulp inschakelen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-009",
+      "source": {
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "\"Slachtoffer moest eigen graf graven\": 5 verdachten aangehouden voor dagenlange gijzeling in Nijlen",
+        "url": "https://vrtnws.be/p.KK85OlEEL",
+        "published_at": "2026-11-27T14:45:12Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "Er zijn 5 verdachten aangehouden in een onderzoek naar zeer zware geweldsfeiten en een gijzeling in Nijlen. Een man van 32 uit Lier zou verschillende dagen zijn vastgehouden en mishandeld in een afgelegen boerderij. Volgens de politie van Berlaar-Nijlen draait het onderzoek rond een vermeende drugsschuld van het slachtoffer."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-010",
+      "source": {
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Provincie wil met subsidie producten van zorgboerderijen mee in de kijker zetten: “Absoluut een meerwaarde in de verhardende samenleving”",
+        "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/wetteren/provincie-wil-met-subsidie-producten-van-zorgboerderijen-mee-in-de-kijker-zetten-absoluut-een-meerwaarde-in-de-verhardende-samenleving/165189721.html",
+        "published_at": "2026-11-27T14:45:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Met een subsidie van 50.000 euro per jaar wil de provincie Oost-Vlaanderen producten uit zorgboerderijen in de kijker zetten. Ook willen ze het hulpaanbod beter afstemmen op de vraag."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-011",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "VDAB moet jaarlijks 2.000 Walen naar Vlaams knelpuntberoep leiden",
+        "url": "https://www.tijd.be/r/t/1/id/10707237",
+        "published_at": "2026-11-27T14:44:29Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "De Vlaamse arbeidsbemiddelaar VDAB en zijn Waalse tegenhanger Forem willen jaarlijks minstens 2.000 werkzoekenden uit Wallonië aan een knelpuntjob in Vlaanderen helpen. Vergeleken met wat vandaag al gebeurt, lijkt dat geen grote inspanning, al benadrukt de VDAB dat het ‘ambitieus is gezien de economische conjunctuur’."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-012",
+      "source": {
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Parket eist 9 jaar cel tegen opvoeder (64) voor vermoedelijk seksueel misbruik van leerlingen op internaat",
+        "url": "https://www.nieuwsblad.be/regio/brussel/sint-lambrechts-woluwe/parket-eist-9-jaar-cel-tegen-opvoeder-64-voor-vermoedelijk-seksueel-misbruik-van-leerlingen-op-internaat/165212714.html",
+        "published_at": "2026-11-27T14:44:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Voor de correctionele rechtbank is vrijdag het proces van start gegaan tegen een voormalige opvoeder van een internaat in Sint-Lambrechts-Woluwe die verdacht wordt van seksueel misbruik van verschillende leerlingen. Zijn advocaat ontkent de tenlasteleggingen en pleitte voor een vrijspraak."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-013",
+      "source": {
+        "source_id": "gva",
+        "publisher": "Gazet van Antwerpen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "COLUMN. Nico Dijkshoorn: “Stilte voor de storm? Het zwijgen van Romelu Lukaku na de wedstrijd is natuurlijk niets anders dan schaamte”",
+        "url": "https://www.gva.be/sport/voetbal/column.-nico-dijkshoorn-stilte-voor-de-storm-het-zwijgen-van-romelu-lukaku-na-de-wedstrijd-is-natuurlijk-niets-anders-dan-schaamte/165213773.html",
+        "published_at": "2026-11-27T14:43:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Elke week buigt columnist Nico Dijkshoorn zich over een nieuwsfeit dat hem beroerde. Vandaag: de stilte van Romelu Lukaku"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-014",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "COLUMN. Nico Dijkshoorn: “Stilte voor de storm? Het zwijgen van Romelu Lukaku na de wedstrijd is natuurlijk niets anders dan schaamte”",
+        "url": "https://www.hbvl.be/sport/voetbal/column.-nico-dijkshoorn-stilte-voor-de-storm-het-zwijgen-van-romelu-lukaku-na-de-wedstrijd-is-natuurlijk-niets-anders-dan-schaamte/165213772.html",
+        "published_at": "2026-11-27T14:43:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Elke week buigt columnist Nico Dijkshoorn zich over een nieuwsfeit dat hem beroerde. Vandaag: de stilte van Romelu Lukaku"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-015",
+      "source": {
+        "source_id": "het_nieuwsblad",
+        "publisher": "Het Nieuwsblad",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "COLUMN. Nico Dijkshoorn: “Stilte voor de storm? Het zwijgen van Romelu Lukaku na de wedstrijd is natuurlijk niets anders dan schaamte”",
+        "url": "https://www.nieuwsblad.be/sport/voetbal/column.-nico-dijkshoorn-stilte-voor-de-storm-het-zwijgen-van-romelu-lukaku-na-de-wedstrijd-is-natuurlijk-niets-anders-dan-schaamte/165184638.html",
+        "published_at": "2026-11-27T14:43:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Elke week buigt columnist Nico Dijkshoorn zich over een nieuwsfeit dat hem beroerde. Vandaag: de stilte van Romelu Lukaku"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-016",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "KIJK. Z’n fans konden het amper geloven: MotoGP-legende Marc Marquez verrast vriend en vijand met plots afscheid op bijzondere wijze",
+        "url": "https://www.hln.be/meer-sport/kijk-zn-fans-konden-het-amper-geloven-motogp-legende-marc-marquez-verrast-vriend-en-vijand-met-plots-afscheid-op-bijzondere-wijze~a2fac376/",
+        "published_at": "2026-11-27T14:43:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Het einde van een tijdperk voor MotoGP-fans. Marc Marquez (33) zet na dit seizoen - lees: na dit weekend - een punt achter z’n waanzinnige carrière. Dat maakte de Spanjaard vrijdag op bijzondere wijze bekend. Ook z’n fans (en collega-sporters) konden het nauwelijks geloven. “Er was maar één iemand op de hoogte.”"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-017",
+      "source": {
+        "source_id": "gva",
+        "publisher": "Gazet van Antwerpen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Toon Aerts moet na vierde (!) operatie aan de knie definitief passen voor crosswinter",
+        "url": "https://www.gva.be/sport/wielrennen/veldrijden/toon-aerts-moet-na-vierde-operatie-aan-de-knie-definitief-passen-voor-crosswinter/165219283.html",
+        "published_at": "2026-11-27T14:41:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Toon Aerts zal deze winter geen crossen rijden. Dat maakte Lotto-Intermarché vrijdag bekend. De Kempenaar ging al voor de vierde keer onder het mes aan zijn knie en moet de focus noodgedwongen verleggen naar het wegseizoen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-018",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Toon Aerts moet na vierde (!) operatie aan de knie definitief passen voor crosswinter",
+        "url": "https://www.hbvl.be/sport/wielrennen/veldrijden/toon-aerts-moet-na-vierde-operatie-aan-de-knie-definitief-passen-voor-crosswinter/165219282.html",
+        "published_at": "2026-11-27T14:41:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Toon Aerts zal deze winter geen crossen rijden. Dat maakte Lotto-Intermarché vrijdag bekend. De Kempenaar ging al voor de vierde keer onder het mes aan zijn knie en moet de focus noodgedwongen verleggen naar het wegseizoen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-019",
+      "source": {
+        "source_id": "gva",
+        "publisher": "Gazet van Antwerpen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Nederlandse dief probeert in te breken in auto, maar die blijkt van wijkagent te zijn",
+        "url": "https://www.gva.be/buitenland/nederlandse-dief-probeert-in-te-breken-in-auto-maar-die-blijkt-van-wijkagent-te-zijn/165219145.html",
+        "published_at": "2026-11-27T14:39:54Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Op een parking in het Zuid-Hollandse Barendrecht werd woensdag een autodief op heterdaad betrapt. Een wijkagent hield er patrouille omwille van het hoge aantal inbraken in auto’s. De dief koos net zijn wagen uit."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-020",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Les agents de Securail seront autorisés à porter une matraque",
+        "url": "https://www.lavenir.net/actu/belgique/2026/11/27/les-agents-de-securail-seront-autorises-a-porter-une-matraque-BKVSJMD2QBGP3GIZ763SLXNMFM/",
+        "published_at": "2026-11-27T14:39:46Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
         "language": "fr",
         "geography": "Wallonie",
+        "summary_from_source": "Le Conseil des ministres a approuvé vendredi un renforcement de la coopération entre Securail et la police fédérale...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-021",
+      "source": {
+        "source_id": "gva",
+        "publisher": "Gazet van Antwerpen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Operaplein zal eind 2029 veel groener zijn",
+        "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/operaplein-zal-eind-2029-veel-groener-zijn/165216946.html",
+        "published_at": "2026-11-27T14:38:38Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Het Antwerpse schepencollege stelt een studiebureau aan om te onderzoeken hoe het Operaplein kan worden vergroend. Het plein zou er tegen het najaar van 2029 een stuk groener moeten uitzien."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-022",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "C’est désormais officiel: les agents Securail sont autorisés à porter une matraque",
+        "url": "https://www.sudinfo.be/id1231961/article/2026-11-27/cest-desormais-officiel-les-agents-securail-sont-autorises-porter-une-matraque",
+        "published_at": "2026-11-27T14:38:03Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Le Conseil des ministres a approuvé vendredi un renforcement de la coopération entre Securail et la police fédérale, avec un déploiement plus ciblé des patrouilles et l’équipement possible d’une matraque."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-023",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "GEMEENTERAAD. Alkense raad ruziet over verhoogde tarieven voor elektronische identiteitskaarten: “Platte belastingverhoging”",
+        "url": "https://www.hbvl.be/regio/limburg/alken/gemeenteraad.-alkense-raad-ruziet-over-verhoogde-tarieven-voor-elektronische-identiteitskaarten-platte-belastingverhoging/165214519.html",
+        "published_at": "2026-11-27T14:38:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
         "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-024",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Toon Aerts onderging vierde knieoperatie en zal deze winter niet meer crossen",
+        "url": "https://www.hln.be/wielrennen/toon-aerts-onderging-vierde-knieoperatie-en-zal-deze-winter-niet-meer-crossen~a98ef736/",
+        "published_at": "2026-11-27T14:37:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Op deze pagina blijft u op de hoogte van al het nieuws in het wielrennen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-025",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Une bombe de la Seconde Guerre mondiale retrouvée... au milieu des pommes de terre en Flandre",
+        "url": "https://www.lavenir.net/actu/belgique/2026/11/27/une-bombe-de-la-seconde-guerre-mondiale-retrouvee-au-milieu-des-pommes-de-terre-en-flandre-DT63F2WHH5CIHIBSP4GPJFOKPE/",
+        "published_at": "2026-11-27T14:36:29Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Une bombe de la Seconde Guerre mondiale a été découverte vendredi dans un chargement de pommes de terre de l'entreprise Agristo à Wielsbeke, en Flandre occidentale...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-026",
+      "source": {
+        "source_id": "lecho",
+        "publisher": "L'Echo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "33.000 Belges ciblés par de fausses amendes MyMinfin",
+        "url": "https://www.lecho.be/r/t/1/id/10707300",
+        "published_at": "2026-11-27T14:36:25Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Des données issues d’une cyberattaque affectant plusieurs pays ont été utilisées pour arnaquer des Belges. 33.000 personnes ont été la cible d’une tentative d’arnaque sous le compte de MyMinfin, selon un rapport de SOCRadar consulté par L'Echo."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-027",
+      "source": {
+        "source_id": "gva",
+        "publisher": "Gazet van Antwerpen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Theatertoer steunt diverse goede doelen: Wintergeheim moet ontrafeld worden",
+        "url": "https://www.gva.be/regio/antwerpen/kempen/hulshout/theatertoer-steunt-diverse-goede-doelen-wintergeheim-moet-ontrafeld-worden/165213824.html",
+        "published_at": "2026-11-27T14:36:07Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "Tijdens de kerstvakantie gaat de productie Het Bevroren Wintergeheim van Theater Bank Vooruit in première. Dat gebeurt op 19 december in Vorselaar. Nadien reist het gezelschap nog naar Olen, Nijlen, Ranst en Hulshout. De voorstellingen worden gekoppeld aan goede doelen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-028",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Lontzen: Der KSC hat den neuen Teppich ausgerollt",
+        "url": "https://brf.be/regional/2129283/",
+        "published_at": "2026-11-27T14:35:21Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Weicher, moderner und das ganze Jahr über nutzbar: Der KSC Lontzen hat einen neuen Kunstrasenplatz. Bespielt wird er seit einigen Wochen. Beim Verein ist die Freude groß. Es gibt aber auch Kritik."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-029",
+      "source": {
+        "source_id": "hbvl",
+        "publisher": "Het Belang van Limburg",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Artsen twijfelen aan geestelijke gezondheid Tyson Fury, maar licht op groen voor mega-gevecht tegen Anthony Joshua",
+        "url": "https://www.hbvl.be/sport/artsen-twijfelen-aan-geestelijke-gezondheid-tyson-fury-maar-licht-op-groen-voor-mega-gevecht-tegen-anthony-joshua/165218304.html",
+        "published_at": "2026-11-27T14:32:22Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre",
+        "summary_from_source": "De Britse sportwereld verkeerde even in shock. Artsen wilden de grootste ’money fight’ in de geschiedenis van het Britse zwaargewicht boksen - de clash tussen de zwaargewichten Tyson Fury en Anthony Joshua in Cardiff - een halt toe wilden toeroepen vanwege de zorgelijke geestelijke toestand van Fury. Maar het licht gaat op groen voor de partij van 180 miljoen euro op 11 december."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-030",
+      "source": {
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Defensie koopt 10 nieuwe onderwaterdrones voor 20 miljoen euro",
+        "url": "https://vrtnws.be/p.jGkOen8ZQ",
+        "published_at": "2026-11-27T14:30:41Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "Defensie gaat 10 nieuwe autonome onderwaterdrones van het type REMUS 300 aankopen. Dat heeft de ministerraad beslist, meldt minister van Defensie Theo Francken (N-VA) die hiervoor 20 miljoen euro uittrekt."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-031",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Saint-Nicolas apporte un joli cadeau pour le fisc dans sa hotte: vos cryptomonnaies pourront désormais être scrutées à la loupe",
+        "url": "https://www.dhnet.be/actu/societe/2026/11/27/saint-nicolas-apporte-un-joli-cadeau-pour-le-fisc-dans-sa-hotte-vos-cryptomonnaies-pourront-desormais-etre-scrutees-a-la-loupe-OQYLT4VKRRCLFP7SVNW5F7332Q/",
+        "published_at": "2026-11-27T14:30:06Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "À partir du 1er décembre, les cryptomonnaies détenues sur certains comptes en Belgique seront recensées dans une base de données de la Banque nationale...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-032",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "“Mijn zwaarste momenten tonen ze niet op tv”: Pauline Slangen raakte drie keer onderkoeld tijdens ‘Expeditie Robinson’",
+        "url": "https://www.hln.be/showbizz/mijn-zwaarste-momenten-tonen-ze-niet-op-tv-pauline-slangen-raakte-drie-keer-onderkoeld-tijdens-expeditie-robinson~a7ae86d4/",
+        "published_at": "2026-11-27T14:30:06Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Dat Pauline Slangen (24) meer is dan ‘dat mooie poppemieke naast Regi’, bewijst ze in ‘Expeditie Robinson’. Tijdens de opnames raakte de zangeres drie keer onderkoeld en blesseerde ze haar voet, maar toch zet ze dapper door. In dit interview rekent ze af met haar criticasters en vertelt ze voor het eerst over haar nieuwe vriend. “Bij mij was het geen liefde op het eerste gezicht.”"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-033",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Des robots pour remplacer le personnel d’entretien de la Commune: “Ils ne vont pas grimper aux portes pour désinfecter les poignées”",
+        "url": "https://www.lavenir.net/actu/discover/2026/11/27/des-robots-pour-remplacer-le-personnel-dentretien-de-la-commune-ils-ne-vont-pas-grimper-aux-portes-pour-desinfecter-les-poignees-et-les-bancs-UTS5AQWUBJBH5PMWVIJXXRPFME/",
+        "published_at": "2026-11-27T14:27:05Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Charleroi veut faire des économies. Mais jusqu’à quel point? Les équipes de nettoyage des bâtiments communaux ont été solidement réduites ces dernières années. Pour remplacer la main-d’œuvre, des robots sont mis en service...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-034",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "HEC Lüttich: Weiterbildungen für erfolgreiche Firmenübernahme",
+        "url": "https://brf.be/regional/2129265/",
+        "published_at": "2026-11-27T14:26:15Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Die Hochschule für Wirtschaftswissenschaften, HEC in Lüttich, bietet ab Januar kommenden Jahres drei neue Weiterbildungen für Unternehmer und Führungskräfte an. Die Kurse beschäftigen sich mit der Übernahme von Unternehmen, strategischer Unternehmensführung und nachhaltiger Entwicklung kleiner und mittlerer Betriebe. Die Teilnehmer sollen lernen, Firmenübernahmen erfolgreich zu gestalten, Unternehmensstrategien anzupassen und nachhaltige Maßnahmen umzusetzen. Die Weiterbildungen dauern […]"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-035",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Niet behandelen is moeilijker dan behandelen",
+        "url": "https://www.tijd.be/r/t/1/id/10706578",
+        "published_at": "2026-11-27T14:25:23Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Over te veel zorg dient niemand een klacht in. Artsen worden er zelden op aangesproken."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-036",
+      "source": {
+        "source_id": "lecho",
+        "publisher": "L'Echo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "À la veille de l'ouverture de Kanal, Bozar change de modèle pour se financer",
+        "url": "https://www.lecho.be/r/t/1/id/10707185",
+        "published_at": "2026-11-27T14:24:38Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Après avoir perdu près de 1,8 million d'euros de subsides depuis 2023, le Palais des Beaux-Arts prépare une nouvelle architecture financière: une société commerciale pour mieux valoriser ses espaces et récupérer davantage de TVA, et une fondation pour changer d'échelle dans le fundraising."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-037",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Nieuwe regels voor eBox: overheidsdiensten moeten nagaan of je hun berichten leest, ongebruikte eBox wordt sneller gedeactiveerd",
+        "url": "https://www.hln.be/binnenland/nieuwe-regels-voor-ebox-overheidsdiensten-moeten-nagaan-of-je-hun-berichten-leest-ongebruikte-ebox-wordt-sneller-gedeactiveerd~aae85deb/",
+        "published_at": "2026-11-27T14:21:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Overheidsdiensten die de eBox gebruiken, moeten voortaan nagaan of de documenten die ze versturen effectief door de ontvangers werden geraadpleegd. Dat moet voorkomen dat berichten met mogelijk juridische gevolgen, onaangeroerd blijven. In de toekomst worden eBoxen ook gedeactiveerd als ze zes maanden niet gebruikt zijn."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-038",
+      "source": {
+        "source_id": "lecho",
+        "publisher": "L'Echo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Le jour où│Barbara Abel: \"Soudain, je comprends que des gens puissent croire en un dieu\"",
+        "url": "https://www.lecho.be/r/t/1/id/10707141",
+        "published_at": "2026-11-27T14:20:21Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Autrice belge de polars à succès, nimbés de suspense psychologique, Barbara Abel a saisi lors d'un coucher de soleil sur le Grand Canyon que d'autres pouvaient croire."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-039",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Le monde de la musique en deuil: Jean-Claude Vannier, compositeur de Serge Gainsbourg, est décédé",
+        "url": "https://www.sudinfo.be/id1231951/article/2026-11-27/le-monde-de-la-musique-en-deuil-jean-claude-vannier-compositeur-de-serge",
+        "published_at": "2026-11-27T14:19:25Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Jean-Claude Vannier avait également travaillé avec Johnny Hallyday, Barbara, Michel Polnareff, Mike Brant, Brigitte Fontaine ou encore notre compatriote Maurane."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-040",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Le gouvernement accorde un sursis aux aidants proches: “Il était hors de question de les pénaliser”",
+        "url": "https://www.dhnet.be/actu/belgique/2026/11/27/le-gouvernement-accorde-un-sursis-aux-aidants-proches-il-etait-hors-de-question-de-les-penaliser-ETLEVIAGNZC5JBNQHCGTQKIV6Y/",
+        "published_at": "2026-11-27T14:18:10Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Alors que la réforme du chômage prévoit de limiter les allocations dans le temps, les aidants proches bénéficient d’une exception...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-041",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Geheime cannabisbunker onder kinderspeeltuin ontdekt: zelfs voertuigen konden naar binnen rijden",
+        "url": "https://www.hln.be/nieuws/geheime-cannabisbunker-onder-kinderspeeltuin-ontdekt-zelfs-voertuigen-konden-naar-binnen-rijden~abfaed30/",
+        "published_at": "2026-11-27T14:17:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Onder een op het eerste gezicht onschuldige kinderspeeltuin in het Spaanse Las Gabias heeft de politie een gigantische ondergrondse cannabisplantage ontdekt. De verborgen bunker was uitgerust met een hydraulische poort en bood plaats aan zo’n 2.000 planten."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-042",
+      "source": {
+        "source_id": "bruzz",
+        "publisher": "BRUZZ",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Syndicus (71) verduistert ruim 2 miljoen euro, honderden gedupeerden",
+        "url": "https://www.bruzz.be/actua/justitie/syndicus-verduistert-ruim-2-miljoen-euro-honderden-gedupeerden-2026-11-27",
+        "published_at": "2026-11-27T14:16:54Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl|fr|en",
+        "geography": "Bruxelles",
+        "summary_from_source": "De oprichter van een vastgoedbeheerkantoor (syndicus) betwist niet dat hij in 2020 2,1 miljoen euro heeft verduisterd ten nadele van tien Brusselse mede-eigendommen."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-043",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Réforme du chômage: le nombre de chômeurs complets indemnisés continue de descendre",
+        "url": "https://www.sudinfo.be/id1231947/article/2026-11-27/reforme-du-chomage-le-nombre-de-chomeurs-complets-indemnises-continue-de",
+        "published_at": "2026-11-27T14:11:41Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Les chômeurs complets indemnisés demandeurs d’emploi sont 177.820 à avoir perçu une allocation en octobre, selon l’Onem. Leur nombre baisse de 105.833 personnes en un an, avec de fortes disparités régionales."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-044",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Strafhof opent proces tegen Filipijnse oud-president, terwijl Trump de VN-instelling wil slopen",
+        "url": "https://www.tijd.be/r/t/1/id/10707267",
+        "published_at": "2026-11-27T14:06:44Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Voor het Internationaal Strafhof opent het proces tegen de Filipijnse oud-president Rodrigo Duterte wegens de duizenden doden die vielen tijdens zijn genadeloze oorlog tegen drugs. 'Ik deed wat ik moest doen, verwacht geen excuses.'"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-045",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "UN warnen vor zunehmenden Hungerkrisen durch El Niño",
+        "url": "https://brf.be/international/2129261/",
+        "published_at": "2026-11-27T14:02:13Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Die Vereinten Nationen warnen vor einer Verschärfung der Hungerkrisen durch das Wetterphänomen El Niño. In einem Bericht nennen das Welternährungsprogramm und die Landwirtschaftsorganisation FAO inzwischen 16 besonders gefährdete Regionen – drei mehr als noch im Juni. In Simbabwe, Malawi und Mosambik könnten bis kommenden März Millionen Menschen von schwerer Ernährungsunsicherheit betroffen sein. Auch in Zentralamerika […]"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-046",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "145 skeletten gevonden onder voormalige speelgoedwinkel in Antwerpen: “Mogelijk gevolg van een epidemie”",
+        "url": "https://www.standaard.be/binnenland/145-skeletten-gevonden-onder-voormalige-speelgoedwinkel-in-antwerpen-mogelijk-gevolg-van-een-epidemie/165200593.html",
+        "published_at": "2026-11-27T14:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Archeologen hebben tijdens opgravingen in Antwerpen 145 skeletten ontdekt onder de voormalige speelgoedwinkel In Den Olifant. Ze dateren vermoedelijk uit de veertiende of vijftiende eeuw."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-047",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Regisseur Michaël R. Roskam: ‘Ik zie humor als het ultieme verzet’",
+        "url": "https://www.tijd.be/r/t/1/id/10706777",
+        "published_at": "2026-11-27T14:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Michaël R. Roskam is klaar met de donkere misdaadmelodrama's. In ‘Le Faux Soir’ kijkt hij achter de schermen van een jongensachtig verzetsavontuur op zijn Belgisch. ‘Het laatste wat ik wilde maken, was een eerlijk en objectief portret.’"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-048",
+      "source": {
+        "source_id": "ecb",
+        "publisher": "Banque centrale européenne",
+        "source_class": "regulator",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+        "published_at": "2026-11-27T14:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-049",
+      "source": {
+        "source_id": "lecho",
+        "publisher": "L'Echo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Accord social pour les 312 travailleurs menacés chez D'Ieteren Automotive",
+        "url": "https://www.lecho.be/r/t/1/id/10707315",
+        "published_at": "2026-11-27T13:59:22Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Quelque 132 possibilités de reclassement en interne ont été identifiées. Un \"beau package\" de départ a également été négocié. Les travailleurs seront bientôt fixés sur leur cas personnel."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-050",
+      "source": {
+        "source_id": "le_soir",
+        "publisher": "Le Soir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Un cycliste meurt percuté par un camion en Flandre",
+        "url": "https://www.lesoir.be/785303/article/2026-11-27/un-cycliste-meurt-percute-par-un-camion-en-flandre",
+        "published_at": "2026-11-27T13:59:03Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Un cycliste décède après une collision avec un camion peu avant midi en Flandre."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-051",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Didier Deschamps dans une publicité pour Burger King: combien a été payé l’ancien entraîneur de l’équipe de France?",
+        "url": "https://www.sudinfo.be/id1231939/article/2026-11-27/didier-deschamps-dans-une-publicite-pour-burger-king-combien-ete-paye-lancien",
+        "published_at": "2026-11-27T13:58:30Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Avec cette publicité, Didier Deschamps a gagné plus que sa rémunération mensuelle en tant qu’entraîneur des Bleus."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-052",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Ermittlungen wegen Betrugs mit EU-Geldern in Rumänien und Belgien",
+        "url": "https://brf.be/national/2129257/",
+        "published_at": "2026-11-27T13:56:58Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Wegen mutmaßlichen Betrugs mit europäischen Fördergeldern haben Ermittler in Rumänien und Belgien 14 Hausdurchsuchungen durchgeführt. In der rumänischen Stadt Iași wurden drei Verdächtige festgenommen. Es geht um knapp eine Million Euro. Das teilte die Europäische Staatsanwaltschaft mit. Im Mittelpunkt steht ein Projekt für intelligente Gebäude. Das verantwortliche Unternehmen soll dafür fingierte Ausgaben abgerechnet haben, darunter […]"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-053",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Une deuxième séance avant-première de \"Meutre à Bouillon\"",
+        "url": "https://www.tvlux.be/actu/culture/une-deuxieme-seance-avant-premiere-de-meutre-a-bouillon_53244",
+        "published_at": "2026-11-27T13:56:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Le tournage a eu lieu au mois de juin 2026 et la séance annoncée pour le 4 décembre, en avant-première, au cinéma Bouillon Ciné a très vite été complète. Une seconde date (le 5 décembre à 20h00) vient d'être ouverte."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-054",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "L'invité de la presse: crise du logement et ras-le-bol des commerçants arlonais",
+        "url": "https://www.tvlux.be/actu/info/l-invite-de-la-presse-crise-du-logement-et-ras-le-bol-des-commercants-arlonais_53243",
+        "published_at": "2026-11-27T13:56:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Comme chaque dernier jeudi du mois, retour sur l'actualité du mois écoulé avec le regard de nos confrères de la presse locale. Anne Lemaire (RTBF), Dorian Collard (Sudinfo) et Daniel Lapraille (Avenir)."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-055",
+      "source": {
+        "source_id": "de_tijd",
+        "publisher": "De Tijd",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Wie controleert Nvidia nog?",
+        "url": "https://www.tijd.be/r/t/1/id/10707314",
+        "published_at": "2026-11-27T13:53:39Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Hoe onmisbaarder Amerikaanse technologie voor de wereld wordt, hoe onmisbaarder de bedrijven die er eigenaar van zijn worden voor de Amerikaanse regering."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-056",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Acht und neun Jahre Haft wegen Kindesmissbrauchs in Eschweiler",
+        "url": "https://brf.be/regional/2129255/",
+        "published_at": "2026-11-27T13:49:59Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Ein Paar aus Eschweiler muss wegen schweren sexuellen Missbrauchs von Kindern ins Gefängnis. Das Aachener Landgericht verurteilte den 57-jährigen Mann zu acht Jahren Haft und seine 38-jährige Partnerin zu neun Jahren. Beide wurden für schuldig befunden, ein damals zehn Monate altes Patenkind und den sechsjährigen Sohn der Frau sexuell missbraucht zu haben. Außerdem wurden sie […]"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-057",
+      "source": {
+        "source_id": "brf_news",
+        "publisher": "BRF Nachrichten",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Neue Spur in zwölf Jahre altem Mordfall sorgt für Festnahme",
+        "url": "https://brf.be/national/2129253/",
+        "published_at": "2026-11-27T13:46:50Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "de",
+        "geography": "Communauté germanophone",
+        "summary_from_source": "Zwölf Jahre nach dem gewaltsamen Tod einer Frau in Anderlues in der Provinz Hennegau, ist jetzt Haftbefehl gegen einen Mann erlassen worden. Das hat die Staatsanwaltschaft von Charleroi bekannt gegeben. Im Februar 2014 hatten Passanten die Leiche der 28-Jährigen entdeckt. Sie wies mehrere Messerstiche auf. Kurz nach der Tat war ein Mann festgenommen worden, der […]"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-058",
+      "source": {
+        "source_id": "le_soir",
+        "publisher": "Le Soir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Importante fraude à la TVA: des saisies en Belgique lors d’une opération européenne",
+        "url": "https://www.lesoir.be/785299/article/2026-11-27/importante-fraude-la-tva-des-saisies-en-belgique-lors-dune-operation-europeenne",
+        "published_at": "2026-11-27T13:45:45Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Des saisies ont visé neuf pays européens. En Belgique, la police a agi dans une opération coordonnée autour d’une fraude à la TVA dans les télécommunications."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-059",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Une compagnie aérienne à bas coût déclarée en faillite: \"Nous sommes profondément désolés de l'impact que cela a sur nos passagers\"",
+        "url": "https://www.dhnet.be/actu/monde/2026/11/27/une-compagnie-aerienne-a-bas-cout-declaree-en-faillite-nous-sommes-profondement-desoles-de-limpact-que-cela-a-sur-nos-passagers-LEXNJSGWZFD7DGIO6ZZYKYPC7U/",
+        "published_at": "2026-11-27T13:45:08Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "La demande de mise en faillite doit être déposée auprès du tribunal de district d'Agder, en Norvège, a annoncé la compagnie Norse Atlantic...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-060",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "De gelijkenis met de Marrakech-crisis ligt voor de hand. Er is wel een belangrijk verschil",
+        "url": "https://www.demorgen.be/politiek/de-gelijkenis-met-de-marrakech-crisis-ligt-voor-de-hand-er-is-wel-een-belangrijk-verschil~b92d0c7d/",
+        "published_at": "2026-11-27T13:44:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-061",
+      "source": {
+        "source_id": "bruzz",
+        "publisher": "BRUZZ",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Boorwerken gestart voor warmtenet in Noordwijk: 'Tot 250 meter diep'",
+        "url": "https://www.bruzz.be/actua/stedenbouw/boorwerken-gestart-voor-warmtenet-noordwijk-tot-250-meter-diep-2026-11-27",
+        "published_at": "2026-11-27T13:42:17Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl|fr|en",
+        "geography": "Bruxelles",
+        "summary_from_source": "Na een eerste testfase zijn in het Maximiliaanpark in de Noordwijk vrijdag de boorwerken begonnen voor een warmtenet dat energie uit de ondergrond haalt."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-062",
+      "source": {
+        "source_id": "apache",
+        "publisher": "Apache",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Een “terugkeerhub” in Rwanda is geen terugkeerbeleid",
+        "url": "https://apache.be/2026/11/27/terugkeerhub-rwanda-geen-terugkeerbeleid",
+        "published_at": "2026-11-27T13:41:37Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Duurzame terugkeer begint bij perspectief, niet bij een enkeltje Kigali."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-063",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "De ‘gezamenlijke verklaring’ die toch niet zo gezamenlijk is: Trump voegt eigenhandig twee cruciale woorden toe aan communiqué na bezoek NAVO-chef Rutte",
+        "url": "https://www.demorgen.be/oorlog-in-oekraine/de-gezamenlijke-verklaring-die-toch-niet-zo-gezamenlijk-is-trump-voegt-eigenhandig-twee-cruciale-woorden-toe-aan-communique-na-bezoek-navo-chef-rutte~b5eb6e45/",
+        "published_at": "2026-11-27T13:38:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-064",
+      "source": {
+        "source_id": "la_libre",
+        "publisher": "La Libre Belgique",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Perquisitions, saisies de biens immobiliers... Vaste opération du parquet européen en Belgique et en Roumanie pour une affaire de fraude aux subsides",
+        "url": "https://www.lalibre.be/belgique/judiciaire/2026/11/27/perquisitions-saisies-de-biens-immobiliers-vaste-operation-du-parquet-europeen-en-belgique-et-roumanie-pour-une-affaire-de-fraude-aux-subsides-BV43HOKQPVECHFKKGSIORKQ7VI/",
+        "published_at": "2026-11-27T13:35:28Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Quatorze perquisitions ont été menées ce jeudi en Roumanie et en Belgique dans le cadre d'une enquête sur une possible fraude aux subventions européennes de près d'un million d'euros. Trois suspects ont été arrêtés en Roumanie, a annoncé vendredi le parquet européen (EPPO)...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "justice",
+        "label": "Justice, droits et contrôle"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-065",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Des missions élargies pour les agents de gardiennage: “ils pourront palper superficiellement l’extérieur d’un sac”",
+        "url": "https://www.dhnet.be/actu/belgique/2026/11/27/des-missions-elargies-pour-les-agents-de-gardiennage-ils-pourront-palper-superficiellement-lexterieur-dun-sac-HFQPM7JYXFAJHJ4S3XBKGB4KGQ/",
+        "published_at": "2026-11-27T13:34:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Dans certaines installations portuaires, les agents pourront être équipés d’une arme à feu si l'analyse de risque le justifie...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-066",
+      "source": {
+        "source_id": "lecho",
+        "publisher": "L'Echo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Des puces Nvidia interdites d'exportation retrouvées dans un data center lié à Alice Huang",
+        "url": "https://www.lecho.be/r/t/1/id/10707324",
+        "published_at": "2026-11-27T13:32:53Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Des documents remis aux autorités chinoises attestent de la présence de puces Blackwell de Nvidia dans un centre de données à Shanghai lié à Alice Huang et à Megaspeed. Leur exportation vers la Chine est pourtant soumise à l'autorisation de Washington."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-067",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Libin et Sainte-Ode: le GAL Nov'Ardenne lance deux nouveaux projets de vélobus",
+        "url": "https://www.tvlux.be/actu/info/mobilite/libin-et-sainte-ode-le-gal-nov-ardenne-lance-deux-nouveaux-projets-de-velobus_53237",
+        "published_at": "2026-11-27T13:31:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Aller à l'école en vélo, mais de manière encadrée, avec des accompagnateurs formés et selon un horaire et un parcours défini, voilà le principe du Vélobus. Mené par le GAL Nov'Ardenne, un nouveau projet doit se concrétiser au printemps dans les communes de Libin et Sainte-Ode."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-068",
+      "source": {
+        "source_id": "bruzz",
+        "publisher": "BRUZZ",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Drie beklaagden in Peterbos-proces veroordeeld in ander dossier van drugshandel",
+        "url": "https://www.bruzz.be/actua/justitie/drie-beklaagden-peterbos-proces-veroordeeld-ander-dossier-van-drugshandel-2026-11-27",
+        "published_at": "2026-11-27T13:24:10Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl|fr|en",
+        "geography": "Bruxelles",
+        "summary_from_source": "Elf beklaagden, waarvan 3 ook terechtstaan in het Peterbos-proces, zijn vrijdag door de correctionele rechtbank schuldig bevonden aan organisatie of deelname aan de verkoop van drugs in Molenbeek."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-069",
+      "source": {
+        "source_id": "rtbf_info",
+        "publisher": "RTBF Info",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Factures d’énergie, bons d’achat, sites frauduleux: la Chambre renforce les droits des consommateurs, voici ce qui va changer",
+        "url": "https://www.rtbf.be/article/factures-d-energie-bons-d-achat-sites-frauduleux-la-chambre-renforce-les-droits-des-consommateurs-voici-ce-qui-va-changer-11822199",
+        "published_at": "2026-11-27T13:20:06Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Tout d’abord, dans la lutte contre les sites internet frauduleux, la FSMA (Autorité des services et marchés financiers)..."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-070",
+      "source": {
+        "source_id": "hln",
+        "publisher": "Het Laatste Nieuws",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Tien nieuwe onderwaterdrones voor Defensie: aankoop kost 20 miljoen euro",
+        "url": "https://www.hln.be/binnenland/tien-nieuwe-onderwaterdrones-voor-defensie-aankoop-kost-20-miljoen-euro~a92dca5f/",
+        "published_at": "2026-11-27T13:09:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Defensie gaat tien nieuwe autonome onderwaterdrones van het type REMUS 300 aankopen. Dat heeft de ministerraad vrijdag beslist, meldt minister van Defensie Theo Francken (N-VA)."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-071",
+      "source": {
+        "source_id": "bruzz",
+        "publisher": "BRUZZ",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Duizend mensen uit cultuur- en welzijnssector manifesteren tegen Vlaamse besparingen",
+        "url": "https://www.bruzz.be/actua/politiek/duizend-mensen-uit-cultuur-en-welzijnssector-manifesteren-tegen-vlaamse-besparingen-2026-11-27",
+        "published_at": "2026-11-27T13:08:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl|fr|en",
+        "geography": "Bruxelles",
+        "summary_from_source": "Een duizendtal mensen uit de cultuur-, erfgoed- en welzijnssector heeft vrijdag op het Martelaarsplein actiegevoerd tegen de besparingen van de Vlaamse regering."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-072",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Live - Bloomberg: geavanceerde Nvidia-chips gevonden bij datacenter gelinkt aan Alice Huang",
+        "url": "https://www.demorgen.be/tech-ai/live-bloomberg-geavanceerde-nvidia-chips-gevonden-bij-datacenter-gelinkt-aan-alice-huang~b30c2eaa/",
+        "published_at": "2026-11-27T13:07:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-073",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Abou Dhabi Desert Challenge: victoire pour Fabian Lurquin et titre pour Jean-Marc Fortin",
+        "url": "https://www.qu4tre.be/sports/abou-dhabi-desert-challenge-victoire-pour-fabian-lurquin-et-titre-pour-jean-marc-fortin/2017822",
+        "published_at": "2026-11-27T12:58:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Nouvelle victoire en rallye-raid pour Fabian Lurquin. Au côté de son pilote Nasser Al-Attiyah (Dacia) il remporte ce vendredi 27 novembre 2026 l'Abou Dhabi Desert Challenge Nouvelle victoire en rallye-raid pour Fabian Lurquin. Au côté de son pilote Nasser Al-Attiyah (Dacia) il remporte l'Abou Dhabi Desert Challenge à l'issue de la 5e et dernière étape que le duo termine à la quatrième place Troisième de l'étape du jour, Quintero triomphe en effet pour devancer de cinq points seulement Al-Attihay et Lurquin. 167 points contre 162. Le Français Sébastien Loeb (Dacia) est 3e avec 161 unités. Au…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-074",
+      "source": {
+        "source_id": "eu_commission",
+        "publisher": "Commission européenne",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "Keynote speech by Commissioner Albuquerque at the Training Day' of the 10th Anniversary of the ECB Simulation Conference for University Students",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2613",
+        "published_at": "2026-11-27T12:48:42Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": "European Commission Speech Online, 27 Nov 2026 Good morning, everyone. I am delighted to join you for the opening of the 10th ECB Simulation Conference. Let me begin by congratulating the organisers on a dec..."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-075",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Clubs de combats et des réseaux néonazis: Le parquet néerlandais ouvre une enquête",
+        "url": "https://www.dhnet.be/actu/monde/2026/11/27/clubs-de-combats-et-des-reseaux-neonazis-le-parquet-neerlandais-ouvre-une-enquete-Z5U66XYVRNBOLPYWGC643YB5YA/",
+        "published_at": "2026-11-27T12:48:38Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Des \"Active Clubs\", des clubs de combat d'extrême-droite exaltant l'idéologie nazie et préparant leurs membres à une \"guerre raciale\", sont également actifs en Belgique...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-076",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "La Défense belge s’apprête à franchir un nouveau cap: deux décisions majeures viennent d’être prises",
+        "url": "https://www.sudinfo.be/id1231881/article/2026-11-27/la-defense-belge-sapprete-franchir-un-nouveau-cap-deux-decisions-majeures",
+        "published_at": "2026-11-27T12:43:43Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Le gouvernement fédéral a validé vendredi deux dossiers pour la Défense belge: un accord social pour les militaires et l’achat de dix drones sous-marins pour 20 millions d’euros."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-077",
+      "source": {
+        "source_id": "le_soir",
+        "publisher": "Le Soir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Allemagne: la porte de sa chambre se referme et il se rend nu au commissariat",
+        "url": "https://www.lesoir.be/785286/article/2026-11-27/allemagne-la-porte-de-sa-chambre-se-referme-et-il-se-rend-nu-au-commissariat",
+        "published_at": "2026-11-27T12:38:12Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "En pleine nuit, un touriste s’est présenté nu au commissariat de Lübeck. Les policiers lui ont prêté une combinaison de la police scientifique et du thé."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-078",
+      "source": {
+        "source_id": "rtbf_info",
+        "publisher": "RTBF Info",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Réseaux néonazis et clubs de combat: la justice néerlandaise ouvre une enquête après un reportage de la VRT",
+        "url": "https://www.rtbf.be/article/reseaux-neonazis-et-clubs-de-combat-la-justice-neerlandaise-ouvre-une-enquete-apres-un-reportage-de-la-vrt-11822156",
+        "published_at": "2026-11-27T12:20:54Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Le reportage évoque un réseau international de clubs de combat évoluant dans la mouvance d'extrême droite. Leurs..."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-079",
+      "source": {
+        "source_id": "la_libre",
+        "publisher": "La Libre Belgique",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Le gouvernement valide l'accord social Défense",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/27/le-gouvernement-valide-laccord-social-defense-E5D3BQCSVJGVFEY63TRU77JIWE/",
+        "published_at": "2026-11-27T12:18:59Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Le Conseil des ministres a donné son feu vert vendredi au nouvel accord social au sein de la Défense, annonce Theo Francken...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-080",
+      "source": {
+        "source_id": "dhnet",
+        "publisher": "DH Les Sports+",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Explosion mortelle à Houdeng-Aimeries: La démolition a commencé, les habitants de quatre maisons pourraient rentrer dès 17h",
+        "url": "https://www.dhnet.be/regions/centre/2026/11/27/explosion-mortelle-a-houdeng-aimeries-la-demolition-a-commence-les-habitants-de-quatre-maisons-pourraient-rentrer-des-17h-EUJSS46SUVBFRB2HIK3CJTNRNE/",
+        "published_at": "2026-11-27T12:13:29Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Six habitations de la rue du Stokou étaient toujours évacuées ce vendredi matin. Les riverains qui vivent en face de la maison soufflée pourraient être les premiers à rentrer chez eux. Des deux maisons mitoyennes, l’une est inhabitable et l’autre doit encore être examinée par un expert...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-081",
+      "source": {
+        "source_id": "rtbf_info",
+        "publisher": "RTBF Info",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Aéroport de Charleroi: \"The Panorama\", une nouvelle plateforme pour observer et photographier les avions",
+        "url": "https://www.rtbf.be/article/aeroport-de-charleroi-the-panorama-une-nouvelle-plateforme-pour-observer-et-photographier-les-avions-11822141",
+        "published_at": "2026-11-27T12:03:11Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "\"Vous ne pouvez pas rêver mieux pour les passionnés et amateurs d’aviation\". Robert Colin, spotter carolo amateur, qui..."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-082",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Veruschka (1939-2026) is overleden: de tijdloze cool die zelfs op haar 78ste nog de catwalk beheerste",
+        "url": "https://www.demorgen.be/nieuws/veruschka-1939-2026-is-overleden-de-tijdloze-cool-die-zelfs-op-haar-78ste-nog-de-catwalk-beheerste~bd7a499b/",
+        "published_at": "2026-11-27T12:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-083",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Live - Hackers dringen binnen in belangrijke cloudsoftware van Amerikaanse luchtmacht",
+        "url": "https://www.demorgen.be/snelnieuws/live-hackers-dringen-binnen-in-belangrijke-cloudsoftware-van-de-amerikaanse-luchtmacht~b13cc951/",
+        "published_at": "2026-11-27T11:57:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-084",
+      "source": {
+        "source_id": "de_morgen",
+        "publisher": "De Morgen",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Oliemannetje, suikeroom en achilleshiel van de AI-industrie: de vele petten van Jensen Huang",
+        "url": "https://www.demorgen.be/nieuws/oliemannetje-suikeroom-en-achilleshiel-van-de-ai-industrie-de-vele-petten-van-jensen-huang~bca94395/",
+        "published_at": "2026-11-27T11:52:31Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-085",
+      "source": {
+        "source_id": "la_libre",
+        "publisher": "La Libre Belgique",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Immanquable: vers un changement important pour Bouchez au MR qui divise, le chaos au sein du gouvernement De Wever fait un heureux",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/27/immanquable-vers-un-changement-important-pour-bouchez-au-mr-qui-divise-le-chaos-au-sein-du-gouvernement-de-wever-fait-un-heureux-5ZX6PHMUIFGJ3ANWCF2BFH2BII/",
+        "published_at": "2026-11-27T11:51:20Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Ce vendredi, il est question dans \"Les Immanquables de la semaine politique\" des turbulences que rencontre le gouvernement fédéral, d'une personnalité politique qui s'en frotte les mains et des potentiels changements à venir au MR qui ne font pas l'unanimité au sein du parti...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-086",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "UGent verlengt ordemaatregel tegen omstreden onderzoeker Cofnas met nog eens drie maanden: “Tuchtonderzoek loopt”",
+        "url": "https://www.standaard.be/binnenland/ugent-verlengt-ordemaatregel-tegen-omstreden-onderzoeker-cofnas-met-nog-eens-drie-maanden-tuchtonderzoek-loopt/165198713.html",
+        "published_at": "2026-11-27T11:49:19Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "De UGent heeft de lopende ordemaatregel tegen Nathan Cofnas verlengd, waardoor de Amerikaanse onderzoeker drie maanden langer geen les mag geven en moet telewerken. Cofnas kwam in opspraak door zijn werk rond ras en intelligentie."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-087",
+      "source": {
+        "source_id": "la_libre",
+        "publisher": "La Libre Belgique",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Conner Rousseau jette de l'huile sur le feu, après l'invitation de Bart De Wever: \"En coulisses, j'ai tout fait\"",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/27/conner-rousseau-laisse-entendre-quil-ne-participera-pas-a-la-reunion-convoquee-par-bart-de-wever-une-mascarade-B7RXKPUYONFUVLO7JVZRQM274M/",
+        "published_at": "2026-11-27T11:37:40Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Le président de Vooruit a répété ses deux exigences pour que son parti continue à prendre part aux négociations budgétaires. Et a écarté de participer à la réunion convoquée par le Premier ministre, ce lundi 30 novembre...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-088",
+      "source": {
+        "source_id": "le_soir",
+        "publisher": "Le Soir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "L’UGent prolonge de trois mois la mesure disciplinaire à l’encontre du philosophe controversé Nathan Cofnas",
+        "url": "https://www.lesoir.be/785277/article/2026-11-27/lugent-prolonge-de-trois-mois-la-mesure-disciplinaire-lencontre-du-philosophe",
+        "published_at": "2026-11-27T11:36:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "La mesure disciplinaire visant Nathan Cofnas est prolongée de trois mois. Le chercheur postdoctoral de l’UGent reste cantonné au télétravail, sans enseignement."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-089",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Réouverture du Carrefour Market de Bouillon un mois après l'incendie",
+        "url": "https://www.tvlux.be/actu/info/economie/reouverture-du-carrefour-market-de-bouillon-un-mois-apres-l-incendie_53240",
+        "published_at": "2026-11-27T11:25:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Le 25 octobre dernier, le Carrefour de Bouillon était victime d'un incendie. Ce vendredi, le magasin a pu rouvrir après un nettoyage complet de la surface de vente."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-090",
+      "source": {
+        "source_id": "stib",
+        "publisher": "STIB",
+        "source_class": "public_company",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Le tram 7 circule à nouveau bd Lambermont après des tests concluants",
+        "url": "https://stib.prezly.com/le-tram-7-circule-a-nouveau-bd-lambermont-apres-des-tests-concluants",
+        "published_at": "2026-11-27T11:19:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Bruxelles",
+        "summary_from_source": ""
+      },
+      "radar_selected": true,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-091",
+      "source": {
+        "source_id": "la_libre",
+        "publisher": "La Libre Belgique",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "L'inflation en recul en novembre mais toujours à un niveau élevé",
+        "url": "https://www.lalibre.be/economie/mes-finances/2026/11/27/linflation-en-recul-en-novembre-mais-toujours-a-un-niveau-eleve-P7YNOVFQPVEONG2GJZTGJIZKQU/",
+        "published_at": "2026-11-27T11:06:06Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "En novembre, l'inflation a reculé à 5,09 % en glissement annuel. En octobre, elle s'élevait encore à 5,26 %, a indiqué vendredi l'office des statistiques Statbel...."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-092",
+      "source": {
+        "source_id": "le_soir",
+        "publisher": "Le Soir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "« Prix du meilleur mémoire »: Rémy Lejeune (UCLouvain) pitche son travail en vidéo (à vos votes)",
+        "url": "https://www.lesoir.be/785264/article/2026-11-27/prix-du-meilleur-memoire-remy-lejeune-uclouvain-pitche-son-travail-en-video-vos",
+        "published_at": "2026-11-27T11:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-093",
+      "source": {
+        "source_id": "federal_press",
+        "publisher": "Presscenter fédéral",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Ordre du jour du Conseil des ministres du 27 novembre 2026",
+        "url": "https://news.belgium.be/fr/ordre-du-jour-du-conseil-des-ministres-du-27-novembre-2026",
+        "published_at": "2026-11-27T10:57:24Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Voici la liste provisoire des points à l'ordre du jour du Conseil des ministres:"
+      },
+      "radar_selected": true,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-094",
+      "source": {
+        "source_id": "sudinfo",
+        "publisher": "Sudinfo",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "L’inflation en légère baisse à 5,09 % en novembre: des milliers de travailleurs connaissent déjà leur indexation de janvier, voici de combien leur salaire va augmenter",
+        "url": "https://www.sudinfo.be/id1231825/article/2026-11-27/linflation-en-legere-baisse-509-en-novembre-des-milliers-de-travailleurs",
+        "published_at": "2026-11-27T10:54:03Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "L’inflation est passée de 5,26% en octobre à 5,09% en novembre, communique vendredi Statbel, l’office belge de statistique. Elle continue à être portée par la hausse des prix de l’énergie, malgré un recul des prix des carburants."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-095",
+      "source": {
+        "source_id": "rtbf_info",
+        "publisher": "RTBF Info",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "L’inflation baisse légèrement en Belgique et s’élève à 5,09% en novembre",
+        "url": "https://www.rtbf.be/article/l-inflation-baisse-legerement-en-belgique-et-s-eleve-a-5-09-en-novembre-11822096",
+        "published_at": "2026-11-27T10:44:13Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Les principales hausses de prix enregistrées en novembre ont en effet concerné le gaz naturel, l’électricité, le..."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-096",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Laagste temperatuur van het jaar gemeten in Ukkel",
+        "url": "https://www.standaard.be/binnenland/laagste-temperatuur-van-het-jaar-gemeten-in-ukkel/165193506.html",
+        "published_at": "2026-11-27T10:31:09Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Met -4,9 graden Celcius is vrijdagochtend in Ukkel de laagste temperatuur van het jaar gemeten. Het is geleden van 1988 dat het zo koud was in november. Toch is hiermee niet het record van de koudste dag van het jaar verbroken."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-097",
+      "source": {
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Inflatie in november daalt naar 5,09 procent, vooral energie maakt leven duurder",
+        "url": "https://vrtnws.be/p.RaJ7NXpOX",
+        "published_at": "2026-11-27T10:30:03Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "De inflatie in november is gedaald tot 5,09 procent. Dat meldt de FOD Economie. In oktober lag dat cijfer nog op 5,26 procent. Vooral energie vuurt de stijging van de levensduurte aan. Zonder energieproducten bedraagt de kerninflatie voor november 2,47 procent."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-098",
+      "source": {
+        "source_id": "eu_commission",
+        "publisher": "Commission européenne",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "Daily News 27 / 11 / 2026",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2609",
+        "published_at": "2026-11-27T10:27:23Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": "European Commission Daily news Brussels, 27 Nov 2026 Commission unconditionally approves Deutsche Börse's acquisition of Allfunds The European Commission has unconditionally approved, under the EU Merger Regulatio..."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-099",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Wijziging aan praktisch rijexamen en duurdere leningen: dit verandert op 1 december",
+        "url": "https://www.standaard.be/binnenland/wijziging-aan-praktisch-rijexamen-en-duurdere-leningen-dit-verandert-op-1-december/165195516.html",
+        "published_at": "2026-11-27T10:24:06Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Op 1 december verandert er opnieuw heel wat. Een overzicht."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-100",
+      "source": {
+        "source_id": "federal_press",
+        "publisher": "Presscenter fédéral",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Vingt ans après la Convention des Nations unies relative aux droits des personnes handicapées: la Belgique passe à la vitesse supérieure en matière d’accessibilité",
+        "url": "https://news.belgium.be/fr/vingt-ans-apres-la-convention-des-nations-unies-relative-aux-droits-des-personnes-handicapees-la",
+        "published_at": "2026-11-27T10:23:41Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Les ministres des différents niveaux de pouvoir signent une déclaration d’intention commune fixant des objectifs pour les dix prochaines années. Vingt ans après l’adoption de la Convention des Nations unies relative aux droits des personnes handicapées, les ministres des différents niveaux de pouvoir s’engagent à améliorer de manière structurelle l’accessibilité des espaces publics et des bâtiments ouverts au public. Dans une déclaration d’intention commune, ils expriment leur ambition de réaliser des progrès significatifs d’ici dix ans."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-101",
+      "source": {
+        "source_id": "federal_press",
+        "publisher": "Presscenter fédéral",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Bons d'État - émission du 4 décembre 2026 - Résultat intermédiaire - Jour 2",
+        "url": "https://news.belgium.be/fr/bons-detat-emission-du-4-decembre-2026-resultat-intermediaire-jour-2",
+        "published_at": "2026-11-27T10:07:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Campagne des Bons d'État du 4 décembre 2026 - Résultat intermédiaire"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-102",
+      "source": {
+        "source_id": "vrt_nws",
+        "publisher": "VRT NWS",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Gerecht in Nederland start onderzoek naar discriminatie na Pano-reportage over Active Clubs",
+        "url": "https://vrtnws.be/p.ew4LpX0NE",
+        "published_at": "2026-11-27T09:39:53Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Flandre|Bruxelles",
+        "summary_from_source": "In Nederland heeft het openbaar ministerie een onderzoek opgestart na de reportage van VRT NWS Pano en Zembla over Active Clubs. Het gerecht gaat na of die verenigingen activiteiten steunen gericht op discriminatie."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "justice",
+        "label": "Justice, droits et contrôle"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-103",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "La Cour des comptes épingle le budget fédéral 2025 de la Belgique, une dette publique en hausse de 48 milliards",
+        "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/27/la-cour-des-comptes-epingle-le-budget-federal-2025-de-la-belgique-une-dette-publique-en-hausse-de-48-milliards-KB53JHHH6ZDAXPQODQAJTY4RSA/",
+        "published_at": "2026-11-27T09:33:20Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Il ressort du Cahier de la Cour des comptes ce vendredi 27 novembre 2026 que les réformes et mesures d’assainissement présentées dans l’accord du gouvernement Arizona présentent plusieurs “incertitudes” quant à leur effet sur le budget d’ici à 2029...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-104",
+      "source": {
+        "source_id": "rtbf_info",
+        "publisher": "RTBF Info",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Le prix maximal du litre de diesel repart à la hausse",
+        "url": "https://www.rtbf.be/article/le-prix-maximal-du-litre-de-diesel-repart-a-la-hausse-11822037",
+        "published_at": "2026-11-27T09:31:31Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie|Bruxelles",
+        "summary_from_source": "Il s’agit de la première hausse des prix depuis environ un mois. Jeudi, le prix maximal du diesel était encore tombé..."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "impact concret pour la population",
+        "changement, alerte ou échéance"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-105",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "La campagne 2026 de LeTEC pour la sécurité à proximité du Village de Noël",
+        "url": "https://www.qu4tre.be/infos/divers/la-campagne-2026-de-letec-pour-la-securite-a-proximite-du-village-de-noel/2017820",
+        "published_at": "2026-11-27T09:28:07Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Chaque année, le marché de Noël attire de nombreux visiteurs au cœur de Liège. La fréquentation augmente aux abords des voies du tram, un moment d'inattention peut avoir de graves conséquences. Le village de Noel ouvre ses portes ce vendredi 27 novembre et il va encore attirer la toute grande foule. Une foule joyeuse, festive, qui devra composer une fois encore avec la circulation autour du village, dont celle des trams. Durant cette période, la fréquentation augmente aux abords des voies du tram, où piétons, cyclistes, utilisateurs de trottinettes et transports en commun se côtoient. Dans…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-106",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Les communes opposées à la fermeture du biocentre de Soumagne proposent une reprise privée",
+        "url": "https://www.qu4tre.be/infos/politique/les-communes-opposees-a-la-fermeture-du-biocentre-de-soumagne-proposent-une-reprise-privee/2017819",
+        "published_at": "2026-11-27T09:19:11Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Les huit communes opposées à la fermeture du biocentre de Soumagne proposent de confier la gestion du site à une entreprise privée afin de maintenir le traitement et la valorisation des déchets verts. Dans un courrier adressé jeudi au conseil d'administration d'Intradel, les huit communes opposées à la fermeture du biocentre de Soumagne suggèrent que le terrain soit cédé gratuitement à la commune de Soumagne, qui pourrait ensuite lancer un marché public de concession de service public. Beyne-Heusay, Blegny, Dalhem, Fléron, Herve, Olne, Soumagne et Visé contestent depuis plusieurs semaines la…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-107",
+      "source": {
+        "source_id": "federal_press",
+        "publisher": "Presscenter fédéral",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Le Black Friday marque le début d’une période intense pour les fraudeurs en ligne. Le Centre pour la Cybersécurité Belgique appelle à s’arrêter, à vérifier et à signaler les fraudes",
+        "url": "https://news.belgium.be/fr/le-black-friday-marque-le-debut-dune-periode-intense-pour-les-fraudeurs-en-ligne-le-centre-pour-la",
+        "published_at": "2026-11-27T09:00:09Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "La période des achats de fin d’année a commencé. Beaucoup de personnes achètent des cadeaux en ligne, envoient des colis ou attendent des livraisons. Les fraudeurs en profitent pour envoyer des messages de plus en plus convaincants. L’intelligence artificielle leur permet de rendre les messages, les voix et les images plus crédibles. C’est pourquoi le Centre pour la Cybersécurité Belgique (CCB) lance aujourd’hui une nouvelle campagne Safeonweb: arrêtez-vous, prenez le temps et vérifiez auprès d’une source fiable."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-108",
+      "source": {
+        "source_id": "ecb",
+        "publisher": "Banque centrale européenne",
+        "source_class": "regulator",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "ECB Consumer Expectations Survey results – October 2026",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+        "published_at": "2026-11-27T09:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-109",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Santé: une coopération transfrontalière pour la Grande Région",
+        "url": "https://www.tvlux.be/actu/info/sante/sante-une-cooperation-transfrontaliere-pour-la-grande-region_53234",
+        "published_at": "2026-11-27T08:58:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Ce jeudi, les responsables de la santé de la Grande Région ont réaffirmé leur volonté de renforcer la coopération sanitaire au-delà des frontières par la signature d'un accord à Habay."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 6 heures",
+        "décision ou réforme publique"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-110",
+      "source": {
+        "source_id": "bruzz",
+        "publisher": "BRUZZ",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Kamer vraagt advies deontologische commissie in zaak I-Police",
+        "url": "https://www.bruzz.be/actua/justitie/i-police-kamer-vraagt-advies-deontologische-commissie-2026-11-27",
+        "published_at": "2026-11-27T05:17:19Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl|fr|en",
+        "geography": "Bruxelles",
+        "summary_from_source": "De plenaire vergadering van de Kamer heeft donderdag met consensus een motie goedgekeurd om de federale deontologische commissie te vragen naar een advies over de i-Police-zaak."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 12 heures",
+        "décision ou réforme publique",
+        "contrôle, droits ou responsabilité publique",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-111",
+      "source": {
+        "source_id": "apache",
+        "publisher": "Apache",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "“Arbeidsmigranten zijn cruciaal voor de economie, maar worden uitgesloten”",
+        "url": "https://apache.be/2026/11/27/arbeidsmigranten-zijn-cruciaal-voor-economie-maar-worden-uitgesloten",
+        "published_at": "2026-11-27T05:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "De geograaf en antropoloog pleit voor meer perspectief op vlak van werk en huisvesting."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-112",
+      "source": {
+        "source_id": "eu_commission",
+        "publisher": "Commission européenne",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "Commission unconditionally approves Deutsche Börse's acquisition of Allfunds",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2592",
+        "published_at": "2026-11-26T23:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": "European Commission Press release Brussels, 27 Nov 2026 The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by Deutsche Börse of Allfunds."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "producteur institutionnel ou collectif identifié",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-113",
+      "source": {
+        "source_id": "eu_commission",
+        "publisher": "Commission européenne",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "open",
+        "title": "Statement by President von der Leyen with President Costa following the Special European Council meeting of November 2026",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2603",
+        "published_at": "2026-11-26T23:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "en",
+        "geography": "Union européenne",
+        "summary_from_source": "European Commission Statement Brussels, 27 Nov 2026 Statement Special EUCO"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-114",
+      "source": {
+        "source_id": "inami",
+        "publisher": "Institut national d'assurance maladie-invalidité",
+        "source_class": "public_body",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Simplification des chapitres IV, V et VIII des spécialités pharmaceutiques remboursables",
+        "url": "https://www.inami.fgov.be/fr/actualites/simplification-des-chapitres-iv-v-et-viii-des-specialites-pharmaceutiques-remboursables",
+        "published_at": "2026-11-26T23:00:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-115",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Schedel van neanderthalerkind wint erfgoedtombola: “Nog vóór Darwin is in België de paleoantropologie geboren”",
+        "url": "https://www.standaard.be/natuur-en-wetenschap/schedel-van-neanderthalerkind-wint-erfgoedtombola-nog-voor-darwin-is-in-belgie-de-paleoantropologie-geboren/165136120.html",
+        "published_at": "2026-11-26T22:59:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "De schedel van het Kind van Engis lag eeuwenlang begraven: eerst in een grot, daarna in de archieven. Deze unieke vondst – met een mogelijk lugubere voorgeschiedenis – is binnenkort te zien in een museum dankzij de erfgoedtombola van de Nationale Loterij."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-116",
+      "source": {
+        "source_id": "de_standaard",
+        "publisher": "De Standaard",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Waarin zitten pesticiden en hoeveel? Druiven en peren spannen de kroon, bloemkool is vaak pesticidevrij",
+        "url": "https://www.standaard.be/natuur-en-wetenschap/waarin-zitten-pesticiden-en-hoeveel-druiven-en-peren-spannen-de-kroon-bloemkool-is-vaak-pesticidevrij/165076249.html",
+        "published_at": "2026-11-26T22:59:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "nl",
+        "geography": "Belgique",
+        "summary_from_source": "Op veel groenten en fruit zitten resten van bestrijdingsmiddelen. Je kunt ze onmogelijk helemaal vermijden, zelfs als je radicaal voor bio kiest. “Er zijn honderden pesticiden. We moeten ze bij mensen meten om te weten welke we extra in de gaten moeten houden.”"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-117",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "La Chambre demande l'avis de la commission de déontologie dans le dossier i-Policie, mais épargne Verlinden",
+        "url": "https://www.lavenir.net/actu/belgique/2026/11/26/la-chambre-demande-lavis-de-la-commission-de-deontologie-dans-le-dossier-i-policie-mais-epargne-verlinden-LYBJFPYBMFAFXHSIWHN7LTLWMU/",
+        "published_at": "2026-11-26T20:05:30Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "La Chambre a approuvé jeudi par consensus une motion demandant à la commission fédérale de déontologie de se pencher sur le cas posé par l'ouverture d'une enquête impliquant la ministre de la Justice, Annelies Verlinden, dans le dossier i-Police au parquet général de Bruxelles. La ministre elle-même n'est toutefois pas directement visée...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "chiffres, étude ou évaluation",
+        "contrôle, droits ou responsabilité publique",
+        "agenda institutionnel proche"
+      ],
+      "lexically_related_sources": [
+        {
+          "source_id": "dhnet",
+          "publisher": "DH Les Sports+",
+          "title": "I-Police: la Chambre demande l'avis de la commission de déontologie mais épargne Verlinden",
+          "url": "https://www.dhnet.be/actu/belgique/2026/11/26/i-police-la-chambre-demande-lavis-de-la-commission-de-deontologie-mais-epargne-verlinden-44F4UD33ZNE73CSUIWMN2C6HDU/"
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-118",
+      "source": {
+        "source_id": "lavenir",
+        "publisher": "L'Avenir",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "mixed_paywall",
+        "title": "Publics éloignés du marché de l’emploi: les acteurs du secteur attendent “des mesures cohérentes” du gouvernement wallon",
+        "url": "https://www.lavenir.net/actu/2026/11/26/reforme-des-publics-les-plus-eloignes-du-marche-de-lemploi-les-acteurs-du-secteur-attendent-des-mesures-coherentes-du-gouvernement-wallon-VCKHOWQ4WBFQBMCWIDIEFTBV5U/",
+        "published_at": "2026-11-26T17:06:47Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Alors que la réforme des centres d’insertion socioprofessionnelle (CISP) devrait produire ses premiers effets dès l’été 2027, les acteurs du secteur tirent la sonnette d’alarme face à un avant-projet de décret qui ne collerait pas à la réalité de terrain...."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "politics",
+        "label": "Politiques publiques et société"
+      },
+      "radar_signals": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "impact concret pour la population"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-119",
+      "source": {
+        "source_id": "ps_party",
+        "publisher": "Parti Socialiste",
+        "source_class": "political_party",
+        "source_role": "political_actor",
+        "access_model": "",
+        "title": "Surprofits pétroliers: Le PS propose une contribution exceptionnelle de solidarité",
+        "url": "http://www.ps.be/surprofits_petroliers_le_ps_propose_une_contribution_exceptionnelle_de_solidarite",
+        "published_at": "2026-11-26T17:02:39Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Depuis mars, les tensions géopolitiques ont entrainé des hausses spectaculaires des cours du pétrole."
       },
       "radar_selected": true,
       "primary_source_candidate": false,
@@ -535,15 +4020,163 @@ Contraintes de contenu :
       },
       "radar_signals": [
         "producteur institutionnel ou collectif identifié",
-        "contenu de type agenda",
-        "nouvel élément d'un flux sans date fournie",
-        "impact concret pour la population",
-        "agenda institutionnel proche"
+        "contenu de type réformes",
+        "contenu de type communiqués",
+        "publié depuis moins de 24 heures"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-003",
+      "candidate_id": "candidate-120",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Un chef doublement étoilé dans le nouveau projet Horeca de La Grand Poste",
+        "url": "https://www.qu4tre.be/infos/societe/un-chef-doublement-etoile-dans-le-nouveau-projet-horeca-de-la-grand-poste/2017818",
+        "published_at": "2026-11-26T16:31:07Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "La Grand Poste s’apprête à écrire un nouveau chapitre de son histoire. Le chef doublement étoilé Sang Hoon Degeimbre, le producteur de cinéma Jean-Yves Roubin et Fabrice Lamproye, accompagné de ses trois fils s’associent pour reprendre les espaces horeca. Les espaces horeca de cet édifice emblématique liégeois, qui abritait notamment un food market, un espace restaurant, un bar et un rooftop avec vue sur la Meuse, s’apprêtent à connaître une nouvelle vie avec ces 6 associés qui unissent leurs talents pour les relancer. Figure incontournable de la scène culturelle et festive liégeoise,…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-121",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Cimetières de Flémalle: Donnez votre avis!",
+        "url": "https://www.qu4tre.be/infos/amenagement-du-territoire/cimetieres-de-flemalle-donnez-votre-avis/2017814",
+        "published_at": "2026-11-26T15:44:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Attention, si vous êtes Flémallois, il ne vous reste que quelques jours jusqu’à la fin du mois pour donner votre avis sur les cimetières de la communes. L’objectif est de recueillir vos suggestions afin d’améliorer l’accueil, le cadre et la mise en valeur patrimoniale de ces lieux de mémoire. Les cimetières sont des lieux de mémoire qui méritent une attention particulière. C'est dans cette optique que la Commune de Flémalle souhaite améliorer l'accueil et le cadre de ses quatorze cimetières. Pour mener à bien cette démarche, elle invite les citoyens à partager leur expérience et leurs…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-122",
+      "source": {
+        "source_id": "tv_lux",
+        "publisher": "TV Lux",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Bertrix, Bouillon et Paliseul passent à l'étape de l'étude des synergies",
+        "url": "https://www.tvlux.be/actu/info/politique/bertrix-bouillon-et-paliseul-passent-a-l-etape-de-l-etude-des-synergies_53229",
+        "published_at": "2026-11-26T15:36:00Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "La réflexion autour d'un éventuel rapprochement entre Bertrix, Bouillon et Paliseul passe à la vitesse supérieure. Ce jeudi soir, le conseil communal de Bouillon sera amené à se prononcer sur l'adoption d'une convention de marché conjoint. L'objectif: identifier les synergies possibles entre..."
+      },
+      "radar_selected": true,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "economy",
+        "label": "Économie, emploi et consommateurs"
+      },
+      "radar_signals": [
+        "publié depuis moins de 24 heures",
+        "décision ou réforme publique",
+        "chiffres, étude ou évaluation"
+      ],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-123",
+      "source": {
+        "source_id": "qu4tre",
+        "publisher": "Qu4tre",
+        "source_class": "news_media",
+        "source_role": "editorial_media",
+        "access_model": "open",
+        "title": "Une mini forêt de 300 arbres à Herstal",
+        "url": "https://www.qu4tre.be/infos/une-mini-foret-de-300-arbres-a-herstal/2017817",
+        "published_at": "2026-11-26T15:05:55Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": "Une cinquième mini-forêt pour faire pousser la santé à Herstal. C'est le pari du Réseau Solidaris Liège, à Herstal, à proximité de la nouvelle implantation de l’école communale du Bouxthay. Planter des arbres, ce n'est pas seulement embellir un espace ou ajouter un peu de verdure au paysage. C'est aussi agir concrètement pour la santé de tous. C'est le principe de la santé globale, au cœur de cette initiative: rappeler que la santé humaine est étroitement liée à celle de notre environnement, qu'il soit végétal, animal ou minéral. L'objectif est aussi de laisser une trace durable dans la…"
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-124",
+      "source": {
+        "source_id": "federal_press",
+        "publisher": "Presscenter fédéral",
+        "source_class": "institution",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Invitation petit-déjeuner de presse: premier Baromètre des droits humains",
+        "url": "https://news.belgium.be/fr/invitation-petit-dejeuner-de-presse-premier-barometre-des-droits-humains",
+        "published_at": "2026-11-26T15:01:01Z",
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-27T14:53:25.628563Z",
+        "language": "fr",
+        "geography": "Belgique",
+        "summary_from_source": "Les droits humains sont reconnus sur papier. Mais qu’en est-il dans la réalité? À l’occasion de la Journée internationale des droits humains le 10 décembre, sept institutions publiques de défense des droits humains dévoilent, pour la première fois, un Baromètre commun des droits humains en Belgique."
+      },
+      "radar_selected": false,
+      "primary_source_candidate": true,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-125",
       "source": {
         "source_id": "apache",
         "publisher": "Apache",
@@ -572,7 +4205,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-004",
+      "candidate_id": "candidate-126",
       "source": {
         "source_id": "defence",
         "publisher": "Défense belge",
@@ -601,7 +4234,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-005",
+      "candidate_id": "candidate-127",
       "source": {
         "source_id": "ibsa",
         "publisher": "Institut Bruxellois de Statistique et d'Analyse",
@@ -630,7 +4263,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-006",
+      "candidate_id": "candidate-128",
       "source": {
         "source_id": "ibsa",
         "publisher": "Institut Bruxellois de Statistique et d'Analyse",
@@ -659,7 +4292,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-007",
+      "candidate_id": "candidate-129",
       "source": {
         "source_id": "walloon_parliament",
         "publisher": "Parlement de Wallonie",
@@ -688,7 +4321,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-008",
+      "candidate_id": "candidate-130",
       "source": {
         "source_id": "walloon_parliament",
         "publisher": "Parlement de Wallonie",
@@ -717,7 +4350,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-009",
+      "candidate_id": "candidate-131",
       "source": {
         "source_id": "walloon_parliament",
         "publisher": "Parlement de Wallonie",
@@ -746,7 +4379,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-010",
+      "candidate_id": "candidate-132",
       "source": {
         "source_id": "walloon_parliament",
         "publisher": "Parlement de Wallonie",
@@ -775,109 +4408,22 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-011",
+      "candidate_id": "candidate-133",
       "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Haushaltsstreit: De Wever trifft am Montag Parteipräsidenten der Regierungskoalition",
-        "url": "https://brf.be/national/2129042/",
-        "published_at": "2026-11-26T14:55:04Z",
+        "source_id": "walloon_parliament",
+        "publisher": "Parlement de Wallonie",
+        "source_class": "parliament",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Séance plénière - 02/12/2026 14:00 - Salle des séances plénières",
+        "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJS/odjs20261202.pdf",
+        "published_at": null,
         "source_published_at": null,
         "event_at": null,
         "date_status": "",
         "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "Die Parteivorsitzenden der Regierungskoalition kommen am Montag um 14 Uhr zu einem Krisentreffen mit Premierminister Bart De Wever zusammen. Das berichten übereinstimmende Quellen. Die Haushaltsverhandlungen stecken derzeit fest. Die flämischen Sozialisten von Vooruit hatten am Mittwoch Garantien für eine stärkere Beteiligung der Wohlhabenden und den Erhalt der automatischen Lohnindexierung gefordert. Damit steht die Zukunft der […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-012",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Kunstenares met internationale uitstraling stelt tentoon in MPC Gallery: \"Mijn moeder is geboren op een boot in Turnhout\"",
-        "url": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/kunstenares-met-internationale-uitstraling-stelt-tentoon-in-mpc-gallery-mijn-moeder-is-geboren-op-een-boot-in-turnhout/165158464.html",
-        "published_at": "2026-11-26T14:53:50Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "“We maken van Turnhout een kunststad”, beloofde galeriehouder Rouben Vansteenkiste bij de opening van MPC Gallery in de Gasthuisstraat. Met een expo van de internationaal bekende Belgische kunstenares F.man zet hij alvast een stap in die richting."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-013",
-      "source": {
-        "source_id": "gva",
-        "publisher": "Gazet van Antwerpen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Kunstenares met internationale uitstraling stelt tentoon in MPC Gallery: \"Mijn moeder is geboren op een boot in Turnhout\"",
-        "url": "https://www.gva.be/regio/antwerpen/kempen/turnhout/kunstenares-met-internationale-uitstraling-stelt-tentoon-in-mpc-gallery-mijn-moeder-is-geboren-op-een-boot-in-turnhout/165155948.html",
-        "published_at": "2026-11-26T14:53:49Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "“We maken van Turnhout een kunststad”, beloofde galeriehouder Rouben Vansteenkiste bij de opening van MPC Gallery in de Gasthuisstraat. Met een expo van de internationaal bekende Belgische kunstenares F.man zet hij alvast een stap in die richting."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-014",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "De Cos is de ECB-baas met wie iedereen door één deur kan – en noem hem maar Pablo",
-        "url": "https://www.demorgen.be/nieuws/de-cos-is-de-ecb-baas-met-wie-iedereen-door-een-deur-kan-en-noem-hem-maar-pablo~bfffe9d3/",
-        "published_at": "2026-11-26T14:52:13Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
+        "language": "fr",
+        "geography": "Wallonie",
         "summary_from_source": ""
       },
       "radar_selected": false,
@@ -891,7 +4437,36 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-015",
+      "candidate_id": "candidate-134",
+      "source": {
+        "source_id": "walloon_parliament",
+        "publisher": "Parlement de Wallonie",
+        "source_class": "parliament",
+        "source_role": "official_public",
+        "access_model": "",
+        "title": "Commission de l'aménagement du territoire, de la mobilité et des pouvoirs locaux - 01/12/2026 08:30 - Salle de commission 8",
+        "url": "http://nautilus.parlement-wallon.be/Archives/2026_2027/ODJC/odjc62.pdf",
+        "published_at": null,
+        "source_published_at": null,
+        "event_at": null,
+        "date_status": "",
+        "first_seen_at": "2026-11-26T14:56:30.766639Z",
+        "language": "fr",
+        "geography": "Wallonie",
+        "summary_from_source": ""
+      },
+      "radar_selected": false,
+      "primary_source_candidate": false,
+      "agenda_candidate": false,
+      "radar_section": {
+        "id": "",
+        "label": ""
+      },
+      "radar_signals": [],
+      "lexically_related_sources": []
+    },
+    {
+      "candidate_id": "candidate-135",
       "source": {
         "source_id": "gva",
         "publisher": "Gazet van Antwerpen",
@@ -917,7 +4492,7 @@ Contraintes de contenu :
         "label": "Justice, droits et contrôle"
       },
       "radar_signals": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "chiffres, étude ou évaluation",
         "contrôle, droits ou responsabilité publique"
       ],
@@ -931,935 +4506,7 @@ Contraintes de contenu :
       ]
     },
     {
-      "candidate_id": "candidate-016",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Juridische procedures tegen Herman Brusselmans na omstreden column lijken van de baan: rechter verklaart beroep ongegrond",
-        "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/juridische-procedures-tegen-herman-brusselmans-na-omstreden-column-lijken-van-de-baan-rechter-verklaart-beroep-ongegrond/165153828.html",
-        "published_at": "2026-11-26T14:50:03Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De juridische procedures tegen schrijver Herman Brusselmans zijn bijna volledig van de baan. Na het gerechtelijk onderzoek, lijken nu ook twee rechtszaken definitief beslecht."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-017",
-      "source": {
-        "source_id": "gva",
-        "publisher": "Gazet van Antwerpen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Orde op zaken: Belgische U17 halen verschroeiend uit tegen Nieuw-Zeeland en stoten door naar 1/16de finales op WK",
-        "url": "https://www.gva.be/sport/voetbal/orde-op-zaken-belgische-u17-halen-verschroeiend-uit-tegen-nieuw-zeeland-en-stoten-door-naar-116de-finales-op-wk/165157924.html",
-        "published_at": "2026-11-26T14:48:27Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "De Belgische U17 mogen zich opmaken voor de 1/16de finales van het WK. De Jonge Duivels maakten in hun laatste groepsmatch brandhout van Nieuw-Zeeland: 0-6. Jelle Driessen speelde daarbij een hoofdrol met vier assists en een knappe goal. Wie de volgende tegenstander wordt, weten de Belgen vrijdagavond."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-018",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Orde op zaken: Belgische U17 halen verschroeiend uit tegen Nieuw-Zeeland en stoten door naar 1/16de finales op WK",
-        "url": "https://www.hbvl.be/sport/voetbal/orde-op-zaken-belgische-u17-halen-verschroeiend-uit-tegen-nieuw-zeeland-en-stoten-door-naar-116de-finales-op-wk/165157923.html",
-        "published_at": "2026-11-26T14:48:26Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "De Belgische U17 mogen zich opmaken voor de 1/16de finales van het WK. De Jonge Duivels maakten in hun laatste groepsmatch brandhout van Nieuw-Zeeland: 0-6. Jelle Driessen speelde daarbij een hoofdrol met vier assists en een knappe goal. Wie de volgende tegenstander wordt, weten de Belgen vrijdagavond."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-019",
-      "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Schneechaos in Österreich",
-        "url": "https://brf.be/international/2129040/",
-        "published_at": "2026-11-26T14:48:06Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "In Österreich haben die ersten größeren Schneefälle dieses Winters in den meisten Regionen zu vielen Verkehrsunfällen, Staus und Straßensperren geführt. Autofahrer sollten auf nicht notwendige Fahrten verzichten, rieten Verkehrsexperten. Besonders betroffen ist die Region um Wien, wo die vielbefahrene Autobahn A21 abgeriegelt wurde. Dort waren zuvor mehrere Lastwagen auf der Schneefahrbahn hängengeblieben. Im Bundesland Salzburg […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-020",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "0-6! Belgische U17 deelt pandoering uit aan Nieuw-Zeeland en stoot als tweede door naar de volgende ronde",
-        "url": "https://www.hln.be/rode-duivels/0-6-belgische-u17-deelt-pandoering-uit-aan-nieuw-zeeland-en-stoot-als-tweede-door-naar-de-volgende-ronde~af805ba2/",
-        "published_at": "2026-11-26T14:48:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "0-6! De Belgische U17 heeft zich in stijl geplaatst voor de volgende ronde op het WK in Qatar. Tegen een weliswaar ontstellend zwak Nieuw-Zeeland tankten de jongens van Sven Vermant, die zeven (!) nieuwe namen in zijn ploeg dropte, welgekomen vertrouwen. Up next: de zestiende finale op maandag of dinsdag."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-021",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Orde op zaken: Belgische U17 halen verschroeiend uit tegen Nieuw-Zeeland en stoten door naar 1/16de finales op WK",
-        "url": "https://www.nieuwsblad.be/sport/voetbal/orde-op-zaken-belgische-u17-halen-verschroeiend-uit-tegen-nieuw-zeeland-en-stoten-door-naar-116de-finales-op-wk/165125005.html",
-        "published_at": "2026-11-26T14:47:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De Belgische U17 mogen zich opmaken voor de 1/16de finales van het WK. De Jonge Duivels maakten in hun laatste groepsmatch brandhout van Nieuw-Zeeland: 0-6. Jelle Driessen speelde daarbij een hoofdrol met vier assists en een knappe goal. Wie de volgende tegenstander wordt, weten de Belgen vrijdagavond."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-022",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Une première en mer du Nord: une espèce menacée jamais vue en Belgique a été observée sur notre littoral",
-        "url": "https://www.dhnet.be/actu/belgique/2026/11/26/une-premiere-en-mer-du-nord-une-espece-menacee-jamais-vue-en-belgique-a-ete-observee-sur-notre-littoral-3ZZBXWAAO5F4LOKYQIVHKPMOMQ/",
-        "published_at": "2026-11-26T14:46:35Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Une bonne nouvelle vient d’être observée sur la côte belge...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-023",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Els Hertogen stopt eind februari 2027 als algemeen directeur van 11.11.11",
-        "url": "https://www.hln.be/binnenland/els-hertogen-stopt-eind-februari-2027-als-algemeen-directeur-van-11-11-11~a5c10258/",
-        "published_at": "2026-11-26T14:46:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Els Hertogen geeft eind februari 2027 de fakkel door als algemeen directeur van 11.11.11, de koepel voor internationale solidariteit. Dat maakt de organisatie donderdag bekend. Hertogen werkt al meer dan twintig jaar voor 11.11.11 en leidt de organisatie sinds acht jaar."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-024",
-      "source": {
-        "source_id": "gva",
-        "publisher": "Gazet van Antwerpen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Stedelijk Onderwijs Antwerpen moet 21 miljoen euro besparen: “Gezinnen krijgen opnieuw rekening gepresenteerd”",
-        "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/stedelijk-onderwijs-antwerpen-moet-21-miljoen-euro-besparen-gezinnen-krijgen-opnieuw-rekening-gepresenteerd/165141651.html",
-        "published_at": "2026-11-26T14:45:51Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Het Stedelijk Onderwijs Antwerpen ontsnapt niet aan de besparingen van het stadsbestuur. Het moet tussen 2027 en 2031 zo’n 21 miljoen euro besparen. Dat zal bij onder meer schoonmaak, personeelsdienst en ICT zijn. “Dit gaat een impact hebben op de onderwijskwaliteit”, zegt Antwerps gemeenteraadslid Anne Delespaul (PVDA)."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-025",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Stedelijk Onderwijs Antwerpen moet 21 miljoen euro besparen: “Gezinnen krijgen opnieuw rekening gepresenteerd”",
-        "url": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/stedelijk-onderwijs-antwerpen-moet-21-miljoen-euro-besparen-gezinnen-krijgen-opnieuw-rekening-gepresenteerd/165157598.html",
-        "published_at": "2026-11-26T14:45:51Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Het Stedelijk Onderwijs Antwerpen ontsnapt niet aan de besparingen van het stadsbestuur. Het moet tussen 2027 en 2031 zo’n 21 miljoen euro besparen. Dat zal bij onder meer schoonmaak, personeelsdienst en ICT zijn. “Dit gaat een impact hebben op de onderwijskwaliteit”, zegt Antwerps gemeenteraadslid Anne Delespaul (PVDA)."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-026",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Changement de présidence à la BCE: l’Espagnol Pablo Hernandez va succéder à Christine Lagarde",
-        "url": "https://www.sudinfo.be/id1231525/article/2026-11-26/changement-de-presidence-la-bce-lespagnol-pablo-hernandez-va-succeder-christine",
-        "published_at": "2026-11-26T14:45:51Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Pablo Hernandez de Cos, actuel directeur de la Banque des règlements internationaux, doit succéder à Christine Lagarde à la BCE après avoir été préféré au Néerlandais Klaas Knot par les pays de la zone euro."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-027",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Stad Lier kapt geliefde treurwilg op Felix Timmermansplein: \"Volgende week planten we een nieuwe\"",
-        "url": "https://vrtnws.be/p.Yb5O0EXYD",
-        "published_at": "2026-11-26T14:45:09Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "Lier heeft vandaag een iconische treurwilg langs de Binnen-Nete gekapt. De boom was bij de inwoners heel geliefd. Hij stond zo'n 50 jaar op het Felix Timmermansplein, maar was niet meer veilig. Heel wat Lierenaars kwamen afscheid nemen. Volgende week wordt een nieuwe geplant."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-028",
-      "source": {
-        "source_id": "gva",
-        "publisher": "Gazet van Antwerpen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Oppositie mag meepraten over invulling sportsite Brieleke",
-        "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/wommelgem/oppositie-mag-meepraten-over-invulling-sportsite-brieleke/165156919.html",
-        "published_at": "2026-11-26T14:45:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Er wordt een commissie opgericht met leden van alle fracties – ook van de oppositie – om de totstandkoming van en keuzes voor de nieuwe sportsite aan ’t Brieleke te begeleiden."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-029",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Oppositie mag meepraten over invulling sportsite Brieleke",
-        "url": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/wommelgem/oppositie-mag-meepraten-over-invulling-sportsite-brieleke/165157492.html",
-        "published_at": "2026-11-26T14:45:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Er wordt een commissie opgericht met leden van alle fracties – ook van de oppositie – om de totstandkoming van en keuzes voor de nieuwe sportsite aan ’t Brieleke te begeleiden."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-030",
-      "source": {
-        "source_id": "het_nieuwsblad",
-        "publisher": "Het Nieuwsblad",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Dan toch (nog) geen 9.500 extra bomen voor het stadsbos door vrieskou",
-        "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/menen/dan-toch-nog-geen-9.500-extra-bomen-voor-het-stadsbos-door-vrieskou/165153701.html",
-        "published_at": "2026-11-26T14:45:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Vrijdag en zaterdag zouden er twee grote plantacties plaatsvinden langs de Geluwebeek. Zowat 9.500 nieuwe bomen zouden worden geplant. Zouden, want door de vrieskou moet de stad op zoek naar een nieuwe datum."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-031",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "« Je trouve ça irrespectueux… »: Marine obligée d’annuler deux concerts de sa tournée, la raison divise les internautes",
-        "url": "https://www.sudinfo.be/id1231524/article/2026-11-26/je-trouve-ca-irrespectueux-marine-obligee-dannuler-deux-concerts-de-sa-tournee",
-        "published_at": "2026-11-26T14:44:21Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Si Marine a l’habitude d’avoir un planning chargé, elle ne peut pas encore se téléporter!"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-032",
-      "source": {
-        "source_id": "gva",
-        "publisher": "Gazet van Antwerpen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Onbekende man in witte bestelwagen biedt meisje (9) snoepje aan na schooltijd: politie start onderzoek na klacht ouders",
-        "url": "https://www.gva.be/regio/antwerpen/rivierenland/mechelen/onbekende-man-in-witte-bestelwagen-biedt-meisje-9-snoepje-aan-na-schooltijd-politie-start-onderzoek-na-klacht-ouders/165150222.html",
-        "published_at": "2026-11-26T14:43:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Een onbekende man heeft woensdag in Hombeek (Mechelen) vanuit een witte bestelwagen een negenjarig meisje een snoepje aangeboden. De ouders van het kind hebben klacht ingediend bij de politie, die onmiddellijk een onderzoek is gestart."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-033",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Un conducteur de 20 ans inculpé d’homicide routier, le premier en Belgique: A.A. est sous bracelet électronique",
-        "url": "https://www.dhnet.be/actu/2026/11/26/un-conducteur-de-20-ans-inculpe-dhomicide-routier-le-premier-en-belgique-aa-est-sous-bracelet-electronique-TD7MW77ZI5E6BP7NGQMZCW6H6M/",
-        "published_at": "2026-11-26T14:42:57Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "À l’issue d’une course-poursuite, un jeune homme de 20 ans percuté de plein fouet un Molenbeekois sur son scooter à Anderlecht. A.A. a été placé sous bracelet électronique et inculpé d’homicide routier, une première en Belgique...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-034",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "'Bestuur Nyrstar kan niet meer oordelen in belang vennootschap'",
-        "url": "https://www.tijd.be/r/t/1/id/10707102",
-        "published_at": "2026-11-26T14:42:18Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De raad van bestuur van Nyrstar heeft een structureel belangenconflict en kan niet meer oordelen in het belang van de beursgenoteerde vennootschap. Dat is de mening van een groep kleine aandeelhouders van Nyrstar die voor de vijfde keer de aanstelling van een voorlopig bewindvoerder vraagt. Nyrstar verwerpt de eis."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-035",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Oekraïense Salvia brengt eerste album uit | ‘In een nachtwinkel in Brussel vroeg ik iemand of hij een band met me wilde beginnen’",
-        "url": "https://www.tijd.be/r/t/1/id/10707099",
-        "published_at": "2026-11-26T14:41:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Ruim vier jaar nadat ze de oorlog in haar thuisland is ontvlucht, lanceert de Brussels-Oekraïense newwavezangeres Salvia haar debuutalbum ‘Cult of Suffering’. De donkere postpunk is op maat van haar Slavische ziel, die pijn wil omzetten in veerkracht."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-036",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "LIVE REGERINGSCRISIS. Premier roept partijvoorzitters maandagmiddag weer bijeen - Vooruit komt enkel naar overleg na garanties over miljonairstaks en index",
-        "url": "https://www.hbvl.be/politiek/live-regeringscrisis.-premier-roept-partijvoorzitters-maandagmiddag-weer-bijeen-vooruit-komt-enkel-naar-overleg-na-garanties-over-miljonairstaks-en-index/136538115.html",
-        "published_at": "2026-11-26T14:41:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Volg hier alle recente updates uit de Belgische politiek."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-037",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Un train percute une voiture à un passage à niveau: le conducteur belge de 42 ans est mort",
-        "url": "https://www.lavenir.net/actu/belgique/2026/11/26/un-train-percute-une-voiture-a-un-passage-a-niveau-le-conducteur-belge-de-42-ans-est-mort-GUDHZY27DFAA5BAUT3SOMA5UIE/",
-        "published_at": "2026-11-26T14:40:46Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Un homme de 42 ans originaire de Houthulst a perdu la vie jeudi matin lors d'un accident survenu à un passage à niveau à Kortemark, a indiqué la section brugeoise du parquet de Flandre occidentale...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-038",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Na sterfgeval van dakloze man in Oostende: Steunpunt Mens en Samenleving trekt aan alarmbel over te weinig nachtopvang",
-        "url": "https://vrtnws.be/p.y31y9ZGW1",
-        "published_at": "2026-11-26T14:36:09Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "Steden en gemeenten zien steeds meer mensen die geen dak boven hun hoofd hebben en 's nachts buiten slapen. Straathoekwerkers gaan overdag op pad en sporen daklozen aan om naar de nachtopvang te gaan. Maar er zijn te weinig plaatsen en de drempel om er binnen te raken, is vaak te groot. Steunpunt Mens en Samenleving, dat straathoekwerk coördineert, trekt aan de alarmbel nadat een dakloze man gisteren in Oostende op straat is gestorven."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-039",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Soudal Open in Schilde strikt tweevoudig Masters-winnaar Bubba Watson, ook Thomas Pieters tekent present",
-        "url": "https://www.hbvl.be/sport/soudal-open-in-schilde-strikt-tweevoudig-masters-winnaar-bubba-watson-ook-thomas-pieters-tekent-present/165143148.html",
-        "published_at": "2026-11-26T14:36:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Thomas Pieters, tweevoudig Masters-winnaar Bubba Watson en de Zuid-Afrikaanse titelverdediger Richard Sterne hebben hun deelname toegezegd aan de Soudal Open 2027, zo maakte de organisatie donderdag bekend."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-040",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Une compagnie aérienne annonce être au bord de la faillite: \"Rien ne garantit qu'une solution viable sera trouvée\"",
-        "url": "https://www.dhnet.be/actu/monde/2026/11/26/une-compagnie-aerienne-annonce-etre-au-bord-de-la-faillite-rien-ne-garantit-quune-solution-viable-sera-trouvee-CIAOKF3F5NEVJFQRLULXWJO6FM/",
-        "published_at": "2026-11-26T14:35:25Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "La compagnie aérienne norvégienne à bas coûts Norse Atlantic, fragilisée par la flambée des prix du kérosène provoquée par la guerre au Moyen-Orient, s'est déclarée au bord de la faillite jeudi et a annulé tous ses vols pour la journée...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-041",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Niels Destadsbader zet zijn mama in de bloemetjes en een nieuwe coupe voor Isabelle Van Hecke",
-        "url": "https://www.hln.be/bv/niels-destadsbader-zet-zijn-mama-in-de-bloemetjes-en-een-nieuwe-coupe-voor-isabelle-van-hecke~a030576b/",
-        "published_at": "2026-11-26T14:30:51Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "The show must go on, want de showbizzwereld staat nooit stil. Wat jouw favoriete BV’s de laatste 24 uur hebben uitgespookt, ontdek je hier in onze nieuwsstream."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-042",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Ruben Van Gucht wordt 40 en vertelt over zijn pasgeboren dochter Florence: “Ze is een makkelijk kind”",
-        "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/ruben-van-gucht-wordt-40-en-vertelt-over-zijn-pasgeboren-dochter-florence-ze-is-een-makkelijk-kind/165155896.html",
-        "published_at": "2026-11-26T14:30:07Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Enkele maanden na de geboorte van dochter Florence is er ten huize Ruben van Gucht (40) geen sprake van slapeloze nachten. Dat vertelde de presentator aan Peter Van de Veire in een bijzondere aflevering van de ochtendshow op Radio 2."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-043",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "KIJK. Justin Timberlake krijgt eigen documentaire, zanger komt terug op spraakmakende relatie met Britney Spears",
-        "url": "https://www.hln.be/celebrities/kijk-justin-timberlake-krijgt-eigen-documentaire-zanger-komt-terug-op-spraakmakende-relatie-met-britney-spears~a22e6141/",
-        "published_at": "2026-11-26T14:30:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Justin Timberlake (45) komt terug op zijn spraakmakende relatie met Britney Spears (44). Het onderwerp komt aan bod in een vierdelige documentaire die vanaf 11 december te zien is op Apple TV+. Timberlake en Spears hadden een relatie van 1999 tot 2002."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-044",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "« Appelle-moi… »: ce message très coquin, filmé par les élèves, écrit dans les toilettes du château de la « Star Academy », que personne n’avait vu… (photo)",
-        "url": "https://www.sudinfo.be/id1231516/article/2026-11-26/appelle-moi-ce-message-tres-coquin-filme-par-les-eleves-ecrit-dans-les-toilettes",
-        "published_at": "2026-11-26T14:30:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Vendredi dernier, des images des toilettes du château ont été dévoilées lors du prime sur TF1. Un message inattendu a attiré notre attention…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-045",
-      "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Projekt \"Grüne Auszeit\" an der Pater-Damian-Sekundarschule",
-        "url": "https://brf.be/regional/2129035/",
-        "published_at": "2026-11-26T14:29:33Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "Mal kurz abschalten, quatschen oder in Ruhe lesen: Dafür sind Schulpausen da. Und im Grünen geht das gleich noch viel besser. An der Pater-Damian-Sekundarschule in Eupen soll aus einer kaum genutzten Fläche jetzt eine grüne Oase werden. Möglich machen das 15.000 Euro von Ethias Solidarity."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-046",
-      "source": {
-        "source_id": "lecho",
-        "publisher": "L'Echo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "EnergyVision rachète les activités de fourniture d'électricité et de gaz d'Octa+",
-        "url": "https://www.lecho.be/r/t/1/id/10707049",
-        "published_at": "2026-11-26T14:28:08Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "EnergyVision a remporté la bataille d’offres pour la division électricité et gaz d’Octa+. L'entreprise gantoise devient ainsi le quatrième fournisseur d’énergie des ménages en Flandre."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-047",
-      "source": {
-        "source_id": "le_soir",
-        "publisher": "Le Soir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Bruxelles: trente-trois personnes privées de liberté après une vaste opération antidrogue",
-        "url": "https://www.lesoir.be/785074/article/2026-11-26/bruxelles-trente-trois-personnes-privees-de-liberte-apres-une-vaste-operation",
-        "published_at": "2026-11-26T14:27:47Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Une vaste opération antidrogue menée mardi a conduit à 33 privations de liberté, dans une enquête visant un groupe criminel actif autour des quartiers Aumale et Saint-Guidon."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-048",
+      "candidate_id": "candidate-136",
       "source": {
         "source_id": "eu_commission",
         "publisher": "Commission européenne",
@@ -1888,424 +4535,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-049",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Hoofdleiding gesprongen in centrum van Tongeren: opnieuw heel wat mensen zonder water",
-        "url": "https://www.hbvl.be/regio/limburg/tongeren-borgloon/hoofdleiding-gesprongen-in-centrum-van-tongeren-opnieuw-heel-wat-mensen-zonder-water/165150989.html",
-        "published_at": "2026-11-26T14:25:18Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "Achter het station van Tongeren sprong donderdagnamiddag een waterhoofdleiding. Die bevindt zich onder het wegdek van de Elderseweg. Hierdoor zitten tal van buurtbewoners zonder water. Om hoeveel mensen het gaat, is nog niet bekend."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-050",
-      "source": {
-        "source_id": "lecho",
-        "publisher": "L'Echo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Budget européen: les \"frugaux\", avec la Belgique, passent à l'offensive",
-        "url": "https://www.lecho.be/r/t/1/id/10707117",
-        "published_at": "2026-11-26T14:24:38Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Les Vingt-Sept, réunis en sommet, tentent de rapprocher leurs positions sur le budget européen 2028-2034. Entre \"frugaux\" et \"amis de la cohésion\", les divergences restent profondes. Pour la Belgique, le compromis proposé par António Costa n'est pas satisfaisant."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-051",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Brussel in 't klein: maquettebouwer Alan Jockmans werkt al 6 jaar aan miniatuurgemeente Zwanzebeek",
-        "url": "https://vrtnws.be/p.nwvbaPR1b",
-        "published_at": "2026-11-26T14:23:54Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "Van het station van Schaarbeek tot de art nouveau van Horta: voor die Brusselse erfgoedparels hoeft Alan Jockmans zijn woning niet uit. De voorbije 6 jaar wekte de maquettemaker stukje bij beetje de miniatuurstad Zwanzebeek tot leven. Het fictieve plaatsje is een ode aan de architectonische rijkdom van zijn thuisstad."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-052",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Jugée \"blasphématoire\" et \"anti-chrétienne\", cette série qui cartonne sur Netflix fait l'objet d'une pétition signée par plus de 200.000 personnes",
-        "url": "https://www.dhnet.be/medias/television/2026/11/26/jugee-blasphematoire-et-anti-chretienne-cette-serie-qui-cartonne-sur-netflix-fait-lobjet-dune-petition-signee-par-plus-de-200000-personnes-FWYIJKB3JFDWRFLNSBHHB35T5Y/",
-        "published_at": "2026-11-26T14:23:53Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "\"The Body\", la nouvelle série Netflix, cartonne sur la plateforme de streaming. Mais si elle a su séduire les téléspectateurs et la critique, elle est aussi au cœur d’une vive polémique...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-053",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "EnergyVision ruim verdubbeld sinds beursgang: ‘Indrukwekkende opmars op energiemarkt’",
-        "url": "https://www.tijd.be/r/t/1/id/10707080",
-        "published_at": "2026-11-26T14:23:18Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De enige beursintroductie in Brussel in vijf jaar blijkt een voltreffer. Na de overname van de energietak van OCTA+ mikt EnergyVision volgend jaar op minstens 70 procent winstgroei."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-054",
-      "source": {
-        "source_id": "hbvl",
-        "publisher": "Het Belang van Limburg",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "22 verdachten en 7 plantages: uitbater (59) Maasmechelse kebabzaak riskeert 6 jaar cel als organisator",
-        "url": "https://www.hbvl.be/regio/limburg/maasmechelen/22-verdachten-en-7-plantages-uitbater-59-maasmechelse-kebabzaak-riskeert-6-jaar-cel-als-organisator/165150762.html",
-        "published_at": "2026-11-26T14:21:20Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre",
-        "summary_from_source": "De 59-jarige uitbater van een kebabzaak in Maasmechelen zou spilfiguur zijn van een criminele organisatie die zeven cannabisplantages onderhield in Beringen, Dilsen-Stokkem, Genk, Maasmechelen en Temse. Hij riskeert zes jaar cel. In totaal moesten 22 beklaagden zich donderdag verantwoorden."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-055",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Marche-en-Famenne: la place aux Foires réouverte à la circulation",
-        "url": "https://www.tvlux.be/actu/info/mobilite/marche-en-famenne-la-place-aux-foires-reouverte-a-la-circulation_53227",
-        "published_at": "2026-11-26T14:21:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "En travaux depuis un an et demi, la place aux Foires de Marche-en-Famenne, inaugurée le 17 octobre dernier, a retrouvé ce matin une circulation, mais limitée à 20 km/h."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-056",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Crise gouvernementale: les présidents de parti se retrouveront autour du Premier ministre lundi",
-        "url": "https://www.dhnet.be/actu/belgique/2026/11/26/crise-gouvernementale-les-presidents-de-parti-se-retrouveront-autour-du-premier-ministre-lundi-XJWY36EYOZCSRBKKZVZAQ2VIFM/",
-        "published_at": "2026-11-26T14:19:35Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Le prochain épisode de la saga de la crise gouvernementale aura lieu lundi à 14 heures...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-057",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "« Je refuse la douleur, la victimisation »: Emmanuelle Béart victime d’inceste entre 11 et 14 ans, elle revient sur la décision radicale de son père Guy lorsqu’il a appris les faits",
-        "url": "https://www.sudinfo.be/id1231511/article/2026-11-26/je-refuse-la-douleur-la-victimisation-emmanuelle-beart-victime-dinceste-entre-11",
-        "published_at": "2026-11-26T14:18:35Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Son père avait voulu la protéger et lui offrir un nouveau cadre de vie, loin de ses traumatismes."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
-        "changement, alerte ou échéance"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-058",
-      "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Erschreckender Abschlussbericht: Fast 800 missbrauchte Kinder im Bistum Trier",
-        "url": "https://brf.be/regional/2129033/",
-        "published_at": "2026-11-26T14:17:48Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "Forscher der Universität Trier haben ihren Abschlussbericht zum sexuellen Missbrauch im Bistum Trier vorgelegt. Für den Zeitraum von 1946 bis 2021 konnten sie fast 800 Opfer und 250 beschuldigte Priester oder Ordensleute identifizieren. Die Dunkelziffer liegt wohl noch höher. 35 Intensivtäter hatten mehr als die Hälfte der Opfer zu verantworten. Die Kirche ging im untersuchten […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-059",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Nieuwe ECB-voorzitter is allemansvriend die zich ‘niets aantrekt van wat politici zeggen’",
-        "url": "https://www.tijd.be/r/t/1/id/10707111",
-        "published_at": "2026-11-26T14:17:37Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De Europese staats- en regeringsleiders hebben de Spanjaard Pablo Hernández de Cos aangeduid als opvolger van Christine Lagarde, die in februari opstapt als voorzitster van de Europese Centrale Bank (ECB). Bij de Spaanse centrale bank, die hij van 2018 tot 2024 leidde, was hij alom gerespecteerd: ‘Hij kende elke medewerker bij de voornaam.’"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-060",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Spanjaard Pablo Hernandez de Cos volgt Christine Lagarde op als voorzitter Europese Centrale Bank",
-        "url": "https://www.demorgen.be/nieuws/spanjaard-pablo-hernandez-de-cos-volgt-christine-lagarde-op-als-voorzitter-europese-centrale-bank~b7926896/",
-        "published_at": "2026-11-26T14:17:13Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-061",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Spanjaard Pablo Hernández de Cos nieuwe voorzitter Europese Centrale Bank",
-        "url": "https://www.tijd.be/r/t/1/id/10707160",
-        "published_at": "2026-11-26T14:14:27Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De Spanjaard Pablo Hernández de Cos volgt in februari Christine Lagarde op als voorzitter van de Europese Centrale Bank. Dat hebben de Europese leiders beslist op hun top in Brussel. Ook Duitsland en Frankrijk krijgen een landgenoot in de ECB-directie."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-062",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Une décision importante pour des milliers de familles: les aidants proches pourront bénéficier d’une prolongation de leurs allocations de chômage!",
-        "url": "https://www.sudinfo.be/id1231509/article/2026-11-26/une-decision-importante-pour-des-milliers-de-familles-les-aidants-proches",
-        "published_at": "2026-11-26T14:13:42Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Les aidants proches bénéficiant d’une dispense de recherche d’emploi pourront conserver leurs allocations de chômage jusqu’à 48 mois. Cette mesure transitoire, portée par David Clarinval avec Les Engagés, vise à éviter que des familles se retrouvent sans revenu faute de solution structurelle."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique",
-        "impact concret pour la population"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-063",
+      "candidate_id": "candidate-137",
       "source": {
         "source_id": "lecho",
         "publisher": "L'Echo",
@@ -2331,7 +4561,7 @@ Contraintes de contenu :
         "label": "Économie, emploi et consommateurs"
       },
       "radar_signals": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "changement, alerte ou échéance"
@@ -2339,388 +4569,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-064",
-      "source": {
-        "source_id": "lecho",
-        "publisher": "L'Echo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Les présidents de parti se retrouveront autour du Premier ministre lundi",
-        "url": "https://www.lecho.be/r/t/1/id/10707154",
-        "published_at": "2026-11-26T14:08:02Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Les présidents de parti de la majorité se retrouveront lundi autour du Premier ministre à 14h, rapporte l'agence Belga."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-065",
-      "source": {
-        "source_id": "rtbf_info",
-        "publisher": "RTBF Info",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Thiam, Collignon, Guisse: 86 athlètes seront sous contrat Adeps en 2027",
-        "url": "https://www.rtbf.be/article/thiam-collignon-guisse-86-athletes-seront-sous-contrat-adeps-en-2027-11821653",
-        "published_at": "2026-11-26T14:07:22Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Comme chaque fin d’année, la Fédération Wallonie-Bruxelles (FWB) publie la liste des sportifs de haut niveau qu’elle..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-066",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Dochter Kim Jong-un veroorzaakt ophef met skitrip: hoe komt ze aan die verboden Europese luxemerken?",
-        "url": "https://www.demorgen.be/nieuws/dochter-kim-jong-un-veroorzaakt-ophef-met-skitrip-hoe-komt-ze-aan-die-verboden-europese-luxemerken~b9dc6cf8/",
-        "published_at": "2026-11-26T14:06:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-067",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Assistance à l'Enfance en pleine récolte de jouets",
-        "url": "https://www.qu4tre.be/infos/social/assistance-a-lenfance-en-pleine-recolte-de-jouets/2017816",
-        "published_at": "2026-11-26T14:05:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Chaque année, Assistance à l’Enfance offre des cadeaux à des milliers d’enfants défavorisés. Elle récolte des jeux et jouets de seconde main qu’elle trie et redistribue à des familles dans le besoin. L’asbl est située rue Surlet. A l’asbl Assistance à l’Enfance, les lutin de Saint-Nicolas et du Père Noël sont en pleine activité. Leur mission, concocter des colis cadeau pour l’enfance précarisée. A la source, des dons de jouets qu’il faut trier et contrôler. \"On débute mi-octobre, on fait un grand appel aux dons de jouets pour pouvoir redistribuer aux familles qui sont dans le besoin, mais…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-068",
-      "source": {
-        "source_id": "rtbf_info",
-        "publisher": "RTBF Info",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Qui pilotera la STIB? Le nouveau CEO est (peut-être) connu",
-        "url": "https://www.rtbf.be/article/qui-pilotera-la-stib-le-nouveau-ceo-est-peut-etre-connu-11821656",
-        "published_at": "2026-11-26T14:02:32Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Belvaux serait, selon les sources consultées par le journal, le seul candidat que le jury de sélection a jugé apte pour..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-069",
-      "source": {
-        "source_id": "de_tijd",
-        "publisher": "De Tijd",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Schrapping van vliegroute boven Leuven maakt puzzel nog complexer",
-        "url": "https://www.tijd.be/r/t/1/id/10707092",
-        "published_at": "2026-11-26T14:01:39Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Na een jarenlange procedureslag winnen bewoners de strijd over de vliegroute boven de gemeentes rondom Leuven. De uitspraak maakt de puzzel van vliegroutes die de federale regering probeert te leggen weer een stukje ingewikkelder."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-070",
-      "source": {
-        "source_id": "rtbf_info",
-        "publisher": "RTBF Info",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Gérard Depardieu sera jugé pour viol sur la comédienne Charlotte Arnould",
-        "url": "https://www.rtbf.be/article/gerard-depardieu-sera-juge-pour-viol-sur-la-comedienne-charlotte-arnould-11821658",
-        "published_at": "2026-11-26T14:01:29Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "\"La chambre de l’instruction a décidé de confirmer l’ordonnance de mise en accusation devant la cour criminelle..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-071",
-      "source": {
-        "source_id": "rtbf_info",
-        "publisher": "RTBF Info",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Les aidants proches respirent: la dérogation pour l’allocation de chômage est prolongée jusqu’à la fin 2029",
-        "url": "https://www.rtbf.be/article/les-aidants-proches-respirent-la-derogation-pour-l-allocation-de-chomage-est-prolongee-jusqu-a-la-fin-2029-11821647",
-        "published_at": "2026-11-26T13:50:54Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "\"C’était une exigence pour nous. Il était hors de question de pénaliser celles et ceux qui consacrent leur temps, leur..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-072",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Live - Premier roept partijvoorzitters maandagnamiddag weer bijeen over begroting, maar zonder garanties blijft Vooruit weg",
-        "url": "https://www.demorgen.be/snelnieuws/live-premier-roept-partijvoorzitters-maandagnamiddag-weer-bijeen-zonder-garanties-blijft-vooruit-weg-van-nieuwe-vergadering-over-begroting~bf7e76f4/",
-        "published_at": "2026-11-26T13:50:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-073",
-      "source": {
-        "source_id": "le_soir",
-        "publisher": "Le Soir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Gérard Depardieu sera jugé pour le viol de la comédienne Charlotte Arnould",
-        "url": "https://www.lesoir.be/785066/article/2026-11-26/gerard-depardieu-sera-juge-pour-le-viol-de-la-comedienne-charlotte-arnould",
-        "published_at": "2026-11-26T13:49:03Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "La cour d’appel de Paris a confirmé jeudi le renvoi de Gérard Depardieu devant la justice pour viol et agression sexuelle, dans le dossier porté par la comédienne Charlotte Arnould."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-074",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "La N87 fermée dans les deux sens entre Croix-Rouge et Burgo, suite à une perte de chargement",
-        "url": "https://www.tvlux.be/actu/info/mobilite/la-n87-fermee-dans-les-deux-sens-entre-croix-rouge-et-burgo-suite-a-une-perte-de-chargement_53226",
-        "published_at": "2026-11-26T13:49:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Depuis la fin de matinée, la N87 est fermée à la circulation entre Croix-Rouge (Étalle) et Virton suite à une perte de chargement de carbonate de chaux, un transport lié à l'usine Burgo (ex Cellulose des Ardennes)."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-075",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Elk jaar lekken 22.000 olympische zwembaden aan drinkwater weg in Vlaanderen",
-        "url": "https://www.hln.be/binnenland/elk-jaar-lekken-22-000-olympische-zwembaden-aan-drinkwater-weg-in-vlaanderen~a999ffff/",
-        "published_at": "2026-11-26T13:48:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Jaarlijks rapporteren de verschillende drinkwaterbedrijven over het geproduceerde en geleverde drinkwater. Uit het rapport van 2025 blijkt jaarlijks naar schatting 54,2 miljoen kubieke meter van het geleverde drinkwater weg te lekken. Dat komt overeen met ongeveer 22.000 zwembaden. Dat stelt Vlaams Parlementslid Hans Vanhoof (N-VA) die opmerkt dat er voor het eerst sinds 2020 sprake is van een stijging van de lekverliezen. Hij vraagt strenger toezicht door de Vlaamse Milieumaatschappij."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-076",
-      "source": {
-        "source_id": "sudinfo",
-        "publisher": "Sudinfo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Budget fédéral: Bart De Wever convoque à nouveau les présidents de la majorité, Conner Rousseau sous pression!",
-        "url": "https://www.sudinfo.be/id1231492/article/2026-11-26/budget-federal-bart-de-wever-convoque-nouveau-les-presidents-de-la-majorite",
-        "published_at": "2026-11-26T13:47:49Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "Le Premier ministre Bart De Wever réunira les présidents des partis de sa majorité lundi à 14 heures pour tenter de débloquer les négociations budgétaires. La présence de Conner Rousseau, qui a posé ses conditions, reste incertaine."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-077",
+      "candidate_id": "candidate-138",
       "source": {
         "source_id": "le_soir",
         "publisher": "Le Soir",
@@ -2746,7 +4595,7 @@ Contraintes de contenu :
         "label": "Politiques publiques et société"
       },
       "radar_signals": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population",
         "changement, alerte ou échéance"
@@ -2754,268 +4603,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-078",
-      "source": {
-        "source_id": "rtbf_info",
-        "publisher": "RTBF Info",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Un journaliste du Soir démissionne après une utilisation abusive de l’IA",
-        "url": "https://www.rtbf.be/article/un-journaliste-du-soir-demissionne-apres-une-utilisation-abusive-de-l-ia-11821654",
-        "published_at": "2026-11-26T13:43:10Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie|Bruxelles",
-        "summary_from_source": "En juin 2024, Le Soir s’est doté d’une charte encadrant l’usage de l’IA au sein de sa rédaction. Elle..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-079",
-      "source": {
-        "source_id": "la_libre",
-        "publisher": "La Libre Belgique",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Crise gouvernementale: Les présidents de parti de nouveau invités par le Premier ministre lundi",
-        "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/26/crise-gouvernementale-les-presidents-de-parti-de-nouveau-invites-par-le-premier-ministre-lundi-DRK23PE5ENERXMFHCFIADOJZKY/",
-        "published_at": "2026-11-26T13:38:29Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Les présidents de parti de la majorité se retrouveront lundi autour du Premier ministre à 14h, a-t-on appris jeudi de sources concordantes...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-080",
-      "source": {
-        "source_id": "la_libre",
-        "publisher": "La Libre Belgique",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Vers un \"chaos météorologique\"? \"Nous n’avions jamais vu une perturbation si précoce\"",
-        "url": "https://www.lalibre.be/belgique/societe/2026/11/26/vers-un-chaos-meteorologique-nous-navions-jamais-vu-une-perturbation-si-precoce-QMO2OEVTGVGPPJWG5EJUZTTN3Q/",
-        "published_at": "2026-11-26T13:35:06Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Depuis début novembre, les prévisionnistes observent une perturbation au niveau du pôle Nord, inédite à cette époque de l’année et susceptible de rafraîchir la météo du nord du Vieux continent...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-081",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Des éleveurs de toute l'Europe réunis autour du Blanc Bleu Belge",
-        "url": "https://www.qu4tre.be/infos/des-eleveurs-de-toute-leurope-reunis-autour-du-blanc-bleu-belge/2017815",
-        "published_at": "2026-11-26T13:35:03Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Une délégation internationale d’éleveurs de Blanc-Bleu-Belge ont passé trois jours en visite en Belgique pour le Congrès international de Blanc Bleu Belge. Parmi les escales, la ferme Laruelle à Les Waleffes. 450 Blanc Bleu Belge composent le troupeau de Manu Laruelle. Son exploitation a accueilli une délégation d’éleveurs venus de plusieurs pays européens. Une occasion pour ces professionnels de découvrir les spécificités de l'élevage belge et d'échanger autour de leurs méthodes de travail. La visite a notamment permis d'aborder la sélection des animaux. \"Ceux qui présentent les…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-082",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "”Hors de question de pénaliser” les aidants proches: la dérogation est maintenue jusqu’à la fin 2029",
-        "url": "https://www.lavenir.net/actu/belgique/2026/11/26/hors-de-question-de-penaliser-les-aidants-proches-la-derogation-est-maintenue-jusqua-la-fin-2029-JG5DEDB3X5F55EXUCSGCPUQH3M/",
-        "published_at": "2026-11-26T13:31:11Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "La dérogation accordée aux aidants proches qui bénéficiaient d’une allocation de chômage est prolongée jusqu’à la fin 2029, annonce-t-on ce jeudi 26 novembre 2026 les Engagés...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-083",
-      "source": {
-        "source_id": "le_soir",
-        "publisher": "Le Soir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Bart De Wever invite les cinq présidents de parti ce lundi",
-        "url": "https://www.lesoir.be/785060/article/2026-11-26/bart-de-wever-invite-les-cinq-presidents-de-parti-ce-lundi",
-        "published_at": "2026-11-26T13:26:03Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Bart De Wever a convié les cinq présidents de parti à une nouvelle réunion budgétaire lundi. Reste à savoir si Vooruit, qui a posé ses conditions à la reprise des négociations, y participera."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-084",
-      "source": {
-        "source_id": "la_libre",
-        "publisher": "La Libre Belgique",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Aidants proches: la dérogation est maintenue jusqu'à la fin 2029",
-        "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/26/aidants-proches-la-derogation-est-maintenue-jusqua-la-fin-2029-EASUDLXJCNE3NNNTY4TSCPGHDQ/",
-        "published_at": "2026-11-26T13:24:30Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Le régime dérogatoire accordé aux aidants proches qui bénéficiaient d'une allocation de chômage est prolongé jusqu'à la fin 2029, ont annoncé jeudi les Engagés...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-085",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "▶ Vader dood teruggevonden onder ingestorte woning in Strépy-Bracquegnies, meisje (12) en moeder levend uit puin gehaald",
-        "url": "https://www.demorgen.be/nieuws/vader-dood-teruggevonden-onder-ingestorte-woning-in-strepy-bracquegnies-meisje-12-en-moeder-levend-uit-puin-gehaald~bfb1365f/",
-        "published_at": "2026-11-26T13:24:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-086",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "”Il ne pleuvra pas beaucoup ces 10 prochains jours”: Farid répond à votre question météo",
-        "url": "https://www.lavenir.net/quelle-meteo-chez-vous-farid-vous-repond/2026/11/26/il-ne-pleuvra-pas-beaucoup-ces-10-prochains-jours-farid-repond-a-votre-question-meteo-3GEFBG7QSBDYXMGQOFJAB2UYEU/",
-        "published_at": "2026-11-26T13:21:31Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "La question du jour est posée par Freddy, de Soignies (province de Hainaut): “Salut Farid! J’ai quelques travaux de toiture à effectuer, mais j’ai besoin de plusieurs jours de temps sec. Qu’en est-il chez nous? Merci”. Farid fait le point et donne la météo de ce vendredi 27 novembre 2026...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-087",
+      "candidate_id": "candidate-139",
       "source": {
         "source_id": "chamber",
         "publisher": "Chambre des représentants",
@@ -3026,7 +4614,7 @@ Contraintes de contenu :
         "url": "https://media.dekamer.be/meeting/56-20546-P152",
         "published_at": "2026-11-26T13:20:08Z",
         "source_published_at": null,
-        "event_at": "2026-11-26T13:20:08Z",
+        "event_at": null,
         "date_status": "",
         "first_seen_at": "2026-11-26T14:56:30.766639Z",
         "language": "fr",
@@ -3035,7 +4623,7 @@ Contraintes de contenu :
       },
       "radar_selected": true,
       "primary_source_candidate": false,
-      "agenda_candidate": true,
+      "agenda_candidate": false,
       "radar_section": {
         "id": "politics",
         "label": "Politiques publiques et société"
@@ -3044,191 +4632,13 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type travaux",
         "contenu de type agenda",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "agenda institutionnel proche"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-088",
-      "source": {
-        "source_id": "hln",
-        "publisher": "Het Laatste Nieuws",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Temu past handelspraktijken aan na Europees onderzoek: “Alle platforms moeten onze regels naleven”",
-        "url": "https://www.hln.be/binnenland/temu-past-handelspraktijken-aan-na-europees-onderzoek-alle-platforms-moeten-onze-regels-naleven~ab3ba4a5/",
-        "published_at": "2026-11-26T13:17:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Het Chinese webwinkelplatform Temu past zijn handelspraktijken aan om beter te voldoen aan de Europese consumentenwetgeving. Dat melden de Europese Commissie en de FOD Economie, die meewerkte aan het onderzoek."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "agenda institutionnel proche"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-089",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Bernard Belvaux, l’ancien patron d’Alstom Benelux, sera le futur patron de la STIB",
-        "url": "https://www.lavenir.net/regions/bruxelles/2026/11/26/bernard-belvaux-lancien-patron-dalstom-benelux-sera-le-futur-patron-de-la-stib-634TDOQQXRCGZMVFI77QY4BHPA/",
-        "published_at": "2026-11-26T13:15:03Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Seul candidat jugé apte par le jury de sélection, Bernard Belvaux, l’ancien patron d’Alstom Benelux, devrait devenir le prochain CEO de la STIB, apprend La Libre. Le gouvernement bruxellois doit encore entériner sa désignation jeudi prochain...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-090",
-      "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Bpost verliert erstmals mehr als die Hälfte seines Marktanteils",
-        "url": "https://brf.be/national/2129003/",
-        "published_at": "2026-11-26T13:13:19Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "Bpost hat im vergangenen Jahr erstmals weniger als 50 Prozent Marktanteil am belgischen Postmarkt erreicht. Hauptgrund für den Rückgang ist das schrumpfende Briefgeschäft. Seit 2020 verliert Bpost kontinuierlich Marktanteile. Damals lag der Anteil noch bei mehr als 70 Prozent. Dennoch bleibt das Unternehmen mit deutlichem Abstand Marktführer. Auf Platz zwei folgt UPS. Dahinter liegen DPD, […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-091",
-      "source": {
-        "source_id": "le_soir",
-        "publisher": "Le Soir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Une personne décède dans une collision entre un train et une voiture en Flandre",
-        "url": "https://www.lesoir.be/785057/article/2026-11-26/une-personne-decede-dans-une-collision-entre-un-train-et-une-voiture-en-flandre",
-        "published_at": "2026-11-26T13:12:44Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "A Kortemark, en Flandre-Occidentale, un train a percuté une voiture à un passage à niveau. Le conducteur du véhicule est décédé et l’enquête doit encore déterminer les circonstances de l’accident."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-092",
-      "source": {
-        "source_id": "brf_news",
-        "publisher": "BRF Nachrichten",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Volvo testet humanoide Roboter im Werk in Gent",
-        "url": "https://brf.be/national/2129001/",
-        "published_at": "2026-11-26T13:03:36Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "de",
-        "geography": "Communauté germanophone",
-        "summary_from_source": "Im Volvo-Werk in Gent hat der Automobilhersteller mit dem Training und der Erprobung humanoider Roboter begonnen. Ab Mitte 2027 sollen die Maschinen vor allem repetitive und körperlich anstrengende Arbeiten übernehmen. Das Werk in Gent ist der erste Volvo-Standort, an dem diese Technologie getestet wird. Anders als herkömmliche Industrieroboter können sich die humanoiden Maschinen selbstständig durch […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-093",
-      "source": {
-        "source_id": "la_libre",
-        "publisher": "La Libre Belgique",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Collision entre un train et une voiture en Flandre: le conducteur du véhicule est décédé",
-        "url": "https://www.lalibre.be/belgique/mobilite/2026/11/26/collision-entre-un-train-et-une-voiture-en-flandre-le-conducteur-du-vehicule-est-decede-CJ47VOJCFVFARJCGVARL34XYUI/",
-        "published_at": "2026-11-26T12:56:49Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "L’incident a eu lieu à Kortemark en Flandre occidentale...."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-094",
+      "candidate_id": "candidate-140",
       "source": {
         "source_id": "rtbf_info",
         "publisher": "RTBF Info",
@@ -3254,72 +4664,14 @@ Contraintes de contenu :
         "label": "Justice, droits et contrôle"
       },
       "radar_signals": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "contrôle, droits ou responsabilité publique"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-095",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Vivalia: vers une diminution du somnifère Benzodiazepine dans les maisons de repos",
-        "url": "https://www.tvlux.be/actu/info/sante/vivalia-vers-une-diminution-du-somnifere-benzodiazepine-dans-les-maisons-de-repos_53224",
-        "published_at": "2026-11-26T12:41:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Le Benzodiazepine est un somnifère largement prescrit auprès des seniors. Dans les maisons de repos, on estime à près de 50% les patients qui y ont recours pour s'endormir. Or, le médicament n'est pas sans danger. Raison pour laquelle Vivalia lance un programme de diminution voire de suppression..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-096",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "1929 foyers luxembourgeois concernés par une augmentation de débit",
-        "url": "https://www.tvlux.be/actu/info/economie/1929-foyers-luxembourgeois-concernes-par-une-augmentation-de-debit_53225",
-        "published_at": "2026-11-26T12:36:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Bastogne, Gouvy, Léglise, Nassogne, Neufchâteau, voilà les cinq communes luxembourgeoises où des zones à faible débit bénéficieront, grâce à des subventions publiques aux investissements, d'améliorations notoires de la bande passante de leur connexions Internet."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-097",
+      "candidate_id": "candidate-141",
       "source": {
         "source_id": "ecb",
         "publisher": "Banque centrale européenne",
@@ -3348,220 +4700,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-098",
-      "source": {
-        "source_id": "le_soir",
-        "publisher": "Le Soir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Explosion à Strépy-Bracquegnies: le père de famille retrouvé mort sous les décombres",
-        "url": "https://www.lesoir.be/785051/article/2026-11-26/explosion-strepy-bracquegnies-le-pere-de-famille-retrouve-mort-sous-les",
-        "published_at": "2026-11-26T12:21:08Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "A Strépy-Bracquegnies, une femme, sa fille de 12 ans et le père de famille ont été touchés par l’explosion d’une maison jeudi vers 3 h 30. Le décès du père a été confirmé en début d’après-midi."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-099",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Temu belooft handelspraktijken aan te passen na Europees onderzoek",
-        "url": "https://vrtnws.be/p.APQj965oE",
-        "published_at": "2026-11-26T12:16:45Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "Het Chinese webwinkelplatform Temu belooft zijn handelspraktijken aan te passen aan de Europese wetgeving. Dat melden de Europese Commissie en de FOD Economie, die het onderzoek mee voerde."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "chiffres, étude ou évaluation",
-        "agenda institutionnel proche"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-100",
-      "source": {
-        "source_id": "de_morgen",
-        "publisher": "De Morgen",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Mensenrechtenorganisatie trekt naar Raad van State tegen hervorming steun voor mensen met handicap: ‘We staan op een tikkende tijdbom’",
-        "url": "https://www.demorgen.be/nieuws/mensenrechtenorganisatie-trekt-naar-raad-van-state-tegen-hervorming-steun-voor-mensen-met-handicap-we-staan-op-een-tikkende-tijdbom~b8638f9a/",
-        "published_at": "2026-11-26T12:09:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": ""
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-101",
-      "source": {
-        "source_id": "bruzz",
-        "publisher": "BRUZZ",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "De BRUZZ cultuurtips: Brusselse mode, beatbox en vrouwelijke filmmakers",
-        "url": "https://www.bruzz.be/actua/cultuurnieuws/de-bruzz-cultuurtips-brusselse-mode-beatbox-en-vrouwelijke-filmmakers-2026-11-26",
-        "published_at": "2026-11-26T12:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl|fr|en",
-        "geography": "Bruxelles",
-        "summary_from_source": "BRUZZ serveert het beste uit het culturele aanbod in Brussel. Deze week: Brusselse modedagen, de beste beatboxers in De Vaartkapoen en de 26e editie van Cinemamed in teken van vrouwelijke filmmakers."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-102",
-      "source": {
-        "source_id": "bruzz",
-        "publisher": "BRUZZ",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Brusselaars zijn het meest digitaal vaardig",
-        "url": "https://www.bruzz.be/actua/samenleving/brusselaars-zijn-het-meest-digitaal-vaardig-2026-11-26",
-        "published_at": "2026-11-26T11:42:28Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl|fr|en",
-        "geography": "Bruxelles",
-        "summary_from_source": "Zowat zes op de tien Belgen heeft in 2026 minstens een basisniveau van digitale vaardigheden, goed voor een stijging met 7 procentpunt in vergelijking met vijf jaar geleden. Brussel scoort het best."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-103",
-      "source": {
-        "source_id": "bruzz",
-        "publisher": "BRUZZ",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Trut Magazine kiest voor humor en zelfrelativering in nieuwe editie 'Sorry'",
-        "url": "https://www.bruzz.be/actua/samenleving/trut-magazine-kiest-voor-humor-en-zelfrelativering-nieuwe-editie-sorry-2026-11-26",
-        "published_at": "2026-11-26T11:35:39Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl|fr|en",
-        "geography": "Bruxelles",
-        "summary_from_source": "“We willen vooral fun terugbrengen. Mensen hebben nood aan een beetje afleiding”, vertellen redacteurs Mila Van Hende, Louise Hinnekint en Nathan Forger Brems."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-104",
-      "source": {
-        "source_id": "la_libre",
-        "publisher": "La Libre Belgique",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Sophie, 5 ans, née en Belgique et menacée d’expulsion vers la Russie avec sa famille: \"C’est ici qu’elle a appris à compter, à lire, à écrire\"",
-        "url": "https://www.lalibre.be/belgique/enseignement/2026/11/26/une-ecole-namuroise-se-mobilise-pour-sophie-5-ans-nee-en-belgique-et-menacee-dexpulsion-vers-la-russie-avec-sa-famille-ZERJVTRP2FDE7MF2S7R2IVRIAA/",
-        "published_at": "2026-11-26T11:06:37Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Alors qu’elle est née et a toujours vécu en Belgique, la fillette pourrait bien être obligée de retourner en Russie avec sa famille. Une décision qui suscite de l’incompréhension dans son école...."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "décision ou réforme publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-105",
+      "candidate_id": "candidate-142",
       "source": {
         "source_id": "mr_party",
         "publisher": "Mouvement Réformateur",
@@ -3579,40 +4718,6 @@ Contraintes de contenu :
         "geography": "Belgique",
         "summary_from_source": "Devant quelque 200 entrepreneurs du Voka Flandre orientale réunis à la Handelsbeurs de Gand, le président du MR, Georges-Louis Bouchez, a dressé un constat sans fard de la situation de la Belgique et..."
       },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-106",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "A Bertrix, ces stagiaires puisent dans leurs histoires personnelles pour s'initier à la scène",
-        "url": "https://www.tvlux.be/actu/culture/a-bertrix-ces-stagiaires-puisent-dans-leurs-histoires-personnelles-pour-s-initier-a-la-scene_53220",
-        "published_at": "2026-11-26T11:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Une dizaine de stagiaires se sont initiés à la scène, durant deux jours au centre culturel de Bertrix. Conduits par le comédien et metteur en scène Fabrice Schilacci, les participants ont puisé dans leurs histoires personnelles pour échanger leurs premières répliques."
-      },
       "radar_selected": false,
       "primary_source_candidate": false,
       "agenda_candidate": false,
@@ -3624,7 +4729,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-107",
+      "candidate_id": "candidate-143",
       "source": {
         "source_id": "fps_economy",
         "publisher": "SPF Économie",
@@ -3653,13 +4758,13 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type analyses",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "agenda institutionnel proche"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-108",
+      "candidate_id": "candidate-144",
       "source": {
         "source_id": "eu_commission",
         "publisher": "Commission européenne",
@@ -3688,36 +4793,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-109",
-      "source": {
-        "source_id": "tv_lux",
-        "publisher": "TV Lux",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Une \"mammobile\" en province de Luxembourg pour la fin 2027",
-        "url": "https://www.tvlux.be/actu/info/sante/une-mammobile-en-province-de-luxembourg-pour-la-fin-2027_53223",
-        "published_at": "2026-11-26T10:42:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Une femme sur huit sera atteinte par un cancer du sein en Belgique. Face à ce chiffre glaçant, la province de Luxembourg va s'équiper d'une unité mobile de détection, une \"Mammobile\", qui doit être opérationnelle au premier janvier 2028."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-110",
+      "candidate_id": "candidate-145",
       "source": {
         "source_id": "eu_commission",
         "publisher": "Commission européenne",
@@ -3735,23 +4811,18 @@ Contraintes de contenu :
         "geography": "Union européenne",
         "summary_from_source": "European Commission Press release Brussels, 26 Nov 2026 Following a coordinated action by the European Commission and the Consumer Protection Cooperation (CPC) Network, the online marketplace Temu has committed to bring several of its commercial practices in line with EU consumer protection laws. The CPC Network accepted Temu's commitments today."
       },
-      "radar_selected": true,
+      "radar_selected": false,
       "primary_source_candidate": true,
       "agenda_candidate": false,
       "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
+        "id": "",
+        "label": ""
       },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
-        "agenda institutionnel proche"
-      ],
+      "radar_signals": [],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-111",
+      "candidate_id": "candidate-146",
       "source": {
         "source_id": "eu_commission",
         "publisher": "Commission européenne",
@@ -3780,40 +4851,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-112",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Le prix du mazout de chauffage repart légèrement à la hausse ce vendredi en Belgique",
-        "url": "https://www.lavenir.net/actu/conso/2026/11/26/le-prix-du-mazout-de-chauffage-repart-legerement-a-la-hausse-ce-vendredi-en-belgique-RYH6M5KXDNHINGHPJKEFW33FG4/",
-        "published_at": "2026-11-26T10:15:57Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Du changement est annoncé dans le prix maximum de certains produits pétroliers, dont le gasoil de chauffage, ce vendredi 27 novembre 2026...."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 6 heures",
-        "impact concret pour la population",
-        "changement, alerte ou échéance"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-113",
+      "candidate_id": "candidate-147",
       "source": {
         "source_id": "federal_press",
         "publisher": "Presscenter fédéral",
@@ -3842,7 +4880,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-114",
+      "candidate_id": "candidate-148",
       "source": {
         "source_id": "federal_press",
         "publisher": "Presscenter fédéral",
@@ -3870,42 +4908,13 @@ Contraintes de contenu :
       "radar_signals": [
         "producteur institutionnel ou collectif identifié",
         "contenu de type communiqués",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-115",
-      "source": {
-        "source_id": "bruzz",
-        "publisher": "BRUZZ",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Protest tegen sluiting van twee Franstalige kleuterscholen in de Marollen",
-        "url": "https://www.bruzz.be/actua/onderwijs/protest-tegen-sluiting-van-twee-franstalige-kleuterscholen-de-marollen-2026-11-26",
-        "published_at": "2026-11-26T09:59:40Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl|fr|en",
-        "geography": "Bruxelles",
-        "summary_from_source": "Omdat het aantal leerlingen daalt, wil Brussel-Stad kleuterschool De Marolle fuseren met basisschool Baron Steens en de leerlingen daar onderbrengen."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-116",
+      "candidate_id": "candidate-149",
       "source": {
         "source_id": "cwape",
         "publisher": "Commission wallonne pour l'Énergie",
@@ -3934,42 +4943,13 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-117",
-      "source": {
-        "source_id": "bruzz",
-        "publisher": "BRUZZ",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Waterlek Lambermontlaan: omleiding moet verkeershinder beperken",
-        "url": "https://www.bruzz.be/actua/mobiliteit/waterlek-lambermontlaan-omleiding-moet-verkeershinder-beperken-2026-11-26",
-        "published_at": "2026-11-26T09:48:16Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl|fr|en",
-        "geography": "Bruxelles",
-        "summary_from_source": "Het grote waterlek dat vorige week een wegverzakking op de Lambermontlaan in Schaarbeek heeft veroorzaakt, zorgt voor heel wat verkeershinder. Er wordt nu een alternatieve route voorzien."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-118",
+      "candidate_id": "candidate-150",
       "source": {
         "source_id": "cwape",
         "publisher": "Commission wallonne pour l'Énergie",
@@ -3998,42 +4978,13 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "changement, alerte ou échéance"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-119",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Dodelijk slachtoffer gevonden na ontploffing in appartementsgebouw Merksem",
-        "url": "https://www.standaard.be/binnenland/dodelijk-slachtoffer-gevonden-na-ontploffing-in-appartementsgebouw-merksem/165126732.html",
-        "published_at": "2026-11-26T09:23:11Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "In een appartementsgebouw in Merksem heeft donderdagochtend een zware ontploffing plaatsgevonden. Daarbij is één persoon om het leven gekomen. De brand is intussen onder controle."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-120",
+      "candidate_id": "candidate-151",
       "source": {
         "source_id": "bruzz",
         "publisher": "BRUZZ",
@@ -4059,14 +5010,14 @@ Contraintes de contenu :
         "label": "Politiques publiques et société"
       },
       "radar_signals": [
-        "publié depuis moins de 6 heures",
+        "publié depuis moins de 36 heures",
         "impact concret pour la population",
         "chiffres, étude ou évaluation"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-121",
+      "candidate_id": "candidate-152",
       "source": {
         "source_id": "medor",
         "publisher": "Médor",
@@ -4095,7 +5046,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-122",
+      "candidate_id": "candidate-153",
       "source": {
         "source_id": "cwape",
         "publisher": "Commission wallonne pour l'Énergie",
@@ -4124,80 +5075,14 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type décisions",
         "contenu de type avis",
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-123",
-      "source": {
-        "source_id": "lavenir",
-        "publisher": "L'Avenir",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Crise gouvernementale sur le budget: la réforme de l’indexation ferait perdre un à deux mois de salaire en 10 ans",
-        "url": "https://www.lavenir.net/actu/belgique/2026/11/26/crise-gouvernementale-sur-le-budget-la-reforme-de-lindexation-ferait-perdre-un-a-deux-mois-de-salaire-en-10-ans-SXRBOKAN7FAO7BH45PAX7H7XBI/",
-        "published_at": "2026-11-26T08:16:30Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Alors que 2 changements se trouvent sur la table des négociations budgétaires du gouvernement à ce sujet, on indique que la réforme de l’indexation ferait perdre à un citoyen concerné entre un et deux mois de revenus en dix ans, selon des estimations publiées ce jeudi 26 novembre 2026...."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "publié depuis moins de 12 heures",
-        "décision ou réforme publique",
-        "impact concret pour la population"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-124",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Omwonenden in en rond Leuven winnen juridische strijd over vliegroute na meer dan 10 jaar",
-        "url": "https://vrtnws.be/p.11pNx5wQp",
-        "published_at": "2026-11-26T07:25:11Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "Het hof van beroep van Brussel heeft nu ook de vliegroute Leuven Rechtdoor vernietigd. Dat is een route voor vluchten die opstijgen vanaf de banen 07L en 07R op Brussels Airport en boven regio Leuven gaan. De Belgische Staat heeft tot 15 april om een andere vliegroute uit te werken."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "justice",
-        "label": "Justice, droits et contrôle"
-      },
-      "radar_signals": [
-        "publié depuis moins de 12 heures",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-125",
+      "candidate_id": "candidate-154",
       "source": {
         "source_id": "la_libre",
         "publisher": "La Libre Belgique",
@@ -4223,14 +5108,14 @@ Contraintes de contenu :
         "label": "Politiques publiques et société"
       },
       "radar_signals": [
-        "publié depuis moins de 12 heures",
+        "publié depuis moins de 36 heures",
         "décision ou réforme publique",
         "impact concret pour la population"
       ],
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-126",
+      "candidate_id": "candidate-155",
       "source": {
         "source_id": "apache",
         "publisher": "Apache",
@@ -4259,7 +5144,7 @@ Contraintes de contenu :
       "lexically_related_sources": []
     },
     {
-      "candidate_id": "candidate-127",
+      "candidate_id": "candidate-156",
       "source": {
         "source_id": "ibsa",
         "publisher": "Institut Bruxellois de Statistique et d'Analyse",
@@ -4288,1096 +5173,8 @@ Contraintes de contenu :
         "producteur institutionnel ou collectif identifié",
         "contenu de type statistiques",
         "contenu de type publications",
-        "publié depuis moins de 12 heures"
+        "publié depuis moins de 36 heures"
       ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-128",
-      "source": {
-        "source_id": "fps_finance",
-        "publisher": "SPF Finances",
-        "source_class": "public_body",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Autorisations Produits énergétiques et électricité – la procédure électronique est reportée à une date ultérieure",
-        "url": "https://finances.belgium.be/fr/Actualites/autorisations-produits-energetiques-et-electricite-la-procedure-electronique-est",
-        "published_at": "2026-11-26T00:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "La procédure électronique permettant de demander, modifier ou révoquer vos autorisations 'Produits énergétiques et électricité' dans KIS-SIC 3.0, initialement prévue à partir du 01-12-2026, doit être reportée. Un problème technique ne permet pas de garantir le fonctionnement optimal de l’application. La nouvelle date de mise en œuvre de cette procédure électronique vous sera communiquée dans les meilleurs délais. Jusqu’à cette date, vous demandez, modifiez et révoquez donc vos autorisations 'Produits énergétiques et électricité' suivant la procédure 'papier' actuelle."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-129",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Crèche in Jette sluit van ene op andere dag door gebrek aan personeel: “Zoiets kun je toch niet maken?”",
-        "url": "https://www.standaard.be/binnenland/creche-in-jette-sluit-van-ene-op-andere-dag-door-gebrek-aan-personeel-zoiets-kun-je-toch-niet-maken/165102179.html",
-        "published_at": "2026-11-25T22:59:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Wegens personeelstekort moet crèche Windekind in Jette plots dicht. “Ik heb geen idee waar mijn kind volgende week terechtkan.”"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-130",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Is De Lijn-topvrouw Ann Schoubs op weg naar de uitgang? “Ze is te kritisch geweest”",
-        "url": "https://www.standaard.be/binnenland/is-de-lijn-topvrouw-ann-schoubs-op-weg-naar-de-uitgang-ze-is-te-kritisch-geweest/165081717.html",
-        "published_at": "2026-11-25T22:59:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De Vlaamse regering is niet van plan om het mandaat van Ann Schoubs te verlengen, meldde de topvrouw van De Lijn zelf aan de raad van bestuur. Nochtans werd de officiële evaluatieprocedure nog maar recent opgestart."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-131",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Vogels met een microfoontje betrappen stiekeme schepen: “In internationale wateren die je als de Far West kunt beschouwen, kan dit van pas komen”",
-        "url": "https://www.standaard.be/natuur-en-wetenschap/vogels-met-een-microfoontje-betrappen-stiekeme-schepen-in-internationale-wateren-die-je-als-de-far-west-kunt-beschouwen-kan-dit-van-pas-komen/165032964.html",
-        "published_at": "2026-11-25T22:59:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Er is een nieuwe manier om schepen te betrappen die onder de radar opereren. Wetenschappers hebben zeevogels uitgerust met een opnametoestelletje en konden zo het geluid vastleggen van vaartuigen die hun positie verborgen hielden. Ook Belgische."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-132",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Genkse school geeft alleen nog op afstand les na escalerende ruzies onder leerlingen: “Gedragsproblemen maken het normale verloop van de lessen onmogelijk”",
-        "url": "https://www.standaard.be/binnenland/genkse-school-geeft-alleen-nog-op-afstand-les-na-escalerende-ruzies-onder-leerlingen-gedragsproblemen-maken-het-normale-verloop-van-de-lessen-onmogelijk/165094249.html",
-        "published_at": "2026-11-25T19:05:50Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "De middelbare school Don Bosco in Genk sluit de rest van de week haar deuren en schakelt over op afstandsonderwijs. Escalerende ruzies tussen leerlingen brachten het tot dat kookpunt."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-133",
-      "source": {
-        "source_id": "eu_commission",
-        "publisher": "Commission européenne",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "Statement by President von der Leyen with President Costa following the EU-Western Balkans Summit",
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2591",
-        "published_at": "2026-11-25T18:05:05Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": "European Commission Statement Brussels, 25 Nov 2026 Good evening, I am convinced that enlargement is a strategic imperative for Europe. Today, the momentum is real. If you look at all the negotiations we have had..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-134",
-      "source": {
-        "source_id": "de_standaard",
-        "publisher": "De Standaard",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Zes keer meer geld voor aanpak erectiestoornissen dan voor endometriose: “Er wordt zo weinig geïnvesteerd omdat we zo weinig weten”",
-        "url": "https://www.standaard.be/binnenland/zes-keer-meer-geld-voor-aanpak-erectiestoornissen-dan-voor-endometriose-er-wordt-zo-weinig-genvesteerd-omdat-we-zo-weinig-weten/163800612.html",
-        "published_at": "2026-11-25T18:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Amper 6 procent van de wereldwijde investeringen in gezondheidszorg vloeit naar specifiek vrouwelijke aandoeningen als endometriose of PMOS. “De markt investeert waar ze het hoogste rendement verwacht, niet noodzakelijk waar de grootste maatschappelijke winst valt te halen.”"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-135",
-      "source": {
-        "source_id": "ecb",
-        "publisher": "Banque centrale européenne",
-        "source_class": "regulator",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-        "published_at": "2026-11-25T17:30:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-136",
-      "source": {
-        "source_id": "federal_press",
-        "publisher": "Presscenter fédéral",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "La Régie des Bâtiments a rénové l’installation de chauffage du Palais de Justice de Bruges",
-        "url": "https://news.belgium.be/fr/la-regie-des-batiments-renove-linstallation-de-chauffage-du-palais-de-justice-de-bruges",
-        "published_at": "2026-11-25T16:39:21Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "La Régie des Bâtiments a procédé à la rénovation de l’installation de chauffage du Palais de Justice de Bruges."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-137",
-      "source": {
-        "source_id": "groen_party",
-        "publisher": "Groen",
-        "source_class": "political_party",
-        "source_role": "political_actor",
-        "access_model": "",
-        "title": "Sociaal akkoord Defensie: \"Voor wapens is de sky the limit, voor militairen wordt de apothekersweegschaal bovengehaald\"",
-        "url": "http://www.groen.be/geen_sociaal_akkoord_defensie",
-        "published_at": "2026-11-25T16:21:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Staf Aerts: \"Minister Francken zegt letterlijk dat voor onze militairen alleen de beste wapens goed genoeg zijn. Het is pijnlijk dat het beste sociaal statuut voor diezelfde minister dan niet goed genoeg is.\""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-138",
-      "source": {
-        "source_id": "eu_commission",
-        "publisher": "Commission européenne",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "Speech by Commissioner Lahbib at the European Parliament on Combating Gender-Based Violence in the Age of Digital Technology",
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2590",
-        "published_at": "2026-11-25T16:18:22Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": "European Commission Speech Strasbourg, 25 Nov 2026 Digital technologies are transforming every part of our lives. They are changing how we work, communicate and participate in public life. But while this digital..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-139",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "KANAL-Centre Pompidou: le savoir-faire liégeois derrière la transformation du musée bruxellois",
-        "url": "https://www.qu4tre.be/infos/patrimoine/kanal-centre-pompidou-le-savoir-faire-liegeois-derriere-la-transformation-du-musee-bruxellois/2017813",
-        "published_at": "2026-11-25T16:04:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Le musée KANAL-Centre Pompidou ouvrira ses portes ce samedi 28 novembre à Bruxelles, dans les anciens garages Citroën. Derrière cette transformation, le bureau d'études liégeois Greisch, qui travaille sur le projet depuis 2018. 75 000 heures de travail, jusqu'à 50 collaborateurs mobilisés et huit années d'études et de travaux. Voilà ce qu'a représenté la transformation de cet ancien garage automobile pour le bureau d'études Greisch. Chargés des études de stabilité et des techniques spéciales, ses ingénieurs ont dû adapter ce bâtiment des années 1930 à sa nouvelle fonction, tout en préservant…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-140",
-      "source": {
-        "source_id": "eu_commission",
-        "publisher": "Commission européenne",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "Opening remarks by Executive Vice-President Ribera on an antitrust decision in the consumer fragrances sector and on the prolongation of the State aid framework to support sectors affected by Middle East crisis",
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2589",
-        "published_at": "2026-11-25T15:42:36Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-26T14:56:30.766639Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": "European Commission Speech Brussels, 25 Nov 2026 Thank you. Thank you so much. Allow me to start with a short message of support, but also a message of encouragement, to all women and girls who have suffered,..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-141",
-      "source": {
-        "source_id": "defence",
-        "publisher": "Défense belge",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Sur le flanc est, la défense aérienne prend une autre dimension",
-        "url": "https://www.mil.be/fr/news/sur-le-flanc-est-la-defense-aerienne-prend-une-autre-dimension/",
-        "published_at": null,
-        "source_published_at": "2026-11-25T21:34:30Z",
-        "event_at": null,
-        "date_status": "future_source_date_replaced_by_first_seen",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique|international",
-        "summary_from_source": "Depuis la Lituanie, des F-16 belges surveillent l’espace aérien de l’OTAN. Leur engagement dans le cadre de l’opération Enhanced Air Defence montre comment la présence, un entraînement poussé et la coopération entre alliés contribuent à une dissuasion crédible."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-142",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "53,62 kg de cannabis dans un colis en transit à Liège Airport",
-        "url": "https://www.qu4tre.be/infos/faits-divers/5362-kg-de-cannabis-dans-un-colis-en-transit-a-liege-airport/2017812",
-        "published_at": "2026-11-25T15:21:37Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Le 6 août 2026, une quantité de 53,62 kg d’herbe de cannabis a été découverte dans les installations de FedEx à Bierset. L'expédition, en provenance des États-Unis et à destination des Pays-Bas, dissimulait la marchandise stupéfiante sous couvert de marchandises licites. Les autorités ont procédé à la saisie de 90 sachets de cannabis, pour un poids total de 53,62 kg. Le stratagème utilisé reposait sur la technique dite de la marchandise de couverture, consistant à camoufler des produits illicites au sein d’un envoi apparemment ordinaire. L’information judiciaire se poursuit afin de…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-143",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Le crâne de l’enfant d’Engis, future « Joconde » du Préhistomuseum",
-        "url": "https://www.qu4tre.be/infos/patrimoine/le-crane-de-lenfant-dengis-future-joconde-du-prehistomuseum/2017811",
-        "published_at": "2026-11-25T15:17:38Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Le crâne néandertalien de l’enfant d’Engis va être restauré grâce aux 150 000 euros remportés à la Tombola du patrimoine 2026. Le Préhistomuseum de Ramioul espère exposer l’original d’ici deux ans. Le public peut déjà voir une reproduction du crâne de l’enfant d’Engis au Préhistomuseum de Ramioul. L’original, lui, est conservé dans un coffre-fort du département de paléontologie de l’Université de Liège. Le musée souhaite en faire la pièce maîtresse de ses collections. « Le but est que le crâne rejoigne nos collections et soit un peu notre Joconde. Ce sera la pièce la plus importante de nos…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-144",
-      "source": {
-        "source_id": "chamber",
-        "publisher": "Chambre des représentants",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Intérieur - Questions orales",
-        "url": "https://media.dekamer.be/meeting/56-20530-U2250",
-        "published_at": "2026-11-25T14:55:53Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-24T15:41:02.601701Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Forum F2A Yourcenar · BINNENLANDSE ZAKEN COMM · STARTED"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-145",
-      "source": {
-        "source_id": "groen_party",
-        "publisher": "Groen",
-        "source_class": "political_party",
-        "source_role": "political_actor",
-        "access_model": "",
-        "title": "Rechtse partijen zetten de deur open voor datacenters in natuurgebieden",
-        "url": "http://www.groen.be/datacenters_in_natuurgebied",
-        "published_at": "2026-11-25T14:28:51Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "\"Als het van rechts afhangt, hoor je straks het gezoem van datacenters op de plekken waar vandaag nog vogels zingen.\""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-146",
-      "source": {
-        "source_id": "qu4tre",
-        "publisher": "Qu4tre",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Un titre de sportif de l'année pour une ou un Liégeois?",
-        "url": "https://www.qu4tre.be/sports/un-titre-de-sportif-de-lannee-pour-une-ou-un-liegeois/2017809",
-        "published_at": "2026-11-25T14:20:07Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Les nominés pour la remise des prix de Sportifs de l'année 2026 sont connus. Parmi eux, quelques champions de notre région Le titre de Sportif de l'année décerné par Sportpress.be, récompense chaque année les meilleurs sportifs belges, en individuel comme en équipe, selon les votes des journalistes sportifs professionnels. Pour l'édition 2026 dont le gala se déroulera en décembre prochain, quelques champions liégeois sont repris dans les listes de candidats diffusées ce mercredi 25 novembr Pour le titre de sportif masculin de l'année, et donc pour espérer succéder à Remco Evenepoel sacré…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-147",
-      "source": {
-        "source_id": "chamber",
-        "publisher": "Chambre des représentants",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Intérieur - Projets de loi n°s 1897 & 1872",
-        "url": "https://media.dekamer.be/meeting/56-20529-U2249",
-        "published_at": "2026-11-25T14:03:10Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-24T15:41:02.601701Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Forum F2A Yourcenar · BINNENLANDSE ZAKEN COMM · FINISHED"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-148",
-      "source": {
-        "source_id": "eu_commission",
-        "publisher": "Commission européenne",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "Remarks by Executive Vice-President Virkkunen on the Quantum Act",
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2588",
-        "published_at": "2026-11-25T13:42:34Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": "European Commission Speech Strasbourg, 25 Nov 2026 Good morning, ladies and gentlemen and welcome to this press point. I am here to present the Quantum Act just adopted by the college. Quantum is more than the n..."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-149",
-      "source": {
-        "source_id": "chamber",
-        "publisher": "Chambre des représentants",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Justice - Questions orales",
-        "url": "https://media.dekamer.be/meeting/56-20528-U2248",
-        "published_at": "2026-11-25T13:41:26Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-24T15:41:02.601701Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Forum F2B Popelin · JUSTITIE-JUSTICE COMM · FINISHED"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-150",
-      "source": {
-        "source_id": "lecho",
-        "publisher": "L'Echo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "L'utilisation de l'IA par le nouveau service d'enquête du fisc critiquée à la Chambre",
-        "url": "https://www.lecho.be/r/t/1/id/10706920",
-        "published_at": "2026-11-25T13:40:09Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "L'étude du projet de loi créant la Direction d'investigations fiscales a débuté en commission des Finances. Le député MR Mathieu Michel s'inquiète et demande à ne pas avoir recours à l'IA pour la recherche de fraude."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "justice",
-        "label": "Justice, droits et contrôle"
-      },
-      "radar_signals": [
-        "publié depuis moins de 36 heures",
-        "chiffres, étude ou évaluation",
-        "contrôle, droits ou responsabilité publique",
-        "changement, alerte ou échéance",
-        "agenda institutionnel proche"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-151",
-      "source": {
-        "source_id": "lecho",
-        "publisher": "L'Echo",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Deux recours déposés à la Cour constitutionnelle contre la réforme des pensions",
-        "url": "https://www.lecho.be/r/t/1/id/10706924",
-        "published_at": "2026-11-25T13:28:12Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Le PTB dépose jeudi un recours en annulation contre la réforme des pensions avec 26.000 requérants. La Coalition Pension annonce aussi un recours, jugeant la réforme discriminatoire, rétroactive et contraire au standstill."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "impact concret pour la population",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-152",
-      "source": {
-        "source_id": "chamber",
-        "publisher": "Chambre des représentants",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Energie, Environnement et Climat - Questions orales",
-        "url": "https://media.dekamer.be/meeting/56-20521-U2241",
-        "published_at": "2026-11-25T12:59:36Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-24T15:41:02.601701Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Plénière - Plenaire · ENERGIE, LEEFMILIEU EN KLIMAAT COMM · FINISHED"
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type travaux",
-        "contenu de type agenda",
-        "publié depuis moins de 36 heures",
-        "agenda institutionnel proche"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-153",
-      "source": {
-        "source_id": "groen_party",
-        "publisher": "Groen",
-        "source_class": "political_party",
-        "source_role": "political_actor",
-        "access_model": "",
-        "title": "Parlement wil geen Europese schepen dumpen op Indiase stranden",
-        "url": "http://www.groen.be/europese_schepen",
-        "published_at": "2026-11-25T12:25:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "\"Wie onze schepen naar Indiase stranden stuurt, exporteert vervuiling en importeert werkloosheid in onze Europese recyclagesector.\""
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type communiqués",
-        "publié depuis moins de 36 heures",
-        "impact concret pour la population"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-154",
-      "source": {
-        "source_id": "vrt_nws",
-        "publisher": "VRT NWS",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "open",
-        "title": "Aalst keurt plan goed voor bouw van bijna 1.000 sociale woningen: \"Al is timing niet realistisch\"",
-        "url": "https://vrtnws.be/p.nwv0AAJBR",
-        "published_at": "2026-11-25T10:34:26Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "nl",
-        "geography": "Flandre|Bruxelles",
-        "summary_from_source": "De stad Aalst en woonmaatschappij Dender-Zuid hebben de plannen voor de bouw van 976 sociale woningen goedgekeurd. Dat is een verplichting van Vlaanderen, Aalst krijgt 15 jaar om de woningen te realiseren. Het stadsbestuur ging in beroep tegen die beslissing, maar probeert de plannen alsnog uit te voeren."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "justice",
-        "label": "Justice, droits et contrôle"
-      },
-      "radar_signals": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-155",
-      "source": {
-        "source_id": "ecb",
-        "publisher": "Banque centrale européenne",
-        "source_class": "regulator",
-        "source_role": "official_public",
-        "access_model": "open",
-        "title": "Card payments edge past cash in shops; euro area consumers want both",
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-        "published_at": "2026-11-25T10:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "en",
-        "geography": "Union européenne",
-        "summary_from_source": ""
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-156",
-      "source": {
-        "source_id": "federal_press",
-        "publisher": "Presscenter fédéral",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Hack the Government 2026: un record de participation pour la troisième édition",
-        "url": "https://news.belgium.be/fr/hack-government-2026-un-record-de-participation-pour-la-troisieme-edition",
-        "published_at": "2026-11-25T09:01:33Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Le Centre pour la Cybersécurité Belgique (CCB) organise aujourd’hui l’événement de clôture de Hack the Government (HTG) 2026. Cette initiative invite des hackers éthiques sélectionnés à tester des systèmes d’institutions publiques belges dans des conditions légalement contrôlées. L’objectif est de détecter et de signaler les vulnérabilités avant que des acteurs malveillants ne les trouvent."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-157",
-      "source": {
-        "source_id": "chamber",
-        "publisher": "Chambre des représentants",
-        "source_class": "parliament",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Défense nationale - Audition: syndicats militaires sur \"l'Accord social Défense\"",
-        "url": "https://media.dekamer.be/meeting/56-20515-U2235",
-        "published_at": "2026-11-25T09:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-24T15:41:02.601701Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Forum F0A Erasmus · DEFENSIE COMM · PLANNED"
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "politics",
-        "label": "Politiques publiques et société"
-      },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type travaux",
-        "contenu de type agenda",
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "agenda institutionnel proche"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-158",
-      "source": {
-        "source_id": "province_namur",
-        "publisher": "Province de Namur",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "Safe Places: la Province de Namur s’engage pour des espaces plus sûrs",
-        "url": "https://www.province.namur.be/2026/11/25/safe-places-la-province-de-namur-sengage-pour-des-espaces-plus-surs/",
-        "published_at": "2026-11-25T08:46:52Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Province de Namur",
-        "summary_from_source": "Face au harcèlement de rue et aux situations d’insécurité dans l’espace public, la Ville de Namur développe son réseau de […]"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-159",
-      "source": {
-        "source_id": "dhnet",
-        "publisher": "DH Les Sports+",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "La réforme des pensions attaquée devant la Cour constitutionnelle",
-        "url": "https://www.dhnet.be/actu/belgique/2026/11/25/la-reforme-des-pensions-attaquee-devant-la-cour-constitutionnelle-VKM7OKTPDNFZPB2BQNLRK6QMII/",
-        "published_at": "2026-11-25T08:45:41Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Un recours en annulation visant la réforme des pensions sera déposé jeudi devant la Cour constitutionnelle, par quelque 26.000 requérants sous l'égide du PTB, a rapporté Le Soir mercredi...."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "justice",
-        "label": "Justice, droits et contrôle"
-      },
-      "radar_signals": [
-        "publié depuis moins de 36 heures",
-        "décision ou réforme publique",
-        "contrôle, droits ou responsabilité publique"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-160",
-      "source": {
-        "source_id": "federal_press",
-        "publisher": "Presscenter fédéral",
-        "source_class": "institution",
-        "source_role": "official_public",
-        "access_model": "",
-        "title": "La Belgique investit 2,5 millions d’euros pour renforcer la collecte de plasma",
-        "url": "https://news.belgium.be/fr/la-belgique-investit-25-millions-deuros-pour-renforcer-la-collecte-de-plasma",
-        "published_at": "2026-11-25T08:00:42Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Le SPF Santé publique investit près de 2,5 millions d’euros dans neuf projets qui visent à renforcer structurellement la collecte de plasma en Belgique. Le financement est destiné à l’aménagement de nouveaux sites de collecte, à l’augmentation de la capacité de centres de don existants ainsi qu’à un projet consacré au recrutement et à la fidélisation des donneurs. D’ici 2030, ces projets devraient permettre de collecter 16.381 litres de plasma supplémentaires par an."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-161",
-      "source": {
-        "source_id": "greenpeace_be",
-        "publisher": "Greenpeace Belgique",
-        "source_class": "civil_society",
-        "source_role": "civil_society",
-        "access_model": "",
-        "title": "Google poursuit ses travaux sans permis à Farciennes: Greenpeace lance une procédure d’urgence",
-        "url": "https://www.greenpeace.org/belgium/fr/communique-de-presse/82978/google-poursuit-ses-travaux-sans-permis-a-farciennes-greenpeace-lance-une-procedure-durgence/",
-        "published_at": "2026-11-25T07:34:35Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Belgique",
-        "summary_from_source": "Alors que son permis est annulé depuis le mois d'aout, Google continue ses travaux pour batir un data center à Farciennes. Alertée par des citoyen·nes, Greenpeace vient de lancer une procédure pour obtenir l'arrêt immédiat des travaux, images satellite à l'appui. La construction de ce data center fait l'objet d'une opposition de citoyens et d'organisations dont Stop Data Center Belgium. Greenpeace demande un moratoire sur la construction des data centers."
-      },
-      "radar_selected": true,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "economy",
-        "label": "Économie, emploi et consommateurs"
-      },
-      "radar_signals": [
-        "producteur institutionnel ou collectif identifié",
-        "contenu de type réformes",
-        "contenu de type actualités",
-        "publié depuis moins de 36 heures",
-        "changement, alerte ou échéance"
-      ],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-162",
-      "source": {
-        "source_id": "rwlp",
-        "publisher": "Réseau wallon de lutte contre la pauvreté",
-        "source_class": "civil_society",
-        "source_role": "civil_society",
-        "access_model": "",
-        "title": "Le 29 novembre 2026, manifestation nationale féministe!",
-        "url": "https://rwlp.be/le-29-novembre-2026-manifestation-nationale-feministe/",
-        "published_at": "2026-11-25T06:34:50Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "fr",
-        "geography": "Wallonie",
-        "summary_from_source": "Le dimanche 29 novembre 2026, le Réseau Wallon de Lutte contre la Pauvreté rejoindra à Bruxelles les associations, collectifs féministes et citoyen·nes mobilisé·es pour la manifestation nationale féministe, pour dire STOP aux violences faites aux femmes et défendre leurs droits! Cette mobilisation dénonce également les conséquences des politiques gouvernementales sur les femmes, qui sont encore aujourd’hui les premières touchées par la pauvreté. En Belgique, elles représentent plus de 70 % des personnes en situation de pauvreté ou d’appauvrissement. Les droits économiques et sociaux, la…"
-      },
-      "radar_selected": false,
-      "primary_source_candidate": true,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
-      "lexically_related_sources": []
-    },
-    {
-      "candidate_id": "candidate-163",
-      "source": {
-        "source_id": "apache",
-        "publisher": "Apache",
-        "source_class": "news_media",
-        "source_role": "editorial_media",
-        "access_model": "mixed_paywall",
-        "title": "Grensgemeenten trekken aan alarmbel over slechte huisvesting arbeidsmigranten uit Nederland",
-        "url": "https://apache.be/2026/11/25/grensgemeenten-trekken-aan-alarmbel-over-slechte-huisvesting-arbeidsmigranten-uit",
-        "published_at": "2026-11-25T05:00:00Z",
-        "source_published_at": null,
-        "event_at": null,
-        "date_status": "",
-        "first_seen_at": "2026-11-25T15:25:45.304296Z",
-        "language": "nl",
-        "geography": "Belgique",
-        "summary_from_source": "Vlaamse gemeenten trekken aan de alarmbel over huisvesting van arbeidsmigranten."
-      },
-      "radar_selected": false,
-      "primary_source_candidate": false,
-      "agenda_candidate": false,
-      "radar_section": {
-        "id": "",
-        "label": ""
-      },
-      "radar_signals": [],
       "lexically_related_sources": []
     }
   ]
